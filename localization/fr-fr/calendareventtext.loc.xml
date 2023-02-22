@@ -1,0 +1,141 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="ui_calendar_event_button_ok">OK</string>
+	<string key="ui_calendar_event_button_next">Suivant</string>
+	<string key="ui_calendar_event_button_back">Retour</string>
+	<string key="ui_calendar_event_button_go">C'est parti !</string>
+	<string key="ui_calendar_event_button_view_details">Afficher les détails</string>
+	<string key="ui_rewardtype_event_progress">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{displayName}&lt;/font&gt;</string>
+	<string key="ui_news_button">Actualités</string>
+	<string key="ui_news_button_no_news">Aucune nouvelle actualité disponible.</string>
+	<string key="ui_event_progress_name">Réputation de l'événement</string>
+	<string key="ui_event">Événement</string>
+	<string key="ui_event_rules">Temps forts de l'événement</string>
+	<string key="ui_calendar_event_button_about" rel_version="PvP_Rewards_Track">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; À propos des chaînes de récompenses JcJ</string>
+	<string key="ui_pvp_rewards_panel1_title" rel_version="PvP_Rewards_Track">NOUVELLE CHAÎNE DE RÉCOMPENSES JCJ AJOUTÉE</string>
+	<string key="ui_pvp_rewards_panel1_subtitle" rel_version="PvP_Rewards_Track">Une chaîne de récompenses JcJ contient des récompenses liées au JcJ obtenues en accomplissant des activités JcJ en jeu. Une chaîne peut être terminée et recommencée pour obtenir une sélection de récompenses différente. Plus vous terminez de chaînes, meilleures sont les récompenses proposées.</string>
+	<string key="ui_pvp_rewards_panel1_bullet1_title" rel_version="PvP_Rewards_Track">EXP JCJ</string>
+	<string key="ui_pvp_rewards_panel1_bullet1_text" rel_version="PvP_Rewards_Track">Progressez en accomplissant des missions JcJ, en menant des guerres, en vous battant en Déferlante, en capturant des forteresses, en combattant d'autres joueurs et en participant à des arènes 3 contre 3.</string>
+	<string key="ui_pvp_rewards_panel1_bullet2_title" rel_version="PvP_Rewards_Track">SEL D'AZOTH</string>
+	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Le sel d'Azoth est la monnaie vous permettant d'acquérir des récompenses de la chaîne JcJ. Vous pouvez obtenir du sel d'Azoth en menant des guerres, en vous battant en Déferlante, en participant aux arènes 3 contre 3, en accomplissant des missions JcJ, en tuant des joueurs dans le monde ouvert et en gagnant de l'EXP en mode JcJ.</string>
+	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">RÉCOMPENSES</string>
+	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Choisissez entre des récompenses uniques telles que des armures et des armes de prestige, des émotes, de la monnaie et des consommables.</string>
+	<string key="ui_event_weapon_xp_tabname">Boost d'EXP d'arme</string>
+	<string key="ui_event_weapon_xp_title">SEMAINE BONUS D'EXP D'ARMES</string>
+	<string key="ui_event_weapon_xp_desc">Début du bonus le :</string>
+	<string key="ui_event_gathering_xp_tabname">Boost d'EXP d'exploitation</string>
+	<string key="ui_event_gathering_xp_title">SEMAINE BONUS D'EXP DE RÉCOLTE</string>
+	<string key="ui_event_gathering_xp_desc">Début du bonus le :</string>
+	<string key="ui_event_character_xp_tabname">Boost d'EXP de niveau</string>
+	<string key="ui_event_character_xp_title">ÉVÉNEMENT BONUS D'EXP DE NIVEAU DE PERSONNAGE</string>
+	<string key="ui_event_character_xp_desc">Début du bonus le :</string>
+	<string key="ui_event_refining_xp_tabname">Boost d'EXP de transformation</string>
+	<string key="ui_event_refining_xp_title">SEMAINE BONUS D'EXP DE TRANSFORMATION</string>
+	<string key="ui_event_refining_xp_desc">Début du bonus le :</string>
+	<string key="ui_event_extravaganza_tabname">Fête des bonus d'EXP</string>
+	<string key="ui_event_extravaganza_title">LA FÊTE DES BONUS D'EXP</string>
+	<string key="ui_event_extravaganza_desc">Début du bonus le :</string>
+	<string key="ui_news_end_game_tabname">Fin de jeu</string>
+	<string key="ui_news_end_game_description">Au niveau 60, vous pouvez&lt;font color="#ffdb7a"&gt; améliorer votre équipement &lt;/font&gt;à des scores d'équipement plus élevés. Pour ce faire, vous devrez récupérer du gypse via divers lieux et activités de niveau 60. Rendez-vous à un&lt;font color="#ffdb7a"&gt; four à gypses &lt;/font&gt;pour en savoir plus.</string>
+	<string key="ui_end_game_panel1_title">ACTIVITÉS DE FIN DE JEU</string>
+	<string key="ui_end_game_panel1_subtitle">&lt;font color="#ffffff" &gt;Vous venez d'atteindre le niveau maximum. Il reste encore plein de choses à faire.&lt;/font&gt;</string>
+	<string key="ui_end_game_panel1_bullet1_title">Expéditions de fin de jeu</string>
+	<string key="ui_end_game_panel1_bullet1_text">Des expéditions de fin de jeu, dont des mutations hebdomadaires variables pour obtenir les meilleures récompenses.</string>
+	<string key="ui_end_game_panel1_bullet2_title">Déferlante</string>
+	<string key="ui_end_game_panel1_bullet2_text">La Déferlante, un champ de bataille à 20 contre 20.</string>
+	<string key="ui_end_game_panel1_bullet3_title">Zones élites</string>
+	<string key="ui_end_game_panel1_bullet3_text">Des repères élites, des arènes d'épreuves et des défis pour groupes dans le monde ouvert.</string>
+	<string key="ui_end_game_panel2_title">AMÉLIOREZ VOTRE ÉQUIPEMENT</string>
+	<string key="ui_end_game_panel2_subtitle">Au niveau 60, vous pouvez&lt;font color="#ffdb7a"&gt; améliorer votre équipement &lt;/font&gt;à des scores d'équipement plus élevés. Pour ce faire, vous devrez récupérer du gypse dans les divers lieux et activités de niveau 60. Rendez-vous à un&lt;font color="#ffdb7a"&gt; four à gypses &lt;/font&gt;pour en savoir plus.</string>
+	<string key="ui_end_game_button_about" rel_version="PvP_Rewards_Track">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; À propos des activités de fin de jeu</string>
+	<string key="ui_event_group_finder_panel1_title" rel_version="Feature_Group_Finder">Recherche de groupe d'Expédition !</string>
+	<string key="ui_event_group_finder_panel1_subtitle" rel_version="Feature_Group_Finder">Disponible depuis la carte ! Accédez à toutes les Expéditions que vous avez déjà visitées au moins une fois en cliquant sur leur icône. À partir de là, vous pouvez naviguer ou poster dans les salons de Recherche de groupe, ou accéder directement à l'Expédition avec votre groupe.</string>
+	<string key="ui_event_group_finder_button_about" rel_version="Feature_Group_Finder">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; À propos de la Recherche de groupe</string>
+	<string key="ui_event_returnem_panel1_title" rel_version="Feature_FreshStart">Tout nouveaux, tout beaux</string>
+	<string key="ui_event_returnem_panel1_subtitle" rel_version="Feature_FreshStart">De nouveaux mondes. Une nouvelle économie. Un nouveau départ.</string>
+	<string key="ui_event_returnem_panel1_bullet1_title" rel_version="Feature_FreshStart">Nouveau contenu</string>
+	<string key="ui_event_returnem_panel1_bullet1_text" rel_version="Feature_FreshStart">Armez-vous de la toute nouvelle épée longue et du nouveau joyau de cœur et partez explorer les déserts de Sulfure, ou bien découvrez la nouvelle quête de l'histoire principale !</string>
+	<string key="ui_event_returnem_panel1_bullet2_title" rel_version="Feature_FreshStart">Événement Twitch</string>
+	<string key="ui_event_returnem_panel1_bullet2_text" rel_version="Feature_FreshStart">Commencez votre aventure dans un nouveau monde et regardez vos streamers préférés faire de même lors de l'événement Retourner à Aeternum sur Twitch jusqu'au 18-11.</string>
+	<string key="ui_event_returnem_panel1_bullet3_title" rel_version="Feature_FreshStart">Nouveaux objets cosmétiques</string>
+	<string key="ui_event_returnem_panel1_bullet3_text" rel_version="Feature_FreshStart">L'épée longue, ainsi que des objets de Sulfure et du Voile nocturne sont maintenant disponibles dans la boutique. N'oubliez pas de récupérer vos apparences d'anniversaire gratuites !</string>
+	<string key="ui_event_returnem_panel2_title" rel_version="Feature_FreshStart">Sulfure</string>
+	<string key="ui_event_returnem_panel2_subtitle" rel_version="Feature_FreshStart">Équipez-vous de la nouvelle épée longue et des nouvelles runes de capacité du joyau de cœur pour explorer la nouvelle zone de Sulfure et l'expédition de l'Ennéade ou bien découvrir une quête de l'histoire principale remaniée, avec de nouveaux lieux, PNJ, défis et récompenses.\n\nPour accéder aux quêtes de l'histoire principale de Sulfure, les joueurs doivent avoir terminé les quêtes « Une nature altruiste » (à Bois-Éden) et « Arpenteur des sables » (qui peut être commencée à plusieurs endroits différents).</string>
+	<string key="ui_event_returnem_panel3_title" rel_version="Feature_FreshStart">Retourner à Aeternum</string>
+	<string key="ui_event_returnem_panel3_subtitle" rel_version="Feature_FreshStart">Créez un nouveau personnage dans des mondes tout nouveaux, tout beaux, ou bien suivez vos streamers préférés à l'occasion de l'événement Retourner à Aeternum sur Twitch. Regardez-les lutter pour la gloire dans de nouveaux mondes jusqu'au 18/11.\n\nhttp://www.twitch.tv/playnewworld</string>
+	<string key="ui_event_returnem_message_title" rel_version="Feature_FreshStart">Mondes de nouveau départ</string>
+	<string key="ui_event_returnem_message_description" rel_version="Feature_FreshStart">Les mondes de nouveau départ sont disponibles ! Seuls les nouveaux personnages peuvent intégrer ces mondes.</string>
+	<string key="ui_event_returnem_button_about" rel_version="Feature_FreshStart">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; À propos de Retourner à Aeternum</string>
+	<string key="ui_event_battle_for_new_world_panel1_title" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle For New World Panel 1 Title</string>
+	<string key="ui_event_battle_for_new_world_panel1_subtitle" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Subtitle.</string>
+	<string key="ui_event_battle_for_new_world_panel1_bullet1_title" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 1, Bullet 1 Title</string>
+	<string key="ui_event_battle_for_new_world_panel1_bullet1_text" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 1, Bullet 1 Text.</string>
+	<string key="ui_event_battle_for_new_world_panel1_bullet2_title" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 1, Bullet 2 Title</string>
+	<string key="ui_event_battle_for_new_world_panel1_bullet2_text" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 1, Bullet 2 Text</string>
+	<string key="ui_event_battle_for_new_world_panel1_bullet3_title" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 1, Bullet 3 Title</string>
+	<string key="ui_event_battle_for_new_world_panel1_bullet3_text" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 1, Bullet 3 Text</string>
+	<string key="ui_event_battle_for_new_world_panel2_title" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 2 Title</string>
+	<string key="ui_event_battle_for_new_world_panel2_subtitle" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 2 Subtitle</string>
+	<string key="ui_event_battle_for_new_world_panel3_title" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 3 Title</string>
+	<string key="ui_event_battle_for_new_world_panel3_subtitle" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 3 Subtitle\n \nhttp://www.twitch.tv/playnewworld</string>
+	<string key="ui_event_battle_for_new_world_button_about" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Battle For New World</string>
+	<string key="ui_news_modal_display_start_date">Commence le {startDate}</string>
+	<string key="ui_news_modal_display_end_date">Se termine le {endDate}</string>
+	<string key="ui_news_modal_display_start_datetime">Commence à {startTime} le {startDate}</string>
+	<string key="ui_news_modal_display_end_datetime">Se termine à {endTime} le {endDate}</string>
+	<string key="ui_event_free_weekend_event_message_title" rel_version="Feature_FreeWeekend">Week-end gratuit</string>
+	<string key="ui_event_free_weekend_event_message_description" rel_version="Feature_FreeWeekend">Le week-end gratuit est en cours.</string>
+	<string key="ui_event_free_weekend_description" rel_version="Feature_FreeWeekend">Découvrez lors de cet événement limité dans le temps la nouvelle zone de Sulfure, des quêtes de l'histoire principale revisitées et les dernières mises à jour de New World. Et tout ça, gratuitement !\n\nPour pouvoir jouer avec vos amis, les personnages doivent être dans le même monde. Les joueurs de la version gratuite peuvent profiter de sessions de jeu illimitées à moins qu'une file d'attente se forme pour entrer dans le monde (à la fin de leur session, les joueurs de la version gratuite se verront proposer d'entrer à nouveau dans la file d'attente).</string>
+	<string key="ui_event_free_weekend" rel_version="Feature_FreeWeekend">Week-end gratuit</string>
+	<string key="ui_event_free_weekend_in_progress_panel1_bullet1_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 1 Title</string>
+	<string key="ui_event_free_weekend_in_progress_panel1_bullet1_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 1 Text</string>
+	<string key="ui_event_free_weekend_in_progress_panel1_bullet2_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 2 Title</string>
+	<string key="ui_event_free_weekend_in_progress_panel1_bullet2_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 2 Text</string>
+	<string key="ui_event_free_weekend_in_progress_panel1_bullet3_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 3 Title</string>
+	<string key="ui_event_free_weekend_in_progress_panel1_bullet3_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 3 Text</string>
+	<string key="ui_event_free_weekend_in_progress_panel1_title" rel_version="Feature_FreeWeekend">Week-end gratuit</string>
+	<string key="ui_event_free_weekend_in_progress_panel1_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1 Subtitle</string>
+	<string key="ui_event_free_weekend_in_progress_panel2_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 2 Title</string>
+	<string key="ui_event_free_weekend_in_progress_panel2_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 2 Subtitle</string>
+	<string key="ui_event_free_weekend_in_progress_panel3_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 3 Title</string>
+	<string key="ui_event_free_weekend_in_progress_panel3_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 3 Subtitle\n \nhttp://www.twitch.tv/playnewworld</string>
+	<string key="ui_event_free_weekend_in_progress_button_about" rel_version="Feature_FreeWeekend">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; À propos du week-end gratuit</string>
+	<string key="ui_event_free_weekend_ending_soon_panel1_title" rel_version="Feature_FreeWeekend">Le week-end gratuit se termine aujourd'hui !</string>
+	<string key="ui_event_free_weekend_ending_soon_panel1_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Subtitle.</string>
+	<string key="ui_event_free_weekend_ending_soon_panel1_bullet1_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 1, Bullet 1 Title</string>
+	<string key="ui_event_free_weekend_ending_soon_panel1_bullet1_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 1, Bullet 1 Text.</string>
+	<string key="ui_event_free_weekend_ending_soon_panel1_bullet2_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 1, Bullet 2 Title</string>
+	<string key="ui_event_free_weekend_ending_soon_panel1_bullet2_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 1, Bullet 2 Text</string>
+	<string key="ui_event_free_weekend_ending_soon_panel1_bullet3_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 1, Bullet 3 Title</string>
+	<string key="ui_event_free_weekend_ending_soon_panel1_bullet3_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 1, Bullet 3 Text</string>
+	<string key="ui_event_free_weekend_ending_soon_panel2_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 2 Title</string>
+	<string key="ui_event_free_weekend_ending_soon_panel2_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 2 Subtitle</string>
+	<string key="ui_event_free_weekend_ending_soon_panel3_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 3 Title</string>
+	<string key="ui_event_free_weekend_ending_soon_panel3_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 3 Subtitle\n \nhttp://www.twitch.tv/playnewworld</string>
+	<string key="ui_event_free_weekend_ending_soon_button_about" rel_version="Feature_FreeWeekend">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; À propos du week-end gratuit</string>
+	<string key="ui_event_leaderboards_tabname" rel_version="Feature_Leaderboards">Classements</string>
+	<string key="ui_event_leaderboards_title" rel_version="Feature_Leaderboards">Présentation des classements</string>
+	<string key="ui_event_leaderboards_description" rel_version="Feature_Leaderboards">Les classements reflètent la progression de diverses activités dans les colonies et les factions de New World. Mesurez-vous aux autres joueurs dans diverses activités individuelles, de compagnie et de faction pour grimper dans les classements qui se réinitialisent régulièrement.\n\n&lt;font color="#ffdb7a"&gt;Vous pouvez accéder aux classements dans le menu Modes. &lt;/font&gt;</string>
+	<string key="ui_event_leaderboards_bullet1_title" rel_version="Feature_Leaderboards">Récompenses</string>
+	<string key="ui_event_leaderboards_button_about" rel_version="Feature_Leaderboards">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; À propos des classements</string>
+	<string key="ui_event_dec_mtx_tabname" rel_version="Entitlements_WinterConvergence_MTX">Boutique</string>
+	<string key="ui_event_dec_mtx_title" rel_version="Entitlements_WinterConvergence_MTX">La Convergence hivernale</string>
+	<string key="ui_event_dec_mtx_description" rel_version="Entitlements_WinterConvergence_MTX">Protégez-vous des ravages de l'Hiver éternel avec de nouveaux objets cosmétiques disponibles dans la boutique ! Pensez à équiper les derniers vêtements et armes d'hiver... les jours raccourcissent et de longues nuits de terreur vous attendent ! Visitez régulièrement la boutique pour mettre la main sur de beaux cadeaux et profiter de nos soldes d'hiver ! Du contenu spécial dévoilé sera mis en vente le 13/12 et l'équipement de la Convergence hivernale de l'année dernière arrivera le 20/12 !</string>
+	<string key="ui_event_dec_mtx_button_about" rel_version="Entitlements_WinterConvergence_MTX">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Convergence hivernale</string>
+	<string key="ui_news_store_tabname">Boutique</string>
+	<string key="ui_event_jan_mtx_title" rel_version="Entitlements_WinterDragon">Dragon d'hiver</string>
+	<string key="ui_event_jan_mtx_description" rel_version="Entitlements_WinterDragon">La forme de l'hiver est-elle l'ombre d'un dragon ? Visitez la boutique pour découvrir de nouveaux objets cosmétiques touchés par le souffle glacé du serpent ! Ne vous laissez pas surprendre si le combat devient moins meurtrier ! Adoptez l'émote Gifle de défi ou optez pour la Marche sur la pointe des pieds pour esquiver les bagarres !</string>
+	<string key="ui_event_jan_mtx_button_about" rel_version="Entitlements_WinterDragon">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; À propos du dragon d'hiver</string>
+	<string key="ui_event_jan_mtx_bullet1_title" rel_version="Entitlements_WinterDragon">Décorations de logement</string>
+	<string key="ui_event_feb_mtx_title" rel_version="Entitlements_OmensOfWinter">Augure hivernal</string>
+	<string key="ui_event_feb_mtx_description" rel_version="Entitlements_OmensOfWinter">L'hiver desserrera-t-il l'étreinte gelée qu'il exerce sur les terres ; le printemps fleurira-t-il pour apporter un nouvel espoir en Aeternum ? Consultez l'oracle et offrez-vous les nouvelles apparences de la boutique ! De nouvelles et tendres émotes vous aideront à trouver l'amour en ces longues et froides nuits d'hiver !</string>
+	<string key="ui_event_feb_mtx_bullet1" rel_version="Entitlements_OmensOfWinter">Apparences</string>
+	<string key="ui_event_feb_mtx_bullet2" rel_version="Entitlements_OmensOfWinter">Émotes</string>
+	<string key="ui_event_feb_mtx_button_about" rel_version="Entitlements_OmensOfWinter">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; À propos de l'augure hivernal</string>
+	<string key="ui_event_legacy_of_crassus_tabname" rel_version="Event_February_Temp">Héritage de Crassus</string>
+	<string key="ui_event_legacy_of_crassus_title" rel_version="Event_February_Temp">Héritage de Crassus</string>
+	<string key="ui_event_legacy_of_crassus_description" rel_version="Event_February_Temp">La toute-puissance de Rome menace Aeternum ! Traquez Decimus et Lucanus, les monstrueux capitaines de Crassus, et bannissez l'emprise de la tyrannie romaine. Récupérez des récompenses quotidiennes en plus des autres récompenses en éliminant ces brutes violentes à Boisclair, au marais des Trames, au Val des Larmes, au bief de Nerécaille et à Bois-Éden.</string>
+	<string key="ui_event_legacy_of_crassus_about" rel_version="Event_February_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; À propos de l'Héritage de Crassus</string>
+	<string key="ui_event_legacy_of_crassus_bullet1" rel_version="Event_February_Temp">Armes quotidiennes</string>
+	<string key="ui_event_legacy_of_crassus_bullet2" rel_version="Event_February_Temp">Parties d'armure quotidiennes</string>
+</resources>
+

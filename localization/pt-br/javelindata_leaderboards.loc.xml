@@ -1,0 +1,154 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="ui_leaderboard_category_war" rel_version="Feature_Leaderboards">Guerra</string>
+	<string key="ui_leaderboard_category_outpostrush" rel_version="Feature_Leaderboards">Investida do Posto Avançado</string>
+	<string key="ui_leaderboard_category_darkness" rel_version="Feature_Leaderboards">Incursões de Corrupção</string>
+	<string key="ui_leaderboard_category_openworldpvp" rel_version="Feature_Leaderboards">PvP de Mundo Aberto</string>
+	<string key="ui_leaderboard_category_war_faction" rel_version="Feature_Leaderboards">Guerras de Facções</string>
+	<string key="ui_leaderboard_category_openworldpvp_faction" rel_version="Feature_Leaderboards">PvP de Mundo Aberto de Facção</string>
+	<string key="ui_leaderboard_category_trials" rel_version="Feature_Leaderboards">Provas</string>
+	<string key="ui_leaderboard_category_territory_control" rel_version="Feature_Leaderboards">Controle de Território</string>
+	<string key="ui_leaderboard_category_territory_control_faction" rel_version="Feature_Leaderboards">Pontuação de Controle de Território da Facção</string>
+	<string key="ui_leaderboard_category_territory_control_streak" rel_version="Feature_Leaderboards">Sequência de Controle de Território</string>
+	<string key="ui_leaderboard_category_territory_control_streak_faction" rel_version="Feature_Leaderboards">Sequência de Controle de Território da Facção</string>
+	<string key="ui_leaderboard_category_pvparena" rel_version="Feature_Leaderboards">Arenas 3v3</string>
+	<string key="ui_leaderboard_category_legendaries" rel_version="Feature_Leaderboards">Lendários</string>
+	<string key="ui_leaderboard_category_invasion" rel_version="Feature_Leaderboards">Invasões</string>
+	<string key="ui_leaderboard_category_expedition_dynasty" rel_version="Feature_Leaderboards">Estaleiro da Dinastia</string>
+	<string key="ui_leaderboard_category_expedition_genesis" rel_version="Feature_Leaderboards">Jardim da Criação</string>
+	<string key="ui_leaderboard_category_expedition_lazarus" rel_version="Feature_Leaderboards">Importância de Lázaro</string>
+	<string key="ui_leaderboard_category_expedition_tempest" rel_version="Feature_Leaderboards">Coração da Tempestade</string>
+	<string key="ui_leaderboard_category_expedition_ennead" rel_version="Feature_Leaderboards">A Enéade</string>
+	<string key="ui_leaderboard_category_expedition_barnacles" rel_version="Feature_Leaderboards">Cracas e Pólvora Preta</string>
+	<string key="ui_leaderboard_category_expedition_depths" rel_version="Feature_Leaderboards">Nas Profundezas</string>
+	<string key="ui_leaderboard_category_expedition_starstone" rel_version="Feature_Leaderboards">Túmulos de Pedra Estelar</string>
+	<string key="ui_leaderboard_category_trial_sirenqueen" rel_version="Feature_Leaderboards">Rainha Sereia</string>
+	<string key="ui_leaderboard_category_trial_spriggan" rel_version="Feature_Leaderboards">Fenda Monoica</string>
+	<string key="ui_leaderboard_category_trial_swampbeast" rel_version="Feature_Leaderboards">Lagoas Eternas</string>
+	<string key="ui_leaderboard_column_rank" rel_version="Feature_Leaderboards">Ranque</string>
+	<string key="ui_leaderboard_column_player" rel_version="Feature_Leaderboards">Jogador</string>
+	<string key="ui_leaderboard_column_players" rel_version="Feature_Leaderboards">Jogadores</string>
+	<string key="ui_leaderboard_column_company" rel_version="Feature_Leaderboards">Companhia</string>
+	<string key="ui_leaderboard_column_faction" rel_version="Feature_Leaderboards">Facção</string>
+	<string key="ui_leaderboard_column_score" rel_version="Feature_Leaderboards">Pontuação</string>
+	<string key="ui_leaderboard_column_time" rel_version="Feature_Leaderboards">Tempo</string>
+	<string key="ui_leaderboard_column_days" rel_version="Feature_Leaderboards">Dias</string>
+	<string key="ui_leaderboard_column_wins" rel_version="Feature_Leaderboards">Vitórias</string>
+	<string key="ui_leaderboard_column_kills" rel_version="Feature_Leaderboards">Abates</string>
+	<string key="ui_leaderboard_column_ratio" rel_version="Feature_Leaderboards">Taxa</string>
+	<string key="ui_leaderboard_column_heals" rel_version="Feature_Leaderboards">Curas</string>
+	<string key="ui_leaderboard_column_damage" rel_version="Feature_Leaderboards">Dano</string>
+	<string key="ui_leaderboard_column_completed" rel_version="Feature_Leaderboards">Concluído</string>
+	<string key="ui_leaderboard_column_xp" rel_version="Feature_Leaderboards">EXP</string>
+	<string key="ui_leaderboard_column_contributed" rel_version="Feature_Leaderboards">Contribuído</string>
+	<string key="ui_leaderboard_column_captured" rel_version="Feature_Leaderboards">Capturado</string>
+	<string key="ui_leaderboard_column_influence" rel_version="Feature_Leaderboards">Influência</string>
+	<string key="ui_leaderboard_column_crafted" rel_version="Feature_Leaderboards">Confeccionado</string>
+	<string key="ui_leaderboard_column_caught" rel_version="Feature_Leaderboards">Pescado</string>
+	<string key="ui_leaderboard_display_war_damage_taken" rel_version="Feature_Leaderboards">Dano Recebido</string>
+	<string key="ui_leaderboard_display_war_damage_dealt" rel_version="Feature_Leaderboards">Dano Causado</string>
+	<string key="ui_leaderboard_display_war_heals" rel_version="Feature_Leaderboards">Curas</string>
+	<string key="ui_leaderboard_display_war_kills" rel_version="Feature_Leaderboards">Abates</string>
+	<string key="ui_leaderboard_display_war_score" rel_version="Feature_Leaderboards">Pontuação</string>
+	<string key="ui_leaderboard_display_war_wins" rel_version="Feature_Leaderboards">Vitórias</string>
+	<string key="ui_leaderboard_display_war_attacker_wins" rel_version="Feature_Leaderboards">Vitórias do Atacante</string>
+	<string key="ui_leaderboard_display_war_defender_wins" rel_version="Feature_Leaderboards">Vitórias do Defensor</string>
+	<string key="ui_leaderboard_display_war_kill_death" rel_version="Feature_Leaderboards">Taxa de Abates e Mortes</string>
+	<string key="ui_leaderboard_display_outpostrush_heals" rel_version="Feature_Leaderboards">Curas</string>
+	<string key="ui_leaderboard_display_outpostrush_kills" rel_version="Feature_Leaderboards">Abates de Jogador</string>
+	<string key="ui_leaderboard_display_outpostrush_resources" rel_version="Feature_Leaderboards">Recursos Contribuídos</string>
+	<string key="ui_leaderboard_display_outpostrush_score" rel_version="Feature_Leaderboards">Pontuação</string>
+	<string key="ui_leaderboard_display_outpostrush_npc_kills" rel_version="Feature_Leaderboards">Abates de NPCs</string>
+	<string key="ui_leaderboard_display_outpostrush_wins" rel_version="Feature_Leaderboards">Vitórias</string>
+	<string key="ui_leaderboard_display_outpostrush_kill_death" rel_version="Feature_Leaderboards">Taxa de Abates e Mortes</string>
+	<string key="ui_leaderboard_display_outpostrush_damage_dealt" rel_version="Feature_Leaderboards">Dano Causado</string>
+	<string key="ui_leaderboard_display_darkness_score" rel_version="Feature_Leaderboards">Pontuação</string>
+	<string key="ui_leaderboard_display_openworldpvp_influence" rel_version="Feature_Leaderboards">Influência Obtida</string>
+	<string key="ui_leaderboard_display_openworldpvp_pvp_kills" rel_version="Feature_Leaderboards">Abates de PvP</string>
+	<string key="ui_leaderboard_display_openworldpvp_controlpoint" rel_version="Feature_Leaderboards">Pontos de Controle Capturados</string>
+	<string key="ui_leaderboard_display_expedition_max_score" rel_version="Feature_Leaderboards">Pontuação Máxima</string>
+	<string key="ui_leaderboard_display_expedition_clear_time" rel_version="Feature_Leaderboards">Tempo de Conclusão</string>
+	<string key="ui_leaderboard_display_trials_completions" rel_version="Feature_Leaderboards">Conclusões</string>
+	<string key="ui_leaderboard_display_territory_control_streak" rel_version="Feature_Leaderboards">Sequência de Governos</string>
+	<string key="ui_leaderboard_display_territory_control_score" rel_version="Feature_Leaderboards">Dias de Governo</string>
+	<string key="ui_leaderboard_display_pvparena_wins" rel_version="Feature_Leaderboards">Vitórias</string>
+	<string key="ui_leaderboard_display_pvparena_winlossratio" rel_version="Feature_Leaderboards">Taxa de Vitórias e Derrotas</string>
+	<string key="ui_leaderboard_display_pvparena_kills" rel_version="Feature_Leaderboards">Abates</string>
+	<string key="ui_leaderboard_display_pvparena_killdeathratio" rel_version="Feature_Leaderboards">Taxa de Abates e Mortes</string>
+	<string key="ui_leaderboard_display_pvparena_score" rel_version="Feature_Leaderboards">Pontuação</string>
+	<string key="ui_leaderboard_display_pvparena_heals" rel_version="Feature_Leaderboards">Curas</string>
+	<string key="ui_leaderboard_display_pvparena_damagedealt" rel_version="Feature_Leaderboards">Dano Causado</string>
+	<string key="ui_leaderboard_entry_overflow" rel_version="Feature_Leaderboards">+{count} jogadores</string>
+	<string key="ui_leaderboard_display_crafting_weaponsmith" rel_version="Feature_Leaderboards">Forjamento de Armas</string>
+	<string key="ui_leaderboard_display_crafting_armorsmith" rel_version="Feature_Leaderboards">Forjamento de Armaduras</string>
+	<string key="ui_leaderboard_display_crafting_engineering" rel_version="Feature_Leaderboards">Engenharia</string>
+	<string key="ui_leaderboard_display_crafting_jewelcrafting" rel_version="Feature_Leaderboards">Joalheria</string>
+	<string key="ui_leaderboard_display_crafting_arcana" rel_version="Feature_Leaderboards">Arcana</string>
+	<string key="ui_leaderboard_display_fishing_legendaries" rel_version="Feature_Leaderboards">Pesca</string>
+	<string key="ui_leaderboard_display_invasion_score" rel_version="Feature_Leaderboards">Pontuação</string>
+	<string key="ui_leaderboard_display_invasion_damage_taken" rel_version="Feature_Leaderboards">Dano Recebido</string>
+	<string key="ui_leaderboard_display_invasion_damage_dealt" rel_version="Feature_Leaderboards">Dano Causado</string>
+	<string key="ui_leaderboard_display_invasion_heals" rel_version="Feature_Leaderboards">Curas</string>
+	<string key="ui_leaderboard_display_invasion_wins" rel_version="Feature_Leaderboards">Vitórias</string>
+	<string key="ui_leaderboard_display_invasion_kills" rel_version="Feature_Leaderboards">Abates</string>
+	<string key="ui_leaderboard_display_invasion_kill_death" rel_version="Feature_Leaderboards">Taxa de Abates e Mortes</string>
+	<string key="ui_leaderboard_display_invasion_damage_dealt" rel_version="Feature_Leaderboards">Dano Causado</string>
+	<string key="ui_leaderboard_character_empty_leaderboard" rel_version="Feature_Leaderboards">Você não está nesta classificação no momento</string>
+	<string key="ui_leaderboard_faction_no_faction" rel_version="Feature_Leaderboards">Entre em uma facção para participar</string>
+	<string key="ui_leaderboard_faction_no_company" rel_version="Feature_Leaderboards">Entre em uma companhia para participar</string>
+	<string key="ui_leaderboard_error_nodata" rel_version="Feature_Leaderboards">Nenhum dado foi localizado</string>
+	<string key="ui_leaderboard_error_nodata_filter" rel_version="Feature_Leaderboards">Esses dados não são localizados por {filter}</string>
+	<string key="ui_leaderboard_error_norewards" rel_version="Feature_Leaderboards">{type} não tem recompensas</string>
+	<string key="ui_leaderboard_error_norewards_this" rel_version="Feature_Leaderboards">{type} não tem recompensas</string>
+	<string key="ui_leaderboard_error_norewards_byfaction" rel_version="Feature_Leaderboards">{type} por Facção não tem recompensas</string>
+	<string key="ui_leaderboard_error" rel_version="Feature_Leaderboards">Esta classificação não tem recompensas</string>
+	<string key="ui_leaderboard_error_nottracked" rel_version="Feature_Leaderboards">Esta tabela de classificação não é localizada por {filter}</string>
+	<string key="ui_leaderboard_error_noboard" rel_version="Feature_Leaderboards">Não há nenhuma Tabela de Classificação de {rotation} para esta categoria.</string>
+	<string key="ui_leaderboard_page_count" rel_version="Feature_Leaderboards">Página {current} de {total}</string>
+	<string key="ui_leaderboard_not_tracked_character" rel_version="Feature_Leaderboards">Esta categoria não é localizada por personagem</string>
+	<string key="ui_leaderboard_not_tracked_company" rel_version="Feature_Leaderboards">Esta categoria não é localizada por companhia</string>
+	<string key="ui_leaderboard_not_tracked_faction" rel_version="Feature_Leaderboards">Esta categoria não é localizada por facção</string>
+	<string key="ui_leaderboard_not_tracked_category_season" rel_version="Feature_Leaderboards">Esta categoria não é localizada trimestralmente</string>
+	<string key="ui_leaderboard_not_tracked_category_week" rel_version="Feature_Leaderboards">Esta categoria não é localizada semanalmente</string>
+	<string key="ui_leaderboard_not_tracked_category_month" rel_version="Feature_Leaderboards">Esta categoria não é localizada mensalmente</string>
+	<string key="ui_leaderboard_not_tracked_season" rel_version="Feature_Leaderboards">Esta estatística não é localizada trimestralmente</string>
+	<string key="ui_leaderboard_not_tracked_week" rel_version="Feature_Leaderboards">Esta estatística não é localizada semanalmente</string>
+	<string key="ui_leaderboard_not_tracked_month" rel_version="Feature_Leaderboards">Esta estatística não é localizada mensalmente</string>
+	<string key="ui_leaderboard_tip_war_score" rel_version="Feature_Leaderboards">Sua Pontuação em Guerras é a pontuação máxima que você recebeu em uma guerra.</string>
+	<string key="ui_leaderboard_tip_outpostrush_score" rel_version="Feature_Leaderboards">Sua Pontuação em Investidas do Posto Avançado é a pontuação máxima que você recebeu em uma partida.</string>
+	<string key="ui_leaderboard_tip_invasion_score" rel_version="Feature_Leaderboards">Sua Pontuação em Invasões é a pontuação máxima que você recebeu em uma invasão.</string>
+	<string key="ui_leaderboard_tip_darkness_score" rel_version="Feature_Leaderboards">Você ganha um ponto por cada ponto de EXP que uma Incursão de Corrupção vale.</string>
+	<string key="ui_leaderboard_tip_pvparena_score" rel_version="Feature_Leaderboards">Sua Pontuação em Arenas 3v3 é cumulativa. Obtenha mais concluindo mais partidas.</string>
+	<string key="ui_leaderboard_tip_inv_war_wins" rel_version="Feature_Leaderboards">Você deve obter pelo menos 500 pontos para progredir nas Vitórias.</string>
+	<string key="ui_leaderboard_expedition_title" rel_version="Feature_Leaderboards">{expedition}, &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{difficulty}&lt;/font&gt;</string>
+	<string key="ui_leaderboard_expedition_difficulty" rel_version="Feature_Leaderboards">Dificuldade</string>
+	<string key="ui_leaderboard_expedition_difficulty_1" rel_version="Feature_Leaderboards">1</string>
+	<string key="ui_leaderboard_expedition_difficulty_2" rel_version="Feature_Leaderboards">2</string>
+	<string key="ui_leaderboard_expedition_difficulty_3" rel_version="Feature_Leaderboards">3</string>
+	<string key="ui_leaderboard_expedition_difficulty_4" rel_version="Feature_Leaderboards">4</string>
+	<string key="ui_leaderboard_expedition_difficulty_5" rel_version="Feature_Leaderboards">5</string>
+	<string key="ui_leaderboard_expedition_difficulty_6" rel_version="Feature_Leaderboards">6</string>
+	<string key="ui_leaderboard_expedition_difficulty_7" rel_version="Feature_Leaderboards">7</string>
+	<string key="ui_leaderboard_expedition_difficulty_8" rel_version="Feature_Leaderboards">8</string>
+	<string key="ui_leaderboard_expedition_difficulty_9" rel_version="Feature_Leaderboards">9</string>
+	<string key="ui_leaderboard_expedition_difficulty_10" rel_version="Feature_Leaderboards">10</string>
+	<string key="ui_leaderboard_territory_brightwood" rel_version="Feature_Leaderboards">Bosque Reluzente</string>
+	<string key="ui_leaderboard_territory_everfall" rel_version="Feature_Leaderboards">Queda Eterna</string>
+	<string key="ui_leaderboard_territory_reekwater" rel_version="Feature_Leaderboards">Águas Fétidas</string>
+	<string key="ui_leaderboard_territory_ebonscale" rel_version="Feature_Leaderboards">Crosta de Ébano</string>
+	<string key="ui_leaderboard_territory_windsward" rel_version="Feature_Leaderboards">Guardaventos</string>
+	<string key="ui_leaderboard_territory_firstlight" rel_version="Feature_Leaderboards">Primeira Luz</string>
+	<string key="ui_leaderboard_territory_cutlasskeys" rel_version="Feature_Leaderboards">Ilhéus do Sabre</string>
+	<string key="ui_leaderboard_territory_mourningdale" rel_version="Feature_Leaderboards">Vale das Lamentações</string>
+	<string key="ui_leaderboard_territory_monarchsbluffs" rel_version="Feature_Leaderboards">Falésias do Monarca</string>
+	<string key="ui_leaderboard_territory_weaversfen" rel_version="Feature_Leaderboards">Pântano do Tecelão</string>
+	<string key="ui_leaderboard_territory_restlessshore" rel_version="Feature_Leaderboards">Costa Tempestuosa</string>
+	<string key="ui_leaderboard_territory_brimstone" rel_version="Feature_Leaderboards">Areias de Enxofre</string>
+	<string key="ui_leaderboard_display_legendaries" rel_version="Feature_Leaderboards">Lendários</string>
+	<string key="ui_leaderboard_territory_all" rel_version="Feature_Leaderboards">Todos os Territórios</string>
+	<string key="ui_leaderboard_row_rank_morethan" rel_version="Feature_Leaderboards">&gt;{number}</string>
+	<string key="ui_leaderboard_with_gold" rel_version="Feature_Leaderboards">Com &lt;img src="lyshineui/images/dungeons/mutator_rank_gold_sm" scale="2.0" xPadding="0" yOffset="5"&gt;&lt;/img&gt; &lt;font color={color}&gt; Ranque Ouro&lt;/font&gt;</string>
+	<string key="ui_leaderboard_company_deleted" rel_version="Feature_Leaderboards">(Companhia Excluída)</string>
+	<string key="ui_leaderboard_player_deleted" rel_version="Feature_Leaderboards">(Jogador Excluído)</string>
+	<string key="ui_leaderboard_rewards_top" rel_version="Feature_Leaderboards">{number} MELHORES</string>
+</resources>
+

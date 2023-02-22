@@ -1,6 +1,7 @@
 # New-World
 
-Extracted files for New World MMO
++ Extracted files for New World MMO
++ Last Update -- v1.8.3
 
 ## localization
 
