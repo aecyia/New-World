@@ -265,7 +265,7 @@
 	<string key="1334_0201_olfactoryoptimization_proposal_prompt" speaker="UI - Player Prompt">"È decisamente difficile da ignorare."</string>
 	<string key="1334_0201_olfactoryoptimization_proposal_next" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_proposal_next" VO_Status="Recorded" dialogue-prompt="@1334_0201_olfactoryoptimization_proposal_prompt">E allora? Se cerchi solo le cose banali, ti perdi il bello della vita!\n\nTi prego, devo catturare questa fragranza. Portami gli aromi della Palude, distillali e imbottigliali, e ti ricompenserò profumatamente, ok?</string>
 	<string key="1334_0201_olfactoryoptimization_incomplete" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_incomplete" VO_Status="Recorded">Sarà possibile riprodurre artificialmente la fragranza unica della Palude del tessitore? Attendo il tuo ritorno con il fiato sospeso.</string>
-	<string key="1334_0201_olfactoryoptimization_complete" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_complete" VO_Status="Recorded" dialogue-next="@1334_0201_olfactoryoptimization_complete_next" comment="coughing">Mmm, sì... decadente, muschiato, con una nota sulfurea che riecheggia fino ai toni più alti... Hai catturato perfettamente il profumo della Palude del tessitore. \n\nIl tuo talento rasenta il genio! Ah! Mi salgono le lacrime agli occhi per l'emozione!</string>
+	<string key="1334_0201_olfactoryoptimization_complete" comment="coughing" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_complete" VO_Status="Recorded" dialogue-next="@1334_0201_olfactoryoptimization_complete_next">Mmm, sì... decadente, muschiato, con una nota sulfurea che riecheggia fino ai toni più alti... Hai catturato perfettamente il profumo della Palude del tessitore. \n\nIl tuo talento rasenta il genio! Ah! Mi salgono le lacrime agli occhi per l'emozione!</string>
 	<string key="1334_0201_olfactoryoptimization_complete_prompt" speaker="UI - Player Prompt">"Un aroma... sorprendente!"</string>
 	<string key="1334_0201_olfactoryoptimization_complete_next" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_complete_next" VO_Status="Recorded" dialogue-prompt="@1334_0201_olfactoryoptimization_complete_prompt">È così scioccante? Ah! Se solo le donne della Nuova Corsica sapessero con cosa hanno imbrattato i propri polsi.\n\nL'arte profumiera è come la vita: il tutto è più grande della somma delle parti. Grazie per il tuo contributo.</string>
 	<string key="1334_0201_d_00_01a_GiveRecipe" speaker="UI">Prendi: {itemName}</string>
@@ -314,79 +314,6 @@
 	<string key="1335_0204_reunion_proposal_next" speaker="Nora Roggeveen" name="NoraRoggeveen" VO="1335_0204_reunion_proposal_next" VO_Status="Recorded" dialogue-prompt="@1335_0204_reunion_proposal_prompt">Sì. Per fortuna ero già ben nascosta quando i Guardiani hanno cominciato a sciamare da queste parti. Grazie al cielo ci sei tu! Stavo iniziando ad avere fame.\n\nA ogni modo, ora torniamo. Dopo questa esperienza, non vedo l'ora di rincontrare Leonie.</string>
 	<string key="1335_0204_reunion_incomplete" speaker="Nora Roggeveen" name="NoraRoggeveen" VO="1335_0204_reunion_incomplete" VO_Status="Recorded">Raggiungerò te e Leonie sulla strada più tardi. Uscirò di nascosto mentre tu li distrai.</string>
 	<string key="1335_0204_reunion_complete" speaker="Dr. Leonie Roggeveen" name="LeonieRoggeveen" VO="1335_0204_reunion_complete" VO_Status="Recorded">Rieccoti! Nora mi ha raccontato tutto. Sono COSÌ sollevata.\n\nLa prossima volta mi assicurerò che prenda delle precauzioni. Ma il gioco mi è piaciuto molto, e il tuo aiuto è stato preziosissimo. Grazie!</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Title" speaker="UI - Quest Title">Wyrd protettivo</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Description" speaker="UI – Quest Description">Recupera i componenti e le ricette necessarie per assemblare l'armatura Wyrd protettivo. Poi torna a fare rapporto alla Survivalista Severino nell'insediamento di Palude del tessitore.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Prompt" speaker="UI - Player Prompt">"Le rendi grande onore."</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_ProposalResponse" VO_Status="Recorded" dialogue-next="@1303_1311_Protective_Wyrd_Gear_Proposal_Next">È sempre possibile fare di più, ecco perché ho un regalo per te.\n\nUna volta Hazel mi parlò di un'armatura capace di proteggere chi la indossa contro il peggior tiro del destino.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Prompt" speaker="UI - Player Prompt">"Una protezione dal destino?"</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Next" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_CompleteNext" VO_Status="Recorded" dialogue-next="@1303_1311_Protective_Wyrd_Gear_Proposal_Next2" dialogue-prompt="@1303_1311_Protective_Wyrd_Gear_Proposal_Prompt">Così si dice. Secondo Hazel apparteneva a una grande guaritrice, una maga come lei.\n\nNonostante il materiale leggero, l'armatura non falliva mai e la maga viaggiava per tutta Aeternum senza mai farsi un graffio.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Prompt2" speaker="UI - Player Prompt">"Sembra troppo bello per essere vero."</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Next2" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@1303_1311_Protective_Wyrd_Gear_Proposal_Prompt2">Ci servono storie del genere per superare i tempi bui. Comunque sia, Hazel mi ha assicurato che è tutto vero e mi ha consegnato questo schema.\n\nSi chiama Wyrd protettivo. Raccogli questi materiali e potrai indossare anche tu un equipaggiamento del genere.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Incomplete" speaker="Survivalist Severino – Weaver's Fen">Niente è veramente perduto su Aeternum, o almeno così credo.\n\nQuando sarà il momento, troverai ciò di cui hai bisogno per creare il Wyrd protettivo e so che lo farai.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Complete" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_AvailResponse" VO_Status="Recorded" dialogue-next="@1303_1311_Protective_Wyrd_Gear_Complete_Next">C'è qualcosa in te... Ah! Hai trovato tutto ciò di cui avevi bisogno!\n\nQuesto è l'abbigliamento più straordinario che io abbia mai visto. Sento il potere del Wyrd protettivo fin qui.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Complete_Prompt" speaker="UI - Player Prompt">"Davvero?"</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Complete_Next" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_CompleteNext3" VO_Status="Recorded" dialogue-prompt="@1303_1311_Protective_Wyrd_Gear_Complete_Prompt">Mi riempie di gioia sapere che le storie che Hazel mi raccontava si sano rivelate non solo vere ma anche utili.\n\nSe anche le altre storie fossero vere, potrebbe davvero esserci ancora speranza per tutti noi.</string>
-	<string key="1303_1311_01_container_Protective_Wyrd_questComplete_1">Completa la missione: Un passo nella giusta direzione</string>
-	<string key="1303_1311_02_container_Protective_Wyrd_questComplete_2">Completa la missione: Protezioni avvolgenti</string>
-	<string key="1303_1311_03_container_Protective_Wyrd_questComplete_3">Completa la missione: Pericoli predestinati</string>
-	<string key="1303_1311_04_container_Protective_Wyrd_questComplete_4">Completa la missione: Nelle mani del destino</string>
-	<string key="1303_1311_05_container_Protective_Wyrd_questComplete_5">Completa la missione: Affrontare il destino</string>
-	<string key="1303_1311_01_Shoes_Title">Un passo nella giusta direzione</string>
-	<string key="1303_1311_01_Shoes_Description">Raccogli tessuto consacrato da Borgo di Fenton, essenza di non morte da Caverna del tagliagole e pece purificata dall'Isola dei rifiuti. Poi visita una postazione di accessoristica di livello 3 per produrre le Scarpe protettive di Wyrd.</string>
-	<string key="1303_1311_01_Shoes_task_01">Ricetta consegnata.</string>
-	<string key="1303_1311_01_Shoes_task_02">Dirigiti verso {POITags} nella Palude del tessitore per raccogliere tessuto consacrato</string>
-	<string key="1303_1311_01_Shoes_task_03">Da fantasmi, demoni, e impalatori raccogli: {itemName}</string>
-	<string key="1303_1311_01_Shoes_task_04">Dirigiti verso {POITags} a Sponda inquieta per raccogliere essenza di non morte</string>
-	<string key="1303_1311_01_Shoes_task_05">Dai nemici {targetName} raccogli: {itemName}</string>
-	<string key="1303_1311_01_Shoes_task_06">Dirigiti verso {POITags} a Sponda inquieta per raccogliere pece purificata</string>
-	<string key="1303_1311_01_Shoes_task_07">Dai nemici {targetName} raccogli: {itemName}</string>
-	<string key="1303_1311_01_Shoes_task_08">Visita una postazione di accessoristica</string>
-	<string key="1303_1311_01_Shoes_task_09">Produci: {itemName}</string>
-	<string key="1303_1311_02_Shirt_Title">Protezioni avvolgenti</string>
-	<string key="1303_1311_02_Shirt_Description">Raccogli fermagli nettuniani da Furia di Nettuno, filo consacrato da Cimitero della solitudine e pezzi di armatura degli Antichi da Pilastri gelidi. Poi visita una postazione di accessoristica di livello 3 per produrre la Maglia protettiva di Wyrd.</string>
-	<string key="1303_1311_02_Shirt_task_01">Ricetta consegnata.</string>
-	<string key="1303_1311_02_Shirt_task_02">Dirigiti verso {POITags} a Sponda inquieta per raccogliere fermagli nettuniani</string>
-	<string key="1303_1311_02_Shirt_task_03">Dai nemici {targetName} raccogli: {itemName}</string>
-	<string key="1303_1311_02_Shirt_task_04">Dirigiti verso {POITags} a Sponda inquieta per raccogliere filo consacrato</string>
-	<string key="1303_1311_02_Shirt_task_05">Dai nemici {targetName} raccogli: {itemName}</string>
-	<string key="1303_1311_02_Shirt_task_06">Dirigiti verso {POITags} nella Grande Breccia per raccogliere pezzi di armatura degli Antichi</string>
-	<string key="1303_1311_02_Shirt_task_07">Dai nemici {targetName} raccogli: {itemName}</string>
-	<string key="1303_1311_02_Shirt_task_08">Visita una postazione di accessoristica</string>
-	<string key="1303_1311_02_Shirt_task_09">Produci: {itemName}</string>
-	<string key="1303_1311_03_Pants_Title">Pericoli predestinati</string>
-	<string key="1303_1311_03_Pants_Description">Raccogli protezioni cucite da Cimitero di Dunalugubre, lana lavorata per cerimonie da Eridano e imbottitura impregnata da Lunarite. Poi visita una postazione di accessoristica di livello 3 per produrre i Pantaloni protettivi di Wyrd.</string>
-	<string key="1303_1311_03_Pants_task_01">Ricetta consegnata.</string>
-	<string key="1303_1311_03_Pants_task_02">Dirigiti verso {POITags} nella Grande Breccia per raccogliere protezioni cucite</string>
-	<string key="1303_1311_03_Pants_task_03">Dai nemici {targetName} raccogli: {itemName}</string>
-	<string key="1303_1311_03_Pants_task_04">Dirigiti verso {POITags} a Sponda inquieta per raccogliere lana lavorata per cerimonie</string>
-	<string key="1303_1311_03_Pants_task_05">Dai nemici {targetName} raccogli: {itemName}</string>
-	<string key="1303_1311_03_Pants_task_06">Dirigiti verso {POITags} a Valle del cordoglio per raccogliere imbottitura impregnata</string>
-	<string key="1303_1311_03_Pants_task_07">Dai nemici {targetName} raccogli: {itemName}</string>
-	<string key="1303_1311_03_Pants_task_08">Visita una postazione di accessoristica</string>
-	<string key="1303_1311_03_Pants_task_09">Produci: {itemName}</string>
-	<string key="1303_1311_04_Gloves_Title">Nelle mani del destino</string>
-	<string key="1303_1311_04_Gloves_Description">Raccogli trama rinforzata da Vistarocca, portafortuna in legno di Wyrd da Vescicola e fibre ripulite da Sambhala. Poi visita una postazione di accessoristica di livello 3 per produrre i Guanti protettivi di Wyrd.</string>
-	<string key="1303_1311_04_Gloves_task_01">Ricetta consegnata.</string>
-	<string key="1303_1311_04_Gloves_task_02">Dirigiti verso {POITags} a Valle del cordoglio per raccogliere trama rinforzata</string>
-	<string key="1303_1311_04_Gloves_task_03">Dai nemici {targetName} raccogli: {itemName}</string>
-	<string key="1303_1311_04_Gloves_task_04">Dirigiti verso {POITags} a Valle del cordoglio per raccogliere portafortuna in legno di Wyrd</string>
-	<string key="1303_1311_04_Gloves_task_05">Dai nemici {targetName} raccogli: {itemName}</string>
-	<string key="1303_1311_04_Gloves_task_06">Dirigiti verso {POITags} a Frutteto dell'Eden per raccogliere fibre ripulite di Sambhala</string>
-	<string key="1303_1311_04_Gloves_task_07">Dai nemici {targetName} raccogli: {itemName}</string>
-	<string key="1303_1311_04_Gloves_task_08">Visita una postazione di accessoristica</string>
-	<string key="1303_1311_04_Gloves_task_09">Produci: {itemName}</string>
-	<string key="1303_1311_05_Hat_Title">Affrontare il destino</string>
-	<string key="1303_1311_05_Hat_Description">Raccogli presagi del bagliore dell'alba da Pavone, resina verde da Scogliera dei rovi e tessuto spettrale da Miniera delle scorie superiore. Poi visita una postazione di accessoristica di livello 3 per produrre il Cappello protettivo di Wyrd.</string>
-	<string key="1303_1311_05_Hat_task_01">Ricetta consegnata.</string>
-	<string key="1303_1311_05_Hat_task_02">Dirigiti verso {POITags} a Frutteto dell'Eden per raccogliere presagi del bagliore dell'alba</string>
-	<string key="1303_1311_05_Hat_task_03">Dai nemici {targetName} raccogli: {itemName}</string>
-	<string key="1303_1311_05_Hat_task_04">Dirigiti verso {POITags} a Frutteto dell'Eden per raccogliere resina verde</string>
-	<string key="1303_1311_05_Hat_task_05">Dai nemici {targetName} raccogli: {itemName}</string>
-	<string key="1303_1311_05_Hat_task_06">Dirigiti verso {POITags} a Frutteto dell'Eden per raccogliere tessuto spettrale</string>
-	<string key="1303_1311_05_Hat_task_07">Dai nemici {targetName} raccogli: {itemName}</string>
-	<string key="1303_1311_05_Hat_task_08">Visita una postazione di accessoristica</string>
-	<string key="1303_1311_05_Hat_task_09">Produci: {itemName}</string>
-	<string key="1302_1312_d_01_Task_Goto" speaker="UI">Dirigiti verso: {POITags}</string>
 	<string key="1302_1312_d_02_Task_KillSpriggan" speaker="UI">Sconfiggi: {targetName}</string>
 	<string key="1302_1312_d_03_Task_GetSpores" speaker="UI">Prendi: {itemName}</string>
 	<string key="1302_1312_a_Title" speaker="UI">Spore curative</string>
@@ -397,64 +324,5 @@
 	<string key="1302_1312_c_Proposal_next" speaker="Magistrate Allen - Weaver's Fen" name="MagistrateAllen" VO="Magistrate_1302_1312_Spores_CompleteNext" VO_Status="Recorded" dialogue-prompt="@1302_1312_c_Proposal_prompt">Solo perché hai dimostrato di essere così in gamba. A Eridano c'è Teceros, un potente Spriggan, un colosso di terra vivente. \n\nSe mescolate correttamente con le erbe degli Antichi, le spore di Teceros cureranno definitivamente le persone della Palude del tessitore.</string>
 	<string key="1302_1312_e_Incomplete" speaker="Magistrate Allen - Weaver's Fen">L'Alchimista Rubis mi garantisce che le spore di Teceros saranno la cura definitiva che stiamo cercando. \n\nCi hai già aiutato molto, ma questo salverà davvero il nostro villaggio.</string>
 	<string key="1302_1312_f_Complete" speaker="Magistrate Allen - Weaver's Fen" name="MagistrateAllen" VO="Magistrate_1302_1312_Spores_AvailResponse" VO_Status="Recorded">Oh... Le spore del colosso? Molto... inquietanti, ma le darò all'Alchimista Rubis.\n\nGrazie, {playerName}. Finalmente abbiamo la cura che cercavamo. Prendi questo come ricompensa.</string>
-	<string key="1310_1314_L40Bow_Huntress_Title" speaker="UI - Quest Title">Sulle tracce della Cacciatrice</string>
-	<string key="1310_1314_L40Bow_Huntress_Description" speaker="UI – Quest Description">Ottieni legno degli Antichi da Rafflesia, resina di legno di Wyrd da Salita verdeggiante, piuma di falco da Propus e una zampa di coniglio portafortuna da Conca del lamento per produrre l'arco noto come "La Cacciatrice". Poi torna a fare rapporto al Barista Flores nell'insediamento di Palude del tessitore.</string>
-	<string key="1310_1314_L40Bow_Huntress_Prompt" speaker="UI - Player Prompt">"La cosa mi interesserebbe."</string>
-	<string key="1310_1314_L40Bow_Huntress_Proposal" speaker="Barkeep Flores - Weaver's Fen" name="BarkeepFlores" VO="Barkeep_1310_1314_L40Bow_Huntress_ProposalResponse" VO_Status="Recorded">Mi sembra ovvio. Dovrai essere tu a camminare.\n\nSe riuscirai a raccogliere tutti i materiali della lista, l'arco "la Cacciatrice" sarà l'invidia di tutta la città. Buona fortuna!</string>
-	<string key="1310_1314_L40Bow_Huntress_Incomplete" speaker="Barkeep Flores - Weaver's Fen">Ah, sei ancora sulle tracce della Cacciatrice, vero?\n\nCi vorrà del tempo, credo.</string>
-	<string key="1310_1314_L40Bow_Huntress_Complete" speaker="Barkeep Flores - Weaver's Fen" name="BarkeepFlores" VO="Barkeep_1310_1314_L40Bow_Huntress_AvailResponse" VO_Status="Recorded">Guardati: sei qui da pochissimo e già sei una leggenda, almeno per me. Trovare tutti i materiali dev'essere stato difficile. \n\nMa la Cacciatrice... si prenderà cura di te. Non farti mancare mai le frecce là fuori.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Title" speaker="UI - Quest Title">Ira di Falmea</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Description" speaker="UI – Quest Description">Acquisisci rami bruciacchiati da Amphus, ceneri di legno di Wyrd da Fornace, acqua sconsacrata da Furia di Nettuno e il cuore fiammeggiante da Nuovo rogo per produrre il bastone infuocato "Ira di Falmea". Poi torna a fare rapporto all'Inventore Erasmus nell'insediamento di Palude del tessitore.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Prompt" speaker="UI - Player Prompt">"Ci penso io."</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Proposal" speaker="Artificer Erasmus - Weaver's Fen" name="ArtificerErasmus" VO="Artificer_1305_1315_L40FStaff_FalmeasWrath_ProposalResponse" VO_Status="Recorded">Perfetto. Sto lavorando a uno schema da parecchio tempo... L'ho chiamato "Ira di Falmea".\n\nSe riesci ad acquisire tutti gli elementi necessari, con questo bastone potrai controllare le fiamme. Buona fortuna.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Incomplete" speaker="Artificer Erasmus - Weaver's Fen">Stai ancora cercando gli elementi per fabbricare il bastone "Ira di Falmea"?\n\nContinua così: sarà un ottimo investimento.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Complete" speaker="Artificer Erasmus - Weaver's Fen" name="ArtificerErasmus" VO="Artificer_1305_1315_L40FStaff_FalmeasWrath_AvailResponse" VO_Status="Recorded">Ah, ma guarda! La tua diligenza ha dato i suoi frutti: devi aver percorso tutta Aeternum!\n\nOra, però, puoi goderti i vantaggi! L'Ira di Falmea! Il miglior bastone in assoluto! Brandiscilo con orgoglio, {playerName}.</string>
-	<string key="1310_1314_AncientWood_Quest_objective_title" speaker="UI">Raccogli gli oggetti necessari per produrre la Cacciatrice</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_objective_title" speaker="UI">Raccogli gli oggetti necessari per produrre la Cacciatrice</string>
-	<string key="1310_1314_HawkFeathers_Quest_objective_title" speaker="UI">Raccogli gli oggetti necessari per produrre la Cacciatrice</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_objective_title" speaker="UI">Raccogli gli oggetti e produci la Cacciatrice</string>
-	<string key="1310_1314_AncientWood_Quest_description" speaker="UI">Si nasconde tra gli alberi. Si sente veramente a casa tra le sequoie.</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_description" speaker="UI">La resina dell'albero profuma l'aria. Se sei per conto tuo e noti quel profumo, fai attenzione.</string>
-	<string key="1310_1314_HawkFeathers_Quest_description" speaker="UI">Ha occhi di lince, vede per chilometri. La sua vista è impeccabile.</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_description" speaker="UI">Si avvicina alla sua preda e indietreggia lentamente. La libertà che sente è come quella di una freccia.</string>
-	<string key="1305_1315_SingedBranches_Quest_objective_title" speaker="UI">Raccogli gli oggetti necessari per produrre l'Ira di Falmea</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_objective_title" speaker="UI">Raccogli gli oggetti necessari per produrre l'Ira di Falmea</string>
-	<string key="1305_1315_UnhallowedWater_Quest_objective_title" speaker="UI">Raccogli gli oggetti necessari per produrre l'Ira di Falmea</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_objective_title" speaker="UI">Raccogli gli oggetti e produci l'Ira di Falmea</string>
-	<string key="1305_1315_SingedBranches_Quest_description" speaker="UI">Falmea bruciò il Legno di Wyrd, lasciando nell'aria un grande dolore.</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_description" speaker="UI">Falmea fece cadere le ceneri del Legno di Wyrd. Caddero a terra bianche, pure.</string>
-	<string key="1305_1315_UnhallowedWater_Quest_description" speaker="UI">Falmea prese la sua acqua empia e la spruzzò sulla cenere.</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_description" speaker="UI">Falmea pronunciò parole incomprensibili e, da un tornado di fiamme, estrasse un bastone.</string>
-	<string key="1310_1314_Combine_Quest_task_03">Ricetta consegnata.</string>
-	<string key="1310_1314_Combine_Quest_task_04">Visita una postazione di ingegneria</string>
-	<string key="1310_1314_Combine_Quest_task_05">Produci: {itemName}</string>
-	<string key="1305_1315_Combine_Quest_task_03">Ricetta consegnata.</string>
-	<string key="1305_1315_Combine_Quest_task_04">Visita una postazione arcana</string>
-	<string key="1305_1315_Combine_Quest_task_05">Produci: {itemName}</string>
-	<string key="1310_1314_AncientWood_Quest_task_01">Dirigiti verso {POITags} a Frutteto dell'Eden per raccogliere legno degli Antichi</string>
-	<string key="1310_1314_AncientWood_Quest_task_02">Dai nemici {targetName} raccogli: {itemName}</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_task_01">Dirigiti verso {POITags} a Sponda inquieta per raccogliere resina di legno di Wyrd</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_task_02">Dai nemici {targetName} raccogli: {itemName}</string>
-	<string key="1310_1314_HawkFeathers_Quest_task_01">Dirigiti verso {POITags} a Valle del cordoglio per raccogliere piuma di falco</string>
-	<string key="1310_1314_HawkFeathers_Quest_task_02">Dai nemici {targetName} raccogli: {itemName}</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_task_01">Dirigiti verso {POITags} a Valle del cordoglio per raccogliere zampa di coniglio fortunata</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_task_02">Raccogli {itemName} presso {targetName}</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_task_04">Produci: {itemName}</string>
-	<string key="1305_1315_SingedBranches_Quest_task_01">Dirigiti verso {POITags} a Frutteto dell'Eden per raccogliere rami bruciacchiati</string>
-	<string key="1305_1315_SingedBranches_Quest_task_02">Dai nemici {targetName} raccogli: {itemName}</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_task_01">Dirigiti verso {POITags} a Sponda inquieta per raccogliere ceneri di legno di Wyrd</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_task_02">Dai nemici {targetName} raccogli: {itemName}</string>
-	<string key="1305_1315_UnhallowedWater_Quest_task_01">Dirigiti verso {POITags} a Sponda inquieta per raccogliere acqua sconsacrata</string>
-	<string key="1305_1315_UnhallowedWater_Quest_task_02">Dai nemici {targetName} raccogli: {itemName}</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_task_01">Dirigiti verso {POITags} a Valle del cordoglio per raccogliere il cuore fiammeggiante</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_task_02">Raccogli {itemName} presso {targetName}</string>
-	<string key="1310_1314_01_container_Weapon_Huntress_questComplete_1">Completa la missione: Come legna in una foresta</string>
-	<string key="1310_1314_02_container_Weapon_Huntress_questComplete_2">Completa la missione: Buona resina, buon ragionamento</string>
-	<string key="1310_1314_03_container_Weapon_Huntress_questComplete_3">Completa la missione: Piume di un falco</string>
-	<string key="1310_1314_04_container_Weapon_Huntress_questComplete_4">Completa la missione: Inseguire un bianconiglio</string>
-	<string key="1305_1315_01_container_Weapon_Hope_FalmeasWrath_questComplete_1">Completa la missione: Conseguenze che bruciano</string>
-	<string key="1305_1315_02_container_Weapon_Hope_FalmeasWrath_questComplete_2">Completa la missione: Nient'altro che cenere ardente</string>
-	<string key="1305_1315_03_container_Weapon_Hope_FalmeasWrath_questComplete_3">Completa la missione: Infettando le acque</string>
-	<string key="1305_1315_04_container_Weapon_Hope_FalmeasWrath_questComplete_4">Completa la missione: Calice del sacrificio</string>
 </resources>
 

@@ -51,7 +51,7 @@
 	<string key="1416_0201_a_Title" speaker="UI">Bâton dans les roues</string>
 	<string key="1416_0201_b_Description" speaker="UI">Sabotez les mineurs altérés dans la Veine impie en prenant d'assaut leurs ressources et en éliminant certains d'entre eux. Retournez ensuite voir le protecteur Ducquet à Bois-Éden.</string>
 	<string key="1416_0201_Start_Prompt" speaker="UI - Player Prompt">« Et pourquoi ça ? »</string>
-	<string key="1416_0201_c_Proposal" speaker="Warden Ducquet - Edengrove" name="WardenDucquet" VO="Warden_1416_0201_sabotage_ProposalResponse" VO_Status="Recorded" dialogue-next="@1416_0201_c_Proposal_Pt2">Nous attendions une opportunité, bien entendu. Votre arrivée, par exemple.\n\nCela semble être le bon moment, si vous vous sentez capable de mener la charge.</string>
+	<string key="1416_0201_c_Proposal" speaker="Warden Ducquet - Edengrove" name="WardenDucquet" VO="Warden_1416_0201_sabotage_ProposalResponse" VO_Status="Recorded" dialogue-next="@1416_0201_c_Proposal_Pt2">Nous attendons une opportunité, bien entendu. Votre arrivée, par exemple.\n\nCela semble être le bon moment, si vous vous sentez capable de mener la charge.</string>
 	<string key="1416_0201_c_Proposal_Pt2Prompt" speaker="UI - Player Prompt">« C'est dans mes cordes. »</string>
 	<string key="1416_0201_c_Proposal_Pt2" speaker="Warden Ducquet - Edengrove" name="WardenDucquet" VO="Warden_1416_0201_sabotage_CompleteNext" VO_Status="Recorded" dialogue-prompt="@1416_0201_c_Proposal_Pt2Prompt">Parfait. Les altérés ont installé des campements dans les mines de la Veine impie.\n\nAttaquez leurs positions là-bas, désarmez-les si vous le pouvez, et nous connaîtrons bientôt leurs points forts.</string>
 	<string key="1416_0201_e_Incomplete" speaker="Warden Ducquet - Edengrove">Avez-vous pu vous rendre à la Veine impie ? Les aliénés pensent que se cacher dans les rochers les protégera. \n\nIls vont bientôt se rendre compte que non, pas vrai ?</string>
@@ -72,7 +72,7 @@
 	<string key="1414_0101_a_Title" speaker="UI">En aval de la voie d'Eaux-Fétides</string>
 	<string key="1414_0101_b_Description" speaker="UI">Parlez à Aulus Fulvius à Eaux-Fétides.</string>
 	<string key="1414_0101_Start_Prompt" speaker="UI - Player Prompt">« Je peux transmettre votre message. »</string>
-	<string key="1414_0101_c_Proposal" speaker="Watcher Reynolds- Edengrove" name="WatcherReynolds" VO="1414_0101_c_Proposal" VO_Status="Recorded">Vraiment ? Formidable ! Cependant, il y a un peu de distance à parcourir. Mais... Si vous voulez bien...\n\nCe message est pour le magistrat local, Aulus Fulvius. Il a besoin de vous, ça, j'en suis certain. Alors, marchez d'un pied léger.</string>
+	<string key="1414_0101_c_Proposal" speaker="Watcher Reynolds- Edengrove" name="WatcherReynolds" VO="1414_0101_c_Proposal" VO_Status="Recorded">Vraiment ? Formidable ! Cependant, il y a un peu de distance à parcourir. Mais... Si vous voulez bien...\n\nCe message est pour le magistrat local, le légat Fulvius. Il a besoin de vous, ça, j'en suis certain. Alors, marchez d'un pied léger.</string>
 	<string key="1414_0101_e_Incomplete" speaker="Watcher Reynolds- Edengrove" name="WatcherReynolds" VO_Status="Recorded">Il suffit de se diriger vers le sud et d'entamer... un long, un très long voyage, vraiment. Assurez-vous d'avoir suffisamment de vivres pour la route.</string>
 	<string key="1414_0101_f_Complete" speaker="Legatus Fulvius - Reekwater" name="LegatusFulvius" VO="1414_0101_f_Complete" VO_Status="Recorded">Qu'est-ce que c'est, au juste ? Un message de Bois-Éden ? Je n'en connais pas beaucoup qui pourraient faire un tel voyage sans encombre. Considérez que je suis impressionné.\n\nPuisque vous êtes là, je pense que je vais faire appel à vos talents.</string>
 	<string key="1418_0201_a_Title" speaker="UI">Lumières vacillantes</string>
@@ -401,7 +401,7 @@
 	<string key="1418_0107_RD_task_03_TaskHaveAndReturnItems" speaker="UI">Vaincre : {targetName} pour récupérer : {itemName}</string>
 	<string key="1418_0108_RD_task_01_TaskGoToPOITag" speaker="UI">Récupérer le revêtement de bouclier altéré auprès du grand prêtre Oseguera aux Monts difformes</string>
 	<string key="1418_0108_RD_task_02_TaskHaveAndReturnItems" speaker="UI">Vaincre : {targetName} pour récupérer : {itemName}</string>
-	<string key="1418_0109_RD_task_01_TaskGoToPOITag" speaker="UI">Aller à Opulence et récupérer les rivets d'orichalque sur les altérés</string>
+	<string key="1418_0109_RD_task_01_TaskGoToPOITag" speaker="UI">Aller à : {POITags} et récupérer des rivets d'orichalque sur les altérés</string>
 	<string key="1418_0109_RD_task_02_TaskHaveAndReturnItems" speaker="UI">Vaincre : {targetName} pour récupérer : {itemName}</string>
 	<string key="1403A_0301_d_01_Task" speaker="UI">Aller à : {POITags}</string>
 	<string key="1403A_0301_d_02_Task" speaker="UI">Vaincre : {targetName}</string>

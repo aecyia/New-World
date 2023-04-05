@@ -80,9 +80,16 @@
 	<string key="ui_holdout_chamber" rel_version="Quest_MSQ2_Revamp">Épreuve du vieux guerrier</string>
 	<string key="ui_holdout_chamber_description" rel_version="Quest_MSQ2_Revamp">Le mérite ne se reçoit pas, il se gagne.</string>
 	<string key="ui_holdout_chamber_Obj_Task_01" rel_version="Quest_MSQ2_Revamp">Commencer l'Épreuve</string>
-	<string key="ui_holdout_chamber_Obj_Task_01_desc" rel_version="Quest_MSQ2_Revamp">Interagissez avec le glyphe pour commencer l'Épreuve.</string>
+	<string key="ui_holdout_chamber_Obj_Task_01_desc" rel_version="Quest_MSQ2_Revamp">Interagissez avec le glyphe pour commencer l'épreuve.</string>
 	<string key="ui_holdout_chamber_Obj_Task_02" rel_version="Quest_MSQ2_Revamp">Survivre à l'Épreuve</string>
-	<string key="ui_holdout_chamber_Obj_Task_02_desc" rel_version="Quest_MSQ2_Revamp">Temps restant : </string>
+	<string key="ui_holdout_chamber_Obj_Task_02_desc" rel_version="Quest_MSQ2_Revamp">Temps restant :</string>
+	<string key="objective_lostattack_swampwaterfishery_title">Instrument ancien</string>
+	<string key="objective_lostattack_swampwaterfishery_desc">Examinez l'instrument ancien sur les berges de la rivière.</string>
+	<string key="objective_lostattack_swampwaterfishery_wave_01">Défense de l'instrument ancien : {remainingCount}/1 \nTemps restant :</string>
+	<string key="objective_lostattack_piscarianfishery_title">Instrument ancien :</string>
+	<string key="objective_lostattack_piscarianfishery_desc">Examinez l'instrument ancien sur la jetée.</string>
+	<string key="objective_lostattack_piscarianfishery_wave_01">Défense de l'instrument ancien : {remainingCount}/1 \nTemps restant :</string>
+	<string key="ui_boatencounter_scallywag_description" rel_version="Quest_MSQ2_Revamp">Le féroce capitaine Esteban et son équipage mènent un assaut sur le rivage. Renvoyez ces rats scorbutés en mer la queue entre les jambes !</string>
 	<string key="event_completed">Événement terminé</string>
 	<string key="ui_legion_outpost_attack" rel_version="Territory_Brimstone_Sands">Sulfure assiégée</string>
 	<string key="ui_legion_outpost_attack_description" rel_version="Territory_Brimstone_Sands">La Légion avance ! Arrêtez-la avant qu'elle n'atteigne l'avant-poste de Wikala al-Waha !</string>
@@ -146,13 +153,29 @@
 	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_setup_desc" rel_version="Quest_MSQ2_Revamp">Affrontez l'administrateur Zane.</string>
 	<string key="ui_turkeyterror_worldboss_Turkulon">Terreur de Turulon</string>
 	<string key="ui_turkeyterror_worldboss_Turkulon_description">Turulon est de retour pour venger ses camarades tombés au combat.</string>
-	<string key="ui_worldboss_defeated" rel_version="Event_February_Temp">Vaincu : {objective}</string>
-	<string key="ui_worldboss_daily_reset" rel_version="Event_February_Temp">La récompense quotidienne se réinitialise à {time}</string>
-	<string key="ui_worldboss_legacyofcrassus" rel_version="Event_February_Temp">Héritage de Crassus</string>
-	<string key="ui_worldboss_legacyofcrassus_description" rel_version="Event_February_Temp">La toute-puissance de Rome menace Aeternum ! Traquez Decimus et Lucanus, les monstrueux capitaines de Crassus, et bannissez l'emprise de la tyrannie romaine. Récupérez des récompenses quotidiennes en plus des autres récompenses en éliminant ces brutes violentes à Boisclair, au marais des Trames, au Val des Larmes, au bief de Nerécaille et à Bois-Éden.\n\nContient &lt;font color="#ffe940"&gt;1&lt;/font&gt; récompense quotidienne. Se réinitialise à {time}</string>
-	<string key="objective_worldboss_task_legacyofcrassus_wave1_title" rel_version="Event_February_Temp">Héritage de Crassus : Étape 1/2</string>
-	<string key="objective_worldboss_task_legacyofcrassus_wave1_desc" rel_version="Event_February_Temp">Éliminez les envahisseurs restants : {remainingCount}</string>
-	<string key="objective_worldboss_task_legacyofcrassus_wave2_title" rel_version="Event_February_Temp">Héritage de Crassus : Étape 2/2</string>
-	<string key="objective_worldboss_task_legacyofcrassus_wave2_desc" rel_version="Event_February_Temp">Éliminez Decimus, Lucanas et les envahisseurs restants.</string>
+	<string key="ui_worldboss_defeated" rel_version="Event_February_Perm">Vaincu : {objective}</string>
+	<string key="ui_worldboss_daily_reset" rel_version="Event_February_Perm">La récompense quotidienne se réinitialise à {time}</string>
+	<string key="ui_worldboss_season_01_event" rel_version="Season_1_Temp">La fureur du spriggan</string>
+	<string key="ui_worldboss_season_01_event_description" rel_version="Season_1_Temp">La terre se soulève contre nous, soumet les dryades et l'arme qu'elles cherchent à invoquer.\n\nContient &lt;font color="#ffe940"&gt;3&lt;/font&gt; récompenses quotidiennes. Se réinitialise à {time}.</string>
+	<string key="objective_worldboss_task_season_01_event_wave0_title" rel_version="Season_1_Temp">Construire les braseros ardents pour renforcer vos armes et éliminer les dryades</string>
+	<string key="objective_worldboss_task_season_01_event_wave0_desc" rel_version="Season_1_Temp">Braseros ardents restants : {remainingCount}</string>
+	<string key="objective_worldboss_task_season_01_event_wave1_title" rel_version="Season_1_Temp">Renforcer vos armes aux braseros et tenir bon contre les dryades</string>
+	<string key="objective_worldboss_task_season_01_event_wave1_desc" rel_version="Season_1_Temp">Temps restant :</string>
+	<string key="objective_worldboss_task_season_01_event_wave2_title" rel_version="Season_1_Temp">Arrêter le rituel</string>
+	<string key="objective_worldboss_task_season_01_event_wave2_desc" rel_version="Season_1_Temp">Chamans restants : {remainingCount}</string>
+	<string key="objective_worldboss_task_season_01_event_wave3_title" rel_version="Season_1_Temp">Le rituel a été accompli ! Défendez-vous contre le spriggan !</string>
+	<string key="objective_worldboss_task_season_01_event_wave3_desc" rel_version="Season_1_Temp">Venez à bout du spriggan.</string>
+	<string key="objective_S01_Aidyn" rel_version="Season_1_Temp">La piste se précise</string>
+	<string key="objective_S01_Aidyn_description" rel_version="Season_1_Temp">Aidyn a été altérée par Sans-visage et a besoin de votre aide.</string>
+	<string key="objective_S01_Aidyn_task_approach_title" rel_version="Season_1_Temp">Aidyn a été altérée par Sans-visage et a besoin de votre aide.</string>
+	<string key="objective_S01_Aidyn_task_approach_desc" rel_version="Season_1_Temp">S'approcher d'Aidyn</string>
+	<string key="objective_S01_Aidyn_task_defeat_title" rel_version="Season_1_Temp">Aidyn a été altérée par Sans-visage et a besoin de votre aide.</string>
+	<string key="objective_S01_Aidyn_task_defeat_desc" rel_version="Season_1_Temp">Vaincre Aidyn</string>
+	<string key="objective_S01_Faceless" rel_version="Season_1_Temp">Le sorcier noir</string>
+	<string key="objective_S01_Faceless_description" rel_version="Season_1_Temp">Mettez un terme aux plans diaboliques de Sans-visage.</string>
+	<string key="objective_S01_Faceless_task_approach_title" rel_version="Season_1_Temp">Mettez un terme aux plans diaboliques de Sans-visage.</string>
+	<string key="objective_S01_Faceless_task_approach_desc" rel_version="Season_1_Temp">S'approcher de Sans-visage</string>
+	<string key="objective_S01_Faceless_task_defeat_title" rel_version="Season_1_Temp">Mettez un terme aux plans diaboliques de Sans-visage.</string>
+	<string key="objective_S01_Faceless_task_defeat_desc" rel_version="Season_1_Temp">Vaincre Sans-visage</string>
 </resources>
 

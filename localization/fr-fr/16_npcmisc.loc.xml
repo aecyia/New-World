@@ -32,7 +32,7 @@
 	<string key="1617_Publius" gender="Male" rel_version="Territory_Brimstone_Sands">Publius</string>
 	<string key="1618_Caeso" gender="Male" rel_version="Territory_Brimstone_Sands">Gaius Caeso</string>
 	<string key="1622_Innkeep" gender="Female" rel_version="Territory_Brimstone_Sands">Habibah</string>
-	<string key="1622_Innkeep_t" gender="Female" rel_version="Territory_Brimstone_Sands">Hôte</string>
+	<string key="1622_Innkeep_t" gender="Female" rel_version="Territory_Brimstone_Sands">Hôtesse</string>
 	<string key="1623_Fisher" gender="Female" rel_version="Territory_Brimstone_Sands" xsi:nil="true"/>
 	<string key="1623_Fisher_t" gender="Female" rel_version="Territory_Brimstone_Sands">Pêcheur expert</string>
 	<string key="1624_Imhotep" gender="Male" rel_version="Territory_Brimstone_Sands">Imhotep</string>

@@ -559,7 +559,7 @@
 	<string key="0623_0102_d_03_TaskFishingHook" speaker="UI">Fisgue o peixe</string>
 	<string key="0623_0102_d_04_TaskFishingReel" speaker="UI">Puxe o peixe</string>
 	<string key="0423_0101_FQ03_objective_title" speaker="UI _ Quest Title">Fisgado</string>
-	<string key="0423_0101_FQ03_objective_desc" speaker="UI - Quest Description">Pesque um Caramujo na Água Doce e um Molusco na Água Salgada, retire as partes úteis deles para usar como isca para a Mestra de Pesca Ruby e entregue-os à Mestra de Pesca Clemenson em Primeira Luz.</string>
+	<string key="0423_0101_FQ03_objective_desc" speaker="UI - Quest Description">Pesque um Caramujo na Água Doce e um Molusco na Água Salgada, retire as partes úteis deles para usar como isca para a Mestra de Pesca Ruby e entregue-os à Mestra de Pesca Clemenson em Falésias do Monarca.</string>
 	<string key="0423_0101_FQ03_prompt" speaker="UI - Player Prompt">“Sim. O Mestre de Pesca Shields me mandou aqui.”</string>
 	<string key="0423_0101_FQ03_proposal" speaker="Master Fisher Ruby - Everfall" name="MasterFisherRuby" VO="Fisher_0423_0101_FQ03_ProposalResponse" VO_Status="Recorded" dialogue-next="@0423_0101_FQ03_proposal_next">Na água doce, as iscas mais comuns que você consegue adquirir são caramujos, e na água do oceano, moluscos. \n\nA Mestra de Pesca Clemenson ficaria muito agradecida se esta isca de água salgada fosse entregue a ela. </string>
 	<string key="0423_0101_FQ03_proposal_prompt" speaker="UI - Player Prompt">“Por que estou pescando para um Mestre de Pesca?”</string>
@@ -645,11 +645,11 @@
 	<string key="1424_0101_FQ11_complete_available_response" speaker="Master Fisher Davies - Edengrove" name="MasterFisherDavies" VO="Fisher_1424_0101_FQ11_AvailResponse" VO_Status="Recorded">Sim, isso mesmo... Venham para o Papai, peixinhos... Opa! Quase não vi você aí. Cantar enquanto pesco me acalma.\n\nVocê trouxe um baita estoque de comida para os nossos Guardas Espirituais famintos.</string>
 	<string key="1424_0101_d_01_TaskFishingCatchFish" speaker="UI">Pesque um {itemName}</string>
 	<string key="0324_0101_FQ12_objective_title" speaker="UI">Peixe com Toque de Azoth</string>
-	<string key="0324_0101_FQ12_objective_desc" speaker="UI">Pesque um Peixe com Toque de Azoth no Bosque do Éden para o Mestre de Pesca Davies e entregue-o ao Mestre de Pesca Bernard na Montanha Arruinada.</string>
+	<string key="0324_0101_FQ12_objective_desc" speaker="UI">Pesque um Peixe com Toque de Azoth em Montanha Arruinada e entregue-o ao Mestre de Pesca Bernard.</string>
 	<string key="0324_0101_FQ12_prompt" speaker="UI - Player Prompt">“O que mais há na água além dos peixes?”</string>
 	<string key="0324_0101_FQ12_proposal" speaker="Master Fisher Davies - Edengrove" name="MasterFisherDavies" VO="Fisher_0324_0101_FQ12_ProposalResponse" VO_Status="Recorded" dialogue-next="@0324_0101_FQ12_proposal_next">Também temos criaturas míticas, como o Peixe com Toque de Azoth.</string>
 	<string key="0324_0101_FQ12_proposal_prompt" speaker="UI - Player Prompt">“O que é um Peixe com Toque de Azoth?”</string>
-	<string key="0324_0101_FQ12_proposal_next" speaker="Master Fisher Davies - Edengrove" name="MasterFisherDavies" VO="Fisher_0324_0101_FQ12_CompleteNext" VO_Status="Recorded" dialogue-prompt="@0324_0101_FQ12_proposal_prompt">Um peixe cuja essência inteira foi possuída e dominada pelos poderes mágicos do Azoth, é claro! Pegue um para Bernard em Montanha Arruinada e pesque um aqui em Bosque do Éden onde as águas cintilam com Azoth.</string>
+	<string key="0324_0101_FQ12_proposal_next" speaker="Master Fisher Davies - Edengrove" name="MasterFisherDavies" VO="Fisher_0324_0101_FQ12_CompleteNext" VO_Status="Recorded" dialogue-prompt="@0324_0101_FQ12_proposal_prompt">Um peixe cuja essência inteira foi possuída e dominada pelos poderes mágicos do Azoth, é claro! Pesque um para Bernard em Montanha Arruinada.</string>
 	<string key="0324_0101_FQ12_incomplete" speaker="Master Fisher Davies - Edengrove">Não perca o ânimo se ainda não conseguiu pegar um Peixe com Toque de Azoth. Esses danados são lisos e rápidos, no mínimo.</string>
 	<string key="0324_0101_FQ12_complete_available_response" speaker="Master Fisher Bernard - Shattered Mtn" name="MasterFisherBernard" VO="Fisher_0324_0101_FQ12_AvailResponse" VO_Status="Recorded">Ah, presumo que seja a pessoa interessada em pesca que Davies enviou, certo? Que peixe estranho você tem aí.</string>
 	<string key="0324_0101_d_01_TaskFishingCatchWeight" speaker="UI">Pesque um peixe com peso superior a 30 libras</string>

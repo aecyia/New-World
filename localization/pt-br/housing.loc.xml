@@ -43,9 +43,9 @@
 	<string key="ui_fast_travel_to" comment="Fast Travel">Viagem Rápida até</string>
 	<string key="ui_fast_travel_uncharted_point" comment="Fast Travel">Ponto de Viagem Rápida Inexplorado</string>
 	<string key="ui_house_recall_popup_confirm" comment="Fast Travel">Quer retornar à sua casa?</string>
-	<string key="ui_house_travel_cooldown_remaining" comment="Fast Travel">É possível fazer Viagem rápida novamente em {time}</string>
+	<string key="ui_house_travel_cooldown_remaining" comment="Fast Travel">É possível fazer Viagem Rápida novamente em {time}</string>
 	<string key="ui_housing_fast_travel" comment="Fast Travel">Viagem Rápida</string>
-	<string key="ui_housing_fast_travel_desc" comment="Fast Travel">De qualquer lugar, para o seu lar</string>
+	<string key="ui_housing_fast_travel_desc" comment="Fast Travel">De qualquer lugar até aqui</string>
 	<string key="ui_need_reset_travel_currency" comment="Fast Travel">Você precisa de {coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; para reiniciar a recarga.</string>
 	<string key="ui_recall_not_available_server_error" comment="Fast Travel">Não foi possível retornar devido a um erro de servidor.</string>
 	<string key="ui_recall_to" comment="Fast Travel">Retornar a</string>
@@ -59,21 +59,21 @@
 	<string key="ui_travel" comment="Fast Travel">Viagem</string>
 	<string key="ui_watchtower_fast_travel" comment="Fast Travel">Retornar à Torre de Vigia</string>
 	<string key="ui_watchtower_recall_from_esc_popup_confirm" comment="Fast Travel">Você gostaria de retornar à torre de vigia localizada em {territoryName}?</string>
-	<string key="ui_group_member_homes" comment="House Plots">Casas de Membros do Grupo</string>
-	<string key="ui_group_member_homes_no_data" comment="House Plots">Não há membros do grupo vivendo neste lote.</string>
+	<string key="ui_group_member_homes" comment="House Plots">Grupo</string>
+	<string key="ui_group_member_homes_no_data" comment="House Plots">Nenhum membro do grupo possui uma casa aqui.</string>
 	<string key="ui_house" comment="House Plots">Casa</string>
 	<string key="ui_house_already_owned" comment="House Plots">Já Adquirida</string>
 	<string key="ui_house_max_home_owned_on_territory" comment="House Plots">Máximo de Casas Adquiridas No Território</string>
 	<string key="ui_house_menu" comment="House Plots">Gerenciar sua Casa</string>
-	<string key="ui_house_preview" comment="House Plots">Pré-visualizar esta casa</string>
-	<string key="ui_house_price" comment="House Plots">Preço da Casa</string>
-	<string key="ui_house_type" comment="House Plots">Tipo da Casa</string>
+	<string key="ui_house_preview" comment="House Plots">Pré-visualização</string>
+	<string key="ui_house_price" comment="House Plots">Preço</string>
+	<string key="ui_house_type" comment="House Plots">Tipo</string>
 	<string key="ui_house_type_cooldown" comment="House Plots">Recarga</string>
 	<string key="ui_house_type_items" comment="House Plots">Itens</string>
 	<string key="ui_housing_cant_afford" comment="House Plots">Você precisa de mais moedas para comprar esta casa.</string>
 	<string key="ui_housing_disabled" comment="House Plots">Desativada</string>
 	<string key="ui_housing_enabled" comment="House Plots">Ativada</string>
-	<string key="ui_housing_features" comment="House Plots">Recursos de Alojamento</string>
+	<string key="ui_housing_features" comment="House Plots">Características</string>
 	<string key="ui_housing_hide_ui" comment="House Plots">Ocultar</string>
 	<string key="ui_housing_next_due_in" comment="House Plots">Próximo Pagamento em</string>
 	<string key="ui_housing_select_house" comment="House Plots">Selecionar uma casa para visualizar</string>
@@ -88,13 +88,13 @@
 	<string key="ui_my_house_map_title" comment="House Plots">Sua Casa</string>
 	<string key="ui_my_houses_map_title" comment="House Plots">Suas Casas</string>
 	<string key="ui_no_home_owners" comment="House Plots">Casa Vazia</string>
-	<string key="ui_owner_list" comment="House Plots">Lista do Proprietário</string>
+	<string key="ui_owner_list" comment="House Plots">Proprietários</string>
 	<string key="ui_red_button_housing_disabled" comment="House Plots">O alojamento está desativado no momento devido à manutenção</string>
 	<string key="ui_red_button_housing_disabled_title" comment="House Plots">Alojamento Desativado</string>
 	<string key="ui_residence" comment="House Plots">Residência de {playerName}</string>
 	<string key="ui_resident_homes_already_showing_current" comment="House Plots">Vazio</string>
-	<string key="ui_resident_homes_no_data" comment="House Plots">Não há nenhum outro jogador vivendo neste lote no momento.</string>
-	<string key="ui_top_houses" comment="House Plots">Melhores &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;20&lt;/font&gt; Casas</string>
+	<string key="ui_resident_homes_no_data" comment="House Plots">Nenhum outro jogador possui uma casa aqui.</string>
+	<string key="ui_top_houses" comment="House Plots">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;20&lt;/font&gt; Melhores</string>
 	<string key="ui_your_house" comment="House Plots">Sua Casa</string>
 	<string key="ui_your_house_disabled" comment="House Plots">Sua Casa (Desativada)</string>
 	<string key="ui_beds" comment="Housing Category">Camas</string>
@@ -128,7 +128,7 @@
 	<string key="ui_house_hud_hint" comment="Housing Hints">Invisível para outros jogadores</string>
 	<string key="ui_housing_grid_snap_hint" comment="Housing Hints">Posicionamento na Grade</string>
 	<string key="ui_housing_grid_snap_hint_colon" comment="Housing Hints">Posicionamento na Grade:</string>
-	<string key="ui_housing_rotate_camera_hint" comment="Housing Hints">&lt;img src="lyshineui/images/icons/misc/Icon_RightMouseButton" xPadding="0" scale="2.2" yOffset="8"&gt;&lt;/img&gt; Rotacionar Câmera</string>
+	<string key="ui_housing_rotate_camera_hint" comment="Housing Hints">&lt;img src="lyshineui/images/icons/misc/Icon_RightMouseButton" xPadding="0" scale="2.2" yOffset="8"&gt;&lt;/img&gt; (Segurar) Rotacionar Câmera</string>
 	<string key="ui_housing_rotate_object_hint" comment="Housing Hints">Rotacionar Objeto</string>
 	<string key="ui_housing_surface_lock_hint" comment="Housing Hints">Fixar na Superfície</string>
 	<string key="ui_housing_surface_lock_hint_colon" comment="Housing Hints">Fixar na Superfície:</string>
@@ -139,29 +139,29 @@
 	<string key="ui_house_type_pet_singular" comment="Housing Item Cap Messaging">animal de estimação</string>
 	<string key="ui_house_type_storage_chest_plural" comment="Housing Item Cap Messaging">baús de armazenamento</string>
 	<string key="ui_house_type_storage_chest_singular" comment="Housing Item Cap Messaging">baú de armazenamento</string>
-	<string key="ui_currently_displaying" comment="Housing Score/Points">Exibido no momento ao público</string>
+	<string key="ui_currently_displaying" comment="Housing Score/Points">Pública</string>
 	<string key="ui_housing_item_score" comment="Housing Score/Points">Pontuação de Decoração</string>
-	<string key="ui_housing_point_tooltip" comment="Housing Score/Points">As 20 casas com pontuação da casa mais altas são atualizadas nesta lista a cada 2 dias.\n\nA pontuação da casa é calculada com base nos ganhos do jogador de Posição do Território e os móveis colocados na propriedade.</string>
+	<string key="ui_housing_point_tooltip" comment="Housing Score/Points">As 20 melhores casas são determinadas a cada 2 dias pelas pontuações mais altas, que são calculadas com base na Posição do Território conquistada pelos proprietários e na mobília colocada em suas propriedades.</string>
 	<string key="ui_num_housing_points" comment="Housing Score/Points">{points} Pontos</string>
 	<string key="ui_cant_pay_property_tax" comment="Housing Taxes">É possível pagar em {time}</string>
 	<string key="ui_decoration_mode_unpaid" comment="Housing Taxes">Impostos devem ser pagos para decorar sua casa.</string>
 	<string key="ui_house_compensation_message_JAV141577" comment="Housing Taxes">Devido a mensagens incorretas sobre o imposto para jogadores que comprarem sua primeira casa, você ganhou {amount} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; como um proprietário de casa. Esperamos que você continue curtindo New World e sua casa.</string>
-	<string key="ui_house_overdue_at" comment="Housing Taxes">Taxa de manutenção do imóvel em {territoryName} VENCIDA. Pague a taxa de manutenção do imóvel para continuar fazendo viagens rápidas e decorações.</string>
-	<string key="ui_house_overdue_desc" comment="Housing Taxes">A taxa de manutenção do imóvel está VENCIDA. Pague a taxa de manutenção do imóvel para ativar os recursos de alojamento.</string>
-	<string key="ui_house_overdue_label" comment="Housing Taxes">Taxa de manutenção do imóvel VENCIDA</string>
+	<string key="ui_house_overdue_at" comment="Housing Taxes">A taxa de manutenção do imóvel está vencida em {territoryName}. Pague a taxa de manutenção do imóvel para ativar os recursos de alojamento.</string>
+	<string key="ui_house_overdue_desc" comment="Housing Taxes">A taxa de manutenção do imóvel está vencida. Pague a taxa de manutenção do imóvel para ativar os recursos de alojamento.</string>
+	<string key="ui_house_overdue_label" comment="Housing Taxes">Taxa de manutenção do imóvel vencida</string>
 	<string key="ui_house_property_tax_desc" comment="Housing Taxes">{coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_house_property_tax_sub_desc" comment="Housing Taxes">/ período de pagamento necessário para manter esta casa.</string>
-	<string key="ui_house_tax" comment="Housing Taxes">Taxa de Manutenção do Território</string>
+	<string key="ui_house_tax" comment="Housing Taxes">Manutenção</string>
 	<string key="ui_house_tax_unpaid_flyout_warning" comment="Housing Taxes">Casa desativada devido à taxa de manutenção não paga.</string>
 	<string key="ui_house_unpaid_taxes" comment="Housing Taxes">Quantia Devida</string>
-	<string key="ui_house_unpaid_taxes_due_soon" comment="Housing Taxes">Taxa de Manutenção do Território de {territoryName} em: {time}. Pague a taxa de manutenção do imóvel para continuar fazendo viagens rápidas e decorações.</string>
+	<string key="ui_house_unpaid_taxes_due_soon" comment="Housing Taxes">Taxa de manutenção do imóvel de {territoryName} em: {time}. Pague a taxa de manutenção do imóvel para continuar utilizando recursos de alojamento.</string>
 	<string key="ui_house_unpaid_taxes_string" comment="Housing Taxes">Sua Casa (Desativada)</string>
-	<string key="ui_housing_disabled_tooltip" comment="Housing Taxes">Sua Casa está desativada. Pague a taxa de manutenção agora para reativar sua casa!</string>
+	<string key="ui_housing_disabled_tooltip" comment="Housing Taxes">Sua Casa está desativada. Pague a taxa de manutenção agora para ativar sua casa.</string>
 	<string key="ui_housing_pay_taxes" comment="Housing Taxes">Pagar Taxa de Manutenção</string>
 	<string key="ui_pay_house_tax_fail" comment="Housing Taxes">Erro ao pagar taxa de manutenção da casa. Tente novamente.</string>
 	<string key="ui_pay_property_tax" comment="Housing Taxes">Pagar Taxa de Manutenção</string>
 	<string key="ui_pay_property_tax_desc" comment="Housing Taxes">Pague a taxa de manutenção do imóvel usando o mapa ou quando estiver na sua casa.</string>
-	<string key="ui_pay_property_tax_popup_desc" comment="Housing Taxes">É preciso pagar a taxa de manutenção do imóvel para retornar à sua casa, renascer na sua casa e decorar sua casa.\nA taxa de manutenção está prevista para {firstCycle} após a compra de uma casa e a cada {otherCycle} subsequente.</string>
+	<string key="ui_pay_property_tax_popup_desc" comment="Housing Taxes">É preciso pagar a taxa de manutenção do imóvel para retornar, renascer e decorar sua casa.\nA taxa de manutenção está prevista para {firstCycle} após a compra de uma casa e a cada {otherCycle} subsequente.</string>
 	<string key="ui_property_tax" comment="Housing Taxes">Taxa de Manutenção do Imóvel</string>
 	<string key="ui_property_tax_amount_desc" comment="Housing Taxes">Taxa Periódica de Manutenção do Imóvel</string>
 	<string key="ui_property_tax_desc" comment="Housing Taxes">Pague a taxa periódica de manutenção para continuar usando os recursos de alojamento.</string>
@@ -169,11 +169,11 @@
 	<string key="ui_property_tax_disabled_short" comment="Housing Taxes">Taxa de manutenção do imóvel desativada</string>
 	<string key="ui_property_tax_due" comment="Housing Taxes">Valor Devido</string>
 	<string key="ui_property_tax_success_desc" comment="Housing Taxes">Você pagou com êxito a Taxa de Manutenção da sua casa.</string>
-	<string key="ui_view_taxinfo" comment="Housing Taxes">Detalhes do Assentamento/Informação da Guerra</string>
+	<string key="ui_view_taxinfo" comment="Housing Taxes">Detalhes do Assentamento/Guerra</string>
 	<string key="ui_your_house_desc" comment="Housing Taxes">Você sempre pode retornar e renascer na sua casa, desde que a taxa de manutenção tenha sido paga.</string>
-	<string key="ui_house_type_trophies" comment="Housing Trophy Buffs">Espaços de Troféu</string>
-	<string key="ui_housing_trophy_buff" comment="Housing Trophy Buffs">Buff de Troféus</string>
-	<string key="ui_housing_trophy_buff_desc" comment="Housing Trophy Buffs">Posicione troféus que concedem buffs</string>
+	<string key="ui_house_type_trophies" comment="Housing Trophy Buffs">Espaços</string>
+	<string key="ui_housing_trophy_buff" comment="Housing Trophy Buffs">Troféus</string>
+	<string key="ui_housing_trophy_buff_desc" comment="Housing Trophy Buffs">Lugar para conseguir buffs</string>
 	<string key="ui_housing_trophy_buff_desc_tooltip" comment="Housing Trophy Buffs">Um troféu que te inspira quando colocado em sua casa.</string>
 	<string key="ui_housing_trophy_buffs" comment="Housing Trophy Buffs">Buffs de Troféus</string>
 	<string key="ui_housing_trophy_buffs_disabled" comment="Housing Trophy Buffs">Buffs de Troféus (Desativados)</string>
@@ -197,7 +197,7 @@
 	<string key="ui_house_all_placed_category" comment="Placed Housing Items">Todos os itens nesta casa</string>
 	<string key="ui_house_placed_items" comment="Placed Housing Items">Colocado(s)</string>
 	<string key="ui_housing_decorate" comment="Placed Housing Items">Decorar</string>
-	<string key="ui_housing_decorate_desc" comment="Placed Housing Items">Posicione Mobília e Animais de Estimação</string>
+	<string key="ui_housing_decorate_desc" comment="Placed Housing Items">Posicione mobília e animais de estimação</string>
 	<string key="ui_housing_decorations" comment="Placed Housing Items">Modo Decoração</string>
 	<string key="ui_housing_item_animated" comment="Placed Housing Items">Decoração Animada</string>
 	<string key="ui_housing_item_count" comment="Placed Housing Items">Decorações Colocadas</string>
@@ -216,7 +216,7 @@
 	<string key="ui_home_purchase_error_level" comment="Purchase House">É preciso estar no nível {level} de jogador para comprar sua próxima casa.</string>
 	<string key="ui_home_purchase_error_level_first" comment="Purchase House">É preciso estar no nível {level} de jogador para comprar sua primeira casa.</string>
 	<string key="ui_house_compensation_title" comment="Purchase House">Compensação de Alojamento</string>
-	<string key="ui_house_purchase" comment="Purchase House">Comprar esta casa {coinText}</string>
+	<string key="ui_house_purchase" comment="Purchase House">Comprar</string>
 	<string key="ui_house_purchase_level_requirement" comment="Purchase House">Nível de Jogador {amount}</string>
 	<string key="ui_house_purchase_confirm_popup_desc" comment="Purchase House">Quer comprar esta casa?</string>
 	<string key="ui_house_purchase_confirm_popup_no_button" comment="Purchase House">Cancelar</string>
@@ -231,7 +231,7 @@
 	<string key="ui_house_purchase_standing_requirement" comment="Purchase House">Nível de Posição de {standingName}: {standingValue}</string>
 	<string key="ui_house_purchased" comment="Purchase House">Casa comprada!</string>
 	<string key="ui_house_purchased_detail" comment="Purchase House">Parabéns, agora você é &lt;font color="#FFFFFF"&gt;proprietário de uma casa&lt;/font&gt; em &lt;font color="#F4D179"&gt;{settlementName}&lt;/font&gt;! Lembre-se de pagar a taxa de manutenção do imóvel para usar os recursos de alojamento!</string>
-	<string key="ui_housing_purchase_house" comment="Purchase House">Comprar esta Casa</string>
+	<string key="ui_housing_purchase_house" comment="Purchase House">Comprar Casa</string>
 	<string key="ui_reward_type_community_goal_territory_standing" comment="Settlement">{amount} Posição do Território</string>
 	<string key="ui_this_location" comment="Settlement">Este local</string>
 	<string key="ui_town_center" comment="Settlement">Centro da Vila</string>
@@ -244,8 +244,8 @@
 	<string key="ui_inn_checked_in" comment="Settlement Inn">{territoryName} é o seu novo ponto de retorno.</string>
 	<string key="ui_inn_fast_travel" comment="Settlement Inn">Retornar à Estalagem</string>
 	<string key="ui_inn_fast_travel_notavailable" comment="Settlement Inn">Pode Retornar em: {time}</string>
-	<string key="ui_inn_header" comment="Settlement Inn">Estalagem {territoryName}.</string>
-	<string key="ui_inn_map_tooltip" comment="Settlement Inn">&lt;font color="#949494"&gt;&lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;Não deu entrada&lt;/font&gt;&lt;/font&gt;\nDê entrada na estalagem para definir um ponto de retorno e renascimento.</string>
+	<string key="ui_inn_header" comment="Settlement Inn">Estalagem de {territoryName}</string>
+	<string key="ui_inn_map_tooltip" comment="Settlement Inn">&lt;font color="#949494"&gt;&lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;Não deu entrada&lt;/font&gt;&lt;/font&gt;\nDê entrada para definir um ponto de retorno e renascimento.</string>
 	<string key="ui_inn_recall_from_esc_popup_confirm" comment="Settlement Inn">Quer retornar à estalagem localizada em {territoryName}?</string>
 	<string key="ui_inn_recall_popup_confirm" comment="Settlement Inn">Quer retornar a esta estalagem?</string>
 	<string key="ui_inn_replace_desc" comment="Settlement Inn">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Bem-vindo(a) à Estalagem {territoryName}!&lt;/font&gt;&lt;/font&gt;\n\n Gostaria de &lt;font color="#f3d981"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;dar entrada&lt;/font&gt;&lt;/font&gt;?\nFaça isso para retornar e renascer neste assentamento\nesteja onde estiver!\n\n&lt;font color="#f3d981"&gt;O ponto de retorno atual será substituído.&lt;/font&gt;</string>
@@ -255,7 +255,7 @@
 	<string key="ui_your_inn" comment="Settlement Inn">&lt;font color="#73b651"&gt;&lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;Deu entrada&lt;/font&gt;&lt;/font&gt;\nEstalagem ativa. Você pode retornar e renascer nesta estalagem esteja onde estiver.</string>
 	<string key="ui_housing_item_storage" comment="Storage">Recipientes</string>
 	<string key="ui_return_to_storage" comment="Storage">Devolver para o armazenamento</string>
-	<string key="ui_view_personalstorage" comment="Storage">Meu Armazém</string>
+	<string key="ui_view_personalstorage" comment="Storage">Despensa</string>
 	<string key="ui_view_warinfo" comment="Territory Wars">Ver Informações da Guerra</string>
 	<string key="ui_housing_item_over_placement_no_points" comment="Placed Housing Items">Aviso: Você alcançou o limite de pontos de alojamento para este item.</string>
 	<string key="ui_housing_item_over_placement_negative_points" comment="Placed Housing Items">Aviso: Posicionar muitos do mesmo tipo de item de alojamento acumulará pontos negativos.</string>

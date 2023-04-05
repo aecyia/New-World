@@ -46,17 +46,17 @@
 	<string key="ui_attachments_interact">Configura edificio</string>
 	<string key="ui_generator_interact">Gestisci contenuti</string>
 	<string key="ui_territory_interact">Gestisci insediamento</string>
-	<string key="ui_storage_interact">Visualizza contenuti</string>
+	<string key="ui_storage_interact">Apri</string>
 	<string key="ui_paint_interact">Dipingi</string>
 	<string key="ui_prefab_refinery_interact">Lavora</string>
 	<string key="ui_rest">Riposa</string>
 	<string key="ui_add_to_journal">Aggiungi al diario</string>
-	<string key="ui_journal_notification_title">Nuova pagina scoperta</string>
-	<string key="ui_journal_notification_body">La pagina {loreTitle} è stata aggiunta al tuo diario.</string>
-	<string key="ui_journal_notification_info">Capitolo {chapterTitle}, pagina {currentPage} di {totalPages}</string>
+	<string key="ui_journal_notification_title">Documento scoperto</string>
+	<string key="ui_journal_notification_body">Aggiunto al diario: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{loreTitle}&lt;/font&gt;.</string>
+	<string key="ui_journal_notification_info">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{chapterTitle}&lt;/font&gt;, {currentPage}/{totalPages}</string>
 	<string key="ui_chapter_discovered_title">NUOVO CAPITOLO SCOPERTO</string>
 	<string key="ui_chapter_complete_title">CAPITOLO COMPLETO</string>
-	<string key="ui_view_mission_board">Visualizza tabellone missioni</string>
+	<string key="ui_view_mission_board">Visualizza missioni</string>
 	<string key="ui_view_armory">Visualizza armeria</string>
 	<string key="ui_view_territory_progression">Visualizza avanzamento territorio</string>
 	<string key="ui_view_town_projects">Visualizza progetti cittadini</string>
@@ -102,5 +102,6 @@
 	<string key="ui_reset_available_in">Disponibile tra {time}</string>
 	<string key="ui_emote_gather">[{keybind}] Esegui l'emote {tagName} per raccogliere</string>
 	<string key="ui_emotetag_dance">Ballare</string>
+	<string key="ui_use_item">Usa</string>
 </resources>
 

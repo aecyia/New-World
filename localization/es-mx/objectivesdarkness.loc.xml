@@ -82,7 +82,14 @@
 	<string key="ui_holdout_chamber_Obj_Task_01" rel_version="Quest_MSQ2_Revamp">Empezar la prueba</string>
 	<string key="ui_holdout_chamber_Obj_Task_01_desc" rel_version="Quest_MSQ2_Revamp">Interactúa con el glifo para comenzar la prueba.</string>
 	<string key="ui_holdout_chamber_Obj_Task_02" rel_version="Quest_MSQ2_Revamp">Sobrevive a la prueba.</string>
-	<string key="ui_holdout_chamber_Obj_Task_02_desc" rel_version="Quest_MSQ2_Revamp">Tiempo restante: </string>
+	<string key="ui_holdout_chamber_Obj_Task_02_desc" rel_version="Quest_MSQ2_Revamp">Tiempo restante:</string>
+	<string key="objective_lostattack_swampwaterfishery_title">Dispositivo antiguo</string>
+	<string key="objective_lostattack_swampwaterfishery_desc">Investiga el dispositivo antiguo a la orilla del río.</string>
+	<string key="objective_lostattack_swampwaterfishery_wave_01">Defender dispositivo antiguo: {remainingCount}/1 \nTiempo restante:</string>
+	<string key="objective_lostattack_piscarianfishery_title">Dispositivo antiguo:</string>
+	<string key="objective_lostattack_piscarianfishery_desc">Investiga el dispositivo antiguo en la pasarela.</string>
+	<string key="objective_lostattack_piscarianfishery_wave_01">Defender dispositivo antiguo: {remainingCount}/1 \nTiempo restante:</string>
+	<string key="ui_boatencounter_scallywag_description" rel_version="Quest_MSQ2_Revamp">El brutal capitán Esteban y su tripulación están atacando la costa. ¡Envía a esas ratas despreciables de vuelta al mar!</string>
 	<string key="event_completed">Evento completado</string>
 	<string key="ui_legion_outpost_attack" rel_version="Territory_Brimstone_Sands">El asedio de Arenas de Azufre</string>
 	<string key="ui_legion_outpost_attack_description" rel_version="Territory_Brimstone_Sands">¡La legión está avanzando! ¡Detenlos antes de que lleguen al puesto de avanzada en Wikala al-Waha!</string>
@@ -146,13 +153,29 @@
 	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_setup_desc" rel_version="Quest_MSQ2_Revamp">Enfréntate al supervisor Zane</string>
 	<string key="ui_turkeyterror_worldboss_Turkulon">El terror de Turkulon</string>
 	<string key="ui_turkeyterror_worldboss_Turkulon_description">Turkulon ha regresado para vengar a sus camaradas caídos.</string>
-	<string key="ui_worldboss_defeated" rel_version="Event_February_Temp">Has derrotado a {objective}</string>
-	<string key="ui_worldboss_daily_reset" rel_version="Event_February_Temp">La recompensa diaria se restablece a las {time}</string>
-	<string key="ui_worldboss_legacyofcrassus" rel_version="Event_February_Temp">Legado de Crassus</string>
-	<string key="ui_worldboss_legacyofcrassus_description" rel_version="Event_February_Temp">¡El poder de Roma es una amenaza para Aeternum! Atrapa a los monstruosos capitanes de Crassus, Décimo y Lucano, y elimina la sombra de la tiranía de Roma. Consigue recompensas diarias además de las recompensas por acabar con estos despiadados mercenarios en Brightwood, el Pantano del tejedor, Mourningdale, Ebonscale Reach y Edengrove.\n\nContiene &lt;font color="#ffe940"&gt;1&lt;/font&gt; recompensa diaria. Se restablece a las {time}</string>
-	<string key="objective_worldboss_task_legacyofcrassus_wave1_title" rel_version="Event_February_Temp">Legado de Crassus: Etapa 1/2</string>
-	<string key="objective_worldboss_task_legacyofcrassus_wave1_desc" rel_version="Event_February_Temp">Derrota a los invasores restantes: {remainingCount}</string>
-	<string key="objective_worldboss_task_legacyofcrassus_wave2_title" rel_version="Event_February_Temp">Legado de Crassus: Etapa 2/2</string>
-	<string key="objective_worldboss_task_legacyofcrassus_wave2_desc" rel_version="Event_February_Temp">Derrota a Décimo, Lucano y a los invasores restantes.</string>
+	<string key="ui_worldboss_defeated" rel_version="Event_February_Perm">Has derrotado a {objective}</string>
+	<string key="ui_worldboss_daily_reset" rel_version="Event_February_Perm">La recompensa diaria se restablece a las {time}</string>
+	<string key="ui_worldboss_season_01_event" rel_version="Season_1_Temp">Furia de los Spriggan</string>
+	<string key="ui_worldboss_season_01_event_description" rel_version="Season_1_Temp">La tierra se alza contra nosotros. Somete a los dríades y al arma que intentan invocar.\n\nContiene &lt;font color="#ffe940"&gt;3&lt;/font&gt; recompensas diarias. Se restablece a las {time}</string>
+	<string key="objective_worldboss_task_season_01_event_wave0_title" rel_version="Season_1_Temp">Construye los braseros candentes para fortalecer tus armas y derrotar a los dríades.</string>
+	<string key="objective_worldboss_task_season_01_event_wave0_desc" rel_version="Season_1_Temp">Braseros candentes restantes: {remainingCount}</string>
+	<string key="objective_worldboss_task_season_01_event_wave1_title" rel_version="Season_1_Temp">Fortalece tus armas en los braseros y derrota a los dríades.</string>
+	<string key="objective_worldboss_task_season_01_event_wave1_desc" rel_version="Season_1_Temp">Tiempo restante:</string>
+	<string key="objective_worldboss_task_season_01_event_wave2_title" rel_version="Season_1_Temp">Detén el ritual.</string>
+	<string key="objective_worldboss_task_season_01_event_wave2_desc" rel_version="Season_1_Temp">Chamanes restantes: {remainingCount}</string>
+	<string key="objective_worldboss_task_season_01_event_wave3_title" rel_version="Season_1_Temp">¡El ritual se completó! ¡Defiéndete del spriggan!</string>
+	<string key="objective_worldboss_task_season_01_event_wave3_desc" rel_version="Season_1_Temp">Derrota al spriggan.</string>
+	<string key="objective_S01_Aidyn" rel_version="Season_1_Temp">Siguiendo el rastro</string>
+	<string key="objective_S01_Aidyn_description" rel_version="Season_1_Temp">Sin Rostro ha corrompido a Aidyn y necesita ayuda.</string>
+	<string key="objective_S01_Aidyn_task_approach_title" rel_version="Season_1_Temp">Sin Rostro ha corrompido a Aidyn y necesita ayuda.</string>
+	<string key="objective_S01_Aidyn_task_approach_desc" rel_version="Season_1_Temp">Acércate a Aidyn.</string>
+	<string key="objective_S01_Aidyn_task_defeat_title" rel_version="Season_1_Temp">Sin Rostro ha corrompido a Aidyn y necesita ayuda.</string>
+	<string key="objective_S01_Aidyn_task_defeat_desc" rel_version="Season_1_Temp">Derrota a Aidyn.</string>
+	<string key="objective_S01_Faceless" rel_version="Season_1_Temp">El hechicero oscuro</string>
+	<string key="objective_S01_Faceless_description" rel_version="Season_1_Temp">Pon fin a los malvados planes de Sin Rostro.</string>
+	<string key="objective_S01_Faceless_task_approach_title" rel_version="Season_1_Temp">Pon fin a los malvados planes de Sin Rostro.</string>
+	<string key="objective_S01_Faceless_task_approach_desc" rel_version="Season_1_Temp">Acércate a Sin Rostro.</string>
+	<string key="objective_S01_Faceless_task_defeat_title" rel_version="Season_1_Temp">Pon fin a los malvados planes de Sin Rostro.</string>
+	<string key="objective_S01_Faceless_task_defeat_desc" rel_version="Season_1_Temp">Derrota a Sin rostro.</string>
 </resources>
 

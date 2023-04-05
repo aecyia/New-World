@@ -68,7 +68,7 @@
 	<string key="inv_salvage">Odzyskaj</string>
 	<string key="ui_salvage_icon">&lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_salvage" scale="1.75" yOffset="3.5"&gt;&lt;/img&gt; Odzyskaj</string>
 	<string key="ui_salvage_icon_noconfirm">&lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_salvage" scale="1.75" yOffset="3.5"&gt;&lt;/img&gt; Szybki odzysk</string>
-	<string key="ui_salvage_lock_icon">&lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_salvage" scale="1.75" yOffset="3.5"&gt;&lt;/img&gt; Blokada odzysku</string>
+	<string key="ui_salvage_lock_icon">Przełącz blokadę</string>
 	<string key="ui_inv_noNeedRepair">&lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_repair" scale="1.75" yOffset="3.5"&gt;&lt;/img&gt; Nie potrzebuje naprawy</string>
 	<string key="inv_salvage_confirm">Na pewno rozebrać ten przedmiot?</string>
 	<string key="inv_rarity_salvage_confirm">Próbujesz rozebrać potężny przedmiot. Na pewno?</string>
@@ -96,7 +96,7 @@
 	<string key="ui_addnsaddle">Dodaj\nsiodło</string>
 	<string key="ui_adventurer">Podróżnik</string>
 	<string key="ui_affliction_bleeding">odporność na zranienie</string>
-	<string key="ui_affliction_bleeding_tooltip">Gdy odporność na zranienie wyczerpie się, postać zostanie zraniona i będzie znacznie wolniej odzyskiwać energię</string>
+	<string key="ui_affliction_bleeding_tooltip">Gdy odporność na zranienie wyczerpie się, postać zostanie zraniona i będzie znacznie wolniej odzyskiwać wytrzymałość.</string>
 	<string key="ui_affliction_burn">odporność na oparzenia</string>
 	<string key="ui_affliction_curse">odporność na skażenie</string>
 	<string key="ui_affliction_curse_tooltip">Jeśli stracisz odporność na skażenie, dopadnie cię skażenie i natychmiast otrzymasz obrażenia równe {[Type_StatusEffectData.Curse.HealthModifierPercent * -100]}% zdrowia podstawowego.</string>
@@ -112,7 +112,7 @@
 	<string key="ui_affliction_poison_tooltip">Jeżeli zabraknie ci odporności na kwas, zaczniesz odczuwać skutki oparzenia kwasem, czyli otrzymywać 500% więcej obrażeń od kwasu. Oparzenie kwasem usuniesz przy pomocy nalewek kwasu, które można wytworzyć przy stanowisku arkanistycznym.</string>
 	<string key="ui_affliction_weakness">odporność na osłabienie</string>
 	<string key="ui_affliction_drowning">oddech</string>
-	<string key="ui_affliction_drowning_tooltip">Gdy postaci skończy się powietrze, udusi się</string>
+	<string key="ui_affliction_drowning_tooltip">Gdy postaci skończy się powietrze, udusi się.</string>
 	<string key="ui_affliction_blight">odporność na zarazę</string>
 	<string key="ui_affliction_blight_tooltip">Jeśli stracisz odporność na zarazę, dopadnie cię zaraza i będziesz zadawać o {[Type_StatusEffectData.Blight.DMGStandard * 100]}% mniej obrażeń, otrzymywać o {[Type_StatusEffectData.Blight.HealMod * 100]}% mniej zdrowia podczas leczenia i tracić {[Type_StatusEffectData.Blight.HealthModifierPercent * -100]}% zdrowia podstawowego co {[Type_StatusEffectData.Blight.TickRate]} s przez {[Afflictions.AfflictionBlight.AfflictedDrainTime]} s.</string>
 	<string key="ui_affliction_mutcurse3" rel_version="Feature_Dungeon_Mutators">wybuchowa odporność</string>
@@ -122,7 +122,7 @@
 	<string key="ui_affliction_mutcurse2" rel_version="Feature_Dungeon_Mutators_pt2">odporność na znużenie</string>
 	<string key="ui_affliction_mutcurse2_tooltip" rel_version="Feature_Dungeon_Mutators">Jeżeli zabraknie ci odporności, zostanie na ciebie rzucona strefa znużenia, która cię spowolni i sprawi, że będziesz otrzymywać większe obrażenia każdego rodzaju. Używanie zdolności zwiększa odporność. Odporność jest współdzielona przez wszystkich członków twojej grupy.</string>
 	<string key="ui_afflicted_bleeding">zranienie</string>
-	<string key="ui_afflicted_bleeding_tooltip">Zraniona postać znacznie wolniej odzyskuje energię</string>
+	<string key="ui_afflicted_bleeding_tooltip">Zraniona postać znacznie wolniej odzyskuje wytrzymałość.</string>
 	<string key="ui_afflicted_burn">oparzenie</string>
 	<string key="ui_afflicted_curse">skażenie</string>
 	<string key="ui_afflicted_curse_tooltip">Gdy dopadnie cię skażenie, natychmiast stracisz {[Type_StatusEffectData.Curse.HealthModifierPercent * 100]}% zdrowia podstawowego.</string>
@@ -130,7 +130,7 @@
 	<string key="ui_afflicted_disease_tooltip">Test2</string>
 	<string key="ui_afflicted_drunk">upojenie</string>
 	<string key="ui_afflicted_frostbite">odmrożenie</string>
-	<string key="ui_afflicted_frostbite_tooltip">Postać, która nabawiła się odmrożeń, nie może biegać ani wykonywać uników</string>
+	<string key="ui_afflicted_frostbite_tooltip">Postać, która nabawiła się odmrożeń, nie może biegać ani wykonywać uników.</string>
 	<string key="ui_afflicted_injury">rana</string>
 	<string key="ui_afflicted_insane">obłęd</string>
 	<string key="ui_afflicted_inspired">inspiracja</string>
@@ -138,7 +138,7 @@
 	<string key="ui_afflicted_poison_tooltip">Oparzenie kwasem sprawia, że otrzymujesz 500% więcej obrażeń od kwasu. Oparzenie kwasem usuniesz przy pomocy nalewek kwasu, które można wytworzyć przy stanowisku arkanistycznym.</string>
 	<string key="ui_afflicted_weakness">osłabienie</string>
 	<string key="ui_afflicted_drowning">tonięcie</string>
-	<string key="ui_afflicted_drowning_tooltip">Postać utopiła się</string>
+	<string key="ui_afflicted_drowning_tooltip">Postać utopiła się.</string>
 	<string key="ui_afflicted_blight">zaraza</string>
 	<string key="ui_afflicted_blight_tooltip">Gdy dopadnie cię zaraza, będziesz zadawać o {[Type_StatusEffectData.Blight.DMGStandard * 100]}% mniej obrażeń, otrzymywać o {[Type_StatusEffectData.Blight.HealMod * 100]}% mniej zdrowia podczas leczenia i tracić {[Type_StatusEffectData.Blight.HealthModifierPercent * 100]}% zdrowia podstawowego co {[Type_StatusEffectData.Blight.TickRate]} s.</string>
 	<string key="ui_afflicted_mutcurse3" rel_version="Feature_Dungeon_Mutators">wybuchowość</string>
@@ -159,7 +159,7 @@
 	<string key="ui_anvil">Kowadło</string>
 	<string key="ui_appearance_description">Dostosuj wygląd swojego awatara, aby się wyróżnić.</string>
 	<string key="ui_appearance">Wygląd</string>
-	<string key="ui_appearance_hold_to_rotate">PRZYTRZYMAJ, ABY OBRÓCIĆ</string>
+	<string key="ui_appearance_hold_to_rotate">Przytrzymaj, aby obrócić</string>
 	<string key="ui_armor">Zbroja</string>
 	<string key="ui_artBook">Przejrzyj artbook</string>
 	<string key="ui_attach">PRZYMOCUJ</string>
@@ -173,7 +173,7 @@
 	<string key="ui_b">B</string>
 	<string key="ui_back">Wstecz</string>
 	<string key="ui_background_description">Wybierz wzór, który uzupełni twoją pieczęć.</string>
-	<string key="ui_background">MOTYW FRAKCJI</string>
+	<string key="ui_background">Wzór</string>
 	<string key="ui_backstory">Wyposażenie początkowe</string>
 	<string key="ui_bait">PRZYNĘTA</string>
 	<string key="ui_baskets">KOSZE</string>
@@ -195,7 +195,7 @@
 	<string key="ui_cancelin">Anulowanie dostępne za {time}s</string>
 	<string key="ui_canvas">Płótno</string>
 	<string key="ui_azoth_currency">Azoth</string>
-	<string key="ui_azoth_desc">Azoth służy do szybkiej podróży pomiędzy kapliczkami i osadami oraz do wytwarzania potężniejszych przedmiotów.\n\nZdobywa się go przede wszystkim przez wykonywanie zadań i zamykanie wyłomów skażenia.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Można otrzymać za:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ffffff"&gt;Wyłomy skażenia, zadania&lt;/font&gt;</string>
+	<string key="ui_azoth_desc">Azoth służy do szybkiej podróży pomiędzy kapliczkami i osadami oraz do wytwarzania potężniejszych przedmiotów.\n\nZdobywaj go przez wykonywanie zadań i zamykanie wyłomów skażenia.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Źródło:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#FFFFFF"&gt;Wyłomy skażenia, zadania&lt;/font&gt;</string>
 	<string key="ui_cards">Karty</string>
 	<string key="ui_leave_arena_coming_soon">Funkcja "opuszczanie areny" zostanie wkótce dodana</string>
 	<string key="ui_equipfishingpole">[{value}], aby wędkować</string>
@@ -203,16 +203,16 @@
 	<string key="ui_fishing_hotspot_nearby">Znajdź łowisko w okolicy!</string>
 	<string key="ui_changekey">Zmień klawisz</string>
 	<string key="ui_changeweapon">Zmień broń</string>
-	<string key="ui_create_character_title_main_menu">Stwórz postać.</string>
+	<string key="ui_create_character_title_main_menu">Stwórz postać</string>
 	<string key="ui_create_character_message_main_menu">Naciśnij "Graj", by stworzyć postać w tym świecie.</string>
-	<string key="ui_character_main_menu">Postać.</string>
-	<string key="ui_world_main_menu">Świat.</string>
+	<string key="ui_character_main_menu">Postać</string>
+	<string key="ui_world_main_menu">Świat</string>
 	<string key="ui_charactername">Imię postaci</string>
-	<string key="ui_reserved_binding_toggleRaidWindow">Włącz okno armii</string>
-	<string key="ui_reserved_binding_openWarTutorial">Show War Tutorial</string>
+	<string key="ui_reserved_binding_toggleRaidWindow">Armia</string>
+	<string key="ui_reserved_binding_openWarTutorial">Samouczek wojenny</string>
 	<string key="ui_reserved_binding_openStyleGuide">Otwórz poradnik stylu</string>
 	<string key="ui_reserved_binding_toggleFishingBaitWindow">Włącz okienko przynęty rybackiej</string>
-	<string key="ui_reserved_binding_ui_repairKitItemModifier">Użyj zestawu naprawczego</string>
+	<string key="ui_reserved_binding_ui_repairKitItemModifier">Zestaw naprawczy</string>
 	<string key="ui_reserved_binding_ui_nav_home">Home</string>
 	<string key="ui_reserved_binding_ui_nav_select">Wybierz</string>
 	<string key="ui_reserved_binding_musicalactions_invite_performer">Zaproszenie wykonawcy</string>
@@ -222,7 +222,7 @@
 	<string key="ui_chat_slash_commands">Polecenia z ukośnikiem</string>
 	<string key="ui_chat_utilities">Inne</string>
 	<string key="ui_chat_social">Funkcje społeczności</string>
-	<string key="ui_choose_item_skin">Wybierz skórkę</string>
+	<string key="ui_choose_item_skin">Zmień skórkę</string>
 	<string key="ui_chatchannel">Kanał czatu</string>
 	<string key="ui_voicechatmessage" comment="There are a lot of tags in this string, but the 'says' is the only part that needs to be translated/moved. Keep the colon. It is used by the text to speech system to pause.">&lt;volume level="{volumeValue}"&gt;&lt;rate absspeed="{rateValue}"&gt;{playerName} mówi: &lt;pitch middle="{pitchValue}"&gt;{message}&lt;/pitch&gt;&lt;/rate&gt;&lt;/volume&gt;</string>
 	<string key="ui_voicesystemmessage">&lt;volume level="{volumeValue}"&gt;&lt;rate absspeed="{rateValue}"&gt;{message}&lt;/rate&gt;&lt;/volume&gt;</string>
@@ -235,7 +235,7 @@
 	<string key="ui_company_name">Nazwa kompanii</string>
 	<string key="ui_company_name_input">Nazwij swoją kompanię</string>
 	<string key="ui_customize_company_information">Te ustawienia można zmienić w dowolnej chwili.</string>
-	<string key="ui_no_points_spent">Nie wydano punktów</string>
+	<string key="ui_no_points_spent">Nie przypisano punktów</string>
 	<string key="ui_commit_1_point">Przydziel &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt; punkt</string>
 	<string key="ui_commit_points">Przydziel &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{points}&lt;/font&gt; pkt</string>
 	<string key="ui_abilities_on_cooldown">Zdolności się odnawiają</string>
@@ -247,13 +247,13 @@
 	<string key="ui_connecttogame">Połącz z grą</string>
 	<string key="ui_contacts">Kontakty</string>
 	<string key="ui_with">Z:</string>
-	<string key="ui_into">Do:</string>
+	<string key="ui_into"> </string>
 	<string key="ui_purchase_slot_button">Kup miejsce</string>
 	<string key="ui_convertitem">Przekształć przedmioty ({numItems})</string>
 	<string key="ui_copperaxehead">Miedziane ostrze topora</string>
 	<string key="ui_copyright">Copyright © 2021–2023, Amazon.com, Inc. lub podmioty powiązane. Wszelkie prawa zastrzeżone.</string>
 	<string key="ui_craft">Stwórz</string>
-	<string key="ui_craft_fee">{territoryName} PODATEK: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{fee} &lt;/font&gt; &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="0.9" yOffset="0.7"&gt;&lt;/img&gt;</string>
+	<string key="ui_craft_fee">{territoryName} – podatek: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{fee} &lt;/font&gt; &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="0.9" yOffset="0.7"&gt;&lt;/img&gt;</string>
 	<string key="ui_crafting_carried">Posiadane: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{amount}&lt;/font&gt;</string>
 	<string key="ui_crafting_none">Przedmioty wytworzone bez surowców specjalnych mogą mieć profity, ale istnieje mniejsza szansa na otrzymanie profitu określonego rodzaju.</string>
 	<string key="ui_crafting_item_perks">Profity przedmiotu</string>
@@ -269,10 +269,10 @@
 	<string key="ui_prime_reward_notification">Nagroda Prime Gaming</string>
 	<string key="ui_prime_reward_text">Otrzymujesz przedmiot z Prime Gaming</string>
 	<string key="ui_createnewcharacter">STWÓRZ NOWĄ POSTAĆ</string>
-	<string key="ui_crest">Herb</string>
+	<string key="ui_crest">Herb kompanii</string>
 	<string key="ui_crest_emblem">Herb</string>
-	<string key="ui_crest_description" comment="explanation of why only certain background options appear in crest creation depending on faction">Dostępne tło twojego herbu ogranicza przynależność frakcyjna. Należysz do frakcji o nazwie: {faction}</string>
-	<string key="ui_crouchtoggle">Przełączanie kucnięcia</string>
+	<string key="ui_crest_description" comment="explanation of why only certain background options appear in crest creation depending on faction">Wzór herbu jest zależny od frakcji.\nAktualna przynależność: {faction}</string>
+	<string key="ui_crouchtoggle">Kucnięcie</string>
 	<string key="ui_currenttime">Aktualny czas</string>
 	<string key="ui_cursorsensitivity">Czułość kursora</string>
 	<string key="ui_customize_company">Dostosuj kompanię</string>
@@ -339,6 +339,7 @@
 	<string key="ui_abbrev_month_11">LIS</string>
 	<string key="ui_abbrev_month_12">GRU</string>
 	<string key="ui_apply">Zastosuj</string>
+	<string key="ui_clear_all">Usuń wszystkie</string>
 	<string key="ui_default">Domyślne</string>
 	<string key="ui_long_dayofweek_1">Niedziela</string>
 	<string key="ui_long_dayofweek_2">Poniedziałek</string>
@@ -381,13 +382,14 @@
 	<string key="ui_drum">Bęben</string>
 	<string key="ui_durability">Trwałość:</string>
 	<string key="ui_e">E</string>
+	<string key="ui_editname">Zmień nazwę</string>
 	<string key="ui_ehold">e (przytrzymaj)</string>
 	<string key="ui_—elizabethi">– Elżbieta I</string>
 	<string key="ui_none">Brak</string>
 	<string key="ui_playertitle_alpha_tester">Założyciel</string>
 	<string key="ui_playertitle_preorder">Pierwsza ekspedycja</string>
-	<string key="ui_enablepushtotalksound">Włącz "naciśnij i mów"</string>
-	<string key="ui_enablevoicechat">Włącz czat głosowy</string>
+	<string key="ui_enablepushtotalksound">Dźwięk "naciśnij i mów"</string>
+	<string key="ui_enablevoicechat">Czat głosowy</string>
 	<string key="ui_end">End</string>
 	<string key="ui_enter">Wejdź</string>
 	<string key="ui_enterplayername">Wpisz imię gracza</string>
@@ -415,7 +417,7 @@
 	<string key="ui_flat">Płaski</string>
 	<string key="ui_food">Żywność</string>
 	<string key="ui_foreground_description">Wybierz swoją pieczęć.</string>
-	<string key="ui_foreground">HERB KOMPANII</string>
+	<string key="ui_foreground">Herb</string>
 	<string key="ui_free">DARMOWE</string>
 	<string key="ui_friendrequests">Zaproszenia do znajomych</string>
 	<string key="ui_fuel">PALIWO</string>
@@ -440,7 +442,7 @@
 	<string key="ui_hammerampanvil">Młot i kowadło</string>
 	<string key="ui_have">Zjedz</string>
 	<string key="ui_hit">TRAFIENIE</string>
-	<string key="ui_hold">{Button} (PRZYTRZYMAJ)</string>
+	<string key="ui_hold">{Button} (przytrzymaj)</string>
 	<string key="ui_holdetogiveup">Naciśnij [E], aby zrezygnować</string>
 	<string key="ui_horseequipment">Wyposażenie dla konia</string>
 	<string key="ui_hour">godz.</string>
@@ -460,8 +462,8 @@
 	<string key="ui_craftingnearitemlimit">Prawie osiągnięto limit przedmiotów w ekwipunku. Wytworzone przedmioty mogą zostać upuszczone.</string>
 	<string key="ui_inventory_warning_toofullforrewards">Zbyt wiele przedmiotów w ekwipunku, by móc otrzymywać nagrody.</string>
 	<string key="ui_inventoryslotsremaining">Liczba wolnych miejsc w ekwipunku: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{count}&lt;/font&gt;</string>
-	<string key="ui_inventoryweightremaining">Pozostało &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{Weight}&lt;/font&gt; funtów.</string>
-	<string key="ui_inventoryMaxWeight">Maksymalny udźwig ekwipunku</string>
+	<string key="ui_inventoryweightremaining">pozostało &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{Weight}&lt;/font&gt;</string>
+	<string key="ui_inventoryMaxWeight">Nadmierne przeciążenie</string>
 	<string key="ui_inventoryweight">WAGA</string>
 	<string key="ui_inventoryslots">UNIKALNE PRZEDMIOTY</string>
 	<string key="ui_filtereditems">{filtered} przedmiotów ukrytych przez filtr.</string>
@@ -494,7 +496,7 @@
 	<string key="ui_locationname">Nazwa miejsca</string>
 	<string key="ui_logdoor">Drzwi z drewna</string>
 	<string key="ui_m">m</string>
-	<string key="ui_makecamp">Rozbij obóz</string>
+	<string key="ui_makecamp">Obóz</string>
 	<string key="ui_male">Mężczyzna</string>
 	<string key="ui_map">Mapa</string>
 	<string key="ui_marchinggame">Znajdowanie gry</string>
@@ -575,7 +577,7 @@
 	<string key="ui_presskeytoassign">Naciśnij klawisz do przypisania.</string>
 	<string key="ui_previous">Wstecz</string>
 	<string key="ui_progress">Postęp</string>
-	<string key="ui_pronetoggle">Przełączanie pozycji leżącej</string>
+	<string key="ui_pronetoggle">Pozycja leżąca</string>
 	<string key="ui_pushtotalk">Naciśnij i mów</string>
 	<string key="ui_pushtotalkkey">Klawisz "naciśnij i mów"</string>
 	<string key="ui_received_from">Otrzymane z:</string>
@@ -609,11 +611,11 @@
 	<string key="ui_weaponcycleup">Następna broń</string>
 	<string key="ui_weaponcycledown">Poprzednia broń</string>
 	<string key="ui_weaponcyclemod">Zmiana broni</string>
-	<string key="ui_zoom_modifier">Zbliżenie (zoom)</string>
+	<string key="ui_zoom_modifier">Stopień przybliżenia</string>
 	<string key="ui_weapon1">Broń 1</string>
 	<string key="ui_weapon2">Broń 2</string>
 	<string key="ui_weapon3">Broń 3</string>
-	<string key="ui_swapweapon">Zmień aktywną broń</string>
+	<string key="ui_swapweapon">Zmień broń</string>
 	<string key="ui_consumable1">Przedmiot podręczny 1</string>
 	<string key="ui_consumable2">Przedmiot podręczny 2</string>
 	<string key="ui_consumable3">Przedmiot podręczny 3</string>
@@ -624,50 +626,63 @@
 	<string key="ui_quickslot2">Szybki wybór 2</string>
 	<string key="ui_quickslot3">Szybki wybór 3</string>
 	<string key="ui_quickslot4">Szybki wybór 4</string>
-	<string key="ui_head_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Głowa&lt;/font&gt;</string>
-	<string key="ui_chest_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Tors&lt;/font&gt;</string>
-	<string key="ui_hands_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Ręce&lt;/font&gt;</string>
-	<string key="ui_legs_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Nogi&lt;/font&gt;</string>
-	<string key="ui_feet_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Stopy&lt;/font&gt;</string>
-	<string key="ui_amulet_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Amulet&lt;/font&gt;</string>
-	<string key="ui_token_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Żeton&lt;/font&gt;</string>
-	<string key="ui_ring_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Pierścień&lt;/font&gt;</string>
-	<string key="ui_bag_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Torba&lt;/font&gt;</string>
-	<string key="ui_arrow_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Strzały&lt;/font&gt;</string>
-	<string key="ui_cartridge_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Naboje&lt;/font&gt;</string>
-	<string key="ui_shield_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Tarcza&lt;/font&gt;</string>
+	<string key="ui_head_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Głowa&lt;/font&gt;</string>
+	<string key="ui_chest_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Tors&lt;/font&gt;</string>
+	<string key="ui_hands_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Miejsce na rękawice&lt;/font&gt;</string>
+	<string key="ui_legs_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Nogi&lt;/font&gt;</string>
+	<string key="ui_feet_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Stopy&lt;/font&gt;</string>
+	<string key="ui_armor_slot_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Można wytworzyć przy stanowisku krawieckim lub w kuźni.&lt;/font&gt;</string>
+	<string key="ui_amulet_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Amulet&lt;/font&gt;</string>
+	<string key="ui_token_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Żeton&lt;/font&gt;</string>
+	<string key="ui_ring_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Pierścień&lt;/font&gt;</string>
+	<string key="ui_accessory_slot_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Można wytworzyć przy stanowisku krawieckim.&lt;/font&gt;</string>
+	<string key="ui_bag_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Torba&lt;/font&gt;</string>
+	<string key="ui_bag_slot_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Można wytworzyć przy stanowisku krawieckim.&lt;/font&gt; (Wymaga runy udźwigu, którą można zakupić w sklepie frakcji).&lt;/font&gt;</string>
+	<string key="ui_arrow_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Strzały&lt;/font&gt;</string>
+	<string key="ui_cartridge_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Naboje&lt;/font&gt;</string>
+	<string key="ui_arrow_slot_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Można wytworzyć w warsztacie lub obozie.&lt;/font&gt;</string>
+	<string key="ui_cartridge_slot_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Można wytworzyć w warsztacie.&lt;/font&gt;</string>
+	<string key="ui_shield_slot_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Tarcza&lt;/font&gt;</string>
+	<string key="ui_shield_slot_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Można wytworzyć w kuźni.&lt;/font&gt;</string>
 	<string key="ui_lifestaff_combat">Walka laską życia</string>
 	<string key="ui_target_self">Wyceluj w siebie</string>
-	<string key="ui_exit_auto_target">Przerwij autocelowanie</string>
+	<string key="ui_exit_auto_target">Przerwij autonamierzanie</string>
 	<string key="ui_cycle_target_up">Następny cel</string>
 	<string key="ui_cycle_target_down">Poprzedni cel</string>
-	<string key="ui_target_group1">Namierz członka grupy 1</string>
-	<string key="ui_target_group2">Namierz członka grupy 2</string>
-	<string key="ui_target_group3">Namierz członka grupy 3</string>
-	<string key="ui_target_group4">Namierz członka grupy 4</string>
-	<string key="ui_target_group5">Namierz członka grupy 5</string>
-	<string key="ui_target_groupmode_toggle">Włącz/wyłącz tryb grupowy</string>
-	<string key="ui_slot_unlock_at">Odblokowanie poz. {level}</string>
-	<string key="ui_slot_unlock_at_abbr">poz. {level}</string>
-	<string key="ui_quickslot_mainhand_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Główna ręka&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Broń umieszczoną w tym miejscu można zmienić przez naciśnięcie odpowiedniego klawisza.&lt;/font&gt;</string>
-	<string key="ui_quickslot_consumable_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Przedmiot podręczny&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Naciśnij odpowiedni klawisz, by użyć umieszczonego tutaj przedmiotu.&lt;/font&gt;</string>
-	<string key="ui_quickslot_sickle_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Sierp żniwiarski&lt;/font&gt;</string>
-	<string key="ui_quickslot_fishing_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Wędka&lt;/font&gt;</string>
-	<string key="ui_quickslot_logging_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Siekiera&lt;/font&gt;</string>
-	<string key="ui_quickslot_skinning_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Nóż do skórowania&lt;/font&gt;</string>
-	<string key="ui_quickslot_pickaxe_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Kilof&lt;/font&gt;</string>
-	<string key="ui_quickslot_azoth_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Azothowa laska&lt;/font&gt;</string>
-	<string key="ui_quickslot_flute_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Flet&lt;/font&gt;</string>
-	<string key="ui_quickslot_guitar_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Gitara&lt;/font&gt;</string>
-	<string key="ui_quickslot_mandolin_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Mandolina&lt;/font&gt;</string>
-	<string key="ui_quickslot_bass_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Kontrabas&lt;/font&gt;</string>
-	<string key="ui_quickslot_drums_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Bębny&lt;/font&gt;</string>
+	<string key="ui_target_group1">Namierz 1. członka grupy</string>
+	<string key="ui_target_group2">Namierz 2. członka grupy</string>
+	<string key="ui_target_group3">Namierz 3. członka grupy</string>
+	<string key="ui_target_group4">Namierz 4. członka grupy</string>
+	<string key="ui_target_group5">Namierz 5. członka grupy</string>
+	<string key="ui_target_groupmode_toggle">Tryb grupowy</string>
+	<string key="ui_slot_unlock_at">Poziom {level}</string>
+	<string key="ui_slot_unlock_at_abbr">{level}</string>
+	<string key="ui_quickslot_mainhand_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Broń&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Broń umieszczoną w tym miejscu można zmienić przez naciśnięcie odpowiedniego klawisza.&lt;/font&gt;</string>
+	<string key="ui_quickslot_mainhand_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Można wytworzyć w kuźni, warsztacie, repozytorium arkanistycznym lub obozie.&lt;/font&gt;</string>
+	<string key="ui_quickslot_consumable_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Przedmiot podręczny&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Naciśnij odpowiedni klawisz, by użyć umieszczonego tutaj przedmiotu.&lt;/font&gt;</string>
+	<string key="ui_quickslot_consumable_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Przedmioty użytkowe można wytworzyć przy stanowiskach w osadzie lub obozie.&lt;/font&gt;</string>
+	<string key="ui_quickslot_sickle_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Sierp żniwiarski&lt;/font&gt;</string>
+	<string key="ui_quickslot_fishing_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Wędka&lt;/font&gt;</string>
+	<string key="ui_quickslot_logging_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Siekiera&lt;/font&gt;</string>
+	<string key="ui_quickslot_skinning_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Nóż do skórowania&lt;/font&gt;</string>
+	<string key="ui_quickslot_pickaxe_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Kilof&lt;/font&gt;</string>
+	<string key="ui_quickslot_tool_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Można wytworzyć w warsztacie lub obozie.&lt;/font&gt;</string>
+	<string key="ui_quickslot_azoth_tooltip">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Azothowa laska&lt;/font&gt;</string>
+	<string key="ui_quickslot_azoth_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Azothową laskę można zdobyć, wykonując zadanie "Wykuj azothową laskę" w Wiatrochronie.&lt;/font&gt;</string>
+	<string key="ui_quickslot_flute_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Flet&lt;/font&gt;</string>
+	<string key="ui_quickslot_guitar_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Gitara&lt;/font&gt;</string>
+	<string key="ui_quickslot_mandolin_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Mandolina&lt;/font&gt;</string>
+	<string key="ui_quickslot_bass_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Kontrabas&lt;/font&gt;</string>
+	<string key="ui_quickslot_drums_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Bębny&lt;/font&gt;</string>
+	<string key="ui_quickslot_instrument_tooltip_unlocked" rel_version="Feature_MusicalPerformances">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Można wytworzyć w warsztacie.&lt;/font&gt;</string>
 	<string key="ui_instrument-flute-slot_name" rel_version="Feature_MusicalPerformances">Flet</string>
 	<string key="ui_instrument-guitar-slot_name" rel_version="Feature_MusicalPerformances">Gitara</string>
 	<string key="ui_instrument-mandolin-slot_name" rel_version="Feature_MusicalPerformances">Mandolina</string>
 	<string key="ui_instrument-uprightbass-slot_name" rel_version="Feature_MusicalPerformances">Kontrabas</string>
 	<string key="ui_instrument-drums-slot_name" rel_version="Feature_MusicalPerformances">Bębny</string>
-	<string key="ui_heartgem-slot" rel_version="Feature_Heartgems">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Klejnot serca&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Runa serca umieszczona w tym miejscu odblokowuje jej umiejętność.\n\nMożna odblokować poprzez odkrycie misji "Sekrety klejnotu serca" w Piaskobrzegach.&lt;/font&gt;</string>
+	<string key="ui_heartgem-slot" rel_version="Feature_Heartgems">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Miejsce na runę serca&lt;/font&gt;</string>
+	<string key="ui_heartgem-slot_locked" rel_version="Feature_Heartgems">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Można odblokować, wykonując zadanie "Sekrety klejnotu serca" w Piaskobrzegach.&lt;/font&gt;</string>
+	<string key="ui_heartgem-slot_unlocked" rel_version="Feature_Heartgems">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Umieść w tym miejscu runę serca, by użyć jego zdolności.\n\nMożna wytworzyć przy stole kamieniarskim.&lt;/font&gt;</string>
 	<string key="ui_heartgemcharge-tooltip" rel_version="Feature_Heartgems">Klejnot serca ładuje się w trakcie walki poprzez:\n\n Zadawanie obrażeń (łącznie z zablokowanymi trafieniami).\n\n Otrzymywanie obrażeń (łącznie z zablokowanymi trafieniami).\n\n Nakładanie premii (łącznie z leczeniem) i negatywnych efektów.</string>
 	<string key="ui_heartgem_rune_ability" rel_version="Feature_Heartgems">Runa serca – umiejętność</string>
 	<string key="ui_heartgem_rune_ability_silenced" rel_version="Feature_Heartgems">Umiejętność runy serca nieaktywna</string>
@@ -727,7 +742,7 @@
 	<string key="ui_sheathe">Schowaj</string>
 	<string key="ui_roll">PRZEWRÓT</string>
 	<string key="ui_rolldodge">Unik</string>
-	<string key="ui_traverse">Skok/pokonywanie przeszkód</string>
+	<string key="ui_traverse">Skok / pokonywanie przeszkód</string>
 	<string key="ui_toggleMoveSpeed">Przełącz bieg/chód</string>
 	<string key="ui_rollspeed">Szybkość przewrotu</string>
 	<string key="ui_runtoggle">Automatyczny bieg</string>
@@ -736,21 +751,23 @@
 	<string key="ui_sampletooltipnthistool">Próbny dymek pomocy\nTen dymek pomocy jest prostym okienkiem z ramką wyświetlającą sam tekst.</string>
 	<string key="ui_save">Zapisz</string>
 	<string key="ui_se">SE</string>
-	<string key="ui_binding_reserved_key_blocked">Nie można przypisać klawisza: {key}, zastrzeżono dla: {actionName} (nie można zmienić).</string>
-	<string key="ui_binding_reserved_key_title_single">Zmienić przypisanie?</string>
-	<string key="ui_binding_reserved_key_message_single">Próbujesz przypisać nową czynność ({newAction}) klawiszowi {key}. Poprzednia czynność ({oldAction}) nie będzie miała żadnego przypisanego klawisza. Kontynuować?</string>
-	<string key="ui_binding_reserved_key_title_multiple">Zmienić przypisanie?</string>
-	<string key="ui_binding_reserved_key_message_multiple">Próbujesz przypisać nową czynność ({newAction}) klawiszowi {key}. Poprzednie czynności nie będą mieć żadnego przypisanego klawisza. Kontynuować?\n{oldActions}</string>
+	<string key="ui_binding_reserved_key_blocked">Nie można przypisać &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{actionName}&lt;/font&gt; do {key} (nie można zmienić).</string>
+	<string key="ui_binding_reserved_key_title_single">Zmień przypisanie</string>
+	<string key="ui_binding_reserved_key_message_single">Przypisać &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{newAction}&lt;/font&gt; do &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{key}&lt;/font&gt;?\n\n&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{oldAction}&lt;/font&gt; nie będzie mieć przypisanego żadnego klawisza.</string>
+	<string key="ui_binding_reserved_key_title_multiple">Zmień przypisanie</string>
+	<string key="ui_binding_reserved_key_message_multiple">Przypisać &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{newAction}&lt;/font&gt; do &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{key}&lt;/font&gt;?\n\nTe działania nie będą mieć przypisanego żadnego klawisza:\n\n&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{oldActions}&lt;/font&gt;</string>
 	<string key="ui_secondsLeft">{NumSeconds} sek.</string>
 	<string key="ui_second">sekunda</string>
 	<string key="ui_seconds">sek.</string>
 	<string key="ui_seconds_short">s</string>
 	<string key="ui_milliseconds">{time} ms</string>
 	<string key="ui_percent">{value}%</string>
+	<string key="ui_bracket_amount">[{amount}]</string>
 	<string key="ui_select">Wybierz</string>
 	<string key="ui_selectarespawnlocation">Wybierz punkt odrodzenia</string>
 	<string key="ui_selectcanvasntoload">Wybierz płótno \ndo wczytania</string>
 	<string key="ui_servername">ŚWIAT</string>
+	<string key="ui_worldnamenotfound">Nie znaleziono nazwy świata</string>
 	<string key="ui_population" comment="Abbreviated Population">POP.</string>
 	<string key="ui_population_low" comment="This should be as short as possible">MAŁA</string>
 	<string key="ui_population_med" comment="This should be as short as possible. Abbreviated Medium.">ŚREDNIA</string>
@@ -784,7 +801,7 @@
 	<string key="ui_container">ZASOBNIK</string>
 	<string key="ui_storageshed">SKŁADZIK</string>
 	<string key="ui_stowaway">Pasażer na gapę</string>
-	<string key="ui_enable_audio_window_unfocus">Włącz dźwięk w tle</string>
+	<string key="ui_enable_audio_window_unfocus">Odtwarzaj dźwięk w tle</string>
 	<string key="ui_enable_audio_window_unfocus_desc">Jeśli okno gry jest zminimalizowane lub nieaktywne, kontynuuj odtwarzanie dźwięku gry</string>
 	<string key="ui_submit">Prześlij</string>
 	<string key="ui_comma">,</string>
@@ -792,6 +809,8 @@
 	<string key="ui_t">T</string>
 	<string key="ui_tab">tab</string>
 	<string key="ui_takeall">Weź wszystko</string>
+	<string key="ui_takeall_with_item_count">Weź wszystko ({amount})</string>
+	<string key="ui_empty">Brak</string>
 	<string key="ui_tapthebuttonstomatchth">Naciskaj przyciski odpowiedniego koloru.</string>
 	<string key="ui_targetlock">Zablokowanie celu</string>
 	<string key="ui_tesat">tsetsdr</string>
@@ -805,7 +824,7 @@
 	<string key="ui_timeseconds">Sek.</string>
 	<string key="ui_timeofprotectionremaining">Pozostały czas ochrony.</string>
 	<string key="ui_tradingpost">Faktoria</string>
-	<string key="ui_tradingpost_desc">Gracze mogą tu kupować i sprzedawać przedmioty.</string>
+	<string key="ui_tradingpost_desc">Tu możesz handlować przedmiotami z innymi graczami.</string>
 	<string key="ui_trollfishingline">: Przeciągaj żyłkę wędkarską</string>
 	<string key="ui_trollforabite">Przeciągaj żyłkę, aby ryba wzięła...</string>
 	<string key="ui_turnlookupanddown">Rozejrzyj się</string>
@@ -880,6 +899,7 @@
 	<string key="ui_escape_build_mode">Naciśnij Escape, aby wyjść z trybu budowy</string>
 	<string key="ui_feedback_format">PRZEŚLIJ OPINIĘ</string>
 	<string key="ui_feedback_general">Ogólne</string>
+	<string key="ui_compensations_format" rel_version="Feature_Make_Good">REKOMPENSATA</string>
 	<string key="ui_in_game_survey_header">Podoba ci się New World?</string>
 	<string key="ui_in_game_survey_star_prompt">Jak do tej pory oceniasz New World?</string>
 	<string key="ui_in_game_survey_rating_bad">Źle</string>
@@ -888,7 +908,7 @@
 	<string key="ui_in_game_survey_rating_great">Świetnie</string>
 	<string key="ui_in_game_survey_rating_fantastic">Fantastycznie</string>
 	<string key="ui_in_game_survey_feedback_prompt">Chcesz się czymś podzielić?</string>
-	<string key="ui_in_game_survey_feedback_empty">Wpisz tu swoją wiadomość</string>
+	<string key="ui_in_game_survey_feedback_empty">Nie przesyłaj danych osobowych ani wrażliwych</string>
 	<string key="ui_in_game_survey_button_cancel">Nie teraz</string>
 	<string key="ui_in_game_survey_button_submit">Prześlij</string>
 	<string key="ui_in_game_survey_button_submit_disabled_tooltip">Oceń New World, by przesłać formularz.</string>
@@ -912,15 +932,15 @@
 	<string key="ui_world_select_population">Populacja</string>
 	<string key="ui_world_select_no_friends_online">Żaden z twoich znajomych nie jest online w tym świecie.</string>
 	<string key="ui_world_select_one_friends_online">jest teraz online</string>
-	<string key="ui_world_select_more_friends_online">i &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{friendCount}&lt;/font&gt;&lt;/font&gt; innych znajomych jest teraz online</string>
+	<string key="ui_world_select_more_friends_online">i &lt;font color="#FFFFFF"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{friendCount}&lt;/font&gt;&lt;/font&gt; innych znajomych jest teraz online</string>
 	<string key="ui_world_select_more_options">Pokaż więcej opcji</string>
 	<string key="ui_world_select_hide_options">Ukryj więcej opcji</string>
 	<string key="ui_world_select_view_worlds">Zobacz światy</string>
 	<string key="ui_world_select_refresh">Odśwież</string>
-	<string key="ui_resolution_popup_title">Potwierdź rozdzielczość</string>
-	<string key="ui_resolution_popup_title_message">Czy ta rozdzielczość jest dobra?</string>
-	<string key="ui_monitor_popup_title">Potwierdź zmianę monitora</string>
-	<string key="ui_monitor_popup_title_message">Wybrać ten monitor?</string>
+	<string key="ui_resolution_popup_title">Rozdzielczość</string>
+	<string key="ui_resolution_popup_title_message">Zachować tę rozdzielczość?</string>
+	<string key="ui_monitor_popup_title">Monitor</string>
+	<string key="ui_monitor_popup_title_message">Ustawić wyświetlanie na tym monitorze?</string>
 	<string key="ui_monitor_name">Monitor</string>
 	<string key="ui_short_level">Poz.</string>
 	<string key="ui_factioncurrency">{faction} żetony</string>
@@ -932,25 +952,31 @@
 	<string key="ui_character_merge_destination">Ten świat ({worldName}) zostanie włączony do: {destinationWorldName} dnia: {date}.</string>
 	<string key="ui_xp">PD</string>
 	<string key="ui_player_xp">PD gracza</string>
-	<string key="ui_player_xp_desc">PD pozwala awansować postać na wyższy poziom.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Można otrzymać za:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ffffff"&gt;Wykonywanie misji, wytwarzanie, zabijanie wrogów, branie udziału w wydarzeniach&lt;/font&gt;</string>
+	<string key="ui_player_xp_desc">PD pozwala awansować postać na wyższy poziom.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Źródło:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#FFFFFF"&gt;Wykonywanie misji, wytwarzanie, zabijanie wrogów, branie udziału w wydarzeniach&lt;/font&gt;</string>
+	<string key="ui_faction_reputation_desc">Reputacja frakcyjna odblokowuje nowe przedmioty w sklepie frakcji.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Źródło:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#FFFFFF"&gt; Wykonywanie misji frakcyjnych&lt;/font&gt;</string>
+	<string key="ui_territory_standing_desc">Zwiększanie rangi terytorium pozwoli ci zakupić dom i korzystać z premii terytorialnych.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Źródło:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#FFFFFF"&gt; Misje, zadania, projekty miasteczka lub zapasy terytorialne w obrębie danego terytorium&lt;/font&gt;</string>
+	<string key="ui_faction_influence_desc">Wpływy określają skalę kontroli danej frakcji nad terytorium. Zdobycie 100% wpływów na terytorium daje możliwość wypowiedzenia wojny.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Źródło:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#FFFFFF"&gt; Wykonywanie frakcyjnych misji PvP&lt;/font&gt;</string>
+	<string key="ui_faction_token_desc">Żetony frakcji służą do kupowania przedmiotów w sklepie frakcji.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Źródło:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#FFFFFF"&gt; Wykonywanie misji frakcyjnych, nagrody PvP&lt;/font&gt;</string>
+	<string key="ui_project_points_desc">Punkty projektu są przyznawane za realizowanie projektów miasteczka ustalanych przez zarządców.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Źródło:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#FFFFFF"&gt; Misje projektu miasteczka&lt;/font&gt;</string>
+	<string key="ui_pvp_xp_desc" rel_version="PvP_Rewards_Track">PD PvP pozwalają osiągać punkty kontrolne ścieżki PvP. Odblokuj punkty kontrolne, by kupować nagrody.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Źródło:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#FFFFFF"&gt; Aktywności PvP&lt;/font&gt;</string>
 	<string key="ui_pvp_xp" rel_version="PvP_Rewards_Track">PD PvP</string>
 	<string key="ui_xp_boost">Premia do PD</string>
 	<string key="ui_xp_event_title">PREMIA DO PD!</string>
 	<string key="ui_xp_event_desc">W tym świecie jest aktywna premia do PD!</string>
 	<string key="ui_xp_event_modal_title">PREMIA DO PD AKTYWNA!</string>
-	<string key="ui_xp_event_modal_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Radujcie się, albowiem nadciąga premia do PD! To świetna okazja do awansowania postaci!\nPremia obejmuje:&lt;/font&gt;</string>
+	<string key="ui_xp_event_modal_desc">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Radujcie się, albowiem nadciąga premia do PD! To świetna okazja do awansowania postaci!\nPremia obejmuje:&lt;/font&gt;</string>
 	<string key="ui_xp_event_xp">PD &lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_Bold.font"&gt;(x {amount})&lt;/font&gt;</string>
-	<string key="ui_xp_event_some_tradeskill_xp">Profesje: &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt;</string>
-	<string key="ui_xp_event_some_weaponmastery_xp">Biegłość w używaniu broni: &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt;</string>
-	<string key="ui_xp_event_some_territory_xp">Rangi terytoriów: &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt;</string>
-	<string key="ui_xp_event_some_faction_xp">Reputację frakcyjną: &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt;</string>
-	<string key="ui_xp_event_some_factiontoken_xp">Żetony frakcji: &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt;</string>
+	<string key="ui_xp_event_some_tradeskill_xp">Profesje: &lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt;</string>
+	<string key="ui_xp_event_some_weaponmastery_xp">Biegłość w używaniu broni: &lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt;</string>
+	<string key="ui_xp_event_some_territory_xp">Rangi terytoriów: &lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt;</string>
+	<string key="ui_xp_event_some_faction_xp">Reputację frakcyjną: &lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt;</string>
+	<string key="ui_xp_event_some_factiontoken_xp">Żetony frakcji: &lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt;</string>
 	<string key="ui_xp_event_all_tradeskill_xp">Wszystkie profesje</string>
 	<string key="ui_xp_event_all_weaponmastery_xp">Biegłość w używaniu wszystkich broni</string>
 	<string key="ui_xp_event_all_territory_xp">Wszystkie rangi terytoriów</string>
 	<string key="ui_xp_event_all_faction_xp">Reputację we wszystkich frakcjach</string>
 	<string key="ui_xp_event_all_factiontoken_xp">Wszystkie żetony frakcji</string>
-	<string key="ui_xp_event_progression_xp">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;{progressionName}&lt;/font&gt; &lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_Bold.font"&gt;x {amount}&lt;/font&gt;</string>
+	<string key="ui_xp_event_progression_xp">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Regular.font"&gt;{progressionName}&lt;/font&gt; &lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_Bold.font"&gt;x {amount}&lt;/font&gt;</string>
 	<string key="ui_xp_boost_reminder" comment="The leading space is intentional">( x {bonus} &lt;img src="lyshineui/images/icons/misc/icon_xp_boost" xPadding="0" scale="1.1" yOffset="0.5"&gt;&lt;/img&gt;)</string>
 	<string key="ui_xp_multiplier_arrow" comment="The leading space is intentional">x {bonus} &lt;img src="lyshineui/images/icons/misc/icon_xp_boost" xPadding="0" scale="1.1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_reached_max_daily_pvp_arena_rewards">Osiągnięto dzienny limit soli areny PvP!</string>
@@ -973,10 +999,10 @@
 	<string key="ui_glory_update_floating_xp">+{amount} PD</string>
 	<string key="ui_glory_update_floating_gold">{gold} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_glory_update_floating_standing">Ranga +{amount}</string>
-	<string key="ui_glory_to_level">&lt;font color="#ffffff"&gt;{xp} PD&lt;/font&gt; do poz. {level}</string>
+	<string key="ui_glory_to_level">&lt;font color="#FFFFFF"&gt;{xp} PD&lt;/font&gt; do poz. {level}</string>
 	<string key="ui_glory_tooltip">Masz niewykorzystane punkty cech lub umiejętności. Naciśnij [{keyName}], aby otworzyć ekran postępów i ulepszyć swoje zdolności.</string>
 	<string key="ui_coin">Monety</string>
-	<string key="ui_coin_desc">Główna waluta używana do kupowania przedmiotów w faktorii i w sklepie frakcji.\nLimit monet: &lt;font color="#ffffff"&gt;{amount}&lt;/font&gt;.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Można otrzymać za:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ffffff"&gt;Wykonywanie misji, zabijanie wrogów, branie udziału w wydarzeniach&lt;/font&gt;</string>
+	<string key="ui_coin_desc">Główna waluta używana do kupowania przedmiotów w faktorii i w sklepie frakcji.\nLimit monet: &lt;font color="#FFFFFF"&gt;{amount}&lt;/font&gt;.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Źródło:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#FFFFFF"&gt;Wykonywanie misji, zabijanie wrogów, branie udziału w wydarzeniach&lt;/font&gt;</string>
 	<string key="ui_coin_max">Maks. liczba monet</string>
 	<string key="ui_coin_icon">{coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_floating_coin_val">&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;{amount}</string>
@@ -996,8 +1022,9 @@
 	<string key="ui_navmenu_game_menu">Menu</string>
 	<string key="ui_navmenu_benchmark">BENCHMARK</string>
 	<string key="ui_navmenu_store">Sklep</string>
-	<string key="ui_navmenu_quit">WYJDŹ</string>
+	<string key="ui_navmenu_quit">Wyjdź</string>
 	<string key="ui_escapemenu_submit_feedback">Prześlij opinię</string>
+	<string key="ui_escapemenu_compensations" rel_version="Feature_Make_Good">Rekompensata</string>
 	<string key="ui_escapemenu_respawn">Odrodzenie</string>
 	<string key="ui_escapemenu_recall_to_inn">Powróć do gospody</string>
 	<string key="ui_escapemenu_unstuck">Odblokowanie</string>
@@ -1005,7 +1032,7 @@
 	<string key="ui_escapemenu_exit_to_desktop">Wyjdź do pulpitu</string>
 	<string key="ui_escapemenu_game">Gra</string>
 	<string key="ui_escapemenu_shop">Sklep</string>
-	<string key="ui_escapemenu_help">New World – pomoc</string>
+	<string key="ui_escapemenu_help">Pomoc</string>
 	<string key="ui_escapemenu_support">Wsparcie</string>
 	<string key="ui_escapemenu_leave_game">Wyjdź z gry</string>
 	<string key="ui_escapemenu_newsletter">Newsletter</string>
@@ -1016,7 +1043,7 @@
 	<string key="ui_help">pomoc</string>
 	<string key="ui_navmenu_get_help">Uzyskaj pomoc</string>
 	<string key="ui_navmenu_get_help_desc">Odwiedź stronę pomocy New World, by\nzapoznać się z FAQ, uzyskać pomoc i inne.</string>
-	<string key="ui_quitpopup_title">POTWIERDŹ WYJŚCIE</string>
+	<string key="ui_quitpopup_title">Wyjdź z gry</string>
 	<string key="ui_quitpopup_incombat_title">WYJDŹ Z OSTATNIEJ WALKI</string>
 	<string key="ui_quitpopup_criminal_title">WYJŚCIE JAKO PRZESTĘPCA</string>
 	<string key="ui_quitpopup_murderer_title">WYJŚCIE JAKO MORDERCA</string>
@@ -1045,10 +1072,10 @@
 	<string key="ui_available_points">Dostępne punkty</string>
 	<string key="ui_whisper_to_someone">{playerName} DO {recipient}</string>
 	<string key="ui_focus">Skupienie</string>
-	<string key="ui_points_to_level">{points} do poz. {level}</string>
-	<string key="ui_points_to_level_with_skill">{points} {skill} pkt do poz. {level}</string>
-	<string key="ui_points_to_expertise">{points} pkt do następnego poz. smykałki: {level}</string>
-	<string key="ui_points_to_expertise_with_skill">{points} {skill} pkt do następnego poz. smykałki: {level}</string>
+	<string key="ui_points_to_level">{points} pkt do następnego poz.</string>
+	<string key="ui_points_to_level_with_skill">{skill} – {points} pkt do następnego poz.</string>
+	<string key="ui_points_to_expertise">{points} pkt do następnego poz. smykałki</string>
+	<string key="ui_points_to_expertise_with_skill">{skill} – {points} pkt do następnego poz. smykałki</string>
 	<string key="ui_spirit">Wiara</string>
 	<string key="ui_vitality">Postura</string>
 	<string key="ui_strength">Siła</string>
@@ -1067,12 +1094,12 @@
 	<string key="ui_mana">Mana</string>
 	<string key="ui_mana_rate">Szybkość regen. many</string>
 	<string key="ui_more">Więcej</string>
-	<string key="ui_encumbrance">Obciążenie</string>
+	<string key="ui_encumbrance">Waga</string>
 	<string key="ui_equip_load">Ciężar wyposażenia</string>
 	<string key="ui_resistance">Odporność</string>
-	<string key="ui_physical">Współczynnik pancerza – ataki fizyczne</string>
+	<string key="ui_physical">Pancerz – fizyczne</string>
 	<string key="ui_physical_only">Fizyczny</string>
-	<string key="ui_elemental">Współczynnik pancerza – żywioły</string>
+	<string key="ui_elemental">Pancerz – żywioły</string>
 	<string key="ui_elemental_only">Żywiołowy</string>
 	<string key="ui_physical_defense">Obrona fizyczna</string>
 	<string key="ui_elemental_defense">Obrona przed żywiołami</string>
@@ -1099,9 +1126,9 @@
 	<string key="ui_absorption">Pochłanianie</string>
 	<string key="ui_gemsocket">Klejnot</string>
 	<string key="ui_bonuses">Premie</string>
-	<string key="ui_territory_standing_bonuses">Premie rangi terytorium</string>
-	<string key="ui_add_10_points">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_semibold.font"&gt;+10&lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color="#dddddd"&gt; pkt&lt;/font&gt;</string>
-	<string key="ui_subtract_10_points">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_semibold.font"&gt;-10&lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color="#dddddd"&gt; pkt&lt;/font&gt;</string>
+	<string key="ui_territory_standing_bonuses">Premie terytorium</string>
+	<string key="ui_add_10_points">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_semibold.font"&gt;+10&lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color="#dddddd"&gt; pkt&lt;/font&gt;</string>
+	<string key="ui_subtract_10_points">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_semibold.font"&gt;-10&lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color="#dddddd"&gt; pkt&lt;/font&gt;</string>
 	<string key="ui_bonuses_disabled">&lt;font color="#f25d5d"&gt;Premie – WYŁĄCZONE&lt;/font&gt;</string>
 	<string key="ui_nogemattached">Brak osadzonych klejnotów</string>
 	<string key="ui_navmenu_skills">UMIEJĘTNOŚCI</string>
@@ -1160,8 +1187,8 @@
 	<string key="ui_path">Ścieżka</string>
 	<string key="ui_show_filters">POKAŻ FILTRY</string>
 	<string key="ui_filters">FILTRY</string>
-	<string key="ui_add_filter">Dodaj filtr</string>
-	<string key="ui_filter">Filtr</string>
+	<string key="ui_add_filter">Filtry</string>
+	<string key="ui_filter">Filtry</string>
 	<string key="ui_remove_filters">Usuń filtry</string>
 	<string key="ui_point_of_interest">Punkty orientacyjne</string>
 	<string key="ui_territory">Terytorium</string>
@@ -1201,7 +1228,7 @@
 	<string key="ui_map_you">Ty</string>
 	<string key="ui_map_localplayer">Gracz lokalny</string>
 	<string key="ui_map_pointofinterest">Punkty orientacyjne</string>
-	<string key="ui_map_resource_locations">POŁOŻENIE SUROWCÓW</string>
+	<string key="ui_map_resource_locations">SUROWCE</string>
 	<string key="ui_craftItemSuccessHeader">Liczba wytworzonych przedmiotów ({ItemName}): {Number}</string>
 	<string key="ui_map_protected">Chronione</string>
 	<string key="ui_buildmode">TRYB PLANOWANIA</string>
@@ -1252,7 +1279,7 @@
 	<string key="blacksmithing_common_uses_large">Zbroja, broń</string>
 	<string key="blacksmithing_common_uses_small">Amunicja, strzały, biżuteria</string>
 	<string key="alchemy_common_uses_small">Eliksiry itp.</string>
-	<string key="ui_toggle_pvp">Włącz tryb PvP</string>
+	<string key="ui_toggle_pvp">Przełącz oznaczenie PvP</string>
 	<string key="ui_toggle_pvp_on">PvP włączone</string>
 	<string key="ui_toggle_pvp_off">PvP wyłączone</string>
 	<string key="ui_pvp_protection_label">Do\nPvP</string>
@@ -1282,7 +1309,7 @@
 	<string key="ui_war_vs_guilds">&lt;font color="#dfd4b8"&gt;{attackingGuildName}&lt;/font&gt; VS &lt;font color="#dfd4b8"&gt;{defendingGuildName}&lt;/font&gt;</string>
 	<string key="ui_respawncooldown">Regeneracja</string>
 	<string key="ui_buildmode_error_invalid_location">Błąd</string>
-	<string key="ui_buildmode_error_invalid_location_world_bounds">Nie można budować poza granicami świata</string>
+	<string key="ui_buildmode_error_invalid_location_world_bounds">Nie można budować poza granicami</string>
 	<string key="ui_buildmode_error_in_water">Nie można budować na wodzie</string>
 	<string key="ui_buildmode_error_has_obstruction">Przeszkoda w budowie</string>
 	<string key="ui_buildmode_error_bad_terrain">Nierówny teren</string>
@@ -1295,7 +1322,7 @@
 	<string key="ui_buildmode_error_invalid_structure_limit_reached">Osiągnięto limit budowy konstrukcji</string>
 	<string key="ui_buildmode_error_invalid_not_enough_privileges">Gracze o twojej randze w kompanii nie mają pozwolenia na budowę w tym miejscu.</string>
 	<string key="ui_buildmode_error_invalid_not_enough_privileges_plantseed">Gracze o twoim stopniu w kompanii nie mają pozwolenia na sianie nasion w tym miejscu.</string>
-	<string key="ui_buildmode_error_not_in_line_of_sight">Budynek nie znajduje się w polu widzenia.</string>
+	<string key="ui_buildmode_error_not_in_line_of_sight">Brak pola widzenia</string>
 	<string key="ui_buildmode_error_camping_restricted">Nie można rozbić obozu w pobliżu punktu orientacyjnego</string>
 	<string key="ui_buildmode_error_war_attackers_restricted">Atakujący podczas wojny nie mogą tu budować</string>
 	<string key="ui_camp_unlock_skins_tooltip">Odblokuj obóz (klasa 1)\nW obozie klasy 1 możesz wytwarzać różne przedmioty klasy 1, leczyć postać i odradzać się.\nBy móc rozbijać obóz, musisz mieć postać na 5. poziomie i ukończyć początkowe zadania trapera.\nUwaga: Musisz ukończyć wcześniejsze zadania w osadzie i na plaży, by móc wykonać to zadanie.</string>
@@ -1305,13 +1332,13 @@
 	<string key="ui_bind_to_camp_disabled">Przypisanie do obozu wyłączone</string>
 	<string key="ui_bind_to_camp">Wyznacz punkt powrotu obozu</string>
 	<string key="ui_camping_error_poi_restricted_outpost_rush">Biwakowanie ograniczone podczas napadu na posterunek</string>
-	<string key="ui_camping_error_poi_restricted">&lt;img src="lyshineui/images/campingrestrictions/campingRestricted" xPadding="0" scale="2.5" yOffset="15" &gt;&lt;/img&gt; Biwakowanie ograniczone w punktach orientacyjnych</string>
+	<string key="ui_camping_error_poi_restricted">Nie można rozbić obozu w punkcie orientacyjnym.</string>
 	<string key="ui_camp_obstructed">Cofnij się, aby ukończyć</string>
 	<string key="ui_camping_restricted">Biwakowanie ograniczone</string>
 	<string key="ui_camping_available">Biwakowanie dostępne</string>
 	<string key="ui_notification_nameplate_hidden">Tabliczka z nazwą ukryta</string>
 	<string key="ui_notification_nameplate_visible">Tabliczka z nazwą widoczna</string>
-	<string key="ui_confirm_before_use_title">Potwierdź wykorzystanie</string>
+	<string key="ui_confirm_before_use_title">Zużyj przedmiot</string>
 	<string key="ui_confirm_before_use_message">Czy na pewno chcesz wykorzystać ten przedmiot? Spowoduje to znaczną zmianę twojej postaci, której nie można cofnąć.</string>
 	<string key="ui_buildmode_categories">Kategorie</string>
 	<string key="ui_hold_text">Przytrzymaj</string>
@@ -1324,18 +1351,18 @@
 	<string key="ui_defectreport_reportready_toastbody">Przechwytywanie raportu ukończone. Aby go obejrzeć, naciśnij Escape-&gt;Wyjście z opcji-&gt;Raporty o wadach.</string>
 	<string key="ui_defectreport_reportposted_toastbody">Raport został przesłany!</string>
 	<string key="ui_streaming_live">Żyje</string>
-	<string key="ui_sanctuary">AZYL</string>
+	<string key="ui_sanctuary">Azyl</string>
 	<string key="ui_sanctuary_Tooltip">Przebywając w azylu, gracze nie mogą zranić innych graczy, nawet jeśli mają oznaczenie PvP.</string>
 	<string key="ui_sanctuary_damage_warning">Nie możesz zranić innych graczy na terenie azylu.</string>
-	<string key="ui_enter_sanctuary">WEJŚCIE DO AZYLU. Gracze nie mogą się ranić na tym terenie.</string>
+	<string key="ui_enter_sanctuary">Gracze nie mogą się ranić na tym terenie.</string>
 	<string key="ui_exit_sanctuary">Opuszczanie azylu.</string>
 	<string key="ui_lawless">Obszar bezprawia</string>
 	<string key="ui_lawless_Tooltip">Jeśli gracz dopuści się przestępstw podczas pobytu w obszarze bezprawia, nie zostanie przestępcą.\n\nAby zranić gracza niebędącego przestępcą, nadal należy włączyć przestępcze zamiary, jednak nie grożą za to standardowe kary.</string>
 	<string key="ui_enter_lawless">WKRACZASZ DO OBSZARU BEZPRAWIA. Na tym terenie nie obowiązują kary za przestępstwa.</string>
 	<string key="ui_exit_lawless">OPUSZCZASZ OBSZAR BEZPRAWIA. Kary za przestępstwa są aktywne.</string>
-	<string key="ui_already_bound_to_public_respawn">Uaktywniono punkt odrodzenia.</string>
+	<string key="ui_already_bound_to_public_respawn">Punkt odrodzenia aktywowany.</string>
 	<string key="ui_remove_respawn">Usuń punkt odrodzenia</string>
-	<string key="ui_activated_respawn_name">Uaktywniono punkt odrodzenia.</string>
+	<string key="ui_activated_respawn_name">Punkt odrodzenia aktywowany.</string>
 	<string key="ui_activated_fasttravel_point">Kapliczka ducha aktywowana.</string>
 	<string key="ui_killedby">Zabójca:</string>
 	<string key="ui_murderedby">Morderca:</string>
@@ -1433,22 +1460,23 @@
 	<string key="DigitalArtBook_EntInfo">Edycja Deluxe</string>
 	<string key="view_art_book">Zobacz artbook</string>
 	<string key="art_book">Artbook</string>
-	<string key="enable_steam_overlay">Włącz nakładkę Steam w ustawieniach Steam</string>
+	<string key="enable_steam_overlay">Pokaż nakładkę Steam w ustawieniach Steam</string>
 	<string key="ui_view_purchases">Wyświetl zakupy</string>
 	<string key="ui_view_items">Pokaż</string>
 	<string key="ui_items_have_changed_msg">Przedmioty zostały dodane do twojego konta lub z niego usunięte.</string>
 	<string key="ui_account_items_changed">Zmiana przedmiotów przypisanych do konta</string>
 	<string key="ui_dismiss">Odrzuć</string>
+	<string key="ui_view" rel_version="Feature_Make_Good">Zobacz</string>
 	<string key="ui_named">Nazwany</string>
 	<string key="url_twitchchannel">https://www.twitch.tv/{channel}</string>
 	<string key="url_forums">https://forums.newworld.com/</string>
 	<string key="url_newsletter_signup">https://www.newworld.com/en-us/forward-link?id=newsletter-sign-up</string>
 	<string key="ui_seizure_title">Ostrzeżenie przed napadem padaczki fotogennej</string>
 	<string key="ui_seizure_warning">Jeśli cierpisz na epilepsję lub cierpi na nią ktoś z twojej rodziny, skonsultuj się z lekarzem, zanim zaczniesz grać w New World.</string>
-	<string key="ui_seizure_description1">Bardzo mały procent osób może doświadczyć ataku epilepsji w reakcji na określone bodźce wzrokowe, w tym wzory świetlne lub migające światła, które mogą pojawiać się w grach komputerowych lub materiałach wideo. Widząc określone wzory lub tła na ekranie komputera, także podczas rozgrywki, osoby takie mogą doświadczyć napadów padaczkowych. W pewnych warunkach niezdiagnozowane wcześniej objawy epilepsji mogą pojawić się nawet u osób, które nigdy wcześniej nie miały takich napadów i nie zmagały się z tą chorobą.</string>
+	<string key="ui_seizure_description1">Bardzo mały procent osób może doświadczyć ataku epilepsji w reakcji na określone bodźce wzrokowe, w tym wzory świetlne lub migające światła, które mogą pojawiać się w grach komputerowych lub materiałach wideo. Pewne wzory lub tła wyświetlane na ekranie komputera (także podczas rozgrywki) mogą wywołać u takich osób napady padaczkowe. W pewnych warunkach niezdiagnozowane wcześniej objawy epilepsji mogą pojawić się nawet u osób, które nigdy wcześniej nie miały takich napadów i nie zmagały się z tą chorobą.</string>
 	<string key="ui_seizure_description2">Jeśli zauważysz u siebie którekolwiek z następujących objawów – zawroty głowy, zaburzenia widzenia, drganie oka lub mięśni, rozkojarzenia, dezorientację, niekontrolowane ruchy lub konwulsje – NATYCHMIAST przerwij rozgrywkę i skonsultuj się z lekarzem, zanim ponownie uruchomisz New World.</string>
 	<string key="ui_landingscreen_dei1">New World jest grą fantasy o ludziach wywodzących się z różnych kultur, którzy łączą siły, by walczyć w obronie ludzkości.</string>
-	<string key="ui_landingscreen_dei2">Zespół deweloperski konsultował się z wieloma ekspertami i naszymi różnorodnymi kulturowo pracownikami w celu wiernego odwzorowania kultur, którymi się zainspirowaliśmy. Zamierzamy kierować się tą samą zasadą w przyszłości.</string>
+	<string key="ui_landingscreen_dei2">Zespół deweloperski gry konsultował się z ekspertami oraz naszymi pracownikami o różnorodnym pochodzeniu, aby wiernie odwzorować kultury, którymi się inspirowaliśmy. W przyszłości również będziemy przyjmować takie podejście.</string>
 	<string key="ui_landingscreen_photosensitive_title">Ostrzeżenie przed napadem padaczki fotogennej</string>
 	<string key="ui_landingscreen_photosensitive_message">Jeśli cierpisz na napady padaczkowe lub epilepsję bądź cierpi na nie ktoś z twojej rodziny, skonsultuj się z lekarzem, zanim zaczniesz grać.</string>
 	<string key="ui_newsletter_signup">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Otrzymuj najnowsze oferty i wiadomości z Aeternum!</string>
@@ -1466,13 +1494,14 @@
 	<string key="ui_deathrecap_survived_for">Postać przeżyła:</string>
 	<string key="ui_deathrecap_respawn_points">Punkty odrodzenia</string>
 	<string key="ui_global_storage">Składzik</string>
-	<string key="ui_global_storage_desc">Można tu przechowywać przedmioty. Inni gracze nie mogą zobaczyć ani zabrać przedmiotów, które tu pozostawisz.</string>
+	<string key="ui_global_storage_desc">Tu możesz przechowywać przedmioty. Inni gracze nie mogą zobaczyć ani zabrać twoich przedmiotów.</string>
 	<string key="ui_global_storage_visit_storage_shed">Odwiedź składzik, by zyskać dostęp do przechowywanych przedmiotów.</string>
 	<string key="ui_claimmarker">Przejmij punkt</string>
 	<string key="ui_claimstreak">Dzień {number}</string>
 	<string key="ui_random_location">Losowe miejsce</string>
-	<string key="ui_scroll_hint">Przybliż/Oddal</string>
+	<string key="ui_scroll_hint">Przybliż (przewiń)</string>
 	<string key="ui_map_rotate_camera">(przytrzymaj) Obróć kamerę</string>
+	<string key="ui_zoom_camera">&lt;img src="lyshineui/images/icons/misc/Icon_RightMouseButton" xPadding="0" scale="2.2" yOffset="8"&gt;&lt;/img&gt; + &lt;img src="lyshineui/images/icons/misc/Icon_MiddleMouseButton" xPadding="1" scale="2.3" yOffset="9"&gt;&lt;/img&gt; (przytrzymaj) Przybliż</string>
 	<string key="ui_global_storage_description">Inni gracze nie mogą zobaczyć ani zabrać przedmiotów, które tu pozostawisz. Aby zabrać te przedmioty, musisz wrócić do tego posterunku.</string>
 	<string key="ui_apply_all_resources">Użyj wszystkich surowców</string>
 	<string key="ui_apply_resources">Użyj surowców</string>
@@ -1502,11 +1531,11 @@
 	<string key="ui_changedRankDesc">Twoja kompania {companyName} zmieniła ci stopień na {rankName}. Więcej informacji znajdziesz w menu kompanii [{button_hint}].</string>
 	<string key="ui_primary_attack">Atak główny</string>
 	<string key="ui_craft_common">WYTWÓRZ ZWYKŁY {fee}&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
-	<string key="ui_pin_recipe">PRZYPNIJ SCHEMAT</string>
-	<string key="ui_pin_recipe_tooltip">Przypięty schemat będzie widoczny na ekranie w trakcie rozgrywki.</string>
-	<string key="ui_unpin_recipe">PORZUĆ SCHEMAT</string>
-	<string key="ui_unpin_recipe_tooltip">Przestań śledzić ten schemat w dzienniku</string>
-	<string key="ui_cannot_pin_recipe">Musisz wybrać wszystkie składniki, by przypiąć schemat.</string>
+	<string key="ui_pin_recipe">Przypnij schemat</string>
+	<string key="ui_pin_recipe_tooltip">Śledź ten schemat w dzienniku.</string>
+	<string key="ui_unpin_recipe">Odepnij schemat</string>
+	<string key="ui_unpin_recipe_tooltip">Przestań śledzić ten schemat w dzienniku.</string>
+	<string key="ui_cannot_pin_recipe">Musisz wybrać wszystkie materiały, by przypiąć schemat.</string>
 	<string key="ui_required_to_use">Wymagane do użycia</string>
 	<string key="ui_standard_damage">Obrażenia standardowe</string>
 	<string key="ui_thrust_damage">Obrażenia od pchnięć</string>
@@ -1526,7 +1555,7 @@
 	<string key="ui_trading_post_insufficient_quantity_message">Faktoria nie ma przedmiotu {item} w ilości {amount}. Być może inny gracz wykupił towar przed tobą.</string>
 	<string key="ui_tooltip_requiredtouse">Wymagane do użycia</string>
 	<string key="ui_tooltip_required">Wymagania:</string>
-	<string key="ui_tooltip_attribute">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{value}&lt;/font&gt; {label}</string>
+	<string key="ui_tooltip_attribute">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#FFFFFF"&gt;{value}&lt;/font&gt; {label}</string>
 	<string key="ui_tooltip_equip">Ekwipuj</string>
 	<string key="ui_tooltip_equip_requirements_not_met">Ekwipuj – wymagania nie zostały spełnione</string>
 	<string key="ui_tooltip_equipasweapon">Użyj jako broni</string>
@@ -1534,14 +1563,14 @@
 	<string key="ui_tooltip_drop">Upuść</string>
 	<string key="ui_tooltip_discard">Pozbądź się</string>
 	<string key="ui_tooltip_read">Przeczytaj</string>
-	<string key="ui_tooltip_store">Przechowaj</string>
+	<string key="ui_tooltip_store">Otwórz sklep</string>
 	<string key="ui_purchase_skins">Kup skórki</string>
 	<string key="ui_tooltip_upgrade">Ulepszenie</string>
 	<string key="ui_tooltip_take">Weź</string>
 	<string key="ui_tooltip_split">Rozdziel</string>
-	<string key="ui_tooltip_weight">Waga: &lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{value}&lt;/font&gt;</string>
-	<string key="ui_tooltip_cooldown">Czas odnowienia: &lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{value}&lt;/font&gt; s</string>
-	<string key="ui_tooltip_durability">Trwałość: &lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{value}&lt;/font&gt;</string>
+	<string key="ui_tooltip_weight">Waga: &lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#FFFFFF"&gt;{value}&lt;/font&gt;</string>
+	<string key="ui_tooltip_cooldown">Czas odnowienia: &lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#FFFFFF"&gt;{value}&lt;/font&gt; s</string>
+	<string key="ui_tooltip_durability">Trwałość: &lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#FFFFFF"&gt;{value}&lt;/font&gt;</string>
 	<string key="ui_tooltip_durability_red">Trwałość: &lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#f25d5d"&gt;{value}&lt;/font&gt;</string>
 	<string key="ui_tooltip_doubleclick">DWUKR. &lt;img src="lyshineui/images/icons/misc/Icon_LeftMouseButton" xPadding="0" scale="2.2" yOffset="5"&gt;&lt;/img&gt;</string>
 	<string key="ui_tooltip_shiftclick">SHIFT + &lt;img src="lyshineui/images/icons/misc/Icon_LeftMouseButton" xPadding="0" scale="2.2" yOffset="5"&gt;&lt;/img&gt;</string>
@@ -1555,22 +1584,22 @@
 	<string key="ui_tooltip_why">Dlaczego?</string>
 	<string key="ui_tooltip_skin">&lt;img src="lyshineui/images/icons/crafting/icon_skin_mask" xPadding="0" scale="2.2" yOffset="5"&gt;&lt;/img&gt;</string>
 	<string key="ui_attach_gem">Osadź klejnot</string>
-	<string key="ui_attach_gem_tooltip">Osadź szlifowany klejnot ze swojego ekwipunku.</string>
+	<string key="ui_attach_gem_tooltip">Osadź klejnot ze swojego ekwipunku.</string>
 	<string key="ui_replace_gem">Zamień klejnot</string>
 	<string key="ui_replace_gem_tooltip">Zamień obecnie osadzony klejnot na inny klejnot z twojego ekwipunku. Obecnie używany klejnot zostanie utracony.</string>
 	<string key="ui_upgrade_warning_title">Ulepszenie przedmiotu</string>
 	<string key="ui_upgrade_warning_body">Do ulepszenia przedmiotu: {itemName} z {baseGearScore} do {targetGearScore} pkt wyposażenia potrzeba: {itemCount} x {upgradeItemName}.\n\nUlepszanie przedmiotów powoduje ich przypisanie do ciebie.\n\nCzy chcesz ulepszyć ten przedmiot?</string>
-	<string key="ui_upgrade_tooltip_enabled">Ulepsz przedmiot za pomocą: &lt;font color="#ffffff"&gt;{itemName}&lt;/font&gt;. To zwiększy liczbę &lt;font color="#ffffff"&gt;punktów wyposażenia&lt;/font&gt; tego przedmiotu.</string>
+	<string key="ui_upgrade_tooltip_enabled">Ulepsz przedmiot za pomocą: &lt;font color="#FFFFFF"&gt;{itemName}&lt;/font&gt;. To zwiększy liczbę &lt;font color="#FFFFFF"&gt;punktów wyposażenia&lt;/font&gt; tego przedmiotu.</string>
 	<string key="ui_upgrade_tooltip_disabled_items">Do zwiększenia liczby punktów wyposażenia tego przedmiotu potrzeba co najmniej {quantity} więcej: {itemName}.</string>
-	<string key="ui_upgrade_tooltip_disabled_skill">Możesz jedynie ulepszyć przedmioty, w których masz &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;biegłość ({neededValue})&lt;/font&gt;.\n(Obecna biegłość ({expertiseName}): &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
+	<string key="ui_upgrade_tooltip_disabled_skill">Wymaga &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{neededValue}&lt;/font&gt; dla {expertiseName} (obecnie: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;).</string>
 	<string key="ui_upgrade_tooltip_disabled_broken">Zepsutych przedmiotów nie można ulepszyć.</string>
-	<string key="ui_upgrade_tooltip_disabled_gearscore">Możesz jedynie ulepszyć przedmioty mające co najmniej &lt;font color="#ffffff"&gt;{gearScore}&lt;/font&gt; pkt wyposażenia.</string>
+	<string key="ui_upgrade_tooltip_disabled_gearscore">Możesz jedynie ulepszyć przedmioty mające co najmniej &lt;img src="lyshineui/images/icons/misc/icon_gearscore" scale="1.2" yOffset="1"&gt;&lt;/img&gt; &lt;font color="#FFFFFF"&gt;{gearScore}&lt;/font&gt;.</string>
 	<string key="ui_upgrade_notification">Liczbę punktów wyposażenia przedmiotu zwiększono do &lt;font color="#fffd7a"&gt;{baseGearScore}&lt;/font&gt;.</string>
 	<string key="ui_cannot_replace_gem_tooltip">Nie można zamienić tego klejnotu.</string>
 	<string key="ui_no_gems_tooltip">Brak dostępnych klejnotów</string>
-	<string key="ui_gem_select_popup_available">Dostępne klejnoty</string>
-	<string key="ui_gem_select_popup_current_gem">Obecnie używany klejnot</string>
-	<string key="ui_gem_select_popup_selected_gem">Wybrany klejnot</string>
+	<string key="ui_gem_select_popup_available">Dostępne</string>
+	<string key="ui_gem_select_popup_current_gem">Używany</string>
+	<string key="ui_gem_select_popup_selected_gem">Wybrany</string>
 	<string key="ui_gem_select_popup_will_lose_gem">(zostanie utracony w przypadku zamiany)</string>
 	<string key="ui_gem_added_notification">Dodano: {gemPerkName} do: {itemName}</string>
 	<string key="ui_attach_gem_confirmation_message">Gdy klejnot zostanie osadzony, nie będzie można go usunąć. Możesz zamienić klejnot na inny, ale obecnie używany zostanie utracony.</string>
@@ -1587,27 +1616,27 @@
 	<string key="ui_repair_all_disabled_tutorial">&lt;font color="#f25d5d"&gt;Nie masz wystarczającej liczby monet, części zamiennych lub zestawów naprawczych potrzebnych do naprawy wszystkich przedmiotów.&lt;/font&gt;</string>
 	<string key="ui_repair_all_disabled_salvage">Odzyskaj nieużywane wyposażenie, by zdobyć części zamienne.</string>
 	<string key="ui_repair_all_category_disabled">Nie masz wystarczającej liczby monet, części zamiennych lub zestawów naprawczych potrzebnych do naprawy wszystkich przedmiotów z tej kategorii.</string>
-	<string key="ui_repair_all_equipment_disabled">Nie masz wystarczającej liczby monet, części zamiennych lub zestawów naprawczych potrzebnych do naprawy całego wyposażenia.</string>
+	<string key="ui_repair_all_equipment_disabled">Nie masz wystarczającej liczby monet, części zamiennych lub zestawów naprawczych potrzebnych do naprawy wszystkich twoich przedmiotów.</string>
 	<string key="ui_repair_all_not_needed">Nie ma żadnych przedmiotów tej kategorii do naprawy.</string>
-	<string key="ui_repair_filtered">Nie można naprawić wszystkich przedmiotów tej kategorii, gdy zastosowano filtr przedmiotów.</string>
-	<string key="ui_repair_all_not_needed_equipment">Żaden przedmiot w twoim wyposażeniu nie wymaga naprawy.</string>
-	<string key="ui_repair_all_confirmation">Naprawić wszystkie przedmioty tej kategorii?\nWymaga:</string>
-	<string key="ui_repair_all_equipment_confirmation">Naprawić całe wyposażenie?\nWymaga:</string>
-	<string key="ui_chat_mention_self_markup">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font" color="#ffffff"&gt;@{name}&lt;/font&gt;</string>
+	<string key="ui_repair_filtered">Nie można naprawić wszystkich przedmiotów z tej kategorii, gdy zastosowano filtr przedmiotów.</string>
+	<string key="ui_repair_all_not_needed_equipment">Brak przedmiotów do naprawy.</string>
+	<string key="ui_repair_all_confirmation">Koszt naprawy:</string>
+	<string key="ui_repair_all_equipment_confirmation">Koszt naprawy:</string>
+	<string key="ui_chat_mention_self_markup">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font" color="#FFFFFF"&gt;@{name}&lt;/font&gt;</string>
 	<string key="ui_and">i</string>
 	<string key="ui_or">Lub</string>
-	<string key="ui_tooltip_ingredient_type">Rodzaj składnika:</string>
-	<string key="ui_tooltip_ingredient_types">Rodzaje składników:</string>
-	<string key="ui_tooltip_perks_info_text_armor_singular">Zamontuj na dowolnym pancerzu z gniazdem, by uzyskać następujący efekt:</string>
-	<string key="ui_tooltip_perks_info_text_armor_plural">Zamontuj na dowolnym pancerzu z gniazdem, by uzyskać jeden z następujących efektów:</string>
-	<string key="ui_tooltip_perks_info_text_weaponarmor_singular">Zamontuj na dowolnej broni lub pancerzu z gniazdem, by uzyskać następujący efekt:</string>
-	<string key="ui_tooltip_perks_info_text_weaponarmor_plural">Zamontuj na dowolnej broni lub pancerzu z gniazdem, by uzyskać jeden z następujących efektów:</string>
-	<string key="ui_tooltip_perks_info_text_gem_singular">Zamontuj ten klejnot na dowolnym przedmiocie z gniazdem, by uzyskać następujący efekt:</string>
-	<string key="ui_tooltip_perks_info_text_gem_plural">Zamontuj ten klejnot na dowolnym przedmiocie z gniazdem, by uzyskać jeden z następujących efektów:</string>
+	<string key="ui_tooltip_ingredient_type">Typ:</string>
+	<string key="ui_tooltip_ingredient_types">Typy:</string>
+	<string key="ui_tooltip_perks_info_text_armor_singular">Osadź w gnieździe dowolnego pancerza, by uzyskać następujący efekt:</string>
+	<string key="ui_tooltip_perks_info_text_armor_plural">Osadź w gnieździe dowolnego pancerza, by uzyskać jeden z następujących efektów:</string>
+	<string key="ui_tooltip_perks_info_text_weaponarmor_singular">Osadź w gnieździe dowolnej broni lub pancerza, by uzyskać następujący efekt:</string>
+	<string key="ui_tooltip_perks_info_text_weaponarmor_plural">Osadź w gnieździe dowolnej broni lub pancerza, by uzyskać jeden z następujących efektów:</string>
+	<string key="ui_tooltip_perks_info_text_gem_singular">Osadź w gnieździe dowolnego przedmiotu, by uzyskać następujący efekt:</string>
+	<string key="ui_tooltip_perks_info_text_gem_plural">Osadź w gnieździe dowolnego przedmiotu, by uzyskać jeden z następujących efektów:</string>
 	<string key="ui_tooltip_perks_info_text_craft_singular">Użyj tego surowca podczas wytwarzania przedmiotu, by uzyskać następujący efekt:</string>
 	<string key="ui_tooltip_perks_info_text_craft_plural">Użyj tego surowca podczas wytwarzania przedmiotu, by uzyskać jeden z następujących efektów:</string>
 	<string key="ui_tooltip_refinedat">Do przetworzenia w:</string>
-	<string key="ui_tooltip_derivedfrom">Można otrzymać z:</string>
+	<string key="ui_tooltip_derivedfrom">Źródło:</string>
 	<string key="ui_tooltip_repair_requires">Napraw za pomocą:</string>
 	<string key="ui_tooltip_cannot_use_in_battle">Nie można użyć podczas walki.</string>
 	<string key="ui_tooltip_clickToLock">Kliknij przedmiot, by go zablokować</string>
@@ -1632,7 +1661,7 @@
 	<string key="ui_tooltip_blockingstability">Stabilność blokowania</string>
 	<string key="ui_tooltip_broken">Zepsute – premie nieaktywne</string>
 	<string key="ui_tooltip_absorption">Pochłanianie</string>
-	<string key="ui_tooltip_armorrating">Współczynnik pancerza</string>
+	<string key="ui_tooltip_armorrating">Pancerz</string>
 	<string key="ui_tooltip_resistances">Odporności</string>
 	<string key="ui_tooltip_activetool">Aktywne narzędzie</string>
 	<string key="ui_tooltip_setactivetool">Wyznacz aktywne narzędzie</string>
@@ -1644,7 +1673,7 @@
 	<string key="ui_tooltip_none">BRAK</string>
 	<string key="ui_feedback_submitted">Dziękujemy za opinię!</string>
 	<string key="ui_submit_feedback_description">Dziękujemy za informacje! Informacje o swoich – dobrych lub złych – wrażeniach z gry możesz przesłać w dowolnej chwili. Im więcej takich wiadomości otrzymamy, tym lepszą grą będzie New World.</string>
-	<string key="ui_submit_feedback_type">Wpisz tu swoją wiadomość.</string>
+	<string key="ui_submit_feedback_type">Nie przesyłaj danych osobowych ani wrażliwych</string>
 	<string key="ui_submit_feedback_question">Co sądzisz o rozgrywce?</string>
 	<string key="ui_loading">Ładowanie</string>
 	<string key="ui_digital_deluxe">Digital Deluxe</string>
@@ -1673,10 +1702,10 @@
 	<string key="ui_war_declare_fail_InsufficientContribution">Nie można wypowiedzieć wojny, twoja kompania zyskała za mało wpływów.</string>
 	<string key="ui_online_friends">Znajomi online</string>
 	<string key="ui_any_moment">Lada moment…</string>
-	<string key="ui_current_location">Bieżące położenie</string>
-	<string key="ui_transferheader">Pokaż lub przenieś z/do:</string>
-	<string key="ui_transferfromheader">Pokaż lub przenieś z:</string>
-	<string key="ui_viewheader">Tylko pokaż:</string>
+	<string key="ui_current_location">Tu</string>
+	<string key="ui_transferheader">Przenieś z/do:</string>
+	<string key="ui_transferfromheader">Przenieś z</string>
+	<string key="ui_viewheader">Pokaż tylko</string>
 	<string key="ui_transferwarning">Czy na pewno chcesz przenieść wszystkie przedmioty do ekwipunku?</string>
 	<string key="ui_transfertooltip">Możesz przenosić przedmioty pomiędzy terytoriami kontrolowanymi przez twoją frakcję.</string>
 	<string key="ui_transfertoandfromtooltip">Możesz przenosić przedmioty z i do składzików znajdujących się tylko w twojej bieżącej lokalizacji.</string>
@@ -1712,7 +1741,7 @@
 	<string key="ui_time_left">Pozostało {time}</string>
 	<string key="ui_autocompletetimedout">Koniec czasu automatycznego ukończenia.</string>
 	<string key="ui_autocompletethrottled">Automatyczne ukończenie spowolnione.</string>
-	<string key="ui_searchitem">Szukaj przedmiotów</string>
+	<string key="ui_searchitem">Szukaj</string>
 	<string key="ui_searchresult">Wynik wyszukiwania</string>
 	<string key="ui_searchtimedout">Upłynął limit czasu wyszukiwania. Spróbuj ponownie.</string>
 	<string key="ui_searchthrottled">Wyszukiwanie odrzucone w ramach ograniczania żądań. Spróbuj ponownie.</string>
@@ -1779,15 +1808,15 @@
 	<string key="ui_leaderboard" rel_version="Feature_Leaderboards">Ranking</string>
 	<string key="ui_mapmenu_dayleaderboard" rel_version="Feature_Leaderboards">DZIEŃ</string>
 	<string key="ui_mapmenu_seasonleaderboard" rel_version="Feature_Leaderboards">PORA ROKU</string>
-	<string key="ui_mapmenu_companiesatwar">NADCHODZĄCE WOJNY</string>
-	<string key="ui_mapmenu_resourcelocations">POŁOŻENIE SUROWCÓW</string>
-	<string key="ui_mapmenu_activewars">NADCHODZĄCE WOJNY</string>
+	<string key="ui_mapmenu_companiesatwar">WOJNY</string>
+	<string key="ui_mapmenu_resourcelocations">SUROWCE</string>
+	<string key="ui_mapmenu_activewars">WOJNY</string>
 	<string key="ui_mapmenu_noactivewars">Obecnie w tym świecie nie ma żadnych nadchodzących wojen.</string>
 	<string key="ui_mapmenu_warhasended">Wojna zakończona.</string>
-	<string key="ui_mapmenu_oneactivewar">Bierzesz udział w &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;1&lt;/font&gt;&lt;/font&gt; nadchodzącej wojnie.</string>
-	<string key="ui_mapmenu_numactivewars">Bierzesz udział w &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{numWars}&lt;/font&gt;&lt;/font&gt; nadchodzących wojnach.</string>
-	<string key="ui_activewars_oneactivewar">W tym świecie jest &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;1&lt;/font&gt;&lt;/font&gt; nachodząca wojna.</string>
-	<string key="ui_activewars_numactivewars">Nadchodzące wojny w tym świecie: &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{numWars}&lt;/font&gt;&lt;/font&gt;.</string>
+	<string key="ui_mapmenu_oneactivewar">Bierzesz udział w &lt;font color="#FFFFFF"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;1&lt;/font&gt;&lt;/font&gt; nadchodzącej wojnie.</string>
+	<string key="ui_mapmenu_numactivewars">Bierzesz udział w &lt;font color="#FFFFFF"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{numWars}&lt;/font&gt;&lt;/font&gt; nadchodzących wojnach.</string>
+	<string key="ui_activewars_oneactivewar">W tym świecie jest &lt;font color="#FFFFFF"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;1&lt;/font&gt;&lt;/font&gt; nachodząca wojna.</string>
+	<string key="ui_activewars_numactivewars">Nadchodzące wojny w tym świecie: &lt;font color="#FFFFFF"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{numWars}&lt;/font&gt;&lt;/font&gt;.</string>
 	<string key="ui_mapmenu_attacker">ATAKUJĄCY</string>
 	<string key="ui_mapmenu_defender">OBROŃCA</string>
 	<string key="ui_mapmenu_versusabbreviation" comment="The abbreviated version of versus as in Alpha Company VS Bravo Company">VS</string>
@@ -1797,11 +1826,11 @@
 	<string key="ui_mapmenu_warlist_failure_timeout">Upłynął limit czasu. Spróbuj ponownie.</string>
 	<string key="ui_mapmenu_warlist_failure_generic">Coś poszło nie tak. Spróbuj ponownie.</string>
 	<string key="ui_mapmenu_warlist_retry">Ponów</string>
-	<string key="ui_mapmenu_manage_objectives">Zarządzaj celami</string>
-	<string key="ui_mapmenu_territorystandings">Rangi terytoriów</string>
-	<string key="ui_mapmenu_territorystandings_subtext">Poziomy rangi terytoriów pozwalają ci odblokować premie terytorium.</string>
-	<string key="ui_mapmenu_territorystandings_spendprompt">KUP NAGRODĘ TERYTORIALNĄ!</string>
-	<string key="ui_mapmenu_territorystandings_unspent_tokens">Masz &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{count}&lt;/font&gt;&lt;/font&gt; niewydanych punktów rangi terytoriów.</string>
+	<string key="ui_mapmenu_manage_objectives">Cele</string>
+	<string key="ui_mapmenu_territorystandings">Terytoria</string>
+	<string key="ui_mapmenu_territorystandings_subtext">Zwiększ poziom rangi terytorium, by odblokować premie na tym terytorium.</string>
+	<string key="ui_mapmenu_territorystandings_spendprompt">DOSTĘPNE PREMIE TERYTORIUM</string>
+	<string key="ui_mapmenu_territorystandings_unspent_tokens">&lt;font color="#FFFFFF"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{count}&lt;/font&gt;&lt;/font&gt; – niewydane pkt rangi terytorium</string>
 	<string key="ui_territory_tokens">Punkty rangi: {territory}</string>
 	<string key="ui_territory_standing_short" comment="one word version to show next to rewards in the banner">Ranga</string>
 	<string key="ui_territory_standing_with_icon">Ranga {territoryName}</string>
@@ -1817,12 +1846,12 @@
 	<string key="ui_required_to_active">Wymagania</string>
 	<string key="ui_arena_time_remaining">Czas pozostały do wejścia na teren próby</string>
 	<string key="ui_arena_occupied">Na terenie próby walczy już grupa.</string>
-	<string key="ui_arena_description">Zbierzcie się z grupą przy wejściu na teren próby.&lt;font color="#ffffff"&gt; Na terenie próby może przebywać w danej chwili tylko jedna grupa.&lt;/font&gt;\n\nPo wejściu na teren próby nie można się odradzać. Powalenie nałoży na gracza efekt unieruchomienia.</string>
-	<string key="ui_arena_objective">Pokonaj: {monstername} w ciągu &lt;font color="#ffffff"&gt;15 minut.&lt;/font&gt;</string>
+	<string key="ui_arena_description">Zbierzcie się z grupą przy wejściu na teren próby.&lt;font color="#FFFFFF"&gt; Na terenie próby może przebywać w danej chwili tylko jedna grupa.&lt;/font&gt;\n\nPo wejściu na teren próby nie można się odradzać. Powalenie nałoży na gracza efekt unieruchomienia.</string>
+	<string key="ui_arena_objective">Pokonaj: {monstername} w ciągu &lt;font color="#FFFFFF"&gt;15 minut.&lt;/font&gt;</string>
 	<string key="ui_arena_item_reward">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt; {itemname}&lt;/font&gt;</string>
 	<string key="AwardAngryEarthEvent_MasterName">Skrytka z wyposażeniem wściekłej ziemi</string>
-	<string key="ui_arena_rewardtype_currency">&lt;img src="lyshineui/images/icons/objectives/reward_coin" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Monety:&lt;/font&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt;</string>
-	<string key="ui_arena_rewardtype_azoth">&lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.8" yOffset="3"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;azothu&lt;/font&gt;</string>
+	<string key="ui_arena_rewardtype_currency">&lt;img src="lyshineui/images/icons/objectives/reward_coin" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Monety:&lt;/font&gt; &lt;font color="#FFFFFF" &gt; {amount} &lt;/font&gt;</string>
+	<string key="ui_arena_rewardtype_azoth">&lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.8" yOffset="3"&gt;&lt;/img&gt; &lt;font color="#FFFFFF" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;azothu&lt;/font&gt;</string>
 	<string key="ui_arena_group_proximity">Członek grupy jest za daleko</string>
 	<string key="ui_arena_group_dead">Group member is dead</string>
 	<string key="ui_arena_activating">Trwa aktywowanie</string>
@@ -1830,13 +1859,19 @@
 	<string key="spriggan_name">Zygoramet</string>
 	<string key="ui_exit_dungeon_title">Opuścić ekspedycję?</string>
 	<string key="ui_exit_dungeon_title_solo">Opuścić Próbę Duszy?</string>
+	<string key="ui_exit_dungeon_title_raidtrial">Opuścić elitarną próbę?</string>
 	<string key="ui_dungeon_exit">Portal wyjścia z ekspedycji</string>
-	<string key="ui_dungeon_exit_solo">Portal wyjścia z Próby Duszy</string>
+	<string key="ui_dungeon_exit_solo">Wyjście z Próby Duszy</string>
+	<string key="ui_dungeon_exit_raidtrial">Portal wyjścia z elitarnej próby</string>
 	<string key="ui_exit_dungeon_desc">Teleportujesz się poza teren ekspedycji.\nPowrót będzie możliwy, dopóki nie zostanie on zamknięty.</string>
+	<string key="ui_exit_dungeon_desc_solo">Teleportujesz się poza teren Próby Duszy.\nPowrót będzie możliwy, dopóki próba nie zostanie zamknięta.</string>
+	<string key="ui_exit_dungeon_desc_raidtrial">Teleportujesz się poza teren elitarnej próby.\nPowrót będzie możliwy, dopóki próba nie zostanie zamknięta.</string>
 	<string key="ui_exit_dungeon_will_close_desc">Teleportujesz się poza teren ekspedycji.\nJeśli cała twoja grupa opuści ekspedycję, zostanie on zamknięty.</string>
 	<string key="ui_exit_dungeon_will_close_desc_solo">Teleportujesz się poza obszar Próby Duszy. Zostanie ona zamknięta.</string>
+	<string key="ui_exit_dungeon_will_close_desc_raidtrial">Teleportujesz się poza obszar elitarnej próby. Zostanie ona zamknięta.</string>
 	<string key="ui_exit_dungeon_incombat">Nie możesz opuścić ekspedycji chwilę po udziale w walce. \nMożesz wyjść za: &lt;font color="#ffd45f"&gt;[{timeremaining}]&lt;/font&gt;</string>
 	<string key="ui_exit_dungeon_incombat_solo">Nie możesz opuścić Próby Duszy od razu po udziale w walce. \nMożesz wyjść za: &lt;font color="#ffd45f"&gt;[{timeremaining}]&lt;/font&gt;</string>
+	<string key="ui_exit_dungeon_incombat_raidtrial">Nie możesz opuścić elitarnej próby chwilę po udziale w walce. \nMożesz wyjść za: &lt;font color="#ffd45f"&gt;[{timeremaining}]&lt;/font&gt;</string>
 	<string key="ui_enable_newDamageNumbers">Unoszące się statystyki obrażeń</string>
 	<string key="ui_enable_newDamageNumbers_description">Po wyłączeniu statystyki obrażeń będą wyświetlane obok paska zdrowia wroga.</string>
 	<string key="ui_accept_duel_invites">Przyjmuj zaproszenia do pojedynku</string>
@@ -1844,8 +1879,8 @@
 	<string key="ui_auto_traverse">Automatyczne pokonywanie przeszkód</string>
 	<string key="ui_auto_traverse_description">Automatycznie pokonuj przeszkody podczas ruchu</string>
 	<string key="ui_chat_compact_view">Widok kompaktowy</string>
-	<string key="ui_chat_enable_alerts">Włącz powiadomienia</string>
-	<string key="ui_chat_enable_alerts_options">Włącza powiadomienia czatu</string>
+	<string key="ui_chat_enable_alerts">Powiad.</string>
+	<string key="ui_chat_enable_alerts_options">Powiad. czatu</string>
 	<string key="ui_chat_enable_alerts_tooltip">Pozwala wyświetlać powiadomienia podczas sprawdzania menu, które domyślnie ukryłyby czat. Określ, które kanały mogą przesyłać powiadomienia za pomocną ikony wyboru kanału po lewej.</string>
 	<string key="ui_chat_enable_close_after_send">Zamknij po wysłaniu</string>
 	<string key="ui_chat_enable_close_after_send_options">Zamyka czat po wysłaniu</string>
@@ -1892,9 +1927,9 @@
 	<string key="ui_has_resources">Masz zasoby</string>
 	<string key="ui_deadnotification_title">"NIE ŻYJESZ"</string>
 	<string key="ui_deadnotification_body">Musisz się odrodzić, aby móc odpowiedzieć na to powiadomienie.</string>
-	<string key="ui_vitals_health_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">Zdrowie\n{currentValue} / {maxValue}\n\nAby &lt;font color="#ffe940"&gt;odzyskać&lt;/font&gt; zdrowie\n– Używaj nalewek, by szybko odzyskiwać zdrowie\n– Spożywaj jedzenie, by otrzymać zastrzyk zdrowia, a potem odzyskiwać je z upływem czasu.\n\nPodnieś współczynnik &lt;font color="#ffe940"&gt;kondycji&lt;/font&gt;, by zwiększyć maksymalny poziom zdrowia.\n\n&lt;img src="lyshineui/images/icons/hud/vitals/Icon_combatstate" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt; – oznacza, że gracz obecnie bierze udział w walce. Podczas walki niektóre działania gracza są ograniczone. Zakończ walkę lub unikaj jej przez 20 sekund, by pozbyć się tego statusu.</string>
-	<string key="ui_vitals_stamina_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">Wytrzymałość\n{currentValue} / {maxValue}\n\nCzynności obronne, takie jak blokowanie lub unik, zużywają wytrzymałość. Gdy spadnie do zera, nie będzie można skutecznie ich wykonywać.\n\nWytrzymałość sama regeneruje się z upływem czasu, chyba że w tym czasie atakujesz lub biegasz sprintem.</string>
-	<string key="ui_vitals_mana_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">Mana\n{currentValue}/{maxValue}\n\nTajemnicza energia potrzebna do władania magią. Niski poziom many uniemożliwia używanie niektórych zdolności nadprzyrodzonych.\n\nMana regeneruje się z upływem czasu.</string>
+	<string key="ui_vitals_health_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">&lt;font color={headerColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;ZDROWIE&lt;/font&gt;\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{currentValue} / {maxValue}&lt;/font&gt;\n\nAby odzyskać &lt;font color={highlightColor}&gt;zdrowie&lt;/font&gt;\n• Używaj nalewek, by szybko odzyskiwać zdrowie\n• Spożywaj jedzenie, by otrzymać zastrzyk zdrowia, a potem odzyskiwać je z upływem czasu.\n\nPodnieś współczynnik &lt;font color={highlightColor}&gt;kondycji&lt;/font&gt;, by zwiększyć maksymalny poziom &lt;font color={highlightColor}&gt;zdrowia&lt;/font&gt;.\n\n&lt;img src="lyshineui/images/icons/hud/vitals/Icon_combatstate" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt; – oznacza, że gracz obecnie bierze udział w walce. Podczas walki niektóre działania gracza są ograniczone. Zakończ walkę lub unikaj jej przez 20 sekund, by pozbyć się tego statusu.</string>
+	<string key="ui_vitals_stamina_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">&lt;font color={headerColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;WYTRZYMAŁOŚĆ&lt;/font&gt;\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{currentValue} / {maxValue}&lt;/font&gt;\n\nCzynności obronne, takie jak blokowanie lub unik, zużywają &lt;font color={highlightColor}&gt;wytrzymałość&lt;/font&gt;. Gdy spadnie ona do zera, nie będzie można skutecznie ich wykonywać.\n\n&lt;font color={highlightColor}&gt;Wytrzymałość&lt;/font&gt; sama regeneruje się z upływem czasu, chyba że w tym czasie atakujesz lub biegasz sprintem.</string>
+	<string key="ui_vitals_mana_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">&lt;font color={headerColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;MANA&lt;/font&gt;\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{currentValue} / {maxValue}&lt;/font&gt;\n\nTajemnicza energia potrzebna do władania magią. Niski poziom many uniemożliwia używanie niektórych zdolności nadprzyrodzonych.\n\n&lt;font color={highlightColor}&gt;Mana&lt;/font&gt; regeneruje się z upływem czasu.</string>
 	<string key="ui_vitals_mana_rate_tooltip">Mana regeneruje się z upływem czasu.\n\nDomyślnie: 1,5 pkt many na sekundę.</string>
 	<string key="ui_vitals_cooldown_tooltip">Skraca czas, jaki musi upłynąć przed ponownym użyciem umiejętności.</string>
 	<string key="ui_vitals_food_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">Odżywienie\n{currentValue}/{maxValue}\n\nJedzenie zwiększa tempo regeneracji zdrowia. Gdy poziom odżywienia będzie zbyt niski, tempo regeneracji może spaść do zera!\n\nNie będziesz tracić zdrowia z głodu. Współczynnik ten wpływa wyłącznie na jego regenerację.</string>
@@ -1954,56 +1989,57 @@
 	<string key="ui_summary">Podsumowanie</string>
 	<string key="ui_azoth_max_title">Maks. azoth</string>
 	<string key="ui_azoth_max_desc">Osiągnięto limit azothu. Jego nadmiar zostanie utracony.</string>
-	<string key="ui_azoth_warning_title">Uwaga, limit azothu</string>
-	<string key="ui_azoth_warning_desc">Prawie osiągnięto limit azothu. {amount}/{maxAmount}</string>
+	<string key="ui_azoth_warning_title">Uwaga: Limit azothu</string>
+	<string key="ui_azoth_warning_desc">Niedługo osiągniesz limit azothu: {amount}/{maxAmount}</string>
 	<string key="ui_coin_max_title">Maksimum monet</string>
 	<string key="ui_coin_max_desc">Osiągnięto limit monet. Ich nadmiar zostanie utracony.</string>
-	<string key="ui_coin_warning_title">Uwaga, limit monet</string>
-	<string key="ui_coin_warning_desc">Prawie osiągnięto limit monet. {amount}/{maxAmount}</string>
+	<string key="ui_coin_warning_title">Uwaga: Limit monet</string>
+	<string key="ui_coin_warning_desc">Niedługo osiągniesz limit monet: {amount}/{maxAmount}</string>
 	<string key="ui_reputation_max_title">Maksymalna reputacja</string>
 	<string key="ui_reputation_max_desc">Osiągnięto limit reputacji frakcyjnej. Jej nadmiar zostanie utracony.</string>
-	<string key="ui_reputation_warning_title">Uwaga, limit reputacji</string>
-	<string key="ui_reputation_warning_desc">Prawie osiągnięto limit reputacji frakcyjnej. {amount}/{maxAmount}</string>
-	<string key="ui_reputation_max_tooltip">Limit reputacji wynosi: {amount}</string>
+	<string key="ui_reputation_warning_title">Uwaga: Limit reputacji</string>
+	<string key="ui_reputation_warning_desc">Niedługo osiągniesz limit reputacji frakcyjnej: {amount}/{maxAmount}</string>
+	<string key="ui_reputation_max_tooltip">Limit reputacji wynosi {amount}.</string>
 	<string key="ui_azoth_salt_max_title" rel_version="PvP_Rewards_Track">Maks. azothowej soli</string>
 	<string key="ui_azoth_salt_max_desc" rel_version="PvP_Rewards_Track">Osiągnięto limit azothowej soli. Jej nadmiar zostanie utracony.</string>
-	<string key="ui_azoth_salt_warning_title" rel_version="PvP_Rewards_Track">Uwaga, limit azothowej soli</string>
-	<string key="ui_azoth_salt_warning_desc" rel_version="PvP_Rewards_Track">Prawie osiągnięto limit azothowej soli. {amount}/{maxAmount}</string>
-	<string key="ui_azoth_salt_max_tooltip" rel_version="PvP_Rewards_Track">Nie można otworzyć przedmiotu. Osiągnięto limit azothowej soli.</string>
+	<string key="ui_azoth_salt_warning_title" rel_version="PvP_Rewards_Track">Uwaga: Limit azothowej soli</string>
+	<string key="ui_azoth_salt_warning_desc" rel_version="PvP_Rewards_Track">Niedługo osiągniesz limit azothowej soli: {amount}/{maxAmount}</string>
+	<string key="ui_azoth_salt_max_tooltip" rel_version="PvP_Rewards_Track">Nie można otworzyć, ponieważ osiągnięto limit azothowej soli.</string>
 	<string key="ui_azoth_salt_open_warning" rel_version="PvP_Rewards_Track">Jeśli otworzysz ten przedmiot, przekroczysz limit azothowej soli. Jej nadmiar zostanie utracony.</string>
 	<string key="ui_tokens_max_title">Maksymalna liczba żetonów</string>
-	<string key="ui_tokens_max_desc">Osiągnięto limit żetonów frakcji. Nadmiarowe żetony frakcji zostaną utracone.</string>
-	<string key="ui_tokens_warning_title">Uwaga, limit żetonów</string>
-	<string key="ui_tokens_warning_desc">Prawie osiągnięto limit żetonów frakcji. {amount}/{maxAmount}</string>
+	<string key="ui_tokens_max_desc">Osiągnięto limit żetonów frakcji. Ich nadmiar zostanie utracony.</string>
+	<string key="ui_tokens_warning_title">Uwaga: Limit żetonów</string>
+	<string key="ui_tokens_warning_desc">Niedługo osiągniesz limit żetonów frakcji: {amount}/{maxAmount}</string>
 	<string key="ui_tokens_max_tooltip">Limit żetonów wynosi: {amount}</string>
 	<string key="ui_coin_max_ticker">Osiągnięto limit monet</string>
 	<string key="ui_coin_lost_ticker">Osiągnięto limit monet (stracono: {amount})</string>
-	<string key="ui_coin_max_tooltip">Limit monet wynosi: {amount}</string>
+	<string key="ui_coin_max_tooltip">Limit monet wynosi {amount}.</string>
 	<string key="ui_coin_returned">MONETY ZWRÓCONE</string>
-	<string key="ui_coin_returned_desc">Zwrócono: {amount}. Nie udało się przesłać monet.</string>
+	<string key="ui_coin_returned_desc">Nie udało się przesłać monet (otrzymano z powrotem {amount}).</string>
 	<string key="ui_coin_max_deposit_tooltip">W skarbcach kompanii można zdeponować maks. {amount} monet.\nNie możesz przekazać większej kwoty, ponieważ limit zostałby przekroczony.</string>
 	<string key="ui_coin_max_withdrawal_tooltip">Limit twojego portfela wynosi {amount} monet.\nNie możesz pobrać większej kwoty, ponieważ limit zostałby przekroczony.</string>
-	<string key="ui_coin_max_sellorder_tooltip">Limit twojego portfela wynosi {amount} monet.\nStracisz wszystkie monety, które przekroczą ten limit wskutek sprzedaży.</string>
-	<string key="ui_coin_max_trade_tooltip">Limit twojego portfela wynosi {amount} monet.\nInny gracz próbuje przekazać ci więcej monet, niż jesteś w stanie przyjąć. Nadmiarowa kwota zostanie mu zwrócona.</string>
+	<string key="ui_coin_max_sellorder_tooltip">Limit twojego portfela wynosi {amount} monet.\nW momencie sprzedaży stracisz nadwyżkę monet.</string>
+	<string key="ui_coin_max_trade_tooltip">Limit twojego portfela wynosi {amount} monet.\nInny gracz próbuje przekazać ci więcej monet, niż jesteś w stanie przyjąć, dlatego nadwyżkę otrzyma z powrotem.</string>
 	<string key="ui_coin_max_cantwithdraw_tooltip">Twój portfel jest pełny. Nie możesz wypłacać pieniędzy ze skarbca kompanii.</string>
 	<string key="ui_listing_duration_tooltip">Wystawianie na dłuższy okres wiąże się z wyższymi prowizjami za wystawienie.</string>
 	<string key="ui_groupsize_identifier">Zalecany rozmiar grupy: {groupSize}</string>
 	<string key="ui_level_identifier">Zalecany poziom: {level}</string>
 	<string key="ui_recommendedlevel">Zalecany poziom</string>
-	<string key="ui_view_milestones">Zobacz nagrody za awans</string>
+	<string key="ui_view_milestones">Nagrody za awans</string>
 	<string key="ui_all_milestones">Wszystkie nagrody za awans</string>
 	<string key="ui_unlock_camping_tier_2">Obozowanie klasa 2</string>
 	<string key="ui_unlock_camping_tier_3">Obozowanie klasa 3</string>
 	<string key="ui_unlock_camping_tier_4">Obozowanie klasa 4</string>
 	<string key="ui_unlock_camping_tier_5">Obozowanie klasa 5</string>
+	<string key="ui_unlock_camping_tooltip">Odblokowanie wyższej klasy biwakowania pozwala na wytwarzanie większej liczby przedmiotów w obozie.</string>
 	<string key="ui_camping_reward_tier_0">Klasa 0</string>
 	<string key="ui_camping_reward_tier_1">Klasa 1</string>
 	<string key="ui_camping_reward_tier_2">Klasa 2</string>
 	<string key="ui_camping_reward_tier_3">Klasa 3</string>
 	<string key="ui_camping_reward_tier_4">Klasa 4</string>
 	<string key="ui_camping_reward_tier_5">Klasa 5</string>
-	<string key="ui_camping_tooltip_tier_1">Obóz klasy 1\n\nW obozie klasy 1 możesz wytwarzać różne przedmioty klasy 1, leczyć postać i odradzać się.\n\nBy ulepszyć obóz do klasy 2, musisz mieć postać na 15. poziomie i ukończyć zadanie "Traper: Rewia mody".</string>
-	<string key="ui_camping_tooltip_tier_2">Obóz klasy 2\n\nW obozie klasy 2 możesz wytwarzać różne przedmioty klasy 2, leczyć postać i odradzać się.\n\nBy ulepszyć obóz do klasy 3, musisz mieć postać na 25. poziomie i ukończyć zadanie "Zwierzęce instynkty".</string>
+	<string key="ui_camping_tooltip_tier_1">Obóz klasy 1\n\nW obozie klasy 1 możesz wytwarzać różne przedmioty klasy 1, leczyć postać i odradzać się.\n\nBy ulepszyć obóz do klasy 2, musisz ukończyć "Ziarno nadziei” w Wiatrochronie lub "Mądry człowiek z dziczy" w Urwiskach Monarchy.</string>
+	<string key="ui_camping_tooltip_tier_2">Obóz klasy 2\n\nW obozie klasy 2 możesz wytwarzać różne przedmioty klasy 2, leczyć postać i odradzać się.\n\nBy ulepszyć obóz do klasy 3, musisz ukończyć "Utrata wiary" w Lśniącej Kniei.</string>
 	<string key="ui_camping_tooltip_tier_3">Obóz klasy 3\n\nW obozie klasy 3 możesz wytwarzać różne przedmioty klasy 3, leczyć postać i odradzać się.\n\nBy ulepszyć obóz do klasy 4, musisz mieć postać na 40. poziomie i ukończyć zadanie "Traper: Wilcze obserwacje".</string>
 	<string key="ui_camping_tooltip_tier_4">Obóz klasy 4\n\nW obozie klasy 4 możesz wytwarzać różne przedmioty klasy 4, leczyć postać i odradzać się.\n\nBy ulepszyć obóz do klasy 5, musisz mieć postać na 55. poziomie i ukończyć zadanie "Traper: Gasnące światła".</string>
 	<string key="ui_camping_tooltip_tier_5">Obóz klasy 5\n\nW obozie klasy 5 możesz wytwarzać różne przedmioty klasy 5, leczyć postać i odradzać się.</string>
@@ -2011,7 +2047,7 @@
 	<string key="ui_campskin" rel_version="Feature_Camp_Skins">Skórka obozu</string>
 	<string key="ui_campskin_applied_hint" rel_version="Feature_Camp_Skins">Skórka zostanie zastosowana dla twojego następnego obozu.</string>
 	<string key="ui_all_level_milestones">Wszystkie nagrody za awans</string>
-	<string key="ui_unlock_token_slot">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Kolczyk&lt;/font&gt;</string>
+	<string key="ui_unlock_token_slot">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Kolczyk&lt;/font&gt;</string>
 	<string key="ui_unlock_ring_slot">Miejsce na pierścień</string>
 	<string key="ui_unlock_second_weapon_slot">Miejsce na broń dodatkową</string>
 	<string key="ui_unlock_third_weapon_slot">Miejsce na trzecią broń</string>
@@ -2025,18 +2061,20 @@
 	<string key="ui_current_gear_score">Obecne pkt wyposażenia</string>
 	<string key="ui_next_milestone">Następne odblokowanie</string>
 	<string key="ui_unlocked">ODBLOKOWANO</string>
-	<string key="ui_attribute_scale">{name}\n\nSkaluje się z: {attribute}</string>
-	<string key="ui_weapon_damage">Obrażenia od broni</string>
-	<string key="ui_shield_disabled">Tarcze nie dają wzmocnienia statystyk, jeśli nie wyposażysz się w miecz i go nie dobędziesz. Jeśli nie zamierzasz korzystać z miecza, a chcesz zmniejszyć ciężar wyposażenia, rozważ odłożenie tarczy.</string>
+	<string key="ui_attribute_scale">&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{name}&lt;/font&gt;\nSkalowanie obrażeń z: {attribute}</string>
+	<string key="ui_weapon_damage">Obrażenia</string>
+	<string key="ui_shield_disabled">Statystyki i profity tarczy są aktywne tylko jeśli masz wyciągnięty miecz.\n\nJeśli nie korzystasz z miecza, rozważ odłożenie tarczy do ekwipunku, by zmniejszyć ciężar wyposażenia.</string>
 	<string key="ui_unspent">niewydane</string>
 	<string key="ui_damage_scale_from">Skalowanie obrażeń z:</string>
 	<string key="ui_scales_with">Skaluje się z:</string>
 	<string key="ui_from_strength">Siłą</string>
 	<string key="ui_from_dexterity">Zręcznością</string>
-	<string key="ui_from_strength_and_dexterity">Siłą i zręcznością</string>
-	<string key="ui_from_dexterity_and_strength">Zręcznością i siłą</string>
-	<string key="ui_from_dexterity_and_intelligence">Zręcznością i inteligencją</string>
-	<string key="ui_from_strength_and_intelligence">Siłą i inteligencją</string>
+	<string key="ui_from_strength_and_dexterity">Siłą, zręcznością</string>
+	<string key="ui_from_dexterity_and_strength">Zręcznością, siłą</string>
+	<string key="ui_from_dexterity_and_intelligence">Zręcznością, inteligencją</string>
+	<string key="ui_from_strength_and_intelligence">Siłą, inteligencją</string>
+	<string key="ui_from_strength_and_focus">Siłą, skupieniem</string>
+	<string key="ui_from_focus_and_strength">Skupieniem, siłą</string>
 	<string key="ui_from_intelligence">Inteligencją</string>
 	<string key="ui_from_focus">Skupieniem</string>
 	<string key="ui_from_intelligence_and_focus">Inteligencja i skupienie</string>
@@ -2053,8 +2091,7 @@
 	<string key="ui_weapon_mastery">Umiejętności</string>
 	<string key="ui_weapon_mastered">Biegłość mistrzowska</string>
 	<string key="ui_tradeskill_mastered">Biegłość mistrzowska</string>
-	<string key="ui_weapon_mastery_level" comment="{level} for current mastery level, {maxLevel} for the highest possible">Poziom &lt;font color="#ffffff"&gt;{level}&lt;/font&gt; / {maxLevel}</string>
-	<string key="ui_mace">Maczugi</string>
+	<string key="ui_weapon_mastery_level" comment="{level} for current mastery level, {maxLevel} for the highest possible">Poziom &lt;font color="#FFFFFF"&gt;{level}&lt;/font&gt; / {maxLevel}</string>
 	<string key="ui_rapier">Rapier</string>
 	<string key="ui_throwingaxe">Siekierka</string>
 	<string key="ui_spear">Włócznia</string>
@@ -2129,7 +2166,7 @@
 	<string key="ui_bindOnPickup">Przypisz przy podniesieniu</string>
 	<string key="ui_bindOnEquip">Przypisz przy wyposażeniu</string>
 	<string key="ui_bindOnEquip_title">Przypisz przedmiot</string>
-	<string key="ui_bindOnEquip_body">Ten przedmiot zostanie do ciebie przypisany, gdy się w niego wyposażysz.\nPrzypisane przedmioty mogą zostać użyte tylko przez ciebie i nie można nimi handlować – zostaną zniszczone.\n\nCzy chcesz się wyposażyć w ten przedmiot?</string>
+	<string key="ui_bindOnEquip_body">Przypisane przedmioty mogą zostać użyte tylko przez ciebie i nie można nimi handlować.\n\nCzy chcesz się wyposażyć w ten przedmiot?</string>
 	<string key="ui_boundToPlayer">Przypisane do gracza</string>
 	<string key="ui_requires_station" comment="in context, the specific station is shown below this string">Wytwarzanie:</string>
 	<string key="ui_axe">Siekiera</string>
@@ -2145,7 +2182,7 @@
 	<string key="ui_now_track">Teraz można śledzić</string>
 	<string key="ui_now_track_banner">Można śledzić: {resourceName}</string>
 	<string key="ui_now_gather">Teraz można zbierać</string>
-	<string key="ui_standing_up">Ranga terytorium zwiększona</string>
+	<string key="ui_standing_up">Nowy poziom rangi terytorium</string>
 	<string key="hwm_loot_head">Biegłość – głowa</string>
 	<string key="hwm_loot_chest">Biegłość – korpus</string>
 	<string key="hwm_loot_hands">Biegłość – ręce</string>
@@ -2182,7 +2219,7 @@
 	<string key="ui_clusterwarning_cannottransferinnorout">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Nie można przenosić postaci do tego świata.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Nie można przenosić postaci z tego świata.</string>
 	<string key="ui_character_world_info">{worldName}</string>
 	<string key="ui_cannotPin_atMax">Nie można przypiąć kolejnych celów.</string>
-	<string key="ui_clusterwarning_body">&lt;font color="#ffffff"&gt;Możesz posiadać tylko 1 postać w grupie światów {worldSetName}.&lt;/font&gt;\n\nJeśli chcesz grać w innym świecie grupy {worldSetName}, musisz usunąć postać w świecie {worldName} i stworzyć nową w innym.\n\nJeśli twoi znajomi grają w innym świecie grupy {worldSetName}, nie będziecie mogli grać razem.</string>
+	<string key="ui_clusterwarning_body">&lt;font color="#FFFFFF"&gt;Możesz posiadać tylko 1 postać w grupie światów {worldSetName}.&lt;/font&gt;\n\nJeśli chcesz grać w innym świecie grupy {worldSetName}, musisz usunąć postać w świecie {worldName} i stworzyć nową w innym.\n\nJeśli twoi znajomi grają w innym świecie grupy {worldSetName}, nie będziecie mogli grać razem.</string>
 	<string key="ui_clusterwarning_cancel">Wybierz inny świat</string>
 	<string key="ui_clusterwarning_accept">Rozumiem</string>
 	<string key="ui_character_level_short">poz.</string>
@@ -2229,8 +2266,8 @@
 	<string key="ui_select_world_for_character" rel_version="Territory_Brimstone_Sands">Wybierz świat dla: {name}.</string>
 	<string key="ui_freeweekend_worldwarning_title">Darmowy weekend – światy</string>
 	<string key="ui_freeweekend_worldwarning_desc">Wybierz świat, w którym chcesz grać podczas darmowego weekendu. W światach nieoznaczonych jako darmowe dostępne są ograniczone sesje, wydłużane co {time}, jeśli w kolejce nie oczekują gracze, którzy nabyli grę.</string>
-	<string key="ui_queue_depth">Oczekujący gracze &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{numplayers}&lt;/font&gt;&lt;/font&gt;</string>
-	<string key="ui_expected_wait_time">Szacowany czas oczekiwania: &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{time}&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_queue_depth">Oczekujący gracze &lt;font color="#FFFFFF"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{numplayers}&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_expected_wait_time">Szacowany czas oczekiwania: &lt;font color="#FFFFFF"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{time}&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_collapse">Zwiń</string>
 	<string key="ui_current_stat">Obecnie:</string>
 	<string key="ui_required">Wymagane</string>
@@ -2238,11 +2275,11 @@
 	<string key="ui_quest_available">Dostępne\nzadanie</string>
 	<string key="ui_quests_ready">Zadania\ngotowe do zakończenia</string>
 	<string key="ui_quest_ready">Zadanie\ngotowe do zakończenia</string>
-	<string key="ui_pin_objective">Przypnij ten cel</string>
-	<string key="ui_unpin_objective">Odepnij ten cel</string>
+	<string key="ui_pin_objective">Przypnij cel</string>
+	<string key="ui_unpin_objective">Odepnij cel</string>
 	<string key="ui_view_journal">Zobacz w dzienniku</string>
 	<string key="ui_pin_objective_message">Cel został przypięty.</string>
-	<string key="ui_unpin_objective_message">Cel został odpięty.</string>
+	<string key="ui_unpin_objective_message">Cel nie jest już przypięty.</string>
 	<string key="ui_territorymanagebuilding">W tym budynku zarządza się tym terytorium</string>
 	<string key="ui_checkin_at_inn">Opuszczasz osadę bez zameldowania się w gospodzie</string>
 	<string key="ui_framepersec">kl/s:</string>
@@ -2273,14 +2310,14 @@
 	<string key="ui_fishing_attach_bait">Użyj przynęty</string>
 	<string key="ui_fishing_no_bait">Brak przynęty</string>
 	<string key="ui_fishing_change_bait">Zmień przynętę</string>
-	<string key="ui_fishing_cast">(PRZYTRZYMAJ) Zarzuć</string>
+	<string key="ui_fishing_cast">(Przytrzymaj) Zarzuć</string>
 	<string key="ui_fishing_exit_fishing">Przerwij wędkowanie</string>
 	<string key="ui_fishing_reset_cast">Zresetuj zarzucenie</string>
 	<string key="ui_fishing_hook">Chwyciła!</string>
 	<string key="ui_fishing_reel">Zwiń żyłkę</string>
 	<string key="ui_fishing_nobait">Brak przynęty</string>
 	<string key="ui_fishing_nobait_description">Brak premii za rozmiar lub jakość ryby.</string>
-	<string key="ui_fishing_nobait_tooltip">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Brak przynęty&lt;/font&gt;&lt;/font&gt;\n\nBrak premii za rozmiar lub jakość ryby.</string>
+	<string key="ui_fishing_nobait_tooltip">&lt;font color="#FFFFFF"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Brak przynęty&lt;/font&gt;&lt;/font&gt;\n\nBrak premii za rozmiar lub jakość ryby.</string>
 	<string key="ui_fishing_success">SUKCES!</string>
 	<string key="ui_fishing_ready">Przygotuj się!</string>
 	<string key="ui_start_fishing_instruction">Rozpocznij wędkowanie</string>
@@ -2317,17 +2354,17 @@
 	<string key="ui_faction_cant_cooldown">Nie możesz zmienić frakcji podczas okresu oczekiwania.\n{cooldown}</string>
 	<string key="ui_change_faction_warning">Gdy zmienisz frakcję, nie będzie można jej ponownie zmienić przez 60 dni. Zmiana frakcji zresetuje twoją rangę frakcyjną i żetony.</string>
 	<string key="ui_change_faction">Zmień frakcję</string>
-	<string key="ui_select_faction" rel_version="Feature_Faction_Selection">Wybierz frakcję</string>
+	<string key="ui_select_faction" rel_version="Feature_Faction_Selection">Zmień frakcję</string>
 	<string key="ui_change_faction_cooldown">Zmień frakcję\n{cooldown}</string>
 	<string key="ui_change_faction_azoth_cost">Zmień frakcję: {azothcost}</string>
 	<string key="ui_change_faction_desc">Czy na pewno chcesz zmienić frakcję na: {factionname}?\nZmiana frakcji zresetuje twoją rangę frakcyjną i żetony.\n\nGdy zmienisz frakcję, nie będzie można jej ponownie zmienić przez 60 dni.</string>
-	<string key="ui_change_faction_confirmation" rel_version="Feature_Faction_Selection">Czy na pewno chcesz zmienić frakcję na: {factionname}?\nTwoja ranga frakcyjna i żetony nie przeniosą się razem z tobą, ale nie zostaną też utracone – będą na ciebie czekać, jeśli w przyszłości zdecydujesz się wrócić do tej samej frakcji.\n\nGdy zmienisz frakcję, nie będzie można jej ponownie zmienić przez 60 dni.\n\nJeśli należysz do kompanii, automatycznie ją opuścisz.</string>
+	<string key="ui_change_faction_confirmation" rel_version="Feature_Faction_Selection">Czy na pewno chcesz zmienić frakcję na: {factionname}?\nTwoja ranga frakcyjna i żetony nie będą przeniesione razem z tobą, ale nie zostaną też utracone – będą na ciebie czekać, jeśli w przyszłości zdecydujesz się wrócić do tej samej frakcji.\n\nGdy zmienisz frakcję, nie będzie można jej ponownie zmienić przez 60 dni. Jeśli należysz do kompanii, nastąpi twoje usunięcie z jej szeregów.</string>
 	<string key="ui_change_faction_quest_warning" rel_version="Feature_Faction_Selection">Nie ukończono zadań inicjacji frakcji</string>
-	<string key="ui_change_faction_visit_rep" rel_version="Feature_Faction_Selection">Ukończ zadania inicjacji frakcji w Jesieniowieczni, by przejść do tej frakcji</string>
-	<string key="ui_current_faction">Obecnie należysz do frakcji: {factionname}</string>
-	<string key="ui_current_faction_label">Obecna frakcja</string>
-	<string key="ui_dropconfirm_title">Potwierdź upuszczenie</string>
-	<string key="ui_dropconfirm_msg">Czy na pewno chcesz upuścić te przedmioty na ziemię?</string>
+	<string key="ui_change_faction_visit_rep" rel_version="Feature_Faction_Selection">Ukończ zadania inicjacji frakcji w Jesieniowieczni, by dokonać zmiany</string>
+	<string key="ui_current_faction">Twoja frakcja: {factionname}</string>
+	<string key="ui_current_faction_label">Aktualna</string>
+	<string key="ui_dropconfirm_title">Upuść przedmioty</string>
+	<string key="ui_dropconfirm_msg">Przedmioty zostaną upuszczone na ziemię i znikną na zawsze po 3 minutach.</string>
 	<string key="reward_new_recipe">Nowy schemat: {name}</string>
 	<string key="tradeskill_required_level">poz. {skillLevel}</string>
 	<string key="ui_add_summoning_stone">Dodaj kamień przywołania</string>
@@ -2346,19 +2383,21 @@
 	<string key="ui_gather_no_faction">Terytorium musi być pod kontrolą frakcji.</string>
 	<string key="command_lock_salvage">Zablokuj</string>
 	<string key="command_unlock_salvage">Odblokuj</string>
-	<string key="tooltip_lock_salvage">Zablokuj możliwość odzyskania składników z tego przedmiotu. Blokada zostanie zniesiona, gdy ten przedmiot zostanie upuszczony, przehandlowany lub sprzedany.</string>
-	<string key="tooltip_unlock_salvage">Odblokuj możliwość odzyskania składników z tego przedmiotu.</string>
-	<string key="tooltip_salvage_locked">Na ten przedmiot nałożono blokadę odzysku. Odblokuj odzysk, by można było z niego odzyskać składniki.</string>
+	<string key="tooltip_lock_salvage">Zablokuj przedmioty, aby nie dało się ich upuścić ani odzyskać z nich części ani składników. Blokada zostaje zdjęta po wymianie lub sprzedaży przedmiotu.</string>
+	<string key="tooltip_unlock_salvage">Odblokuj przedmioty, aby dało się je upuścić i odzyskać z nich części ani składników.</string>
+	<string key="tooltip_salvage_locked">Z zablokowanych przedmiotów nie można odzyskać części ani składników.</string>
 	<string key="tooltip_salvage_remote">Nie można odzyskać składników z przedmiotów w odległych miejscach.</string>
-	<string key="tooltip_salvage_cannot">Z tego przedmiotu nie można odzyskać składników</string>
+	<string key="tooltip_salvage_cannot">Z tego przedmiotu nie można odzyskać części ani składników.</string>
+	<string key="tooltip_discard_locked">Zablokowanych przedmiotów nie można upuścić.</string>
+	<string key="tooltip_move_storage">Przenieś ten przedmiot do składzika.</string>
 	<string key="twitch_link_title">Połącz swoje konto Twitch z Amazon Games</string>
-	<string key="twitch_link_desc">Połącz z grą swoje konto w serwisie Twitch, by otrzymać dostęp do specjalnych atrakcji. Możesz odłączyć swoje konto w dowolnym momencie.</string>
+	<string key="twitch_link_desc">Połącz z grą swoje konto w serwisie Twitch, by otrzymać dostęp do specjalnych atrakcji.</string>
 	<string key="twitch_sub_army">Armia subskrybentów</string>
-	<string key="twitch_sub_army_desc">Dołączaj do streamerów albo zapraszaj swoich subskrybentów/obserwujących do grup i kompanii, używając wbudowanego panelu społecznościowego.</string>
-	<string key="twitch_drop_rewards">Dropy Twitcha</string>
-	<string key="twitch_drop_rewards_desc">Zdobywaj nagrody w grze za oglądanie transmisji z New World. Wystarczy aktywować opcję "włącz dropy" na Twitchu.</string>
+	<string key="twitch_sub_army_desc">Dołącz do streamerów albo zapraszaj swoich subskrybentów/obserwujących do grup i kompanii.</string>
+	<string key="twitch_drop_rewards">Nagrody</string>
+	<string key="twitch_drop_rewards_desc">Zdobywaj nagrody w grze za oglądanie transmisji z New World z włączonymi dropami.</string>
 	<string key="twitch_streamer_spotlight">Wyróżnianie streamera</string>
-	<string key="twitch_streamer_spotlight_desc">Aktywuj oznaczenie "NA ŻYWO" oraz licznik oglądających – informacje te będą widoczne na tabliczce z imieniem twojej postaci w grze podczas prowadzenia transmisji z New World.</string>
+	<string key="twitch_streamer_spotlight_desc">Wyświetl oznaczenie "Na żywo" oraz licznik oglądających – informacje te będą widoczne na tabliczce z imieniem twojej postaci podczas prowadzenia transmisji.</string>
 	<string key="twitch_prime_gaming">Prime Gaming</string>
 	<string key="twitch_prime_gaming_desc">Połączenie konta z usługą Prime Gaming zapewni ci co miesiąc dostęp do ekskluzywnej zawartości w grze oraz innych nagród specjalnych.</string>
 	<string key="go_crow">Go Crow</string>
@@ -2390,9 +2429,9 @@
 	<string key="ui_notificationdecline">Odrzuć powiadomienie</string>
 	<string key="ui_banneraccept">Zaakceptuj sztandar</string>
 	<string key="ui_togglepopupoption">Przełącz opcję wyskakującego okna</string>
-	<string key="ui_quick_salvage_modifier">Szybki odzysk przedmiotu</string>
-	<string key="ui_quick_salvagelock_modifier">Szybki odzysk – blokada przedmiotu</string>
-	<string key="ui_quick_repair_modifier">Szybka naprawa przedmiotu</string>
+	<string key="ui_quick_salvage_modifier">Odzyskaj</string>
+	<string key="ui_quick_salvagelock_modifier">Zablokuj/odblokuj</string>
+	<string key="ui_quick_repair_modifier">Napraw</string>
 	<string key="ui_dialogue">Dialog</string>
 	<string key="ui_dialogueoption1">Opcja nr 1</string>
 	<string key="ui_dialogueoption2">Opcja nr 2</string>
@@ -2412,6 +2451,7 @@
 	<string key="ui_gearscore_leveled_by_gamemode">Liczba pkt wyposażenia dostosowana zgodnie z zasadami: {mode}.</string>
 	<string key="ui_itemtypedescription_recipe">Schemat</string>
 	<string key="ui_itemtypedescription_sword">Miecz</string>
+	<string key="ui_itemtypedescription_longsword">Długi miecz</string>
 	<string key="ui_itemtypedescription_hatchet">Siekierka</string>
 	<string key="ui_itemtypedescription_rapier">Rapier</string>
 	<string key="ui_itemtypedescription_club">Maczuga</string>
@@ -2453,12 +2493,18 @@
 	<string key="ui_itemtypedescription_normal_feet_slot">Średnie obuwie</string>
 	<string key="ui_itemtypedescription_light_feet_slot">Lekkie obuwie</string>
 	<string key="ui_itemtypedescription_jewelry">Biżuteria</string>
-	<string key="ui_itemtypedescription_Amuletjewelry">Amulety</string>
-	<string key="ui_itemtypedescription_Ringjewelry">Pierścienie</string>
-	<string key="ui_itemtypedescription_Earringjewelry">Kolczyki</string>
+	<string key="ui_itemtypedescription_Amuletjewelry">Amulet</string>
+	<string key="ui_itemtypedescription_Ringjewelry">Pierścień</string>
+	<string key="ui_itemtypedescription_Earringjewelry">Kolczyk</string>
 	<string key="ui_itemtypedescription_resource">Zasoby</string>
 	<string key="ui_itemtypedescription_housingitem">Przedmiot domowy</string>
 	<string key="ui_itemtypedescription_tool">Narzędzia</string>
+	<string key="ui_itemtypedescription_miningpick">Oskard</string>
+	<string key="ui_itemtypedescription_fishingpole">Wędka</string>
+	<string key="ui_itemtypedescription_loggingaxe">Siekiera</string>
+	<string key="ui_itemtypedescription_skinningknife">Nóż do skórowania</string>
+	<string key="ui_itemtypedescription_harvestingsickle">Sierp żniwiarski</string>
+	<string key="ui_itemtypedescription_azothstaff">Azothowa laska</string>
 	<string key="ui_itemtypedescription_instrument">Instrument</string>
 	<string key="ui_itemtypedescription_dye">Barwnik</string>
 	<string key="ui_itemtypedescription_bag">Torba</string>
@@ -2475,9 +2521,10 @@
 	<string key="ui_itemtooltiptitle_heartgem_rune_heretics_fall" rel_version="Feature_Heartgems">Mroczny wzlot</string>
 	<string key="ui_itemtooltiptitle_heartgem_rune_cannon_blast" rel_version="Feature_Heartgems">Armata</string>
 	<string key="ui_itemtooltiptitle_heartgem_rune_bile_bomb" rel_version="Feature_Heartgems_BileBomb">Bomba Żółci</string>
+	<string key="ui_itemtooltiptitle_heartgem_rune_fire_storm" rel_version="Feature_Heartgems_FireStorm">Burza ognia</string>
 	<string key="ui_cannot_perform_action_at_this_time">Nie możesz obecnie wykonać tej czynności</string>
 	<string key="ui_cannot_use_shield_abilities">Nie wyposażono się w tarczę</string>
-	<string key="ui_tooltip_effect_duration">Czas trwania efektu: &lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{value}&lt;/font&gt;</string>
+	<string key="ui_tooltip_effect_duration">Czas trwania efektu: &lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#FFFFFF"&gt;{value}&lt;/font&gt;</string>
 	<string key="ui_cap_unfocused_fps">Limit FPS w tle</string>
 	<string key="ui_cap_unfocused_fps_desc">Po włączeniu ogranicza liczbę klatek na sekundę przy minimalizacji lub zmianie aktywnego okna na inne.</string>
 	<string key="ui_Enable_Viewport_Scale">Dynamiczne skalowanie rozdzielczości</string>
@@ -2485,23 +2532,25 @@
 	<string key="ui_gathering_disabled">Zbieranie jest obecnie niemożliwe</string>
 	<string key="ui_linktochat_disabled">Link do czatu jest teraz nieaktywny</string>
 	<string key="ui_autopinObjectivesMain">Automatycznie przypinaj zadania główne</string>
-	<string key="ui_autopinobjectivesMain_desc">Automatycznie przypina do interfejsu zadania z wątku głównego po tym, jak je przyjmiesz</string>
+	<string key="ui_autopinobjectivesMain_desc">Automatycznie przypina do interfejsu zadania wątku głównego po ich przyjęciu.</string>
 	<string key="ui_autopinObjectivesFactionStory">Automatycznie przypinaj zadania frakcji</string>
-	<string key="ui_autopinobjectivesFactionStory_desc">Automatycznie przypina do interfejsu zadania frakcji po tym, jak je przyjmiesz</string>
+	<string key="ui_autopinobjectivesFactionStory_desc">Automatycznie przypina do interfejsu zadania frakcji po ich przyjęciu.</string>
 	<string key="ui_autopinObjectivesSkillProgression">Automatycznie przypinaj zadania dotyczące rozwoju umiejętności</string>
-	<string key="ui_autopinobjectivesSkillProgression_desc">Automatycznie przypina do interfejsu zadania związane z rozwojem umiejętności po tym, jak je przyjmiesz</string>
-	<string key="ui_autopinObjectivesEpicEquipment">Automatycznie przypinaj zadania dotyczące epickich pancerzy i broni</string>
-	<string key="ui_autopinobjectivesEpicEquipment_desc">Automatycznie przypina do interfejsu zadania związane z epickimi pancerzami i bronią po tym, jak je przyjmiesz</string>
-	<string key="ui_autopinObjectivesSide">Automatycznie przypinaj zadania poboczne</string>
-	<string key="ui_autopinobjectivesSide_desc">Automatycznie przypina do interfejsu zadania poboczne po tym, jak je przyjmiesz</string>
+	<string key="ui_autopinobjectivesSkillProgression_desc">Automatycznie przypina do interfejsu zadania rozwoju umiejętności po ich przyjęciu.</string>
+	<string key="ui_autopinObjectivesEpicEquipment">Automatycznie przypinaj zadania związane z epickim wyposażeniem</string>
+	<string key="ui_autopinobjectivesEpicEquipment_desc">Automatycznie przypina do interfejsu zadania związane z epickim wyposażeniem po ich przyjęciu.</string>
+	<string key="ui_autopinObjectivesSeasonQuest">Automatycznie przypinaj cele wątku sezonowego</string>
+	<string key="ui_autopinobjectivesSeasonQuest_desc">Automatycznie przypina do interfejsu zadania wątku sezonowego po ich przyjęciu.</string>
+	<string key="ui_autopinObjectivesSide">Automatycznie przypinaj zadania wątku pobocznego</string>
+	<string key="ui_autopinobjectivesSide_desc">Automatycznie przypina do interfejsu zadania wątku pobocznego po ich przyjęciu.</string>
 	<string key="ui_autopinObjectivesFaction">Automatycznie przypinaj misje frakcyjne</string>
-	<string key="ui_autopinobjectivesFaction_desc">Automatycznie przypina do interfejsu misje frakcyjne po tym, jak je przyjmiesz</string>
+	<string key="ui_autopinobjectivesFaction_desc">Automatycznie przypina do interfejsu misje frakcyjne po ich przyjęciu.</string>
 	<string key="ui_autopinobjectivesEvent">Automatycznie przypinaj zadania z wydarzeń</string>
-	<string key="ui_autopinobjectivesEvent_desc">Automatycznie przypina do interfejsu zadania z wydarzeń po tym, jak je przyjmiesz</string>
+	<string key="ui_autopinobjectivesEvent_desc">Automatycznie przypina do interfejsu zadania z wydarzeń po ich przyjęciu.</string>
 	<string key="ui_autopinObjectivesComm">Automatycznie przypinaj projekty miasteczka</string>
-	<string key="ui_autopinobjectivesComm_desc">Automatycznie przypina do interfejsu projekty miasteczka po tym, jak je przyjmiesz</string>
+	<string key="ui_autopinobjectivesComm_desc">Automatycznie przypina do interfejsu projekty miasteczka po ich przyjęciu.</string>
 	<string key="ui_autopinObjectivesCrafting">Automatycznie przypinaj schematy</string>
-	<string key="ui_autopinobjectivesCrafting_desc">Automatycznie przypina do interfejsu schematy przypięte przy stanowisku rzemieślniczym</string>
+	<string key="ui_autopinobjectivesCrafting_desc">Automatycznie przypina do interfejsu schematy przypięte przy stanowisku rzemieślniczym.</string>
 	<string key="ui_auto_pin_toggle_on">Włącz autoprzypinanie</string>
 	<string key="ui_auto_pin_toggle_off">Wyłącz autoprzypinanie</string>
 	<string key="ui_auto_pin_toggle_label">Autoprzypinanie</string>
@@ -2513,17 +2562,17 @@
 	<string key="ui_complete_quests_to_unlock">Ukończ zadania w osadzie, by odblokować</string>
 	<string key="ui_interact_required_level">Musisz mieć {level}. poz., by móc tego użyć</string>
 	<string key="ui_cannot_chat_trading_blocked">Dostęp do kanału wymaga {playtimeNeeded} godz. gry, {hoursNeeded} godz. czasu istnienia konta i odblokowanej faktorii.</string>
-	<string key="ui_averageexpertise">Przeciętna biegłość</string>
-	<string key="ui_averageexpertisetooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Biegłość&lt;/font&gt;\nBiegłość służy do określania maksymalnej mocy używanego przedmiotu.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Maksymalna biegłość do osiągnięcia&lt;/font&gt;\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{maximum}&lt;/font&gt;\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Zwiększanie biegłości&lt;/font&gt;\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Elitarne lokacje i ekspedycje&lt;/font&gt;\nŁupy upuszczane przez wrogów i znajdowane w skrzyniach w strefach powyżej 60. poziomu mają szansę na zwiększenie tej wartości.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Rzemiosło&lt;/font&gt;\nWytworzenie przedmiotu mającego 600 pkt wyposażenia zwiększy biegłość w tym rodzaju przedmiotu.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Odlew gipsowy&lt;/font&gt;\nOtwarcie odlewu gipsowego zwiększy biegłość.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Ulepszenie przedmiotu (odłamkami umbralu)&lt;/font&gt;\nPo osiągnięciu 600 pkt biegłości jedynym sposobem na jej zwiększenie jest ulepszanie przedmiotów odłamkami umbralu.</string>
+	<string key="ui_averageexpertise">Biegłość</string>
+	<string key="ui_averageexpertisetooltip">&lt;font color={headerColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;BIEGŁOŚĆ&lt;/font&gt;\nBiegłość służy do określania maksymalnej mocy używanego przedmiotu.\n\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Maksymalna biegłość do osiągnięcia wynosi&lt;/font&gt;\n&lt;font color={highlightColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;{maximum}&lt;/font&gt;\n\n\n&lt;font color={headerColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;ZWIĘKSZANIE BIEGŁOŚCI&lt;/font&gt;\n\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Elitarne lokacje i ekspedycje&lt;/font&gt;\nŁupy upuszczane przez wrogów i znajdowane w skrzyniach w strefach powyżej 60. poziomu mają szansę na zwiększenie tej wartości.\n\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Rzemiosło&lt;/font&gt;\nWytworzenie przedmiotu mającego 600 pkt wyposażenia zwiększy biegłość w tym rodzaju przedmiotu.\n\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Odlew gipsowy&lt;/font&gt;\nOtwarcie odlewu gipsowego zwiększy biegłość.\n\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Ulepszenie przedmiotu (odłamkami umbralu)&lt;/font&gt;\nPo osiągnięciu 600 pkt biegłości jedynym sposobem na jej zwiększenie jest ulepszanie przedmiotów odłamkami umbralu.</string>
 	<string key="ui_itemtypedescription_shield_only">Tarcza</string>
 	<string key="ui_expertise_value_with_icon">&lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;{value}</string>
 	<string key="ui_expertise_warning_with_icon">&lt;font color="#ff9393"&gt;&lt;img src="lyshineui/images/icons/misc/icon_hwm_small_red" scale="1.5" yOffset="2"&gt;&lt;/img&gt;{value}&lt;/font&gt;</string>
 	<string key="ui_expertise_increased">Biegłość: +{amount}</string>
-	<string key="ui_expertise_tooltip_header">Łączna biegłość: {category}</string>
-	<string key="ui_expertise_tooltip_breakdown">(&lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{value} &lt;/font&gt; &lt;font color="#ffffff"&gt;+ {additional}&lt;/font&gt; z ulepszenia umbralem)</string>
-	<string key="ui_expertise_tooltip_breakdown_multiple">(&lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{value} &lt;/font&gt; &lt;font color="#ffffff"&gt;+ {additional}&lt;/font&gt; z ulepszeń umbralem)</string>
-	<string key="ui_expertise_tooltip_increase">&lt;font color="#ffffff"&gt;Maksymalna&lt;/font&gt; wartość biegłości możliwa do osiągnięcia dzięki wrogom, skrzyniom, odlewom gipsowym i rzemiosłu to &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;600&lt;/font&gt;.</string>
-	<string key="ui_expertise_tooltip_maximum">Aby zwiększyć biegłość powyżej &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;600&lt;/font&gt;, ulepsz przedmiot tego typu za pomocą &lt;font color="#ffffff"&gt;odłamków umbralu&lt;/font&gt;.</string>
+	<string key="ui_expertise_tooltip_header">Biegłość: {category}</string>
+	<string key="ui_expertise_tooltip_breakdown">(&lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{value} &lt;/font&gt; &lt;font color="#FFFFFF"&gt;+ {additional}&lt;/font&gt; z ulepszenia umbralem)</string>
+	<string key="ui_expertise_tooltip_breakdown_multiple">(&lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{value} &lt;/font&gt; &lt;font color="#FFFFFF"&gt;+ {additional}&lt;/font&gt; z ulepszeń umbralem)</string>
+	<string key="ui_expertise_tooltip_increase">Maksymalna wartość &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt; możliwa do osiągnięcia dzięki wrogom, skrzyniom, odlewom gipsowym i rzemiosłu wynosi &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;600&lt;/font&gt;.</string>
+	<string key="ui_expertise_tooltip_maximum">Aby przekroczyć wartość &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.5" yOffset="2"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;600&lt;/font&gt;, ulepsz przedmiot tego typu za pomocą odłamków umbralu.</string>
 	<string key="ui_expertise_crafting_gain">Biegłość: {category}</string>
 	<string key="ui_guides">Poradniki</string>
 	<string key="ui_fast_travel_guide_1_header">Jak to działa?</string>
@@ -2544,14 +2593,16 @@
 	<string key="ui_endgame_guide_title6">Miejsca, w których można zwiększyć poz. biegłości</string>
 	<string key="ui_endgame_guide_title7">Gips – celowe zwiększanie poz. biegłości</string>
 	<string key="ui_endgame_guide_title8">Odłamki umbralu – ulepszanie wyposażenia</string>
+	<string key="ui_endgame_guide_title9" rel_version="Feature_Seasons_Rewards">Sezonowa Przygoda</string>
 	<string key="ui_endgame_guide_body1">Udało ci się osiągnąć 60. poziom! Gratulacje! Świat Aeternum stoi przed tobą otworem. Poniżej znajdziesz szczegóły na temat końcowej fazy gry.</string>
 	<string key="ui_endgame_guide_body2">Na 60. poziomie masz dostęp do kilku nowych ekspedycji. Są to: Ogród Genezy w Rajskim Gaju, Użyteczność Łazarza w Cuchnącej Wodzie, Serce Burzy w Strzaskanej Górze oraz Pąkle i czarny proch na Wyspach Kordelasowych.\n\nZwróć uwagę na okrągłą czerwoną ikonę, jaka widnieje na mapie przy dwóch ekspedycjach jednocześnie – ikona ta oznacza, że dana ekspedycja jest obecnie zmutowana. Oznacza to wyższy poziom trudności w zamian za cenniejsze nagrody. Niektóre z najlepszych nagród w końcowej fazie gry można zdobyć, pokonując finałowych bossów na zmutowanych ekspedycjach (wrócimy do tego później).</string>
 	<string key="ui_endgame_guide_body3">Na 60. poziomie zyskujesz również dostęp do napadu na posterunek. Możesz dołączyć do kolejki do tego trybu gry, odwiedzając dowolnego przedstawiciela frakcji, niektórych NPC w posterunkach na północy lub z poziomu zakładki "Tryby", którą znajdziesz na pasku nawigacji. Możesz dołączyć do kolejki w pojedynkę lub z grupą (maksymalnie 5 graczy).\n\nNapad na posterunek jest instancją PvPvE, w której ścierają się ze sobą dwie drużyny liczące po 20 graczy. Na mapie są trzy posterunki, które po przejęciu generują punkty dla twojej drużyny. Posterunki te można ulepszyć, zbierając lokalne zasoby i przekazując je do bram, armat oraz innych obiektów. By wygrać, twoja drużyna musi przejąć i utrzymać posterunki. Pierwsza drużyna, która zdobędzie 1000 punktów, wygrywa.\n\nJeśli zdobędziesz dla swojej drużyny minimum 500 punktów – czy to poprzez PvP, czy PvE – na koniec rozgrywki otrzymasz nagrody.</string>
 	<string key="ui_endgame_guide_body4">Gdy terytorium jest atakowane przez skażonych, możesz pomóc w jego obronie: by to zrobić, zapisz się przy lokalnej tablicy wojennej lub w zakładce "Nadchodzące wojny" na ekranie mapy. Zapisać mogą się członkowie wszystkich frakcji – istnieje 40 wolnych miejsc. Gracze są każdorazowo wybierani przez system. Podczas inwazji obrońcy zmierzą się z 6 falami wrogów. Nie mogą pozwolić, by skażeni przejęli fort. Jeśli jednak skażonym uda się przejąć fort, losowo wybrane stanowiska rzemieślnicze lub premie związane z jakością życia w miejscowej osadzie ulegną degradacji.</string>
 	<string key="ui_endgame_guide_body5">Przy każdym miejscu na wyposażenie w ekwipunku widnieje liczba. Liczba ta określa biegłość posługiwania się danym rodzajem wyposażenia. Jednocześnie liczba ta określa maksymalną liczbę pkt wyposażenia (PW) przedmiotu, jaki możesz umieścić w danym miejscu. Zdobywając łup od wrogów na poziomie 61 i wyższym, masz szansę na uzyskanie przedmiotu o nieco wyższej liczbie pkt wyposażenia niż ta wynikająca z twojego obecnego poz. biegłości, dzięki czemu twój poz. biegłości wzrośnie do liczby pkt wyposażenia zdobytych przez ciebie przedmiotów. Twój poziom biegłości mogą zwiększyć nawet skrzynie podczas napadu na posterunek.\n\n• Łup upuszczany przez wrogów na poz. 61.: 500–530 pkt wyposażenia\nŁup upuszczany przez wrogów na poz. 62.: 530–560 pkt wyposażenia\nŁup upuszczany przez wrogów na poz. 63.: 560–591 pkt wyposażenia\nŁup upuszczany przez wrogów na poz. 64.: 590–600 pkt wyposażenia\n\nMożesz używać pozyskanych wskutek handlu przedmiotów o większej liczbie pkt wyposażenia niż ta wynikająca z twojego obecnego poz. biegłości. Nie zwiększą one jednak twojego poz. biegłości ani nie będą działać lepiej niż określa to twój obecny poz. biegłości.\n\nWrogowie występujący w elitarnych punktach orientacyjnych i na ekspedycjach zapewniają większą szansę na zwiększenie twojego poz. biegłości, tak samo jak nazwani wrogowie na poz. 60+. Bossowie z ekspedycji zawsze upuszczą przedmiot, który zwiększy twój poz. biegłości. Ponadto same ekspedycje zawsze zapewniają 3 tego typu przedmioty (1 pochodzący od wspomnianych bossów) na każdą wyprawę. Szansa na znalezienie łupu zwiększającego poz. biegłości w elitarnych skrzyniach jest większa niż szansa na znalezienie takiego łupu u pokonanych elitarnych wrogów.</string>
-	<string key="ui_endgame_guide_body6">500–525 pkt wyposażenia (elitarne 61+) – Wielka Wyrwa: Poorane Szczyty, Strzaskana Góra: Wyższy Svikin\n\n525–549 pkt wyposażenia (elitarne 62+) – Czarna Łuska Pałac cesarski, Rajski Gaj: Wrogość\n\n549–577 pkt wyposażenia (elitarne 63+) – Cuchnąca Woda: Dryfujący Kadłub, Strzaskana Góra: Wypalone Kopalnie\n\n577–591 pkt wyposażenia (elitarne 64+) – Strzaskana Góra: Myrkgard, Cuchnąca Woda: Wieczny Staw, Cuchnąca Woda: Syreni Przyczółek\n\n591+ pkt wyposażenia – Rajski Gaj: Wrogość, Czarna Łuska: Pałac cesarski, Czarna Łuska: Północna Stocznia Dynastii, Rajski Gaj: Ogród Genezy, Cuchnąca Woda: Użyteczność Łazarza, Rajski Gaj: Jednopienna Rozpadlina (arena ze sprigganem), Cuchnąca Woda: Amfiteatr (arena), Rajski Gaj: Arena Wiecznych Stawów</string>
+	<string key="ui_endgame_guide_body6">500-525 pkt wyposażenia (elitarne 60+) – Wielka Wyrwa: Poorane Szczyty, Strzaskana Góra: Caminus\n\n525-577 pkt wyposażenia (elitarne 63+) – Piaskobrzegi: Łoża Ta-Biczet, Cuchnąca Woda: Dryfujący Kadłub, Strzaskana Góra: Wypalone Kopalnie\n\n577-591 pkt wyposażenia (elitarne 64+) – Cuchnąca Woda: Syreni Przyczółek\n\n591+ pkt wyposażenia – (elitarne 65+) – Piaskobrzegi: Zachodni Mur Neftis, Castrum Principium, Heliopolis, Solarium Chepri, Męka Skorpiona, Rajski Gaj: Wrogość, Ogród Genezy, Zagajnik Zygorameta, Czarna Łuska: Pałac cesarski, Cuchnąca Woda: Użyteczność Łazarza, Iglica Melpomeny, Wieczny Staw, Strzaskana Góra: Myrkgard</string>
 	<string key="ui_endgame_guide_body7">Gips pozwala na zwiększenie poziomu biegłości konkretnej części wyposażenia.\n\nIstnieje kilka rodzajów gipsu – każdego z nich można użyć w piecu do obróbki gipsu, by wytworzyć gipsową kulę. Potrzeba określonej ilości gipsu danego rodzaju, by móc wytworzyć 1 gipsową kulę. Kuli tej można następnie użyć do wytworzenia odlewu gipsowego wybranej części wyposażenia, który po użyciu zwiększy poziom biegłości wybranej części wyposażenia i zapewni nową część wyposażenia o większej liczbie pkt wyposażenia.\n\nGips w różnych ilościach można zdobyć, biorąc udział w poniższych aktywnościach:\n\n• Obsydianowy gips, 3 szt. dziennie – nazwani bossowie otwartego świata, poziom 60+, zwykle występujący w elitarnych punktach orientacyjnych.\n• Szafirowy gips, 2 szt. dziennie – finałowi bossowie w Użyteczności Łazarza i Ogrodzie Genezy.\n• Rubinowy gips, 2 szt. dziennie – napad na posterunek (należy zdobyć minimum 501 pkt podczas meczu).\n• Szmaragdowy gips, 1 szt. dziennie – nagroda za osiągnięcie punktu kontrolnego smykałki profesji.\n• Cytrynowy gips, 2 szt. dziennie – areny PvE.\n• Ametystowy gips, 7 szt. dziennie – zamykanie wyłomów skażenia.\n• Topazowy gips, 5 szt. dziennie – skorzystaj ze stanowiska arkanistycznego lub obozu klasy 5., by wytworzyć eliksir zestrajający. Wypij ten eliksir, a następnie zabij wrogów na poziomie 55+, którzy upuszczą topazowy gips.\n• Diamentowy gips, 3 szt. dziennie – gips tego rodzaju można zdobyć podczas pozyskiwania surowców z dowolnego złoża na terenie całego Aeternum. Ta metoda zwykle ulega zmianie podczas wydarzeń sezonowych, takich jak Zimowa Konwergencja.\n• Granatowy gips, 2 szt. dziennie – areny PvP 3 na 3.</string>
 	<string key="ui_endgame_guide_body8">Odłamków umbralu można użyć do ulepszenia dowolnej części wyposażenia z minimum 590 pkt i maksimum 625 pkt wyposażenia. Gdy po ulepszeniu tej części wyposażenia wyposażysz się w nią, zwiększy się twój poziom biegłości.\n\nOdłamki umbralu można zdobyć podczas napadów na posterunek, w elitarnych skrzyniach wysokiego poziomu, na zmutowanych ekspedycjach, poprzez wytwarzanie wysokopoziomowego wyposażenia i otwierając odlewy gipsowe części wyposażenia, których poziom biegłości wynosi 600 lub więcej.</string>
+	<string key="ui_endgame_guide_body9" rel_version="Feature_Seasons_Rewards">Na 60. poziomie zyskasz dostęp do Sezonowej Przygody. Każdy nowy sezon zawiera nowe przygody i dodatkowe przedmioty, które można zdobyć za ukończenie tych przygód w trakcie trwania sezonu. Przeżyj te wyjątkowe doświadczenia, zanim skończy się sezon!</string>
 	<string key="ui_endgame_guide_button_view_guide">Zobacz przewodnik</string>
 	<string key="ui_endgame_guide_button_dismiss">Odrzuć</string>
 	<string key="ui_endgame_banner_title">Osiągnięto maksymalny poziom!</string>
@@ -2559,13 +2610,14 @@
 	<string key="ui_endgame_banner_text2">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ffdb7a"&gt;Napad na posterunek&lt;/font&gt;, czyli pole bitwy 20 na 20</string>
 	<string key="ui_endgame_banner_text3">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ffdb7a"&gt;Elitarne&lt;/font&gt; punkty orientacyjne, próbne areny i wyzwania w otwartym świecie dla grup</string>
 	<string key="ui_endgame_banner_text4">Odwiedź &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ffdb7a"&gt;piec do obróbki gipsu&lt;/font&gt;, aby ulepszyć swoje wyposażenie</string>
+	<string key="ui_endgame_banner_text5" rel_version="Feature_Seasons_Rewards">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ffdb7a"&gt;Sezonowa Przygoda&lt;/font&gt; zawiera przygody i nagrody unikalne dla każdego sezonu</string>
 	<string key="ui_endgame_banner_subtitle">Twoja podróż dopiero się rozpoczyna…</string>
 	<string key="ui_freeweekend_guide_tab" rel_version="Feature_FreeWeekend">Darmowy weekend</string>
 	<string key="ui_freeweekend_guide_title1" rel_version="Feature_FreeWeekend">Witaj na Aeternum!</string>
 	<string key="ui_freeweekend_guide_title2" rel_version="Feature_FreeWeekend">Znajdź znajomych i aktywności</string>
 	<string key="ui_freeweekend_guide_title3" rel_version="Feature_FreeWeekend">Czas sesji i kolejki</string>
 	<string key="ui_freeweekend_guide_title4" rel_version="Feature_FreeWeekend">Kup New World</string>
-	<string key="ui_freeweekend_guide_body1" rel_version="Feature_FreeWeekend">Podczas darmowego weekendu każdy gracz może pobrać New World i stworzyć postać. Rozgrywka w niektórych światach jest ograniczona do graczy, którzy kupili New World. Gracze grający za darmo nie mogą przenosić postaci pomiędzy światami, nie mogą też korzystać ze sklepu i faktorii. Postacie graczy grających za darmo są ograniczone do maksymalnie 5000 sztuk &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;.</string>
+	<string key="ui_freeweekend_guide_body1" rel_version="Feature_FreeWeekend">Podczas darmowego weekendu każdy gracz może pobrać New World i stworzyć postać. Rozgrywka w niektórych światach jest ograniczona do graczy, którzy kupili New World. Gracze grający za darmo nie mogą przenosić postaci pomiędzy światami, nie mogą też korzystać ze sklepu i faktorii. Postacie graczy grających za darmo są ograniczone do maksymalnie 2000 &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;.</string>
 	<string key="ui_freeweekend_guide_body2" rel_version="Feature_FreeWeekend">Użyj menu funkcji społeczności (domyślnie: [O]), by znaleźć znajomych w świecie albo odpowiedzieć na zaproszenia od innych graczy. Naciśnij [ESC] i wybierz zakładkę "Tryby", by wziąć udział w aktywnościach dla wielu graczy takich jak potyczki na arenach czy napad na posterunek. Jeśli chcesz znaleźć drużynę i wyruszyć na ekspedycję, skorzystaj z wyszukiwarki grupy. W tym celu otwórz mapę i przesuń kursor na ikonę dowolnej ekspedycji.</string>
 	<string key="ui_freeweekend_guide_body3" rel_version="Feature_FreeWeekend">W przypadku graczy grających za darmo, New World okresowo sprawdza, czy obecnie jest kolejka do świata, na którym mają postać. Gracze ci mogą grać bez ograniczeń pod warunkiem, że podczas testu czasu sesji nie pojawi się kolejka do ich świata. W przypadku wykrycia kolejki gracz grający za darmo zostanie przeniesiony do menu głównego, gdzie będzie mógł dołączyć do kolejki i czekać na ponowne rozpoczęcie rozgrywki. Jeśli jednak kolejki nie będzie, czas sesji gracza grającego za darmo zostanie wydłużony do następnego testu. Gracze, którzy zakupili New World, nie podlegają powyższym ograniczeniom i mają pierwszeństwo w kolejce w stosunku do graczy grających za darmo.</string>
 	<string key="ui_freeweekend_guide_body4" rel_version="Feature_FreeWeekend">New World można kupić w sklepie Steam. By przejść do sklepu, otwórz menu główne albo naciśnij [ESC], a następnie przycisk "Menu". Wszystkie postacie, przedmioty i postępy zdobyte podczas darmowej rozgrywki zostaną zachowane i będą dostępne po zakupie New World. Jednakże dopiero po nabyciu gry czas rozgrywki wszystkich postaci utworzonych na koncie zostanie zaliczony na poczet odblokowania niektórych funkcji, takich jak handel z innymi graczami czy dostęp do sklepu i faktorii.</string>
@@ -2609,6 +2661,7 @@
 	<string key="attribution_Housing_DynastySet_2021" comment="Housing Furniture Set" rel_version="Housing_Dynasty_Set">Meble z Czarnej Łuski</string>
 	<string key="attribution_Housing_LegionSet_2022" comment="Housing Furniture Set" rel_version="Housing_Legion_Set">Meble z Piaskobrzegów</string>
 	<string key="attribution_TurkeyTerror_2022" rel_version="Event_TurkeyTerror_Perm">Postrach indyków 2022</string>
+	<string key="attribution_Season_1" rel_version="Season_1_Perm">Sezon 1</string>
 	<string key="ui_reset_daily_time">Resetuje się codziennie o {time}</string>
 	<string key="ui_reset_weekly_time">Resetuje się co tydzień o {time}</string>
 	<string key="ui_buy_new_world">Kup New World</string>
@@ -2616,5 +2669,8 @@
 	<string key="ui_probation_account_restriction">By móc korzystać z tej funkcji, należy zakupić New World.</string>
 	<string key="ui_item_skinning_disabled">Skórki przedmiotów wyłączone</string>
 	<string key="ui_camp_skins_disabled">Skórki obozu wyłączone</string>
+	<string key="ui_event_reputation_title">Reputacja w wydarzeniu</string>
+	<string key="ui_event_reputation_description">Reputacja w wydarzeniu odblokowuje nowe przedmioty do zakupu w sklepie wydarzenia.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Źródło:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ffffff"&gt; Ukończenie misji wydarzeń&lt;/font&gt;</string>
+	<string key="attribution_RabbitSeason_2023" rel_version="Feature_RabbitSeasonPerm">Królicza zemsta 2023</string>
 </resources>
 

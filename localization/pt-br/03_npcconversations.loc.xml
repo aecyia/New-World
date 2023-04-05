@@ -65,6 +65,6 @@
 	<string key="NPC_DefaultDialogue_0325_00_Ranger" comment="Puts others first, spiritual, kind to a fault" speaker="Ranger Heatly" name="RangerHeatley" gender="f" VO="0325_00_Ranger_Default" VO_Status="Recorded">Grande Fenda lhe saúda, {playerName}. Sou Jennifer Heatly, uma Patrulheira por essas bandas.</string>
 	<string key="NPC_DefaultDialogue_0325_01_Ranger" comment="Leads into 'Rimelash' quest" speaker="Ranger Heatly" name="RangerHeatley" gender="f" VO="0325_01_Ranger_Default" VO_Status="Recorded">Há vantagens em termos facetas diferentes para o inverno.\n\nOs ventos cortantes do gelo, a morte suave da neve.</string>
 	<string key="NPC_DefaultDialogue_0325_02_Ranger" comment="After 'Rimelash' quest" speaker="Ranger Heatly" name="RangerHeatley" VO="0325_02_Ranger_Default" VO_Status="Recorded">Consigo sentir bem os efeitos do Açoite da Geada.\n\nNão gostaria de chegar muito perto, há uma calma gelada em você que fala de tempestades em seu horizonte.</string>
-	<string key="NPC_DefaultDialogue_0326_00_Prospector" comment="Outpost Rush NPC" speaker="Prospector Newman" name="ProspectorNewman" gender="M" VO="NPC_DefaultDialogue_0326_00_Prospector" VO_Status="Recorded">Já pode buscar a riqueza e a glória?</string>
+	<string key="NPC_DefaultDialogue_0326_00_Prospector" comment="Outpost Rush NPC" speaker="Prospector Newman" name="ProspectorNewman" gender="M" VO="NPC_DefaultDialogue_0326_00_Prospector" VO_Status="Recorded">Hahahaha! Pronto para buscar a riqueza e a glória?</string>
 </resources>
 

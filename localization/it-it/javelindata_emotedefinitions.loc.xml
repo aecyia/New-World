@@ -119,17 +119,17 @@
 	<string key="ui_emote_Push_Ups" rel_version="Emote_Pushups">Flessioni</string>
 	<string key="ui_emote_Flex_3">Flessione muscoli del braccio</string>
 	<string key="ui_emote_Golf_Clap">Applauso cortese</string>
-	<string key="ui_emote_sit_description">Descrizione dell'emote Sedersi</string>
+	<string key="ui_emote_sit_description">"Siediti e riposati un po'."</string>
 	<string key="ui_emote_flex_description">Descrizione dell'emote Mostrare i muscoli</string>
-	<string key="ui_emote_flex2_description">Descrizione dell'emote Mostrare i muscoli</string>
-	<string key="ui_emote_go_description">Descrizione dell'emote Vai!</string>
-	<string key="ui_emote_here_description">Descrizione dell'emote Qui</string>
-	<string key="ui_emote_wave_description">Descrizione dell'emote Salutare con la mano</string>
-	<string key="ui_emote_nono_description">Descrizione dell'emote Nono</string>
-	<string key="ui_emote_cheer_description">Descrizione dell'emote Esultare</string>
-	<string key="ui_emote_Dice_description">Descrizione dell'emote Dadi</string>
-	<string key="ui_emote_thumbs_description">Descrizione dell'emote Pollici</string>
-	<string key="ui_emote_dance1_description">Descrizione dell'emote Ballare</string>
+	<string key="ui_emote_flex2_description">"La mia imponente statura ti colpisce?"</string>
+	<string key="ui_emote_go_description">"Di là, presto!"</string>
+	<string key="ui_emote_here_description">"Ehi. Da questa parte!"</string>
+	<string key="ui_emote_wave_description">"Ciao, viandante!"</string>
+	<string key="ui_emote_nono_description">"No, no, no. Non possiamo."</string>
+	<string key="ui_emote_cheer_description">"Evviva e urrà!"</string>
+	<string key="ui_emote_Dice_description">"Oggi cos'avrà in serbo per me la volubile dea bendata?"</string>
+	<string key="ui_emote_thumbs_description">"Sono pienamente d'accordo. Diamoci da fare!"</string>
+	<string key="ui_emote_dance1_description">"Una bella giga è un ottimo modo per passare il tempo."</string>
 	<string key="ui_emote_kill_description">"Il marchio del brigante."</string>
 	<string key="ui_emote_Watching_description">"Vigilanza eterna."</string>
 	<string key="ui_emote_No_description">Descrizione dell'emote No</string>
@@ -337,6 +337,9 @@
 	<string key="ui_emote_Walk_FrankenMummy_name" rel_version="Emote_Walk_FrankenMummy">Camminata zombi</string>
 	<string key="ui_emote_Walk_FrankenMummy_description" rel_version="Emote_Walk_FrankenMummy">Cos'è uno zombi in una terra in cui la vita è eterna? Pensa ai Perduti.</string>
 	<string key="emote_Walk_FrankenMummy" rel_version="Emote_Walk_FrankenMummy">{playerName} barcolla in avanti come un morto vivente.</string>
+	<string key="ui_emote_MilitarySalute_name" rel_version="Emote_MilitarySalute">Saluto</string>
+	<string key="ui_emote_MilitarySalute_description" rel_version="Emote_MilitarySalute">Un segno formale di rispetto.</string>
+	<string key="emote_MilitarySalute" rel_version="Emote_MilitarySalute">{playerName} saluta.</string>
 	<string key="ui_emote_Pout_name" rel_version="Emote_Pout">Broncio</string>
 	<string key="ui_emote_Pout_description" rel_version="Emote_Pout">Le cose non stanno andando per il verso giusto. Fallo capire a tutti.</string>
 	<string key="emote_Pout" rel_version="Emote_Pout">{playerName} fa il broncio.</string>
@@ -378,6 +381,26 @@
 	<string key="ui_emote_GleamiteThrow_name" rel_version="Emote_GleamiteThrow">Lancio di brillantite</string>
 	<string key="ui_emote_GleamiteThrow_description" rel_version="Emote_GleamiteThrow">Lancia brillantite luccicante.</string>
 	<string key="emote_GleamiteThrow" rel_version="Emote_GleamiteThrow">{playerName} lancia una manciata di brillantite.</string>
+	<string key="ui_emote_FlowerChildDance_name" rel_version="Emote_FlowerChildDance">Danza da figli dei fiori</string>
+	<string key="ui_emote_FlowerChildDance_description" rel_version="Emote_FlowerChildDance">Entra in sintonia con la natura, per quanto corrotta sia su Aeternum.</string>
+	<string key="emote_FlowerChildDance" rel_version="Emote_FlowerChildDance">{playerName} danza in sintonia con la natura.</string>
+	<string key="ui_emote_FrolicDance_name" rel_version="Emote_FrolicDance">Divertimento tra l'erba</string>
+	<string key="ui_emote_FrolicDance_description" rel_version="Emote_FrolicDance">Danza per dimenticare le preoccupazioni quotidiane aprendo il cuore a tutto il creato.</string>
+	<string key="emote_FrolicDance" rel_version="Emote_FrolicDance">{playerName} si diverte nella natura.</string>
+	<string key="ui_emote_TeaBag_name" rel_version="Emote_TeaBag">Ora del tè</string>
+	<string key="ui_emote_TeaBag_description" rel_version="Emote_TeaBag">Forse il tuo avversario sconfitto apprezzerebbe una tazza di tè come premio di consolazione?</string>
+	<string key="emote_TeaBag" rel_version="Emote_TeaBag">{playerName} utilizza una bustina di tè per preparare una tazza di tè.</string>
+	<string key="ui_emote_ParticipationTrophy_name" rel_version="Emote_ParticipationTrophy">Trofeo di partecipazione</string>
+	<string key="ui_emote_ParticipationTrophy_description" rel_version="Emote_ParticipationTrophy">Hai fatto del tuo meglio!</string>
+	<string key="emote_ParticipationTrophy" rel_version="Emote_ParticipationTrophy">{playerName} consegna un trofeo di partecipazione.</string>
+	<string key="ui_emote_RockyCelebration_name" rel_version="Emote_RockyCelebration">Trionfo</string>
+	<string key="ui_emote_RockyCelebration_description" rel_version="Emote_RockyCelebration">Hai trionfato! Nessuno pensava che ce l'avresti fatta!</string>
+	<string key="emote_RockyCelebration" rel_version="Emote_RockyCelebration">{playerName} festeggia il trionfo.</string>
+	<string key="ui_emote_BlowFire_name" rel_version="Emote_BlowFire">Sputafuoco</string>
+	<string key="ui_emote_BlowFire_description" rel_version="Emote_BlowFire">Stupisci gli spettatori con la tua straordinaria padronanza del fuoco.</string>
+	<string key="emote_BlowFire" rel_version="Emote_BlowFire">{playerName} soffia fuoco dalla bocca.</string>
+	<string key="emote_BlowFire_SHE" rel_version="Emote_BlowFire">{playerName} soffia fuoco dalla bocca.</string>
+	<string key="emote_BlowFire_THEY" rel_version="Emote_BlowFire">{playerName} soffia fuoco dalla bocca.</string>
 	<string key="ui_Emote_FishingDance_name" rel_version="Emote_FishingDance">Riavvolgimento</string>
 	<string key="ui_Emote_FishingDance_description" rel_version="Emote_FishingDance">Lancia una lenza e scopri cosa pescherai.</string>
 	<string key="Emote_FishingDance" rel_version="Emote_FishingDance">{playerName} getta una lenza e la riavvolge.</string>

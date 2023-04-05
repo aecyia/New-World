@@ -100,7 +100,7 @@
 	<string key="dungeon_cutlasskeys00_task_exit_ship" rel_version="Expedition_CutlassKeys_00">Encuentra la palanca para bajar el puente y salir del barco.</string>
 	<string key="dungeon_cutlasskeys00_task_defeat_admiral" rel_version="Expedition_CutlassKeys_00">Derrota al almirante Polvoranegra.</string>
 	<string key="dungeon_cutlasskeys00_task_exit_pirate_cove" rel_version="Expedition_CutlassKeys_00">Ábrete paso por la caverna del Pillaje Prohibido.</string>
-	<string key="dungeon_cutlasskeys00_task_enter_dead_mans_retreat" rel_version="Expedition_CutlassKeys_00">Continuar al Retiro del Hombre Muerto.</string>
+	<string key="dungeon_cutlasskeys00_task_enter_dead_mans_retreat" rel_version="Expedition_CutlassKeys_00">Continúa al Retiro del Hombre Muerto.</string>
 	<string key="dungeon_cutlasskeys00_task_defeat_berserker" rel_version="Expedition_CutlassKeys_00">Derrota al sargento Morris.</string>
 	<string key="dungeon_cutlasskeys00_task_talk_mariner" rel_version="Expedition_CutlassKeys_00">Habla con Tye para descubrir más sobre la puerta.</string>
 	<string key="dungeon_cutlasskeys00_task_open_siren_gate" rel_version="Expedition_CutlassKeys_00">Abre la puerta a las Profundidades Hundidas.</string>
@@ -187,6 +187,30 @@
 	<string key="dungeon_ebonscale00_task_find_empress">Encuentra a la emperatriz Zhou en el palacio.</string>
 	<string key="dungeon_ebonscale00_task_defeat_empress">¡Destruye a la emperatriz Zhou!</string>
 	<string key="dungeon_ebonscale00_task_leave_dungeon">Sal del astillero.</string>
+	<string key="dungeon_greatcleave01_title" rel_version="Expedition_GreatCleave_01">Fragua empírea</string>
+	<string key="dungeon_greatcleave01_required_equipment" rel_version="Expedition_GreatCleave_01">1 báculo de Azoth</string>
+	<string key="dungeon_greatcleave01_description" rel_version="Expedition_GreatCleave_01">Persigue a sir Lot y elimina la presencia varega en la fragua.</string>
+	<string key="dungeon_greatcleave01_task_explore" rel_version="Expedition_GreatCleave_01">Adéntrate en la fragua empírea.</string>
+	<string key="dungeon_greatcleave01_task_solveforgeentry" rel_version="Expedition_GreatCleave_01">Encuentra una manera de cruzar la puerta principal.</string>
+	<string key="dungeon_greatcleave01_task_gain_access_forge" rel_version="Expedition_GreatCleave_01">Usa el sello de Azoth antiguo.</string>
+	<string key="dungeon_greatcleave01_task_unlock_dial" rel_version="Expedition_GreatCleave_01">Encuentra una manera de desbloquear el mecanismo antiguo.</string>
+	<string key="dungeon_greatcleave01_task_talk_to_nora" rel_version="Expedition_GreatCleave_01">Habla con Nora Roggeveen.</string>
+	<string key="dungeon_greatcleave01_task_power_the_forge" rel_version="Expedition_GreatCleave_01">Activa el mecanismo antiguo.</string>
+	<string key="dungeon_greatcleave01_task_primordial" rel_version="Expedition_GreatCleave_01">Investiga el interior de la fragua.</string>
+	<string key="dungeon_greatcleave01_task_solve_the_mechanism" rel_version="Expedition_GreatCleave_01">Esclarece el mecanismo antiguo.</string>
+	<string key="dungeon_greatcleave01_task_pursue_corrupted" rel_version="Expedition_GreatCleave_01">Elimina la presencia primordial.</string>
+	<string key="dungeon_greatcleave01_task_theheel" rel_version="Expedition_GreatCleave_01">Elimina el Talón para despejar un camino.</string>
+	<string key="dungeon_greatcleave01_task_forge" rel_version="Expedition_GreatCleave_01">Explora más la fragua.</string>
+	<string key="dungeon_greatcleave01_task_ifrit" rel_version="Expedition_GreatCleave_01">Destruye a Ifrit.</string>
+	<string key="dungeon_greatcleave01_task_wayforward" rel_version="Expedition_GreatCleave_01">Usa el sello de fuego.</string>
+	<string key="dungeon_greatcleave01_task_investigate" rel_version="Expedition_GreatCleave_01">Persigue a sir Lot y a sus comandantes.</string>
+	<string key="dungeon_greatcleave01_task_findawayup" rel_version="Expedition_GreatCleave_01">Encuentra una manera de atravesar el bloqueo.</string>
+	<string key="dungeon_greatcleave01_task_defeat" rel_version="Expedition_GreatCleave_01">Derrota a los guardias varegos restantes.</string>
+	<string key="dungeon_greatcleave01_task_varangians" rel_version="Expedition_GreatCleave_01">Esclarece el mecanismo antiguo.</string>
+	<string key="dungeon_greatcleave01_task_commanders" rel_version="Expedition_GreatCleave_01">Persigue a Lot y a sus comandantes.</string>
+	<string key="dungeon_greatcleave01_task_defeattheknight" rel_version="Expedition_GreatCleave_01">Elimina al comandante Marius.</string>
+	<string key="dungeon_greatcleave01_victory_cutscene" rel_version="Expedition_GreatCleave_01">Vuelve para informar de la derrota del comandante Marius.</string>
+	<string key="dungeon_greatcleave01_task_exit_dungeon" rel_version="Expedition_GreatCleave_01">Vuelve para informar de la derrota del comandante Marius.</string>
 	<string key="dungeon_brimstone_title" rel_version="Expedition_BrimstoneSands_00">La Enéada</string>
 	<string key="dungeon_brimstonesands00_title" rel_version="Expedition_BrimstoneSands_00">La Enéada</string>
 	<string key="dungeon_brimstone_description" rel_version="Expedition_BrimstoneSands_00">Investiga La Enéada y descubre qué secretos ocultaron los antiguos en este lugar atemporal.</string>
@@ -254,5 +278,14 @@
 	<string key="ui_solo_arena_leave_desc_time" rel_version="Territory_Brimstone_Sands">¿Seguro que quieres salir de la prueba del alma?\nNo podrás volver a hacer cola para la prueba del alma durante &lt;font color="#ffdb7a"&gt;[{time}]&lt;/font&gt;.</string>
 	<string key="ui_solo_arena_leave_title" rel_version="Territory_Brimstone_Sands">¿Abandonar la prueba del alma?</string>
 	<string key="ui_cannot_travel_solo_arena" rel_version="Territory_Brimstone_Sands">No puedes usar el viaje rápido mientras estás en la prueba del alma</string>
+	<string key="Quest_CaerDun_title" rel_version="Quest_MSQ2_Brightwood">La maldición de Caer Dun</string>
+	<string key="Quest_CaerDun_description" rel_version="Quest_MSQ2_Brightwood">Entra en la cripta, donde el acero místico y los actos profanos se entrelazan. Destruye la gema del alma imperfecta y rompe la maldición de Caer Dun.</string>
+	<string key="quest_CaerDun_task_approach" rel_version="Quest_MSQ2_Brightwood">Acércate al altar maldito en el corazón de Caer Dun.</string>
+	<string key="quest_CaerDun_task_place" rel_version="Quest_MSQ2_Brightwood">Coloca la gema del alma imperfecta en el altar maldito.</string>
+	<string key="quest_CaerDun_task_smash" rel_version="Quest_MSQ2_Brightwood">Destroza la gema del alma imperfecta y rompe la maldición de Caer Dun.</string>
+	<string key="quest_CaerDun_task_destroy_boss" rel_version="Quest_MSQ2_Brightwood">Derrota al espíritu maldito de Umberto.</string>
+	<string key="quest_CaerDun_task_purify" rel_version="Quest_MSQ2_Brightwood">Usa el báculo de Azoth para eliminar la maldición de Caer Dun.</string>
+	<string key="quest_CaerDun_task_leave" rel_version="Quest_MSQ2_Brightwood">Explora la cripta y sal de la prueba del alma.</string>
+	<string key="Quest_CaerDun_required_equipment" rel_version="Quest_MSQ2_Brightwood">1 báculo de Azoth, 1 piqueta de minería</string>
 </resources>
 

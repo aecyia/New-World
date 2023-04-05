@@ -265,7 +265,7 @@
 	<string key="1334_0201_olfactoryoptimization_proposal_prompt" speaker="UI - Player Prompt">"Ciężko zignorować ten smród".</string>
 	<string key="1334_0201_olfactoryoptimization_proposal_next" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_proposal_next" VO_Status="Recorded" dialogue-prompt="@1334_0201_olfactoryoptimization_proposal_prompt">No i? Ileż życia ci umyka, kiedy skupiasz się wyłącznie na przyjemnych rzeczach.\n\nProszę, muszę uchwycić ten aromat. Przynieś mi zapachy mokradeł, wywar w butelce, a sowicie ci to wynagrodzę, hmm?</string>
 	<string key="1334_0201_olfactoryoptimization_incomplete" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_incomplete" VO_Status="Recorded">Czy wyjątkowy zapach Tkackich Mokradeł da się odtworzyć za pomocą ludzkich rąk? Będę czekał na twój powrót z zapartym tchem.</string>
-	<string key="1334_0201_olfactoryoptimization_complete" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_complete" VO_Status="Recorded" dialogue-next="@1334_0201_olfactoryoptimization_complete_next" comment="coughing">Hmm, tak… Dekadencki, piżmowy, z siarkowymi akcentami, które rezonują z resztą spektrum… Udało ci się idealnie uchwycić zapach Tkackich Mokradeł. \n\nByć może drzemie w tobie prawdziwy geniusz! Tak się wzruszyłem, że aż mi oczy łzawią!</string>
+	<string key="1334_0201_olfactoryoptimization_complete" comment="coughing" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_complete" VO_Status="Recorded" dialogue-next="@1334_0201_olfactoryoptimization_complete_next">Hmm, tak… Dekadencki, piżmowy, z siarkowymi akcentami, które rezonują z resztą spektrum… Udało ci się idealnie uchwycić zapach Tkackich Mokradeł. \n\nByć może drzemie w tobie prawdziwy geniusz! Tak się wzruszyłem, że aż mi oczy łzawią!</string>
 	<string key="1334_0201_olfactoryoptimization_complete_prompt" speaker="UI - Player Prompt">"Ten aromat jest… zaskakujący!"</string>
 	<string key="1334_0201_olfactoryoptimization_complete_next" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_complete_next" VO_Status="Recorded" dialogue-prompt="@1334_0201_olfactoryoptimization_complete_prompt">Prawda? Ha! Gdyby tylko damy z Nowej Korsyki wiedziały, co wcierają sobie w nadgarstki.\n\nPerfumy są niczym życie. Całość to coś więcej niż suma składników. Dziękuję ci za pomoc.</string>
 	<string key="1334_0201_d_00_01a_GiveRecipe" speaker="UI">Weź: {itemName}</string>
@@ -314,79 +314,6 @@
 	<string key="1335_0204_reunion_proposal_next" speaker="Nora Roggeveen" name="NoraRoggeveen" VO="1335_0204_reunion_proposal_next" VO_Status="Recorded" dialogue-prompt="@1335_0204_reunion_proposal_prompt">Na szczęście byłam już dobrze ukryta, gdy strażnicy zaczęli się tu roić. Dobrze, że Leonie cię przysłała! Zaczynałam robić się głodna.\n\nAle dobrze. Chodźmy stąd. Nie mogę się doczekać spotkania z Leonie.</string>
 	<string key="1335_0204_reunion_incomplete" speaker="Nora Roggeveen" name="NoraRoggeveen" VO="1335_0204_reunion_incomplete" VO_Status="Recorded">Dołączę do ciebie i do Leonie na drodze. Wyślizgnę się stąd, kiedy odwrócisz ich uwagę.</string>
 	<string key="1335_0204_reunion_complete" speaker="Dr. Leonie Roggeveen" name="LeonieRoggeveen" VO="1335_0204_reunion_complete" VO_Status="Recorded">Wracasz! Nora wszystko mi opowiedziała. Ależ mi ulżyło!\n\nPorozmawiam z nią o środkach ostrożności, które powinnyśmy zacząć stosować. Tak czy inaczej, to była świetna zabawa. Tobie zaś jestem ogromnie wdzięczna. Dziękuję!</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Title" speaker="UI - Quest Title">Sprzyjający Los</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Description" speaker="UI – Quest Description">Zdobądź komponenty i schematy potrzebne do wytworzenia pancerza Sprzyjającego Losu. Następnie wróć do traperki Severino z osady na Tkackich Mokradłach.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Prompt" speaker="UI - Player Prompt">"Należycie oddajesz jej cześć".</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_ProposalResponse" VO_Status="Recorded" dialogue-next="@1303_1311_Protective_Wyrd_Gear_Proposal_Next">Zawsze możemy zrobić więcej i właśnie dlatego mam dla ciebie prezent.\n\nHazel wspominała kiedyś o pancerzu, który podobno chroni noszącego przed złym losem.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Prompt" speaker="UI - Player Prompt">"Chroni przed losem?"</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Next" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_CompleteNext" VO_Status="Recorded" dialogue-next="@1303_1311_Protective_Wyrd_Gear_Proposal_Next2" dialogue-prompt="@1303_1311_Protective_Wyrd_Gear_Proposal_Prompt">Podobno. Hazel twierdziła, że nosiła go wielka uzdrowicielka, która podobnie jak ona była czarodziejką.\n\nMimo że materiał był lekki, pancerz nigdy nie zawiódł. Czarodziejka podróżowała po całym Aeternum i nigdy nie została nawet draśnięta.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Prompt2" speaker="UI - Player Prompt">"To nieco naciągane".</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Next2" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@1303_1311_Protective_Wyrd_Gear_Proposal_Prompt2">Potrzebujemy takich historii, żeby przetrwać mroczne czasy. Tak czy inaczej, Hazel zapewniła mnie, że to wszystko prawda, i podarowała mi ten schemat.\n\nNazywa się Sprzyjający Los. Zdobądź te materiały, jeśli chcesz używać takiego wyposażenia.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Incomplete" speaker="Survivalist Severino – Weaver's Fen">Na Aeternum nic tak naprawdę nie ginie, a przynajmniej sama sobie to powtarzam.\n\nGdy nadejdzie odpowiednia pora, znajdziesz to, czego potrzebujesz, by wytworzyć Sprzyjający Los. Wiem, że tak będzie.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Complete" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_AvailResponse" VO_Status="Recorded" dialogue-next="@1303_1311_Protective_Wyrd_Gear_Complete_Next">Jest w tobie coś takiego… O! Udało ci się znaleźć wszystko, czego potrzebujesz!\n\nTo najbardziej imponujące odzienie, jakie kiedykolwiek widziałam. Czuję moc Sprzyjającego Losu aż stąd.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Complete_Prompt" speaker="UI - Player Prompt">"Naprawdę?"</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Complete_Next" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_CompleteNext3" VO_Status="Recorded" dialogue-prompt="@1303_1311_Protective_Wyrd_Gear_Complete_Prompt">Cieszę się, że historie, które opowiadała mi Hazel, okazały się nie tylko prawdziwe, ale i przydatne.\n\nJeśli reszta jej opowieści też jest prawdziwa, to być może jest dla nas jeszcze jakaś nadzieja.</string>
-	<string key="1303_1311_01_container_Protective_Wyrd_questComplete_1">Ukończ zadanie: Krok we właściwym kierunku</string>
-	<string key="1303_1311_02_container_Protective_Wyrd_questComplete_2">Ukończ zadanie: W odzieniu ze znaków ochrony</string>
-	<string key="1303_1311_03_container_Protective_Wyrd_questComplete_3">Ukończ zadanie: Predestynowane niebezpieczeństwa</string>
-	<string key="1303_1311_04_container_Protective_Wyrd_questComplete_4">Ukończ zadanie: W rękach losu</string>
-	<string key="1303_1311_05_container_Protective_Wyrd_questComplete_5">Ukończ zadanie: Twarzą w twarz z przeznaczeniem</string>
-	<string key="1303_1311_01_Shoes_Title">Krok we właściwym kierunku</string>
-	<string key="1303_1311_01_Shoes_Description">Zdobądź świętą tkaninę w osadzie Fentona, esencję nieumarłych w Jaskini Bandytów oraz oczyszczoną smołę na Wyspie Szczątków. Następnie idź do stanowiska krawieckiego klasy 3, by wytworzyć buty Sprzyjającego Losu.</string>
-	<string key="1303_1311_01_Shoes_task_01">Przekazano schemat.</string>
-	<string key="1303_1311_01_Shoes_task_02">Udaj się do: {POITags} na Tkackich Mokradłach, by zdobyć świętą tkaninę</string>
-	<string key="1303_1311_01_Shoes_task_03">Zdobądź: {itemName} od zjaw, ghuli oraz palowników</string>
-	<string key="1303_1311_01_Shoes_task_04">Udaj się do: {POITags} na Niespokojnych Brzegach, by zdobyć esencję nieumarłych</string>
-	<string key="1303_1311_01_Shoes_task_05">Zdobądź: {itemName} od wrogów: {targetName}</string>
-	<string key="1303_1311_01_Shoes_task_06">Udaj się do: {POITags} na Niespokojnych Brzegach, by zdobyć oczyszczoną smołę</string>
-	<string key="1303_1311_01_Shoes_task_07">Zdobądź: {itemName} od wrogów: {targetName}</string>
-	<string key="1303_1311_01_Shoes_task_08">Idź do stanowiska krawieckiego</string>
-	<string key="1303_1311_01_Shoes_task_09">Wytwórz: {itemName}</string>
-	<string key="1303_1311_02_Shirt_Title">W odzieniu ze znaków ochrony</string>
-	<string key="1303_1311_02_Shirt_Description">Zdobądź neptunowe sprzączki w Gniewie Neptuna, poświęconą nić na cmentarzu w Samotni oraz pradawne fragmenty pancerza w Filarach Gelida. Następnie idź do stanowiska krawieckiego klasy 3, by wytworzyć koszulę Sprzyjającego Losu.</string>
-	<string key="1303_1311_02_Shirt_task_01">Przekazano schemat.</string>
-	<string key="1303_1311_02_Shirt_task_02">Udaj się do: {POITags} na Niespokojnych Brzegach, by zdobyć neptunowe sprzączki</string>
-	<string key="1303_1311_02_Shirt_task_03">Zdobądź: {itemName} od wrogów: {targetName}</string>
-	<string key="1303_1311_02_Shirt_task_04">Udaj się do: {POITags} na Niespokojnych Brzegach, by zdobyć poświęconą nić</string>
-	<string key="1303_1311_02_Shirt_task_05">Zdobądź: {itemName} od wrogów: {targetName}</string>
-	<string key="1303_1311_02_Shirt_task_06">Udaj się do: {POITags} w Wielkiej Wyrwie, by zdobyć pradawne fragmenty pancerza</string>
-	<string key="1303_1311_02_Shirt_task_07">Zdobądź: {itemName} od wrogów: {targetName}</string>
-	<string key="1303_1311_02_Shirt_task_08">Idź do stanowiska krawieckiego</string>
-	<string key="1303_1311_02_Shirt_task_09">Wytwórz: {itemName}</string>
-	<string key="1303_1311_03_Pants_Title">Predestynowane niebezpieczeństwa</string>
-	<string key="1303_1311_03_Pants_Description">Zdobądź wzmocnione zabezpieczenia na cmentarzu w Eeriedune, przetworzoną ceremonialną wełnę w Erydanie oraz nasycone podbicie w Lunaryth. Następnie idź do stanowiska krawieckiego klasy 3, by wytworzyć nogawice Sprzyjającego Losu.</string>
-	<string key="1303_1311_03_Pants_task_01">Przekazano schemat.</string>
-	<string key="1303_1311_03_Pants_task_02">Udaj się do: {POITags} w Wielkiej Wyrwie, by zdobyć wzmocnione zabezpieczenia</string>
-	<string key="1303_1311_03_Pants_task_03">Zdobądź: {itemName} od wrogów: {targetName}</string>
-	<string key="1303_1311_03_Pants_task_04">Udaj się do: {POITags} na Niespokojnych Brzegach, by zdobyć przetworzoną ceremonialną wełnę</string>
-	<string key="1303_1311_03_Pants_task_05">Zdobądź: {itemName} od wrogów: {targetName}</string>
-	<string key="1303_1311_03_Pants_task_06">Udaj się do: {POITags} w Żałobnicy, by zdobyć nasycone podbicie</string>
-	<string key="1303_1311_03_Pants_task_07">Zdobądź: {itemName} od wrogów: {targetName}</string>
-	<string key="1303_1311_03_Pants_task_08">Idź do stanowiska krawieckiego</string>
-	<string key="1303_1311_03_Pants_task_09">Wytwórz: {itemName}</string>
-	<string key="1303_1311_04_Gloves_Title">W rękach losu</string>
-	<string key="1303_1311_04_Gloves_Description">Zdobądź wzmocniony splot w Cragview, talizmany z cieniodrzewa w Pęcherzycy oraz oczyszczone włókna w Szambali. Następnie idź do stanowiska krawieckiego klasy 3, by wytworzyć rękawice Sprzyjającego Losu.</string>
-	<string key="1303_1311_04_Gloves_task_01">Przekazano schemat.</string>
-	<string key="1303_1311_04_Gloves_task_02">Udaj się do: {POITags} w Żałobnicy, by zdobyć Wzmocniony splot z Cragview</string>
-	<string key="1303_1311_04_Gloves_task_03">Zdobądź: {itemName} od wrogów: {targetName}</string>
-	<string key="1303_1311_04_Gloves_task_04">Udaj się do: {POITags} w Żałobnicy, by zdobyć talizmany z cieniodrzewa</string>
-	<string key="1303_1311_04_Gloves_task_05">Zdobądź: {itemName} od wrogów: {targetName}</string>
-	<string key="1303_1311_04_Gloves_task_06">Udaj się do: {POITags} w Rajskim Gaju, by zdobyć oczyszczone włókna ze Szambali</string>
-	<string key="1303_1311_04_Gloves_task_07">Zdobądź: {itemName} od wrogów: {targetName}</string>
-	<string key="1303_1311_04_Gloves_task_08">Idź do stanowiska krawieckiego</string>
-	<string key="1303_1311_04_Gloves_task_09">Wytwórz: {itemName}</string>
-	<string key="1303_1311_05_Hat_Title">Twarzą w twarz z przeznaczeniem</string>
-	<string key="1303_1311_05_Hat_Description">Zdobądź znaki jutrzenki w Pavo, szmaragdową żywicę w Jeżynowym Klifie oraz widmową tkaninę w górnej kopalni żużlu. Następnie idź do stanowiska krawieckiego klasy 3, by wytworzyć kapelusz Sprzyjającego Losu.</string>
-	<string key="1303_1311_05_Hat_task_01">Przekazano schemat.</string>
-	<string key="1303_1311_05_Hat_task_02">Udaj się do: {POITags} w Rajskim Gaju, by zdobyć znaki jutrzenki</string>
-	<string key="1303_1311_05_Hat_task_03">Zdobądź: {itemName} od wrogów: {targetName}</string>
-	<string key="1303_1311_05_Hat_task_04">Udaj się do: {POITags} w Rajskim Gaju, by zdobyć szmaragdową żywicę</string>
-	<string key="1303_1311_05_Hat_task_05">Zdobądź: {itemName} od wrogów: {targetName}</string>
-	<string key="1303_1311_05_Hat_task_06">Udaj się do: {POITags} w Rajskim Gaju, by zdobyć widmową tkaninę</string>
-	<string key="1303_1311_05_Hat_task_07">Zdobądź: {itemName} od wrogów: {targetName}</string>
-	<string key="1303_1311_05_Hat_task_08">Idź do stanowiska krawieckiego</string>
-	<string key="1303_1311_05_Hat_task_09">Wytwórz: {itemName}</string>
-	<string key="1302_1312_d_01_Task_Goto" speaker="UI">Udaj się do: {POITags}</string>
 	<string key="1302_1312_d_02_Task_KillSpriggan" speaker="UI">Pokonaj: {targetName}</string>
 	<string key="1302_1312_d_03_Task_GetSpores" speaker="UI">Zdobądź: {itemName}</string>
 	<string key="1302_1312_a_Title" speaker="UI">Zarodniki, które leczą</string>
@@ -397,64 +324,5 @@
 	<string key="1302_1312_c_Proposal_next" speaker="Magistrate Allen - Weaver's Fen" name="MagistrateAllen" VO="Magistrate_1302_1312_Spores_CompleteNext" VO_Status="Recorded" dialogue-prompt="@1302_1312_c_Proposal_prompt">Tylko dlatego, że można na tobie polegać. W Erydanie żyje potężny spriggan – Teceros – kolos z ożywionej ziemi. \n\nPo odpowiednim zmieszaniu z naszymi pradawnymi ziołami jego zarodniki powinny wyleczyć mieszkańców Tkackich Mokradeł na dobre.</string>
 	<string key="1302_1312_e_Incomplete" speaker="Magistrate Allen - Weaver's Fen">Alchemiczka Rubis zapewniła mnie, że zarodniki Tecerosa to ostatnie lekarstwo, którego potrzebujemy. \n\nTyle już ci zawdzięczamy, ale to naprawdę uratuje naszą wioskę.</string>
 	<string key="1302_1312_f_Complete" speaker="Magistrate Allen - Weaver's Fen" name="MagistrateAllen" VO="Magistrate_1302_1312_Spores_AvailResponse" VO_Status="Recorded">Zarodniki kolosa? To bardzo… niepokojące. Tak czy inaczej, przekażę je alchemiczce Rubis.\n\nDziękuję, {playerName}. Mamy w końcu swoje lekarstwo, tobie zaś należy się nagroda.</string>
-	<string key="1310_1314_L40Bow_Huntress_Title" speaker="UI - Quest Title">Tropem Łowczyni</string>
-	<string key="1310_1314_L40Bow_Huntress_Description" speaker="UI – Quest Description">Zdobądź pradawne drewno w Raflezji, żywicę cieniodrzewa w Zielonym Podejściu, pióro jastrzębia w Propusie oraz szczęśliwą króliczą łapkę w Wyjącej Jamie, by wytworzyć łuk zwany Łowczynią. Następnie wróć do oberżysty Floresa z osady na Tkackich Mokradłach.</string>
-	<string key="1310_1314_L40Bow_Huntress_Prompt" speaker="UI - Player Prompt">"Zaciekawiło mnie to".</string>
-	<string key="1310_1314_L40Bow_Huntress_Proposal" speaker="Barkeep Flores - Weaver's Fen" name="BarkeepFlores" VO="Barkeep_1310_1314_L40Bow_Huntress_ProposalResponse" VO_Status="Recorded">Naprawdę? Musisz załatwić wszystko na własną rękę.\n\nJeśli uda ci się zdobyć wszystkie materiały z tej listy, to myślę, że tego łuku – Łowczyni – będzie ci zazdrościło całe miasteczko. Powodzenia!</string>
-	<string key="1310_1314_L40Bow_Huntress_Incomplete" speaker="Barkeep Flores - Weaver's Fen">Nadal próbujesz wytropić Łowczynię, co?\n\nMyślę, że zajmie ci to trochę czasu.</string>
-	<string key="1310_1314_L40Bow_Huntress_Complete" speaker="Barkeep Flores - Weaver's Fen" name="BarkeepFlores" VO="Barkeep_1310_1314_L40Bow_Huntress_AvailResponse" VO_Status="Recorded">No proszę – wracasz z buszu jako legendarny tropiciel, przynajmniej w moich oczach. Znalezienie wszystkich materiałów nie mogło być łatwe. \n\nAle Łowczyni będzie ci dobrze służyła. Pilnuj, by twój kołczan zawsze był pełny.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Title" speaker="UI - Quest Title">Gniew Falmei</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Description" speaker="UI – Quest Description">Zdobądź przypalone gałązki w Amphusie, popiół z cieniodrzewa w Piecu, przeklętą wodę w Gniewie Neptuna oraz serce wszechognia w Nowym Balefire, by wytworzyć ognistą laskę zwaną Gniewem Falmei. Następnie wróć do rzemieślnika Erasmusa z osady na Tkackich Mokradłach.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Prompt" speaker="UI - Player Prompt">"Naturalnie".</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Proposal" speaker="Artificer Erasmus - Weaver's Fen" name="ArtificerErasmus" VO="Artificer_1305_1315_L40FStaff_FalmeasWrath_ProposalResponse" VO_Status="Recorded">Doskonale! Pracuję od pewnego czasu nad pewnym schematem. Nazywam go "Gniew Falmei".\n\nJeśli uda ci się zdobyć wszystkie potrzebne materiały, ta laska uczyni z ciebie prawdziwego władcę ognia. Powodzenia.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Incomplete" speaker="Artificer Erasmus - Weaver's Fen">Nadal szukasz materiałów, żeby wytworzyć Gniew Falmei?\n\nNie poddawaj się – to dobra inwestycja.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Complete" speaker="Artificer Erasmus - Weaver's Fen" name="ArtificerErasmus" VO="Artificer_1305_1315_L40FStaff_FalmeasWrath_AvailResponse" VO_Status="Recorded">Popatrz tylko! Twoja praca popłaciła, choć trzeba się pewnie było nachodzić po całym Aeternum!\n\nAle to wszystko zacznie się teraz zwracać! Gniew Falmei! Nikt nie wytworzył jeszcze lepszej laski! Noś ją z dumą, {playerName}.</string>
-	<string key="1310_1314_AncientWood_Quest_objective_title" speaker="UI">Zbierz przedmioty służące do wytworzenia Łowczyni</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_objective_title" speaker="UI">Zbierz przedmioty służące do wytworzenia Łowczyni</string>
-	<string key="1310_1314_HawkFeathers_Quest_objective_title" speaker="UI">Zbierz przedmioty służące do wytworzenia Łowczyni</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_objective_title" speaker="UI">Zbierz przedmioty, po czym wytwórz Łowczynię</string>
-	<string key="1310_1314_AncientWood_Quest_description" speaker="UI">Kryje się pośród drzew. Między sekwojami czuje się jak w domu.</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_description" speaker="UI">Aromat drzewnej żywicy wypełnia powietrze. Jeśli podróżujesz samotnie i poczujesz ten zapach, miej się na baczności.</string>
-	<string key="1310_1314_HawkFeathers_Quest_description" speaker="UI">Jej jastrzębi wzrok sięga bardzo daleko. Widzi wszystko wyraźnie.</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_description" speaker="UI">Spada na swoją ofiarę i powoli wraca na swoje miejsce. Czuje się wolna niczym strzała.</string>
-	<string key="1305_1315_SingedBranches_Quest_objective_title" speaker="UI">Zbierz przedmioty służące do wytworzenia Gniewu Falmei</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_objective_title" speaker="UI">Zbierz przedmioty służące do wytworzenia Gniewu Falmei</string>
-	<string key="1305_1315_UnhallowedWater_Quest_objective_title" speaker="UI">Zbierz przedmioty służące do wytworzenia Gniewu Falmei</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_objective_title" speaker="UI">Zbierz przedmioty, po czym wytwórz Gniew Falmei</string>
-	<string key="1305_1315_SingedBranches_Quest_description" speaker="UI">Falmea spaliła cieniodrzewo, by wzniosło się w powietrze i napełniło je wielkim smutkiem.</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_description" speaker="UI">Falmea pozwoliła, by popioły cieniodrzewa opadły. Czysta biel pokrywająca ziemię, pokonana.</string>
-	<string key="1305_1315_UnhallowedWater_Quest_description" speaker="UI">Falmea wyjęła swoją przeklętą wodę i spryskała nią popioły.</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_description" speaker="UI">Falmea wypowiedziała niewypowiadalne słowa, by z huraganu ognia wyjąć laskę.</string>
-	<string key="1310_1314_Combine_Quest_task_03">Przekazano schemat.</string>
-	<string key="1310_1314_Combine_Quest_task_04">Idź do stanowiska inżynierskiego</string>
-	<string key="1310_1314_Combine_Quest_task_05">Stwórz: {itemName}</string>
-	<string key="1305_1315_Combine_Quest_task_03">Przekazano schemat.</string>
-	<string key="1305_1315_Combine_Quest_task_04">Idź do stanowiska arkanistycznego</string>
-	<string key="1305_1315_Combine_Quest_task_05">Stwórz: {itemName}</string>
-	<string key="1310_1314_AncientWood_Quest_task_01">Udaj się do: {POITags} w Rajskim Gaju, by zdobyć pradawne drewno</string>
-	<string key="1310_1314_AncientWood_Quest_task_02">Zdobądź: {itemName} od wrogów: {targetName}</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_task_01">Udaj się do: {POITags} na Niespokojnych Brzegach, by zdobyć żywicę cieniodrzewa</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_task_02">Zdobądź: {itemName} od wrogów: {targetName}</string>
-	<string key="1310_1314_HawkFeathers_Quest_task_01">Udaj się do: {POITags} w Żałobnicy, by zdobyć pióro jastrzębia</string>
-	<string key="1310_1314_HawkFeathers_Quest_task_02">Zdobądź: {itemName} od wrogów: {targetName}</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_task_01">Udaj się do: {POITags} w Żałobnicy, by zdobyć szczęśliwą króliczą łapkę</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_task_02">Zdobądź: {itemName} od: {targetName}</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_task_04">Stwórz: {itemName}</string>
-	<string key="1305_1315_SingedBranches_Quest_task_01">Udaj się do: {POITags} w Rajskim Gaju, by zdobyć przypalone gałązki</string>
-	<string key="1305_1315_SingedBranches_Quest_task_02">Zdobądź: {itemName} od wrogów: {targetName}</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_task_01">Udaj się do: {POITags} na Niespokojnych Brzegach, by zdobyć popiół z cieniodrzewa</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_task_02">Zdobądź: {itemName} od wrogów: {targetName}</string>
-	<string key="1305_1315_UnhallowedWater_Quest_task_01">Udaj się do: {POITags} na Niespokojnych Brzegach, by zdobyć przeklętą wodę</string>
-	<string key="1305_1315_UnhallowedWater_Quest_task_02">Zdobądź: {itemName} od wrogów: {targetName}</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_task_01">Udaj się do: {POITags} w Żałobnicy, by zdobyć serce wszechognia</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_task_02">Zdobądź: {itemName} od: {targetName}</string>
-	<string key="1310_1314_01_container_Weapon_Huntress_questComplete_1">Ukończ zadanie: Jak drewno w lesie</string>
-	<string key="1310_1314_02_container_Weapon_Huntress_questComplete_2">Ukończ zadanie: Dobra żywica, świetny pomysł</string>
-	<string key="1310_1314_03_container_Weapon_Huntress_questComplete_3">Ukończ zadanie: Pióra jastrzębia</string>
-	<string key="1310_1314_04_container_Weapon_Huntress_questComplete_4">Ukończ zadanie: W pogoni za niemrawym królikiem</string>
-	<string key="1305_1315_01_container_Weapon_Hope_FalmeasWrath_questComplete_1">Ukończ zadanie: Konsekwencje, które palą</string>
-	<string key="1305_1315_02_container_Weapon_Hope_FalmeasWrath_questComplete_2">Ukończ zadanie: Tylko żarzący się popiół</string>
-	<string key="1305_1315_03_container_Weapon_Hope_FalmeasWrath_questComplete_3">Ukończ zadanie: Zbrukanie wód</string>
-	<string key="1305_1315_04_container_Weapon_Hope_FalmeasWrath_questComplete_4">Ukończ zadanie: Ofiarny kielich</string>
 </resources>
 

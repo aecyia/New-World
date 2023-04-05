@@ -1,7 +1,7 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="ui_milestone_rewards">Ricompense avanzamento</string>
-	<string key="ui_milestone_currently">Al momento</string>
-	<string key="ui_milestone_current_level">Livello &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{level}&lt;/font&gt;</string>
+	<string key="ui_milestone_currently">Livello attuale</string>
+	<string key="ui_milestone_current_level">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{level}&lt;/font&gt;</string>
 	<string key="WeaponSlot2_Name">Secondo slot arma</string>
 	<string key="WeaponSlot2_Tooltip">Sblocca il secondo slot arma.</string>
 	<string key="QuickSlot3_Name">Terzo slot consumabili</string>
@@ -64,5 +64,11 @@
 	<string key="TerritoryRecommendation_6">Frutteto dell'Eden, Scaglia d'ebano</string>
 	<string key="TerritoryRecommendation_7">Acquafetida, Monte infranto, Deserti di zolfo</string>
 	<string key="ui_new_recommended_territory">Nuovo territorio consigliato</string>
+	<string key="LoadoutSlots_Name" rel_version="Feature_Gear_Set_Storage">Due slot configurazione</string>
+	<string key="LoadoutSlots_Tooltip" rel_version="Feature_Gear_Set_Storage">Sblocca due slot configurazione.</string>
+	<string key="SeasonsRewards_Name" rel_version="Feature_Seasons_Rewards">Percorso ricompense stagionali</string>
+	<string key="SeasonsRewards_Tooltip" rel_version="Feature_Seasons_Rewards">Sblocca il percorso ricompense stagionali.</string>
+	<string key="SeasonsJourney_Name" rel_version="Feature_Seasons_Rewards">Viaggio stagionale</string>
+	<string key="SeasonsJourney_Tooltip" rel_version="Feature_Seasons_Rewards">Sblocca il viaggio stagionale.</string>
 </resources>
 

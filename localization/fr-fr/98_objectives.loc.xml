@@ -116,6 +116,10 @@
 	<string key="FactionRecruitment_Covenant_Completed" gender="F" rel_version="Quest_MSQ2_Revamp">N/A</string>
 	<string key="FactionRecruitment_Covenant_Container" speaker="UI" rel_version="Quest_MSQ2_Revamp">Prêter allégeance aux Engagés</string>
 	<string key="FactionRecruitment_Covenant_JoinFaction" speaker="UI" rel_version="Quest_MSQ2_Revamp">Parler à la représentante Beyza à l'enclave des Engagés et rejoindre les Engagés si le cœur vous en dit</string>
+	<string key="FactionRecruitment_Covenant_Decline" speaker="UI" rel_version="Quest_MSQ2_Revamp">(Optionnel) Décliner leur offre, pour l'instant</string>
+	<string key="Covenant_DeclineRecruitment_Prompt" speaker="UI" rel_version="Quest_MSQ2_Revamp">« Merci, mais je n'ai pas encore pris ma décision. »</string>
+	<string key="Covenant_DeclineRecruitment_Response" speaker="Lumen Beyza" name="LumenBeyza" gender="F" VO_Status="Not Recorded" rel_version="Quest_MSQ2_Revamp">Je comprends. C'est une décision importante à prendre. Si vous désirez rejoindre nos rangs plus tard, revenez simplement me parler.\n\nJe sais que Florina adorerait aussi avoir de vos nouvelles.\n\n(Vous pouvez revenir parler à cette représentante si vous désirez rejoindre cette faction. Si vous avez déjà rejoint une faction, vous pouvez également en changer pour rejoindre cette faction depuis le menu Biographie.)</string>
+	<string rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
 	<string rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
 	<string key="9809_CovenantGuard_Default" gender="Both" VO="9809_CovenantGuard_Default" rel_version="Quest_MSQ2_Revamp">Ne fléchissez pas.</string>
 	<string key="9810_Alejandro_Default" speaker="Alejandro" name="Alejandro" gender="M" VO="9810_Alejandro_Default" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Non. Quelque chose ne va pas. \n\nPourquoi ne puis-je me souvenir de son visage ?</string>
@@ -136,7 +140,7 @@
 	<string VO="9807_Aventus_01_02" rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
 	<string key="9805_Tibbs_00_Default" speaker="Lieutenant Tibbs" name="LieutenantTibbs" gender="M" VO="9805_Tibbs_00_Default" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Hé ! Vous n'êtes pas un peu jeune pour être ici ? \n\nNe vous énervez pas, ce n'était qu'un trait d'humour façon Aeternum ! \n\nEt pas d'inquiétude, je sais me montrer discret !</string>
 	<string key="9805_Tibbs_00_01" speaker="Lieutenant Tibbs" name="LieutenantTibbs" gender="M" VO="9805_Tibbs_00_01" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Venez donc, camarade ! Vous ressemblez à ces Maraudeurs. Vous aimez les aventures ? Et la bagarre de temps en temps ? Les armes et les trésors ? \n\nEt si ce bon vieux Tibbs vous donnait un conseil ? J'ai quelque chose de parfait pour les nouveaux venus.</string>
-	<string key="FactionIntro_Marauders_01_Title" speaker="UI - Journal - Quest Title" rel_version="Quest_MSQ2_Revamp"> Le début d'un long chemin</string>
+	<string key="FactionIntro_Marauders_01_Title" speaker="UI - Journal - Quest Title" rel_version="Quest_MSQ2_Revamp">Le début d'un long chemin</string>
 	<string key="FactionIntro_Marauders_01_Description" speaker="UI - Journal - Quest Description" rel_version="Quest_MSQ2_Revamp">Quête d'initiation des Maraudeurs : Le lieutenant Tibbs voudrait que vous récupériez des oreilles de dévoyés et une chevalière de l'ordre des chevaliers dans les champs de Lugdunum pour une espèce de sortilège, puis que vous le rejoigniez à l'escalier en ruines au nord de la ferme.</string>
 	<string key="FactionIntro_Marauders_01_StartPrompt" speaker="UI - Player Prompt" rel_version="Quest_MSQ2_Revamp">« Très bien, je vous écoute. »</string>
 	<string key="FactionIntro_Marauders_01_Proposal" speaker="Lieutenant Tibbs" name="LieutenantTibbs" gender="M" VO="FactionIntro_Marauders_01_Proposal" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">À la bonne heure ! Au nord-ouest se trouve une forteresse remplie de merveilles. Il me faut deux ou trois choses pour y entrer. C'est une histoire de magie. Des oreilles de dévoyés sans âme, et l'anneau d'un chevalier. \n\nRécupérez-moi ça dans les champs de Lugdunum et je vous y retrouve.</string>
@@ -223,6 +227,9 @@
 	<string key="FactionRecruitment_Marauders_Completed" gender="M" rel_version="Quest_MSQ2_Revamp">N/A</string>
 	<string key="FactionRecruitment_Marauders_Container" speaker="UI" rel_version="Quest_MSQ2_Revamp">Prêter allégeance aux Maraudeurs</string>
 	<string key="FactionRecruitment_Marauders_JoinFaction" speaker="UI" rel_version="Quest_MSQ2_Revamp">Parler au représentant Smiggs à l'enclave des Maraudeurs et rejoindre les Maraudeurs si le cœur vous en dit</string>
+	<string key="FactionRecruitment_Marauders_Decline" rel_version="Quest_MSQ2_Revamp">(Optionnel) Décliner leur offre, pour l'instant</string>
+	<string key="Marauders_DeclineRecruitment_Prompt" speaker="UI" rel_version="Quest_MSQ2_Revamp">« Merci, mais je n'ai pas encore pris ma décision. »</string>
+	<string key="Marauders_DeclineRecruitment_Response" speaker="Representative Smiggs" name="RepresentativeSmiggs" gender="M" VO_Status="Not Recorded" rel_version="Quest_MSQ2_Revamp">Je comprends. C'est une décision importante à prendre. Si vous désirez rejoindre nos rangs plus tard, revenez me parler.\n\nNous sommes toujours ravis de voir de vieilles connaissances.\n\n(Vous pouvez revenir parler à ce représentant si vous désirez rejoindre cette faction. Si vous avez déjà rejoint une faction, vous pouvez également en changer pour rejoindre cette faction depuis le menu Biographie.)</string>
 	<string rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
 	<string key="9815_MarauderGuard_Default" gender="Both" rel_version="Quest_MSQ2_Revamp">Partez avec honneur.</string>
 	<string key="9816_Pavel_Default" speaker="Pavel" name="Pavel" gender="M" VO="9816_Pavel_Default" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Dégagez ! Cette nourriture est réservée aux Maraudeurs. \n\nSi vous voulez manger, vous devez le mériter.</string>
@@ -259,12 +266,12 @@
 	<string key="FactionIntro_Syndicate_01_Completed" speaker="Aventus Valenti" name="AventusValenti" gender="M" VO="FactionIntro_Syndicate_01_Completed" VO_Status="Recorded" dialogue-next="@FactionIntro_Syndicate_01_Completed_next" rel_version="Quest_MSQ2_Revamp">Après cet incident avec les loups, je dois retourner à mes expériences et essayer de nouvelles choses. Une nouvelle formule ou une nouvelle approche. \n\nFort heureusement, cet endroit a été construit pour la recherche. C'est ce pour quoi je suis fait.</string>
 	<string key="FactionIntro_Syndicate_01_Completed_next_prompt" speaker="UI - Player Prompt" gender="M" rel_version="Quest_MSQ2_Revamp">« Les infrastructures sont impressionnantes. »</string>
 	<string key="FactionIntro_Syndicate_01_Completed_next" speaker="Aventus Valenti" name="AventusValenti" gender="M" VO="FactionIntro_Syndicate_01_Completed_next" VO_Status="Recorded" dialogue-prompt="@FactionIntro_Syndicate_01_Completed_next_prompt" rel_version="Quest_MSQ2_Revamp">Vous aimez ? Si vous rejoignez l'Ombre, vous pourrez les utiliser. \n\nSi cela vous intéresse, je mettrai votre corps et votre esprit à l'épreuve.</string>
-	<string key="FactionIntro_Syndicate_01_Container" speaker="UI" rel_version="Quest_MSQ2_Revamp">Éliminer les loups pour Aventus, puis le retrouver à l'Enclave</string>
+	<string key="FactionIntro_Syndicate_01_Container" speaker="UI" rel_version="Quest_MSQ2_Revamp">Abattre les loups pour Aventus, puis le retrouver à l'Enclave</string>
 	<string key="FactionIntro_Syndicate_01_Container1" speaker="UI" rel_version="Quest_MSQ2_Revamp">Se préparer à combattre et placer le leurre dans la Tanière de minuit</string>
 	<string key="FactionIntro_Syndicate_01_Container2" speaker="UI" rel_version="Quest_MSQ2_Revamp">Aller au nord-est jusqu'à l'enclave</string>
 	<string key="FactionIntro_Syndicate_01_EncounterTitle" speaker="UI" rel_version="Quest_MSQ2_Revamp">Fusions flottantes, folies frappantes</string>
 	<string key="FactionIntro_Syndicate_01_PlaceLure" speaker="UI" rel_version="Quest_MSQ2_Revamp">Placer le leurre pour attirer la meute</string>
-	<string key="FactionIntro_Syndicate_01_KillWolves" speaker="UI" rel_version="Quest_MSQ2_Revamp">Éliminer le loup alpha et la meute</string>
+	<string key="FactionIntro_Syndicate_01_KillWolves" speaker="UI" rel_version="Quest_MSQ2_Revamp">Vaincre le loup alpha et la meute</string>
 	<string key="FactionIntro_Syndicate_01_FendOff" speaker="UI" rel_version="Quest_MSQ2_Revamp">Repousser les loups</string>
 	<string key="FactionIntro_Syndicate_01_GoToEnclave" speaker="UI" rel_version="Quest_MSQ2_Revamp">Rechercher le sanctuaire de l'Ombre au nord-est de Haute-Chute</string>
 	<string key="FactionIntro_Syndicate_01_CutsceneTitle" speaker="UI" rel_version="Quest_MSQ2_Revamp">Enclave de l'Ombre</string>
@@ -332,6 +339,9 @@
 	<string key="FactionRecruitment_Syndicate_Completed" speaker="Representative Astrid" name="RepresentativeAstrid" gender="F" VO="FactionRecruitment_Syndicate_Completed" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">N/A</string>
 	<string key="FactionRecruitment_Syndicate_Container" speaker="UI" rel_version="Quest_MSQ2_Revamp">Prêter allégeance à l'Ombre</string>
 	<string key="FactionRecruitment_Syndicate_JoinFaction" speaker="UI" rel_version="Quest_MSQ2_Revamp">Parler à la représentante Astrid à l'enclave de l'Ombre et rejoindre l'Ombre si le cœur vous en dit</string>
+	<string key="FactionRecruitment_Syndicate_Decline" rel_version="Quest_MSQ2_Revamp">(Optionnel) Décliner leur offre, pour l'instant</string>
+	<string key="Syndicate_DeclineRecruitment_Prompt" speaker="UI" rel_version="Quest_MSQ2_Revamp">« Merci, mais je n'ai pas encore pris ma décision. »</string>
+	<string key="Syndicate_DeclineRecruitment_Response" speaker="Representative Astrid" name="RepresentativeAstrid" gender="F" VO_Status="Not Recorded" rel_version="Quest_MSQ2_Revamp">Je comprends. C'est une décision importante à prendre. Si vous désirez rejoindre nos rangs plus tard, revenez me voir dans mon bureau et je pourrais traiter votre demande.\n\nDes nouvelles de vos aventures seraient enrichissantes.\n\n(Vous pouvez revenir parler à cette représentante si vous désirez rejoindre cette faction. Si vous avez déjà rejoint une faction, vous pouvez également en changer pour rejoindre cette faction depuis le menu Biographie.)</string>
 	<string rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
 	<string key="9821_SyndicateGuard_Default" gender="Both" rel_version="Quest_MSQ2_Revamp">Faites preuve de prudence.</string>
 	<string key="9822_Abayomi_Default" speaker="Abayomi" name="Abayomi" gender="M" VO="9822_Abayomi_Default" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Vous avez cet air. Vous parle-t-elle, à vous aussi ? \n\nJ'entends les murmures d'Aeternum. Tous ne sont pas bénis comme nous.</string>

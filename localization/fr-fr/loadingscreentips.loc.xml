@@ -220,7 +220,7 @@
 	<string key="tip_overworld_fishing_mechanics05-title">Pêche</string>
 	<string key="tip_overworld_fishing_mechanics05-content">Appuyez sur [{hint1}] pour commencer à pêcher, puis faites un clic gauche pour lancer votre ligne.</string>
 	<string key="tip_overworld_fishing_poles01-title">Pêche</string>
-	<string key="tip_overworld_fishing_poles01-content">Les cannes à pêche de qualité ont une portée et une résistance accrues, permettent de tendre la ligne plus rapidement et augmentent vos chances d'attraper des poissons rares.</string>
+	<string key="tip_overworld_fishing_poles01-content">Les cannes à pêche de qualité ont une portée et une durabilité accrues, permettent de tendre la ligne plus rapidement et augmentent vos chances d'attraper des poissons rares.</string>
 	<string key="tip_overworld_fishing_poles02-title">Pêche</string>
 	<string key="tip_overworld_fishing_poles02-content">Placez une canne à pêche dans l'emplacement de l'inventaire réservé aux outils pour vous en équiper.</string>
 	<string key="tip_overworld_fishing_fishItems01-title">Pêche</string>
@@ -268,7 +268,7 @@
 	<string key="tip_overworld_housing_ownership02-title">Logement</string>
 	<string key="tip_overworld_housing_ownership02-content">Vous pouvez acheter jusqu'à 3 maisons en Aeternum en fonction de votre niveau et des conditions territoriales et financières.</string>
 	<string key="tip_overworld_housing_ownership03-title">Logement</string>
-	<string key="tip_overworld_housing_ownership03-content">Vous pouvez bénéficier d'une réduction de 50 % sur votre première maison.</string>
+	<string key="tip_overworld_housing_ownership03-content">Vous pouvez bénéficier d'une réduction sur votre première maison.</string>
 	<string key="tip_overworld_housing_ownership04-title">Logement</string>
 	<string key="tip_overworld_housing_ownership04-content">Toutes les maisons ne se valent pas. Certaines sont plus spacieuses que d'autres et leur palier est ainsi plus élevé. Pour les acquérir, il vous faudra plus d'or et une réputation solide au sein du territoire.</string>
 	<string key="tip_overworld_housing_ownership05-title">Logement</string>
@@ -544,7 +544,7 @@
 	<string key="tip_dungeon_general_respawn01-title">Besoin d'un petit remontant ?</string>
 	<string key="tip_dungeon_general_respawn01-content">On ne peut être ranimé qu'un certain nombre de fois en expédition avant de devoir réapparaître. Faites attention !</string>
 	<string key="tip_dungeon_general_repair01-title">Nécessaires de réparation</string>
-	<string key="tip_dungeon_general_repair01-content">Les nécessaires de réparation sont un moyen efficace de réparer complètement un objet, quel que soit son état de dégradation. Un nécessaire de réparation est consommé à chaque utilisation. Assurez-vous donc d'attendre que la résistance de l'objet soit faible ou nulle avant d'en employer un, afin de maximiser son efficacité.</string>
+	<string key="tip_dungeon_general_repair01-content">Les nécessaires de réparation sont un moyen efficace de réparer complètement un objet, quel que soit son état de dégradation. Un nécessaire de réparation est consommé à chaque utilisation. Assurez-vous donc d'attendre que la durabilité de l'objet soit faible ou nulle avant d'en employer un, afin de maximiser son efficacité.</string>
 	<string key="tip_dungeon_amrineExcavation_mechanics01-title">Site de fouilles Amrine</string>
 	<string key="tip_dungeon_amrineExcavation_mechanics01-content">[Placeholder]</string>
 	<string key="tip_dungeon_amrineExcavation_bossTip01-title">Vous allez rester ici avec MOI !</string>

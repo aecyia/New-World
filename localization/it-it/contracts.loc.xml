@@ -9,16 +9,16 @@
 	<string key="ui_acceptsrarity">Accetta questa rarità</string>
 	<string key="ui_acceptscraftsmanship">Accetta questa manifattura</string>
 	<string key="ui_howmany">QUANTITÀ</string>
-	<string key="ui_postorderfor">Pubblica questo ordine per:</string>
-	<string key="ui_unitprice">Prezzo unità:</string>
+	<string key="ui_postorderfor">Durata elenco</string>
+	<string key="ui_unitprice">Prezzo unità</string>
 	<string key="ui_plusfee">( {total} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; + {fee} di commissione )</string>
 	<string key="ui_buyOrderFee">( {total} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; + {fee} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; di commissione )</string>
 	<string key="ui_minusfee">( {total} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; - {fee} di commissione )</string>
 	<string key="ui_listingfee">Commissione di listino</string>
 	<string key="ui_total">Totale</string>
 	<string key="ui_balance">Nuovo saldo</string>
-	<string key="ui_quantity">Quantità:</string>
-	<string key="ui_placeorder">Inserisci ordine</string>
+	<string key="ui_quantity">Quantità</string>
+	<string key="ui_placeorder">Conferma</string>
 	<string key="ui_browse">Passa in rassegna</string>
 	<string key="ui_browseitem">&lt;img src="lyshineui/images/icons/contracts/contracts_iconBrowse" xPadding="0" scale="1.5" yOffset="5.2"&gt;&lt;/img&gt; Passa in rassegna oggetti</string>
 	<string key="ui_sellmyitem">&lt;img src="lyshineui/images/icons/contracts/contracts_iconSell" xPadding="0" scale="1.5" yOffset="5.2"&gt;&lt;/img&gt; Vendi i miei oggetti</string>
@@ -31,7 +31,7 @@
 	<string key="ui_gem_selection_button_specific">Gemma: {name}</string>
 	<string key="ui_perk_selection_button_none">Vantaggi: nessuno</string>
 	<string key="ui_perk_selection_button_some">Vantaggi: {number} selezionati</string>
-	<string key="ui_perk_selection_apply_filters">Applica filtri</string>
+	<string key="ui_perk_selection_apply_filters">Applica</string>
 	<string key="ui_perk_selection_clear_filters">Rimuovi tutto</string>
 	<string key="ui_perk_selection_reset">Ripristina</string>
 	<string key="ui_perk_selection_selected">Selezionati:</string>
@@ -42,25 +42,25 @@
 	<string key="ui_perk_selection_dropdown_only_selected_perks">Solo vantaggi selezionati</string>
 	<string key="ui_perk_selection_search_perks">Cerca vantaggi</string>
 	<string key="ui_perk_filter_popup_title">Filtri</string>
-	<string key="ui_perk_filter_popup_price">Prezzo</string>
-	<string key="ui_perk_filter_popup_price_min">Prezzo minimo</string>
-	<string key="ui_perk_filter_popup_price_max">Prezzo massimo</string>
+	<string key="ui_perk_filter_popup_price">Fascia di prezzo</string>
+	<string key="ui_perk_filter_popup_price_min">Minimo</string>
+	<string key="ui_perk_filter_popup_price_max">Massimo</string>
 	<string key="ui_perk_filter_popup_price_range">Prezzo: {minValue} - {maxValue}</string>
-	<string key="ui_perk_filter_popup_gearscore">Punteggio attrezzatura</string>
-	<string key="ui_perk_filter_popup_gearscore_min">Punteggio attrezzatura minimo</string>
-	<string key="ui_perk_filter_popup_gearscore_max">Punteggio attrezzatura massimo</string>
+	<string key="ui_perk_filter_popup_gearscore">Fascia punteggio attrezzatura</string>
+	<string key="ui_perk_filter_popup_gearscore_min">Minimo</string>
+	<string key="ui_perk_filter_popup_gearscore_max">Massimo</string>
 	<string key="ui_perk_filter_popup_gearscore_range">Punteggio attrezzatura: {minValue} - {maxValue}</string>
 	<string key="ui_perk_filter_popup_range_max">Massimo</string>
 	<string key="ui_perk_filter_popup_attributes">Attributi</string>
 	<string key="ui_perk_filter_popup_attributes_single_only">Solo attributo singolo</string>
 	<string key="ui_perk_filter_popup_attributes_disabled">Non puoi selezionare più di {maxValue} attributi. Deseleziona un attributo per selezionarne un altro.</string>
 	<string key="ui_perk_filter_popup_perk">Vantaggio</string>
-	<string key="ui_perk_filter_popup_perk_none_selected">Nessun vantaggio selezionato</string>
-	<string key="ui_perk_filter_popup_perk_count">({quantity}/{maxCount}) Vantaggi selezionati</string>
-	<string key="ui_perk_filter_popup_add_perks">Aggiungi vantaggi</string>
+	<string key="ui_perk_filter_popup_perk_none_selected">Nessuna selezione</string>
+	<string key="ui_perk_filter_popup_perk_count">Vantaggi selezionati ({quantity}/{maxCount})</string>
+	<string key="ui_perk_filter_popup_add_perks">Aggiungi vantaggio</string>
 	<string key="ui_perk_filter_popup_gem">Gemma</string>
-	<string key="ui_perk_filter_popup_gem_none_selected">Nessuna gemma selezionata</string>
-	<string key="ui_perk_filter_popup_gem_count">({quantity}/{maxCount}) Gemme selezionate</string>
+	<string key="ui_perk_filter_popup_gem_none_selected">Nessuna selezione</string>
+	<string key="ui_perk_filter_popup_gem_count">Gemme selezionate ({quantity}/{maxCount})</string>
 	<string key="ui_perk_filter_popup_add_gem">Aggiungi gemma</string>
 	<string key="ui_perk_filter_popup_single_attribute_only">Solo attributo singolo</string>
 	<string key="ui_perk_filter_popup_single_attribute_only_tooltip">Se selezioni questa opzione verranno mostrati solo gli elementi con 1 attributo.</string>
@@ -89,9 +89,9 @@
 	<string key="ui_howManySelling">QUANTITÀ</string>
 	<string key="ui_accepts_rarities">Accetta queste rarità</string>
 	<string key="ui_accepts_craftmanships">Accetta queste manifatture</string>
-	<string key="ui_inventoryandoutpoststorage">I miei oggetti vendibili</string>
+	<string key="ui_inventoryandoutpoststorage">I miei oggetti</string>
 	<string key="ui_selltab_searchItem">Cerca oggetti nell'inventario e nel deposito dell'avamposto</string>
-	<string key="ui_selltab_cantSellDamagedItems">Puoi vendere solo oggetti che abbiano ancora &lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;la robustezza massima&lt;/font&gt;&lt;/font&gt; e non siano vincolati a te.</string>
+	<string key="ui_selltab_cantSellDamagedItems">Puoi vendere solo oggetti che non siano vincolati a te e che abbiano robustezza massima.</string>
 	<string key="ui_selltab_hiddenDamagedItemSingular">&lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;1 oggetto&lt;/font&gt;&lt;/font&gt; è stato nascosto.</string>
 	<string key="ui_selltab_hiddenDamagedItems">&lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{number} oggetti&lt;/font&gt;&lt;/font&gt; sono stati nascosti.</string>
 	<string key="ui_selltab_dyed_item_warning_title">Scambia oggetto tinto</string>
@@ -101,7 +101,7 @@
 	<string key="ui_item_name_with_tier">&lt;font face="lyshineui/fonts/Pica_Italic.font" color="#f2e8ae"&gt;{tierString} &lt;/font&gt; {itemName}</string>
 	<string key="ui_currentoutpost">EMPORIO ATTUALE:</string>
 	<string key="ui_confirmedKills">Per vendere le uccisioni confermate, gli oggetti devono trovarsi nell'inventario.</string>
-	<string key="ui_outpostshowing">Visualizzazione ordini presso</string>
+	<string key="ui_outpostshowing">Ordini da</string>
 	<string key="ui_outpostselectorlabelnone">Nessuno</string>
 	<string key="ui_outpostselectorlabelmore">{outpostName} ... +{numOtherOutposts}</string>
 	<string key="ui_selectallouposts">Tutti gli insediamenti</string>
@@ -118,16 +118,16 @@
 	<string key="ui_postordererror_noQuantity">Devi impostare la quantità per inserire un ordine!</string>
 	<string key="ui_postordererror_noUnitPrice">Devi impostare il prezzo per unità per inserire un ordine!</string>
 	<string key="ui_postordererror_noRarity">Scegli almeno un livello di rarità per inserire un ordine.</string>
-	<string key="ui_no_existing_sell_contracts">Non sono presenti ordini di vendita.</string>
-	<string key="ui_no_existing_buy_contracts">Non sono presenti ordini d'acquisto.</string>
+	<string key="ui_no_existing_sell_contracts">Nessun ordine di vendita.</string>
+	<string key="ui_no_existing_buy_contracts">Nessun ordine d'acquisto</string>
 	<string key="ui_instant_buy_failed">Impossibile acquistare istantaneamente.</string>
 	<string key="ui_instant_sell_failed">Impossibile vendere istantaneamente.</string>
 	<string key="ui_instant_no_more_items">Oggetti da vendere terminati.</string>
 	<string key="ui_my_orders">&lt;img src="lyshineui/images/icons/contracts/contracts_iconMyorders" xPadding="0" scale="1.5" yOffset="5.6"&gt;&lt;/img&gt; I miei ordini</string>
 	<string key="ui_my_orders_notify">&lt;img src="lyshineui/images/encumbrance/iconExclamation" xPadding="0" scale="1" yOffset="3"&gt;&lt;/img&gt; I miei ordini</string>
 	<string key="ui_myorders">I miei ordini</string>
-	<string key="ui_myorders_with_count_max">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{count}&lt;/font&gt;&lt;/font&gt; Ordini d'acquisto e di vendita attivi - {max} totali consentiti</string>
-	<string key="ui_active_orders">Ordini attivi</string>
+	<string key="ui_myorders_with_count_max">Ordini d'acquisto e di vendita attivi ({count}/{max})</string>
+	<string key="ui_active_orders">Attivo</string>
 	<string key="ui_ended_orders">Completati e scaduti</string>
 	<string key="ui_select_to_sell">Seleziona l'oggetto da vendere</string>
 	<string key="ui_order_detail">Dettagli dell'ordine</string>
@@ -148,6 +148,7 @@
 	<string key="ui_contract_previous_freeweekend_encourage">Devi giocare almeno 3 ore per acquistare o vendere nell'emporio.</string>
 	<string key="ui_contract_failure_server_error">Errore del server.</string>
 	<string key="ui_contract_failure_creator_cannot_complete">Non puoi completare un ordine creato da te.</string>
+	<string key="ui_contract_failure_cross_world">Non puoi utilizzare l'emporio durante un'istanza tra mondi.</string>
 	<string key="ui_contract_failure_invalid_request">La richiesta d'ordine non era valida.</string>
 	<string key="ui_contract_failure_inventory_full">Inventario pieno.</string>
 	<string key="ui_contract_failure_throttled">Richiesta limitata. Attendi e riprova.</string>
@@ -193,8 +194,8 @@
 	<string key="ui_contract_reason_failed">&lt;font color="#b45353"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Non riuscito&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_contract_reason_cancelled">&lt;font color="#b45353"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Annullato&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_contract_reason_expired">&lt;font color="#b45353"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Scaduto&lt;/font&gt;&lt;/font&gt;</string>
-	<string key="ui_no_existing_ended_contracts">Non sono presenti ordini completati.</string>
-	<string key="ui_no_existing_active_contracts">Non sono presenti ordini attivi.</string>
+	<string key="ui_no_existing_ended_contracts">Nessun ordine completato.</string>
+	<string key="ui_no_existing_active_contracts">Nessun ordine attivo.</string>
 	<string key="ui_quant">Quantità</string>
 	<string key="ui_avail">Disp.</string>
 	<string key="ui_contract_count_none">&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;&lt;font color="#d66d6d"&gt;Nessuno&lt;/font&gt;&lt;/font&gt;</string>
@@ -210,14 +211,14 @@
 	<string key="ui_view_my_outpost_storage">Visualizza il mio deposito dell'avamposto</string>
 	<string key="ui_totalnumbuyandsellorders">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{numOrders}&lt;/font&gt;&lt;/font&gt; Ordini d'acquisto e di vendita disponibili</string>
 	<string key="ui_alloutposts">Tutti gli avamposti</string>
-	<string key="ui_buyFromOrder">Acquista l'oggetto da questo ordine</string>
-	<string key="ui_sellToOrder">Vendi l'oggetto a questo ordine</string>
+	<string key="ui_buyFromOrder">Acquista da questo ordine</string>
+	<string key="ui_sellToOrder">Vendi a questo ordine</string>
 	<string key="ui_noItemAvailable">Nessun oggetto disponibile</string>
 	<string key="ui_noItemAvailable_desc">Non hai un oggetto che soddisfa i requisiti di questo ordine!</string>
 	<string key="ui_orderNotAvailable">Ordine non disponibile</string>
 	<string key="ui_orderNotAvailable_desc">Questo ordine è già stato completato da altri giocatori o è scaduto.</string>
 	<string key="ui_bought">Acquistato</string>
-	<string key="ui_noInventory">Non sono presenti oggetti da vendere.</string>
+	<string key="ui_noInventory">Nessun oggetto vendibile.</string>
 	<string key="ui_sellAll">Vendi tutto</string>
 	<string key="ui_cantsellall">Vendi tutto</string>
 	<string key="ui_buyClaim">Acquista atto di rivendicazione</string>
@@ -225,19 +226,19 @@
 	<string key="ui_buy_icon">&lt;img src="lyshineui/images/icons/contracts/contracts_iconBuy" xPadding="0" scale="1.5" yOffset="5.6"&gt;&lt;/img&gt; ACQUISTA</string>
 	<string key="ui_sell_icon">&lt;img src="lyshineui/images/icons/contracts/contracts_iconSell" xPadding="0" scale="1.5" yOffset="5.6"&gt;&lt;/img&gt; VENDI</string>
 	<string key="ui_invalid_outpost_markup">&lt;font color="#b45353"&gt;{outpostName}&lt;/font&gt;</string>
-	<string key="ui_current_outpost_label">{outpostName} (emporio attuale)</string>
+	<string key="ui_current_outpost_label">{outpostName} (qui)</string>
 	<string key="ui_invalid_price_markup">&lt;font color="#b45353"&gt;{price}&lt;/font&gt;</string>
 	<string key="ui_trading_post_in_progress">L'emporio è in costruzione.</string>
-	<string key="ui_listingunitprice">Prezzo unità di listino</string>
+	<string key="ui_listingunitprice">Prezzo unità</string>
 	<string key="ui_transactionCharge">Commissione di transazione</string>
-	<string key="ui_earningPerUnit">Il tuo guadagno per unità</string>
+	<string key="ui_earningPerUnit">Guadagno per unità</string>
 	<string key="ui_postOrder">Inserisci ordine</string>
-	<string key="ui_postOrderAtLossWarning">Avvertimento: perderai del denaro con questo ordine.\nContinuare?</string>
+	<string key="ui_postOrderAtLossWarning">Avvertimento: con questo ordine perderai denaro.\nVuoi continuare?</string>
 	<string key="ui_category_sellOrders">Ordini di vendita</string>
 	<string key="ui_category_buyOrders">Ordini d'acquisto</string>
 	<string key="ui_min_gear_score">Punteggio attrezzatura minimo</string>
-	<string key="ui_buyorder_add_perk">+ aggiungi vantaggio...</string>
-	<string key="ui_buyorder_add_gem_socket">+ aggiungi alloggiamento per gemma...</string>
+	<string key="ui_buyorder_add_perk">Aggiungi vantaggio</string>
+	<string key="ui_buyorder_add_gem_socket">Aggiungi gemma</string>
 	<string key="ui_buyorder_any_perk">(qualsiasi vantaggio)</string>
 	<string key="ui_buyorder_any_gem">(qualsiasi gemma)</string>
 	<string key="ui_perk_selector_any_perk">Qualsiasi vantaggio</string>
@@ -251,11 +252,11 @@
 	<string key="ui_select_gem">Seleziona gemma</string>
 	<string key="ui_select_perk">Seleziona vantaggi</string>
 	<string key="ui_buyorder_has_these_properties">HA QUESTE PROPRIETÀ</string>
-	<string key="ui_buyorder_tier_label">Livello:</string>
-	<string key="ui_buyorder_gear_score_label">Punteggio attrezzatura:</string>
-	<string key="ui_buyorder_gem_socket_label">Alloggiamento per gemma:</string>
-	<string key="ui_buyorder_rarity_label">Rarità:</string>
-	<string key="ui_buyorder_perk_label">Vantaggio:</string>
+	<string key="ui_buyorder_tier_label">Livello</string>
+	<string key="ui_buyorder_gear_score_label">Punteggio attrezzatura</string>
+	<string key="ui_buyorder_gem_socket_label">Alloggiamento per gemma</string>
+	<string key="ui_buyorder_rarity_label">Rarità</string>
+	<string key="ui_buyorder_perk_label">Vantaggio</string>
 	<string key="ui_exclusive_perk_popup_title">Vantaggio esclusivo selezionato</string>
 	<string key="ui_exclusive_perk_popup_message">Puoi avere solo un vantaggio di questo tipo. Vuoi sostituire il vantaggio che stai usando con quello selezionato dello stesso tipo?</string>
 	<string key="ui_exclusive_perk_popup_message_no_replace">{newPerkName} e {selectedPerkName} sono mutuamente esclusivi e non possono essere selezionati contemporaneamente.</string>
@@ -274,8 +275,24 @@
 	<string key="ui_contract_gearscore_icon">&lt;img src="lyshineui/images/icons/misc/icon_gearscore_tan" xPadding="0" scale="1.8" yOffset="4"&gt;&lt;/img&gt;</string>
 	<string key="ui_contract_time">Tempo</string>
 	<string key="ui_order_tooltip">Ordini disponibili in questa categoria:\n&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{number}&lt;/font&gt;</string>
-	<string key="ui_available_buy_orders">Ordini per acquistare quest'oggetto</string>
+	<string key="ui_available_buy_orders">Ordini d'acquisto attuali</string>
 	<string key="ui_item_attribute">{attributeName} &lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{statValue}&lt;/font&gt;</string>
 	<string key="ui_item_attributes_separator">, </string>
+	<string key="compensations_column_name" rel_version="Feature_Make_Good">Nome</string>
+	<string key="compensations_column_status" rel_version="Feature_Make_Good">Stato</string>
+	<string key="compensations_column_date" rel_version="Feature_Make_Good">Data</string>
+	<string key="compensations_column_message" rel_version="Feature_Make_Good">Messaggio</string>
+	<string key="compensations_notification_message" rel_version="Feature_Make_Good">Messaggio</string>
+	<string key="compensations_notification_title" rel_version="Feature_Make_Good">Indennizzo disponibile</string>
+	<string key="ui_compensations_available_desc_mult" rel_version="Feature_Make_Good">Hai &lt;font color={color}&gt;{number} indennizzi in sospeso&lt;/font&gt; da rivendicare!</string>
+	<string key="ui_compensations_available_desc_one" rel_version="Feature_Make_Good">Hai &lt;font color={color}&gt;1 indennizzo in sospeso&lt;/font&gt; da rivendicare!</string>
+	<string key="ui_claim" rel_version="Feature_Make_Good">Rivendica</string>
+	<string key="ui_claimed" rel_version="Feature_Make_Good">Rivendicato</string>
+	<string key="ui_unclaimed_contract" rel_version="Feature_Make_Good">Non rivendicato</string>
+	<string key="compensations_coin" rel_version="Feature_Make_Good">{number} monete</string>
+	<string key="compensations_delivery_message" rel_version="Feature_Make_Good">Questo oggetto sarà consegnato nel tuo inventario.</string>
+	<string key="compensations_popup_title" rel_version="Feature_Make_Good">Indennizzo</string>
+	<string key="compensations_popup_message" rel_version="Feature_Make_Good">Data di assegnazione: {dateString} \n\n{messageString}\n\nUna volta accettato, questo messaggio scadrà dopo 30 giorni. I messaggi in sospeso scadranno dopo 1 anno.</string>
+	<string key="compensations_cannot_claim" rel_version="Feature_Make_Good">Non puoi rivendicare perché l'inventario o il portafoglio è pieno</string>
 </resources>
 

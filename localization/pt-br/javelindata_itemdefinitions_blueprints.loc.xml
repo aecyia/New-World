@@ -139,5 +139,6 @@
 	<string key="AzureWellT1_Name">Poço de Azoth</string>
 	<string key="Defend_Sapling_Name">Muda</string>
 	<string key="Defend_PowderKeg_Name">Barril de Pólvora</string>
+	<string key="Season_01_Spriggan_Event_Flame_Brazier_MasterName" rel_version="Season_1_Temp">Braseiro de Chamas</string>
 </resources>
 

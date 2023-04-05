@@ -145,7 +145,7 @@
 	<string key="PerkID_MusicalInstrument_RakeReduction_Description" rel_version="Feature_MusicalPerformances">L'interprète recevra désormais la totalité des pourboires.</string>
 	<string key="PerkID_MusicalInstrument_FinalNotePerfectXPBonus_Description" rel_version="Feature_MusicalPerformances">Exécuter la dernière note à la perfection récompense le joueur avec un boost de 10 % d'EXP de musique.</string>
 	<string key="PerkID_MusicalInstrument_GroupXPBonus_Description" rel_version="Feature_MusicalPerformances">Jouer dans un groupe récompense le joueur avec un boost de 10 % d'EXP de musique.</string>
-	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Jouer en solo récompense le joueur avec un boost de 10 % d'EXP de musique.</string>
+	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Jouer en solo récompense le joueur avec un boost de 15 % d'EXP de musique.</string>
 	<string key="ui_music_guitar_part_1" rel_version="Feature_MusicalPerformances">Guitare (1re partie)</string>
 	<string key="ui_music_guitar_part_2" rel_version="Feature_MusicalPerformances">Guitare (2e partie)</string>
 	<string key="ui_music_guitar_part_3" rel_version="Feature_MusicalPerformances">Guitare (3e partie)</string>

@@ -290,7 +290,7 @@
 	<string key="1527_1524_f_Complete" speaker="Wader Keles - Restless Shore" name="WafaKeles" VO="1527_1524_f_Complete" VO_Status="Recorded" dialogue-next="@1527_1524_f_Complete_next" rel_version="Quest_Supplement_Restless">É isso que você encontrou? Impressionante! Xue vai ficar encantado quando ver isso! \n\nSabe, ele tem medo de água. Ele finge que não, mas é por isso que não vai para os naufrágios submersos.</string>
 	<string key="1527_1524_f_Complete_prompt" speaker="UI - Player Prompt" rel_version="Quest_Supplement_Restless">“Você poderia ajudá-lo a procurar tesouros.”</string>
 	<string key="1527_1524_f_Complete_next" speaker="Wader Keles - Restless Shore" name="WafaKeles" VO="1527_1524_f_Complete_next" VO_Status="Recorded" dialogue-prompt="@1527_1524_f_Complete_prompt" rel_version="Quest_Supplement_Restless">Eu não tinha pensado nisso! Eu amo o oceano, o som das ondas. \n\nEu poderia procurar tesouros na água enquanto ele fica na costa. Seríamos a equipe perfeita!</string>
-	<string key="1527_1524_d_01_Task_Goto" speaker="UI" rel_version="Quest_Supplement_Restless">Procure tesouros no baú como {POITags}</string>
+	<string key="1527_1524_d_01_Task_Goto" speaker="UI" rel_version="Quest_Supplement_Restless">Procure tesouros no baú em {POITags}</string>
 	<string key="1527_1524_d_02_Task_GatherChest" speaker="UI" rel_version="Quest_Supplement_Restless">Recupere o Cálice de Poseidon do baú</string>
 	<string key="1527_1525_a_Title" speaker="UI - Quest Title" rel_version="Quest_Supplement_Restless">Companhia Preciosa</string>
 	<string key="1527_1525_b_Description" speaker="UI - Quest Description" rel_version="Quest_Supplement_Restless">Traga uma carta de Wafa Keles para Xue Tien</string>

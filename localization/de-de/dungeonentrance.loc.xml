@@ -2,50 +2,70 @@
 	<string key="ui_entrance_dungeon_description">Untersuche die Expedition</string>
 	<string key="ui_enter_dungeon">Betreten</string>
 	<string key="ui_enter_solo_trial">Betreten</string>
+	<string key="ui_enter_raid_trial">Betreten</string>
 	<string key="ui_open_dungeon_menu">Expeditionsmenü öffnen</string>
 	<string key="ui_open_dungeon_menu_solo">Öffne das Menü "Seelenprüfung"</string>
+	<string key="ui_open_dungeon_menu_raidtrial">Öffne das Menü "Eliteprüfung"</string>
 	<string key="join_group_in_dungeon">Expedition betreten</string>
 	<string key="join_group_in_dungeon_solo">Betritt die Seelenprüfung</string>
+	<string key="join_group_in_dungeon_raidtrial">Eliteprüfung betreten</string>
 	<string key="ui_dungeon_leave">Expedition verlassen</string>
 	<string key="ui_dungeon_leave_solo">Verlasse die Seelenprüfung</string>
+	<string key="ui_dungeon_leave_raidtrial">Eliteprüfung verlassen</string>
 	<string key="ui_dungeon_screen_header">Expeditionszugang</string>
 	<string key="ui_dungeon_screen_header_solo">Eingang zur Seelenprüfung</string>
+	<string key="ui_dungeon_screen_header_raidtrial">Eingang zur Eliteprüfung</string>
 	<string key="ui_dungeon_requirements">&lt;img src="LyShineUI/Images/icons/misc/icon_level_simple" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; Empfohlene Stufe: {level} &lt;img src="LyShineUI/Images/icons/misc/icon_character" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; Minimale Spielerzahl: {players}</string>
 	<string key="ui_dungeon_requirements_groupsize">Minimale Spielerzahl: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{players}&lt;/font&gt;</string>
 	<string key="ui_dungeon_requirements_groupsize_single">Maximale Spielerzahl: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
 	<string key="ui_dungeon_requirements_gearscore">Empfohlene Stufe: {level}</string>
 	<string key="ui_flyout_recommended_groupsize">Empfohlene Spielerzahl: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{players}&lt;/font&gt;</string>
-	<string key="ui_dungeon_requirements_equipment_warning">Um diese Expedition abzuschließen, muss deine Gruppe mindestens &lt;font color="#ffffff"&gt;{item}&lt;/font&gt; haben.</string>
-	<string key="ui_dungeon_requirements_equipment_warning_solo">Um diese Seelenprüfung abzuschließen, musst du mindestens &lt;font color="#ffffff"&gt;{item}&lt;/font&gt; haben.</string>
+	<string key="ui_dungeon_requirements_equipment_warning">Deine Gruppe muss mindestens &lt;font color="#ffffff"&gt;{item}&lt;/font&gt; haben.</string>
+	<string key="ui_dungeon_requirements_equipment_warning_solo">Du musst mindestens &lt;font color="#ffffff"&gt;{item}&lt;/font&gt; haben.</string>
+	<string key="ui_dungeon_requirements_equipment_warning_raidtrial">Du musst mindestens &lt;font color="#ffffff"&gt;{item}&lt;/font&gt; haben.</string>
 	<string key="ui_dungeon_reward_level">Die Qualität der Gesamtbeute steigt mit dem Schwierigkeitsgrad.\n\nDer Rüstwert der erhaltenen Gegenstände kann von den hier aufgelisteten abweichen.</string>
 	<string key="ui_dungeon_level_requirement">Erforderliche Stufe: {level}</string>
 	<string key="ui_dungeon_elapsed_time">Vergangene Zeit:</string>
 	<string key="ui_dungeon_estimated_time_remaining">Voraussichtliche Wartedauer:</string>
 	<string key="ui_dungeon_activate">Expedition starten</string>
 	<string key="ui_dungeon_activate_solo">Seelenprüfung starten</string>
+	<string key="ui_dungeon_activate_raidtrial">Eliteprüfung starten</string>
 	<string key="ui_dungeon_leave_group">Gruppe verlassen</string>
 	<string key="ui_dungeon_leave_group_sufficient_members">Du wirst aus der Warteschlange geworfen, wenn du die Gruppe verlässt.\nBist du dir sicher?</string>
 	<string key="ui_dungeon_group_in_queue">Warten auf Expedition ...</string>
 	<string key="ui_dungeon_group_in_queue_solo">Warten auf Seelenprüfung …</string>
+	<string key="ui_dungeon_group_in_queue_raidtrial">Warten auf Eliteprüfung …</string>
 	<string key="ui_dungeon_group_proximity">Das Gruppenmitglied ist zu weit entfernt</string>
 	<string key="ui_dungeon_group_already_in_queue_dungeon">Deine Gruppe befindet sich bereits in der Warteschlange für eine andere Expedition. Erstelle eine neue Gruppe, um die Expedition zu betreten.</string>
 	<string key="ui_dungeon_group_already_in_queue_dungeon_solo">Deine Gruppe befindet sich bereits in der Warteschlange für eine andere Expedition. Erstelle eine neue Gruppe, um die Prüfung zu betreten.</string>
+	<string key="ui_dungeon_group_already_in_queue_dungeon_raidtrial">Deine Gruppe befindet sich bereits in der Warteschlange für eine andere Expedition. Erstelle eine neue Gruppe, um die Eliteprüfung zu betreten.</string>
 	<string key="ui_dungeon_group_in_active_dungeon">Deine Gruppe ist bereits einer aktiven Expedition oder Prüfung zugewiesen. Alle Gruppenmitglieder müssen die aktive Instanz verlassen, um diese Expedition zu betreten.</string>
 	<string key="ui_dungeon_group_in_active_dungeon_solo">Deine Gruppe ist bereits einer aktiven Expedition oder Prüfung zugewiesen. Alle Gruppenmitglieder müssen die aktive Instanz verlassen, um diese Seelenprüfung zu betreten.</string>
+	<string key="ui_dungeon_group_in_active_dungeon_raidtrial">Deine Gruppe ist bereits einer aktiven Expedition oder Prüfung zugewiesen. Alle Gruppenmitglieder müssen die aktive Instanz verlassen, um diese Eliteprüfung zu betreten.</string>
 	<string key="ui_dungeon_group_dead">Gruppenmitglied ist tot</string>
 	<string key="ui_dungeon_activating">Expedition betreten ...</string>
 	<string key="ui_dungeon_activating_solo">Seelenprüfung betreten …</string>
+	<string key="ui_dungeon_activating_raidtrial">Eliteprüfung betreten …</string>
 	<string key="ui_dungeon_not_enough_members">Nicht genug Gruppenmitglieder</string>
 	<string key="ui_dungeon_disabled">Diese Expedition ist derzeit deaktiviert.</string>
 	<string key="ui_dungeon_disabled_solo">Diese Seelenprüfung ist derzeit deaktiviert.</string>
+	<string key="ui_dungeon_disabled_raidtrial">Diese Eliteprüfung ist derzeit deaktiviert.</string>
 	<string key="ui_dungeon_activate_failure">Öffnen der Expedition fehlgeschlagen</string>
 	<string key="ui_dungeon_activate_failure_solo">Öffnen der Seelenprüfung fehlgeschlagen</string>
+	<string key="ui_dungeon_activate_failure_raidtrial">Öffnen der Eliteprüfung fehlgeschlagen</string>
 	<string key="ui_dungeon_not_ready">Expedition nicht fertig</string>
 	<string key="ui_dungeon_opened_title">Expedition offen</string>
 	<string key="ui_dungeon_opened_title_solo">Seelenprüfung offen</string>
+	<string key="ui_dungeon_opened_title_raidtrial">Eliteprüfung offen</string>
 	<string key="ui_dungeon_removed_from_queue">Du wurdest aus der Expeditionswarteschlange entfernt.</string>
+	<string key="ui_dungeon_removed_from_queue_solo">Du wurdest aus der Seelenprüfungswarteschlange entfernt.</string>
+	<string key="ui_dungeon_removed_from_queue_raidtrial">Du wurdest aus der Eliteprüfungswarteschlange entfernt.</string>
 	<string key="ui_dungeon_entry_expired">Expeditionszugang abgelaufen</string>
+	<string key="ui_dungeon_entry_expired_solo">Einzelprüfungszugang abgelaufen</string>
+	<string key="ui_dungeon_entry_expired_raidtrial">Eliteprüfungszugang abgelaufen</string>
 	<string key="ui_dungeon_closed">Expedition geschlossen</string>
+	<string key="ui_dungeon_closed_solo">Seelenprüfung geschlossen</string>
+	<string key="ui_dungeon_closed_raidtrial">Eliteprüfung geschlossen</string>
 	<string key="ui_dungeon_required_item">{quantity} {item} (beim Beitritt verbraucht)</string>
 	<string key="ui_dungeon_required_item_started">{item}</string>
 	<string key="ui_dungeon_required_item_tooltip">{quantity} {item} erforderlich</string>
@@ -56,33 +76,46 @@
 	<string key="ui_dungeon_entrance_respawn_location">Eingang</string>
 	<string key="dungeon">Expedition</string>
 	<string key="dungeon_solo">Seelenprüfung</string>
+	<string key="dungeon_raidtrial">Eliteprüfung</string>
 	<string key="dungeon_started">Expedition aktiviert</string>
 	<string key="dungeon_teleport_title">Fertigmachen zum Teleportieren</string>
 	<string key="dungeon_teleport_desc">Deine Gruppe wird in die Expedition teleportiert.</string>
 	<string key="dungeon_enter">Expedition betreten</string>
 	<string key="dungeon_enter_solo">Betritt die Seelenprüfung</string>
+	<string key="dungeon_enter_raidtrial">Eliteprüfung betreten</string>
 	<string key="dungeon_flyout">Expedition</string>
 	<string key="dungeon_success">Mission abgeschlossen</string>
 	<string key="dungeon_fail">Mission fehlgeschlagen</string>
 	<string key="dungeon_completed">Expedition abgeschlossen</string>
 	<string key="dungeon_completed_solo">Seelenprüfung abgeschlossen</string>
+	<string key="dungeon_completed_raidtrial">Eliteprüfung abgeschlossen</string>
 	<string key="ui_dungeon_find_group" rel_version="Feature_Group_Finder">Gruppensuche</string>
 	<string key="ui_dungeon_manage_group" rel_version="Feature_Group_Finder">Lobby verwalten</string>
 	<string key="ui_dungeon_view_group" rel_version="Feature_Group_Finder">Meine Lobby ansehen</string>
 	<string key="ui_dungeon_opened_pvpwarning_title">Zum Beitritt PvP abbrechen</string>
 	<string key="ui_dungeon_enter_pvpwarning_info">Durch den Beitritt zu einer Expedition &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;werden sämtliche PvP-Missionen abgebrochen&lt;/font&gt;. Fortfahren?</string>
+	<string key="ui_dungeon_enter_pvpwarning_info_solo">Durch den Beitritt zu einer Seelenprüfung &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;werden sämtliche PvP-Missionen abgebrochen&lt;/font&gt;. Fortfahren?</string>
+	<string key="ui_dungeon_enter_pvpwarning_info_raidtrial">Durch den Beitritt zu einer Eliteprüfung &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;werden sämtliche PvP-Missionen abgebrochen&lt;/font&gt;. Fortfahren?</string>
 	<string key="ui_dungeon_full_header">Expedition derzeit voll. Tritt der Warteschlange bei, um die Expedition zu betreten.</string>
+	<string key="ui_dungeon_full_header_solo">Seelenprüfung derzeit voll. Tritt der Warteschlange bei, um die Seelenprüfung zu betreten.</string>
+	<string key="ui_dungeon_full_header_raidtrial">Eliteprüfung derzeit voll. Tritt der Warteschlange bei, um die Eliteprüfung zu betreten.</string>
 	<string key="ui_dungeon_player_average_gear_score">&lt;font color="#c3b79f"&gt;Durchschnittlicher Rüstwert: &lt;/font&gt;&lt;font color="#ffffff" face="lyshineui/fonts/CaslonAnt.font"&gt;{gearscore}&lt;/font&gt;</string>
 	<string key="ui_dungeon_queued_blocked">Expedition kann nicht geöffnet werden.</string>
 	<string key="ui_dungeon_queued_blocked_solo">Seelenprüfung kann nicht geöffnet werden.</string>
+	<string key="ui_dungeon_queued_blocked_raidtrial">Eliteprüfung kann nicht geöffnet werden.</string>
 	<string key="ui_dungeon_outpost_rush">Du befindest dich bereits in der Warteschlange für den Außenpostensturm.</string>
 	<string key="ui_dungeon_expiring">Expedition wird verlassen in</string>
+	<string key="ui_dungeon_expiring_solo">Seelenprüfung wird verlassen in</string>
+	<string key="ui_dungeon_expiring_raidtrial">Eliteprüfung wird verlassen in</string>
 	<string key="ui_dungeon_cooldown">Kann in &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{timeRemaining}&lt;/font&gt; geöffnet werden.</string>
 	<string key="ui_dungeon_cooldown_flyout">Du kannst diese Expedition in {timeRemaining} öffnen.</string>
 	<string key="ui_dungeon_cooldown_flyout_solo">Du kannst diese Seelenprüfung in {timeRemaining} öffnen.</string>
+	<string key="ui_dungeon_cooldown_flyout_raidtrial">Du kannst diese Eliteprüfung in {timeRemaining} öffnen.</string>
 	<string key="ui_dungeon_map_flyout_button">Ansehen</string>
 	<string key="ui_dungeon_remaining_label">Verbleibende normale Expeditionen</string>
+	<string key="ui_dungeon_remaining_label_raidtrial">Verbleibende normale Eliteprüfungen</string>
 	<string key="ui_dungeon_remaining_tooltip">Du kannst an bis zu {amount} normalen Expeditionen pro Tag teilnehmen.</string>
+	<string key="ui_dungeon_remaining_tooltip_raidtrial">Du kannst an bis zu {amount} Eliteprüfungen pro Tag teilnehmen.</string>
 	<string key="ui_dungeon_mutation_remaining_label" rel_version="Feature_Dungeon_Mutators">Verbleibende mutierte Expeditionen</string>
 	<string key="ui_dungeon_mutation_remaining_tooltip" rel_version="Feature_Dungeon_Mutators">Du kannst an bis zu {amount} mutierten Expeditionen pro Woche teilnehmen.</string>
 	<string key="ui_dungeon_mutation_flyout_tooltip" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Wöchentliche Mutation&lt;/font&gt;\nElementarmutationen, Aufwertungen und Flüche für die Mutierten Expeditionen werden jede Woche zufällig bestimmt.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Mutation&lt;/font&gt;\nKämpf dich durch Elementarmutationen\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Aufwertungen&lt;/font&gt;\nElite-Aufwertungen für Gegner\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Flüche&lt;/font&gt;\nEffekte auf die gesamte Expedition</string>
@@ -158,15 +191,15 @@
 	<string key="ui_dungeon_mutator_difficulty_plain" rel_version="Feature_Dungeon_Mutators">Schwierigkeit&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_appended_difficulty" rel_version="Feature_Dungeon_Mutators">Schwierigkeit: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{difficulty}&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_appended_difficulty_bold" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Schwierigkeit: {difficulty}&lt;/font&gt;</string>
-	<string key="ui_dungeon_next_unlock_requirement" rel_version="Feature_Dungeon_Mutators">Um die &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;nächste Schwierigkeit&lt;/font&gt; freizuschalten, musst du diese Expedition mit dem &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Rang {rank}&lt;/font&gt; abschließen.</string>
-	<string key="ui_dungeon_mutator_unlock_requirement" rel_version="Feature_Dungeon_Mutators">Um die &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;nächste Schwierigkeit&lt;/font&gt; freizuschalten, musst du diese Expedition abschließen.</string>
+	<string key="ui_dungeon_next_unlock_requirement" rel_version="Feature_Dungeon_Mutators">Um die &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;nächste Schwierigkeit&lt;/font&gt; freizuschalten, musst du diese Expedition mit dem &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{rank} Rang&lt;/font&gt; abschließen.</string>
+	<string key="ui_dungeon_mutator_unlock_requirement" rel_version="Feature_Dungeon_Mutators">Um den &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;nächsten Schwierigkeitsgrad&lt;/font&gt; freizuschalten, musst du diese Expedition abschließen.</string>
 	<string key="ui_dungeon_mutator_active" rel_version="Feature_Dungeon_Mutators">&lt;font color="#00ffa8"&gt;Aktiv &lt;img src="LyShineUI/Images/icons/misc/icon_question_orange" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; &lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_inactive" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ff9393"&gt;Inaktiv &lt;img src="LyShineUI/Images/icons/misc/icon_question_orange" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; &lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_rotation_notice" rel_version="Feature_Dungeon_Mutators">Jede Woche wird eine zufällige Expedition zur Mutation ausgewählt. Nur die ausgewählte Expedition kann mit höheren Schwierigkeitsgraden gespielt werden.</string>
 	<string key="ui_dungeon_mutation_rewards_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Gegenstände&lt;/font&gt; können mit gewisser Chance mit folgenden &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Effekte&lt;/font&gt; erbeutet werden:</string>
 	<string key="ui_dungeon_mutator_standard_reward_count" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Expeditionsgegenstände</string>
 	<string key="ui_dungeon_mutator_difficulty_reward_count" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Schwierigkeitsgegenstände</string>
-	<string key="ui_dungeon_mutator_special_reward_tooltip" rel_version="Feature_Dungeon_Mutators">Zusätzlich zu Gegenstandsbelohnungen erhältst du beim Abschließen von Expeditionen in Abhängigkeit des jeweiligen Rangs bis zu {value} Schattensplitter.\n\n Erhältst du am Ende der Expedition den Rang Silber, schaltest du die nächste Schwierigkeitsstufe frei.</string>
+	<string key="ui_dungeon_mutator_special_reward_tooltip" rel_version="Feature_Dungeon_Mutators">Schattensplitter erhältst du nach Abschluss der Expedition für deinen Rang.\n\nSchalte den nächsten Expeditionsschwierigkeitsgrad mit mindestens Silber-Rang frei.</string>
 	<string key="ui_dungeon_mutator_hud_points_shorthand" rel_version="Feature_Dungeon_Mutators">&lt;font color="#aaaaaa" &gt;Pkt.&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_difficulty_not_unlocked" rel_version="Feature_Dungeon_Mutators">Die Schwierigkeitsstufe wurde noch nicht freigeschaltet.</string>
 	<string key="Mut_Disease_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Gegner applizieren bei Treffer eine stapelbare Krankheit, die die Heilung pro Stapel um {[Type_StatusEffectData.Mut_Disease_1.HealMod * -100]} % verringert.</string>
@@ -272,17 +305,29 @@
 	<string key="ui_dungeon_orb_explanation" rel_version="Feature_Dungeon_Mutators">Eine einmalige Belohnung. Mutierte Expeditionsstimmkugeln sind auch im Fraktionsladen erhältlich.</string>
 	<string key="ui_dungeon_gearscore_recommendation_tooltip" rel_version="Feature_Dungeon_Mutators">
 	&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Empfohlener Rüstwert&lt;/font&gt;\n\nDie Differenz zwischen deinem durchschnittlichen und dem empfohlenen Rüstwert wirkt sich auf die Kampfberechnung aus.\n\nEin Rüstwert, der &lt;font color="#ff9393"&gt;unter&lt;/font&gt; dem empfohlenen liegt, bewirkt, dass du &lt;font color="#ffffff"&gt;weniger Schaden verursachst&lt;/font&gt; und Gegner auf der Expedition dir &lt;font color="#ffffff"&gt;höheren Schaden zufügen&lt;/font&gt;.</string>
+	<string key="ui_dungeon_gearscore_recommendation_tooltip_raidtrial" rel_version="Feature_Dungeon_Mutators">
+	&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Empfohlener Rüstwert&lt;/font&gt;\n\nDie Differenz zwischen deinem durchschnittlichen und dem empfohlenen Rüstwert wirkt sich auf die Kampfberechnung aus.\n\nEin Rüstwert, der &lt;font color="#ff9393"&gt;unter&lt;/font&gt; dem empfohlenen liegt, bewirkt, dass du &lt;font color="#ffffff"&gt;weniger Schaden verursachst&lt;/font&gt; und Gegner bei der Eliteprüfung dir &lt;font color="#ffffff"&gt;höheren Schaden zufügen&lt;/font&gt;</string>
 	<string key="ui_dungeon_gearscore_underlevel_warning" rel_version="Feature_Dungeon_Mutators">&lt;font color={color} face="lyshineui/fonts/Nimbus_Bold.font"&gt;ACHTUNG:&lt;/font&gt; Dein durchschnittlicher Rüstwert ist zu niedrig, um bei dieser Expedition gut abzuschneiden.</string>
+	<string key="ui_dungeon_gearscore_underlevel_warning_raidtrial" rel_version="Feature_Dungeon_Mutators">&lt;font color={color} face="lyshineui/fonts/Nimbus_Bold.font"&gt;ACHTUNG:&lt;/font&gt; Dein durchschnittlicher Rüstwert ist zu niedrig, um bei dieser Eliteprüfung gut abzuschneiden.</string>
 	<string key="ui_dungeon_mutator_max_warning" rel_version="Feature_Dungeon_Mutators">Du hast das wöchentliche Limit für deine Teilnahme an mutierten Expeditionen erreicht. &lt;font color="#ffffff"&gt;({amount} pro Woche)&lt;/font&gt;</string>
+	<string key="ui_dungeon_mutator_max_warning_raidtrial" rel_version="Feature_Dungeon_Mutators">Du hast das wöchentliche Limit für deine Teilnahme an mutierten Eliteprüfungen erreicht. &lt;font color="#ffffff"&gt;({amount} pro Woche)&lt;/font&gt;</string>
 	<string key="ui_dungeon_max_warning">Du hast das tägliche Limit für deine Teilnahme an normalen Expeditionen erreicht. &lt;font color="#ffffff"&gt;({amount} pro Tag)&lt;/font&gt;</string>
+	<string key="ui_dungeon_max_warning_raidtrial">Du hast das tägliche Limit für deine Teilnahme an normalen Eliteprüfungen erreicht. &lt;font color="#ffffff"&gt;({amount} pro Tag)&lt;/font&gt;</string>
 	<string key="ui_dungeon_limit_refresh_enter">Kann betreten werden am {date}</string>
 	<string key="ui_dungeon_limit_refresh_open">Kann geöffnet werden am {date}</string>
 	<string key="ui_dungeon_characters_at_limit_title">Expedition kann nicht geöffnet werden.</string>
+	<string key="ui_dungeon_characters_at_limit_title_raidtrial">Eliteprüfung kann nicht geöffnet werden.</string>
 	<string key="ui_dungeon_characters_at_limit_desc_regular">Folgende(s) Gruppenmitglied(er) haben ihr tägliches Limit für normale Expeditionen erreicht und können dieser Expedition nicht beitreten.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Kann geöffnet werden am {date})&lt;/font&gt;</string>
+	<string key="ui_dungeon_characters_at_limit_desc_regular_raidtrial">Folgende(s) Gruppenmitglied(er) haben ihr tägliches Limit für normale Eliteprüfungen erreicht und können dieser Eliteprüfung nicht beitreten.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Kann geöffnet werden am {date})&lt;/font&gt;</string>
 	<string key="ui_dungeon_characters_at_limit_desc_mutated" rel_version="Feature_Dungeon_Mutators">Folgende(s) Gruppenmitglied(er) haben ihr wöchentliches Limit für mutierte Expeditionen erreicht und können dieser Expedition nicht beitreten.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Kann geöffnet werden am {date})&lt;/font&gt;</string>
+	<string key="ui_dungeon_characters_at_limit_desc_mutated_raidtrial" rel_version="Feature_Dungeon_Mutators">Folgende(s) Gruppenmitglied(er) haben ihr wöchentliches Limit für mutierte Eliteprüfungen erreicht und können dieser Eliteprüfung nicht beitreten.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Kann geöffnet werden am {date})&lt;/font&gt;</string>
 	<string key="ui_dungeon_enter_warning_mutated" rel_version="Feature_Dungeon_Mutators">Du bist diese Woche bisher {amount} mutierten Expeditionen beigetreten. Das Limit sind {max} pro Woche.</string>
+	<string key="ui_dungeon_enter_warning_mutated_raidtrial" rel_version="Feature_Dungeon_Mutators">Du bist diese Woche bisher {amount} mutierten Eliteprüfungen beigetreten. Das Limit sind {max} pro Woche.</string>
 	<string key="ui_dungeon_enter_warning_regular">Du bist heute bisher {amount} normalen Expeditionen beigetreten. Das Limit sind {max} pro Tag.</string>
+	<string key="ui_dungeon_enter_warning_regular_raidtrial">Du bist heute bisher {amount} normalen Eliteprüfungen beigetreten. Das Limit sind {max} pro Tag.</string>
 	<string key="ui_dungeon_enter_warning_notification_regular">Du hast das tägliche Limit für normale Expeditionen fast erreicht. (&lt;font color={color}&gt;{remaining}&lt;/font&gt;/{max} übrig)</string>
+	<string key="ui_dungeon_enter_warning_notification_regular_raidtrial">Du hast das tägliche Limit für normale Eliteprüfungen fast erreicht. (&lt;font color={color}&gt;{remaining}&lt;/font&gt;/{max} übrig)</string>
 	<string key="ui_dungeon_enter_warning_notification_mutated" rel_version="Feature_Dungeon_Mutators">Du hast das wöchentliche Limit für mutierte Expeditionen fast erreicht. (&lt;font color={color}&gt;{remaining}&lt;/font&gt;/{max} übrig)</string>
+	<string key="ui_dungeon_enter_warning_notification_mutated_raidtrial" rel_version="Feature_Dungeon_Mutators">Du hast das wöchentliche Limit für mutierte Eliteprüfungen fast erreicht. (&lt;font color={color}&gt;{remaining}&lt;/font&gt;/{max} übrig)</string>
 </resources>
 

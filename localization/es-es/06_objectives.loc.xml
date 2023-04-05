@@ -559,7 +559,7 @@
 	<string key="0623_0102_d_03_TaskFishingHook" speaker="UI">Engancha al pez</string>
 	<string key="0623_0102_d_04_TaskFishingReel" speaker="UI">Recoge el sedal</string>
 	<string key="0423_0101_FQ03_objective_title" speaker="UI _ Quest Title">Cebo de pesca</string>
-	<string key="0423_0101_FQ03_objective_desc" speaker="UI - Quest Description">Captura un caracol en agua dulce y una almeja en agua salada para que la pescadora maestra Ruby haga cebos. Después, llévale uno a la pescadora maestra Clemenson en Primera Luz.</string>
+	<string key="0423_0101_FQ03_objective_desc" speaker="UI - Quest Description">Captura un caracol en agua dulce y una almeja en agua salada para que la pescadora maestra Ruby haga cebos. Después, llévaselos a la pescadora maestra Clemenson en Riscos del Monarca.</string>
 	<string key="0423_0101_FQ03_prompt" speaker="UI - Player Prompt">«Sí. El pescador maestro Shields me ha enviado a verte».</string>
 	<string key="0423_0101_FQ03_proposal" speaker="Master Fisher Ruby - Everfall" name="MasterFisherRuby" VO="Fisher_0423_0101_FQ03_ProposalResponse" VO_Status="Recorded" dialogue-next="@0423_0101_FQ03_proposal_next">Los caracoles y las almejas son respectivamente los cebos de agua dulce y agua salada más comunes. \n\nClemenson, la pescadora maestra de Primera Luz, agradecería que le entregasen este cebo de agua salada. </string>
 	<string key="0423_0101_FQ03_proposal_prompt" speaker="UI - Player Prompt">«¿Por qué estoy pescando para una pescadora maestra?»</string>
@@ -645,11 +645,11 @@
 	<string key="1424_0101_FQ11_complete_available_response" speaker="Master Fisher Davies - Edengrove" name="MasterFisherDavies" VO="Fisher_1424_0101_FQ11_AvailResponse" VO_Status="Recorded">Sí, eso es... Venid con papá, pececitos... ¡Oh! No te había visto. Cantar mientras pesco me calma.\n\nVeo que has traído el botín de tu vida para los famélicos guardianes del alma de aquí.</string>
 	<string key="1424_0101_d_01_TaskFishingCatchFish" speaker="UI">Pesca: {itemName}</string>
 	<string key="0324_0101_FQ12_objective_title" speaker="UI">Pez con un toque de Azoth</string>
-	<string key="0324_0101_FQ12_objective_desc" speaker="UI">Pesca un pez con un toque de Azoth en la Arboleda del Edén para el pescador maestro Davies y llévaselo al pescador maestro Bernard en Cima Quebrada.</string>
+	<string key="0324_0101_FQ12_objective_desc" speaker="UI">Pesca un pez con un toque de Azoth en la Cima Quebrada y llévaselo al pescador maestro Bernard.</string>
 	<string key="0324_0101_FQ12_prompt" speaker="UI - Player Prompt">«¿Qué más hay en el agua aparte de peces?».</string>
 	<string key="0324_0101_FQ12_proposal" speaker="Master Fisher Davies - Edengrove" name="MasterFisherDavies" VO="Fisher_0324_0101_FQ12_ProposalResponse" VO_Status="Recorded" dialogue-next="@0324_0101_FQ12_proposal_next">También hay criaturas míticas, como el pez con un toque de Azoth.</string>
 	<string key="0324_0101_FQ12_proposal_prompt" speaker="UI - Player Prompt">«¿Qué es un pez con un toque de Azoth?».</string>
-	<string key="0324_0101_FQ12_proposal_next" speaker="Master Fisher Davies - Edengrove" name="MasterFisherDavies" VO="Fisher_0324_0101_FQ12_CompleteNext" VO_Status="Recorded" dialogue-prompt="@0324_0101_FQ12_proposal_prompt">Pues un pez cuya esencia ha sido totalmente poseída y ha sido imbuida con los poderes mágicos del Azoth, ¿qué si no? Pesca uno en las aguas que brillan con Azoth aquí, en la Arboleda del Edén, y llévaselo a Bernard en Cima Quebrada.</string>
+	<string key="0324_0101_FQ12_proposal_next" speaker="Master Fisher Davies - Edengrove" name="MasterFisherDavies" VO="Fisher_0324_0101_FQ12_CompleteNext" VO_Status="Recorded" dialogue-prompt="@0324_0101_FQ12_proposal_prompt">Pues un pez cuya esencia ha sido totalmente poseída y ha sido imbuida con los poderes mágicos del Azoth, ¿qué si no? Pesca uno para Bernard en la Cima Quebrada.</string>
 	<string key="0324_0101_FQ12_incomplete" speaker="Master Fisher Davies - Edengrove">No te desanimes si todavía no has pescado ningún pez con un toque de Azoth. Son tan escurridizos como efímeros.</string>
 	<string key="0324_0101_FQ12_complete_available_response" speaker="Master Fisher Bernard - Shattered Mtn" name="MasterFisherBernard" VO="Fisher_0324_0101_FQ12_AvailResponse" VO_Status="Recorded">Ah, tú debes de ser la cara nueva que ha enviado el pescador maestro Davies. Llevas ahí un pez de lo más peculiar.</string>
 	<string key="0324_0101_d_01_TaskFishingCatchWeight" speaker="UI">Pesca un pez de más de treinta libras</string>

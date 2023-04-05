@@ -112,10 +112,10 @@
 	<string key="ftue_archetypes_skill_sharpshooter">Brak</string>
 	<string key="ftue_archetypes_skill_crafter">Brak</string>
 	<string key="FTUE_DEBRISPILE_DISPLAYNAME">Szczątki</string>
-	<string key="ftue_createcharacter_title">Potwierdź postać</string>
-	<string key="ftue_createcharacter_message">Zmiana imienia lub wyglądu nie będzie później możliwa.\n\nNa pewno chcesz to zrobić?</string>
-	<string key="ftue_quitcreation_title">WYJDŹ</string>
-	<string key="ftue_quitcreation_message">Czy na pewno chcesz przerwać tworzenie postaci i wrócić do menu głównego?</string>
+	<string key="ftue_createcharacter_title">Stwórz postać</string>
+	<string key="ftue_createcharacter_message">Zmiana wyglądu lub tożsamości nie będzie później możliwa.\n\nNa pewno chcesz to zrobić?</string>
+	<string key="ftue_quitcreation_title">Porzuć postać</string>
+	<string key="ftue_quitcreation_message">Czy na pewno chcesz porzucić postać i wrócić do menu głównego?</string>
 	<string key="ftue_returntomainmenu_message">Czy chcesz powrócić do menu głównego?</string>
 	<string key="ftue_loading1">WCZYTYWANIE</string>
 	<string key="ftue_loading2">WCZYTYWANIE</string>

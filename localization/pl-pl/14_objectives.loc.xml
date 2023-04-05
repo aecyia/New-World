@@ -401,7 +401,7 @@
 	<string key="1418_0107_RD_task_03_TaskHaveAndReturnItems" speaker="UI">Pokonaj: {targetName}, by zdobyć: {itemName}</string>
 	<string key="1418_0108_RD_task_01_TaskGoToPOITag" speaker="UI">Zdobądź okładzinę skażonej tarczy od arcykapłana Oseguery na Pooranych Szczytach</string>
 	<string key="1418_0108_RD_task_02_TaskHaveAndReturnItems" speaker="UI">Pokonaj: {targetName}, by zdobyć: {itemName}</string>
-	<string key="1418_0109_RD_task_01_TaskGoToPOITag" speaker="UI">Udaj się do Obfitości i zdobądź od skażonych ćwieki z orichalcum</string>
+	<string key="1418_0109_RD_task_01_TaskGoToPOITag" speaker="UI">Udaj się do: {POITags} i zdobądź od skażonych ćwieki z orichalcum</string>
 	<string key="1418_0109_RD_task_02_TaskHaveAndReturnItems" speaker="UI">Pokonaj: {targetName}, by zdobyć: {itemName}</string>
 	<string key="1403A_0301_d_01_Task" speaker="UI">Udaj się do: {POITags}</string>
 	<string key="1403A_0301_d_02_Task" speaker="UI">Pokonaj: {targetName}</string>

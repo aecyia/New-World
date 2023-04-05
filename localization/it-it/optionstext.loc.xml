@@ -124,7 +124,7 @@
 	<string key="ui_voicechatinputmode_desc">Modalità di input in uso della chat vocale</string>
 	<string key="ui_voicechatinputmode_alwayson">Sempre attivo</string>
 	<string key="ui_voicechatinputmode_pushtotalk">Premi e parla (tieni premuto)</string>
-	<string key="ui_voicechatinputmode_pushtotalk_toggle">Premi e parla (attiva)</string>
+	<string key="ui_voicechatinputmode_pushtotalk_toggle">Premi e parla (attiva/disattiva)</string>
 	<string key="ui_options_settings">Impostazioni</string>
 	<string key="ui_graphics_settings" comment="Graphics quality settings">Qualità grafica</string>
 	<string key="ui_graphics_settings_desc">Imposta la qualità grafica del gioco: più bassa per una migliore performance, più alta per una migliore definizione</string>
@@ -175,9 +175,9 @@
 	<string key="ui_profanity_filter">Filtro linguaggio</string>
 	<string key="ui_profanity_filter_desc">Censura linguaggio scurrile in chat</string>
 	<string key="ui_subtitles">Sottotitoli</string>
-	<string key="ui_subtitles_desc">Abilita la visualizzazione dei sottotitoli per i dialoghi</string>
-	<string key="ui_metaachievementpopups">Abilita la notifica degli obiettivi</string>
-	<string key="ui_metaachievementpopups_desc">Abilita la notifica HUD quando un obiettivo viene completato o quasi completato</string>
+	<string key="ui_subtitles_desc">Mostra sottotitoli per i dialoghi</string>
+	<string key="ui_metaachievementpopups">Notifiche obiettivi</string>
+	<string key="ui_metaachievementpopups_desc">Mostra una notifica HUD quando un obiettivo viene completato o è quasi completato</string>
 	<string key="ui_colorBlindness">Daltonismo</string>
 	<string key="ui_colorBlindness_desc">Applica filtro daltonismo</string>
 	<string key="ui_options_ColorBlindness_NoFilter">Nessun filtro</string>
@@ -193,16 +193,23 @@
 	<string key="ui_options_TwitchLogin">Collegati a Twitch</string>
 	<string key="ui_options_TwitchLogin_desc">Accedi per abilitare le funzionalità di Twitch</string>
 	<string key="ui_options_TwitchStreamerSpotlight">Twitch Streamer Spotlight</string>
-	<string key="ui_options_TwitchStreamerSpotlight_desc">Abilita Twitch Streamer Spotlight. Consenti agli altri giocatori di vedere che sei in streaming su Twitch (funziona solo durante lo streaming)</string>
+	<string key="ui_options_TwitchStreamerSpotlight_desc">Consenti agli altri giocatori di vedere che sei in streaming su Twitch (funziona solo durante lo streaming)</string>
 	<string key="ui_options_TwitchHideOtherStreamers">Nascondi altri streamer</string>
-	<string key="ui_options_TwitchHideOtherStreamers_desc">Abilita per nascondere lo stato degli altri giocatori in Streamer Spotlight mentre sei in streaming e hai abilitato lo Streamer Spotlight</string>
+	<string key="ui_options_TwitchHideOtherStreamers_desc">Nascondi lo stato degli altri giocatori in Streamer Spotlight mentre sei in streaming e hai abilitato lo Streamer Spotlight</string>
 	<string key="ui_options_TwitchSubArmy">Twitch Subscriber Army</string>
 	<string key="ui_options_TwitchSubArmy_desc">Consente di unirsi agli streamer o reclutare i propri iscritti e follower su Twitch nel proprio gruppo o nella propria compagnia</string>
 	<string key="ui_textSize">Dimensione testo</string>
 	<string key="ui_textSize_desc">Aumenta le dimensioni dei nomi e dei suggerimenti di interazione</string>
+	<string key="ui_diegeticPinSize">Dimensioni supporto alla missione fissato</string>
+	<string key="ui_diegeticPinSize_desc">Regola le dimensioni dei supporti alla missione fissati</string>
+	<string key="ui_diegeticPinOpacity">Trasparenza supporto alla missione fissato</string>
+	<string key="ui_diegeticPinOpacity_desc">Regola la trasparenza dei supporti alla missione fissati</string>
+	<string key="ui_section_map">Mappa</string>
+	<string key="ui_options_map">Zoom automatico</string>
+	<string key="ui_options_map_desc">Fai zoom in avanti automaticamente quando apri la mappa in un insediamento o avamposto</string>
 	<string key="ui_options_textSize_regular">Normale</string>
 	<string key="ui_options_textSize_bigger">Grande</string>
-	<string key="ui_cameraShake">Abilita le vibrazioni della telecamera</string>
+	<string key="ui_cameraShake">Vibrazioni telecamera</string>
 	<string key="ui_cameraShake_desc">Le vibrazioni della telecamera potrebbero disorientare alcuni giocatori</string>
 	<string key="ui_strafeCamera">Usa sempre movimento laterale</string>
 	<string key="ui_strafeCamera_desc">Il personaggio è sempre rivolto nella stessa direzione della telecamera</string>
@@ -226,13 +233,15 @@
 	<string key="ui_outputconfiguration">Configurazione dell'output</string>
 	<string key="ui_outputconfiguration_desc">Passa dal formato audio a 360 gradi per home theater al formato audio a 180 gradi per cuffie</string>
 	<string key="ui_texttospeech">Sintesi vocale</string>
-	<string key="ui_texttospeech_desc">Abilita la sintesi vocale per i messaggi di chat in arrivo</string>
+	<string key="ui_texttospeech_desc">Sintesi vocale per i messaggi di chat in arrivo</string>
 	<string key="ui_tts_rate">Velocità sintesi vocale</string>
 	<string key="ui_tts_rate_desc">Velocità di riproduzione della sintesi vocale</string>
 	<string key="ui_tts_volume">Volume sintesi vocale</string>
 	<string key="ui_tts_volume_desc">Volume di riproduzione della sintesi vocale</string>
 	<string key="ui_speechtotext">Riconoscimento vocale</string>
-	<string key="ui_speechtotext_desc">Abilita riconoscimento vocale per la chat vocale</string>
+	<string key="ui_speechtotext_desc">Riconoscimento vocale per la chat vocale</string>
+	<string key="ui_spell_alignment_vfx">Indicatore di incantesimi nemici</string>
+	<string key="ui_spell_alignment_vfx_desc">Aggiunge indicatori alle aree di effetto persistenti del giocatore nemico</string>
 	<string key="ui_enable_hudShowVitalsValues">Mostra i parametri vitali</string>
 	<string key="ui_enable_hudShowVitalsValues_decstription">Mostra la salute e gli altri parametri vitali sulle rispettive barre</string>
 	<string key="ui_enable_hudAlwaysFade">Dissolvenza</string>
@@ -292,5 +301,19 @@
 	<string key="ui_genaprompt_popupyesno" rel_version="Feature_GameEntryNarrationAssistance">{title}. {message} Premi {toggleMenuComponent} per scegliere No. Premi {frontEndContinue} per scegliere Sì.</string>
 	<string key="ui_genaprompt_popupok" rel_version="Feature_GameEntryNarrationAssistance">{title}. {message} Premi {frontEndContinue} per chiudere.</string>
 	<string key="ui_genaprompt_popupokcancel" rel_version="Feature_GameEntryNarrationAssistance">{title}. {message} Premi {frontEndContinue} per confermare. Premi {toggleMenuComponent} per annullare.</string>
+	<string key="ui_loadouts" rel_version="Feature_Gear_Set_Storage">Set attrezzatura</string>
+	<string key="ui_showloadouts" rel_version="Feature_Gear_Set_Storage">Mostra set attrezzatura</string>
+	<string key="ui_hideloadouts" rel_version="Feature_Gear_Set_Storage">Nascondi set attrezzatura</string>
+	<string key="ui_toggle_selectloadout" rel_version="Feature_Gear_Set_Storage">Selezione set attrezzatura</string>
+	<string key="ui_equip_loadout1" rel_version="Feature_Gear_Set_Storage">Equipaggia set attrezzatura 1</string>
+	<string key="ui_equip_loadout2" rel_version="Feature_Gear_Set_Storage">Equipaggia set attrezzatura 2</string>
+	<string key="ui_equip_loadout3" rel_version="Feature_Gear_Set_Storage">Equipaggia set attrezzatura 3</string>
+	<string key="ui_equip_loadout4" rel_version="Feature_Gear_Set_Storage">Equipaggia set attrezzatura 4</string>
+	<string key="ui_equip_loadout5" rel_version="Feature_Gear_Set_Storage">Equipaggia set attrezzatura 5</string>
+	<string key="ui_equip_loadout6" rel_version="Feature_Gear_Set_Storage">Equipaggia set attrezzatura 6</string>
+	<string key="ui_equip_loadout7" rel_version="Feature_Gear_Set_Storage">Equipaggia set attrezzatura 7</string>
+	<string key="ui_equip_loadout8" rel_version="Feature_Gear_Set_Storage">Equipaggia set attrezzatura 8</string>
+	<string key="ui_equip_loadout9" rel_version="Feature_Gear_Set_Storage">Equipaggia set attrezzatura 9</string>
+	<string key="ui_equip_loadout10" rel_version="Feature_Gear_Set_Storage">Equipaggia set attrezzatura 10</string>
 </resources>
 

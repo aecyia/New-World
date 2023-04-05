@@ -65,13 +65,125 @@
 	<string key="Skin_Feb2023_Spear_Description" rel_version="Weapon_OmensWinter_Spear">Niechaj prowadzi cię jej mądrość.</string>
 	<string key="Skin_Feb2023_Lifestaff_MasterName" rel_version="Weapon_OmensWinter_LifeStaff">Pąk Brigidy Uzdrowicielki</string>
 	<string key="Skin_Feb2023_Lifestaff_Description" rel_version="Weapon_OmensWinter_LifeStaff">Niech jej łaska cię odnowi.</string>
-	<string key="Skin_Feb2023_Hatchet_MasterName" rel_version="Weapon_OmensWinter_ShieldT">Topór Brygidy Kowalki</string>
-	<string key="Skin_Feb2023_Hatchet_Description" rel_version="Weapon_OmensWinter_ShieldT">Niech jej nauki ci pomogą.</string>
-	<string key="Skin_Feb2023_ShieldT_MasterName" rel_version="Weapon_OmensWinter_Hatchet">Tarcza Brygidy Obrończyni</string>
-	<string key="Skin_Feb2023_ShieldT_Description" rel_version="Weapon_OmensWinter_Hatchet">Niech jej siła będzie twoja.</string>
+	<string key="Skin_Feb2023_Hatchet_MasterName" rel_version="Weapon_OmensWinter_Hatchet">Topór Brygidy Kowalki</string>
+	<string key="Skin_Feb2023_Hatchet_Description" rel_version="Weapon_OmensWinter_Hatchet">Niech jej nauki ci pomogą.</string>
+	<string key="Skin_Feb2023_ShieldT_MasterName" rel_version="Weapon_OmensWinter_ShieldT">Tarcza Brygidy Obrończyni</string>
+	<string key="Skin_Feb2023_ShieldT_Description" rel_version="Weapon_OmensWinter_ShieldT">Niech jej siła będzie twoja.</string>
 	<string key="House_HousingItem_Ent_OmensWinter2023_driftwoodbench01_MasterName" rel_version="Housing_OmensWinter_MTX_Pack_2023">Ławka z dzikodrzewu</string>
 	<string key="House_HousingItem_Ent_OmensWinter2023_driftwoodbench01_Description" rel_version="Housing_OmensWinter_MTX_Pack_2023">Ten piękny naturalny element został uformowany, a nie wyrzeźbiony, z występującego naturalnie na Aeternum dzikodrzewu.</string>
 	<string key="House_HousingItem_Ent_OmensWinter2023_Rug_MasterName" rel_version="Housing_OmensWinter_MTX_Pack_2023">Ręcznie tkana narzuta</string>
 	<string key="House_HousingItem_Ent_OmensWinter2023_Rug_Description" rel_version="Housing_OmensWinter_MTX_Pack_2023">Ta gruba narzuta została pieczołowicie utkana, by zapewnić wygodę w ostatnie dni zimy.</string>
+	<string key="Mar2023_Container_MasterName" rel_version="Entitlements_FirelightSeason">Upominek pełen przypraw</string>
+	<string key="Mar2023_Container_Description" rel_version="Entitlements_FirelightSeason">Ze środka wydobywa się ostry zapach, od którego szczypią cię oczy.</string>
+	<string key="Skin_Chest_Mar2023_FirelightNouveau_MasterName" rel_version="Apparel_Firelight_1">Kolczuga paleniska</string>
+	<string key="Skin_Chest_Mar2023_FirelightNouveau_Description" rel_version="Apparel_Firelight_1">Podsyć płomień. Niech płonie wiecznie.</string>
+	<string key="Skin_Head_Mar2023_FirelightNouveau_MasterName" rel_version="Apparel_Firelight_1">Osłona twarzy paleniska</string>
+	<string key="Skin_Head_Mar2023_FirelightNouveau_Description" rel_version="Apparel_Firelight_1">Podsyć płomień. Niech płonie wiecznie.</string>
+	<string key="Skin_Legs_Mar2023_FirelightNouveau_MasterName" rel_version="Apparel_Firelight_1">Spodnie paleniska</string>
+	<string key="Skin_Legs_Mar2023_FirelightNouveau_Description" rel_version="Apparel_Firelight_1">Podsyć płomień. Niech płonie wiecznie.</string>
+	<string key="Skin_Feet_Mar2023_FirelightNouveau_MasterName" rel_version="Apparel_Firelight_1">Buty paleniska</string>
+	<string key="Skin_Feet_Mar2023_FirelightNouveau_Description" rel_version="Apparel_Firelight_1">Podsyć płomień. Niech płonie wiecznie.</string>
+	<string key="Skin_Hands_Mar2023_FirelightNouveau_MasterName" rel_version="Apparel_Firelight_1">Rękawiczki paleniska</string>
+	<string key="Skin_Hands_Mar2023_FirelightNouveau_Description" rel_version="Apparel_Firelight_1">Podsyć płomień. Niech płonie wiecznie.</string>
+	<string key="Skin_Chest_Mar2023_FirelightBackScarf_MasterName" rel_version="Apparel_Firelight_2">Szal tańczącego żaru</string>
+	<string key="Skin_Chest_Mar2023_FirelightBackScarf_Description" rel_version="Apparel_Firelight_2">"Widzisz, jak migoczą cienie? Są jak przyczajeni zabójcy".</string>
+	<string key="Skin_Head_Mar2023_FirelightBackScarf_MasterName" rel_version="Apparel_Firelight_2">Welon tańczącego żaru</string>
+	<string key="Skin_Head_Mar2023_FirelightBackScarf_Description" rel_version="Apparel_Firelight_2">"Widzisz, jak migoczą cienie? Są jak przyczajeni zabójcy".</string>
+	<string key="Skin_Legs_Mar2023_FirelightBackScarf_MasterName" rel_version="Apparel_Firelight_2">Nogawice tańczącego żaru</string>
+	<string key="Skin_Legs_Mar2023_FirelightBackScarf_Description" rel_version="Apparel_Firelight_2">"Widzisz, jak migoczą cienie? Są jak przyczajeni zabójcy".</string>
+	<string key="Skin_Feet_Mar2023_FirelightBackScarf_MasterName" rel_version="Apparel_Firelight_2">Pantofle tańczącego żaru</string>
+	<string key="Skin_Feet_Mar2023_FirelightBackScarf_Description" rel_version="Apparel_Firelight_2">"Widzisz, jak migoczą cienie? Są jak przyczajeni zabójcy".</string>
+	<string key="Skin_Hands_Mar2023_FirelightBackScarf_MasterName" rel_version="Apparel_Firelight_2">Rękawiczki tańczącego żaru</string>
+	<string key="Skin_Hands_Mar2023_FirelightBackScarf_Description" rel_version="Apparel_Firelight_2">"Widzisz, jak migoczą cienie? Są jak przyczajeni zabójcy".</string>
+	<string key="Skin_Chest_Mar2023_FirelightSpades_MasterName" rel_version="Apparel_Firelight_3">Opończa strażnika kuźni</string>
+	<string key="Skin_Chest_Mar2023_FirelightSpades_Description" rel_version="Apparel_Firelight_3">Czujne spojrzenie strażnika płonie pośród popiołów.</string>
+	<string key="Skin_Head_Mar2023_FirelightSpades_MasterName" rel_version="Apparel_Firelight_3">Salada strażnika kuźni</string>
+	<string key="Skin_Head_Mar2023_FirelightSpades_Description" rel_version="Apparel_Firelight_3">Czujne spojrzenie strażnika płonie pośród popiołów.</string>
+	<string key="Skin_Legs_Mar2023_FirelightSpades_MasterName" rel_version="Apparel_Firelight_3">Nabiodrki strażnika kuźni</string>
+	<string key="Skin_Legs_Mar2023_FirelightSpades_Description" rel_version="Apparel_Firelight_3">Czujne spojrzenie strażnika płonie pośród popiołów.</string>
+	<string key="Skin_Feet_Mar2023_FirelightSpades_MasterName" rel_version="Apparel_Firelight_3">Bigwanty strażnika kuźni</string>
+	<string key="Skin_Feet_Mar2023_FirelightSpades_Description" rel_version="Apparel_Firelight_3">Czujne spojrzenie strażnika płonie pośród popiołów.</string>
+	<string key="Skin_Hands_Mar2023_FirelightSpades_MasterName" rel_version="Apparel_Firelight_3">Rękawice strażnika kuźni</string>
+	<string key="Skin_Hands_Mar2023_FirelightSpades_Description" rel_version="Apparel_Firelight_3">Czujne spojrzenie strażnika płonie pośród popiołów.</string>
+	<string key="Skin_Chest_Mar2023_FirelightDeluxe_MasterName" rel_version="Apparel_Firelight_Deluxe">Ogniste serce kardynała</string>
+	<string key="Skin_Chest_Mar2023_FirelightDeluxe_Description" rel_version="Apparel_Firelight_Deluxe">"Powstał z popiołów, a jego serce płonęło półmrokiem".</string>
+	<string key="Skin_Head_Mar2023_FirelightDeluxe_MasterName" rel_version="Apparel_Firelight_Deluxe">Laur kardynała</string>
+	<string key="Skin_Head_Mar2023_FirelightDeluxe_Description" rel_version="Apparel_Firelight_Deluxe">"Powstał z popiołów, a jego serce płonęło półmrokiem".</string>
+	<string key="Skin_Legs_Mar2023_FirelightDeluxe_MasterName" rel_version="Apparel_Firelight_Deluxe">Mięsiwo z kardynała</string>
+	<string key="Skin_Legs_Mar2023_FirelightDeluxe_Description" rel_version="Apparel_Firelight_Deluxe">"Powstał z popiołów, a jego serce płonęło półmrokiem".</string>
+	<string key="Skin_Feet_Mar2023_FirelightDeluxe_MasterName" rel_version="Apparel_Firelight_Deluxe">Szpon kardynała</string>
+	<string key="Skin_Feet_Mar2023_FirelightDeluxe_Description" rel_version="Apparel_Firelight_Deluxe">"Powstał z popiołów, a jego serce płonęło półmrokiem".</string>
+	<string key="Skin_Hands_Mar2023_FirelightDeluxe_MasterName" rel_version="Apparel_Firelight_Deluxe">Pazur kardynała</string>
+	<string key="Skin_Hands_Mar2023_FirelightDeluxe_Description" rel_version="Apparel_Firelight_Deluxe">"Powstał z popiołów, a jego serce płonęło półmrokiem".</string>
+	<string key="Skin_Mar2023_Bow_MasterName" rel_version="Weapon_Firelight_Bow">Ognista flara</string>
+	<string key="Skin_Mar2023_Bow_Description" rel_version="Weapon_Firelight_Bow">Towarzyszący jej świst przypomina fajerwerki.</string>
+	<string key="Skin_Mar2023_Greataxe_MasterName" rel_version="Weapon_Firelight_Greataxe">Rozbuchany stos</string>
+	<string key="Skin_Mar2023_Greataxe_Description" rel_version="Weapon_Firelight_Greataxe">“Podmuch rozwinął szkarłatne skrzydła, by rozpłynąć się w popiół i osmalić bursztynowe niebo”.</string>
+	<string key="Skin_Mar2023_ShieldK_MasterName" rel_version="Weapon_Firelight_ShieldK">Osłona ognistego światła</string>
+	<string key="Skin_Mar2023_ShieldK_Description" rel_version="Weapon_Firelight_ShieldK">Na jej powierzchni mienią się blade poblaski.</string>
+	<string key="Skin_Mar2023_Longsword_MasterName" rel_version="Weapon_Firelight_Longsword">Spadająca gwiazda</string>
+	<string key="Skin_Mar2023_Longsword_Description" rel_version="Weapon_Firelight_Longsword">“... a gdy spadały, zewsząd posypały się iskry i już nic nie mogło powstrzymać rewolucji.”</string>
+	<string key="Skin_Mar2023_Musket_MasterName" rel_version="Weapon_Firelight_Musket">Dymiąca lufa</string>
+	<string key="Skin_Mar2023_Musket_Description" rel_version="Weapon_Firelight_Musket">Nie ma dymu bez ognia</string>
+	<string key="Skin_Mar2023_Rapier_MasterName" rel_version="Weapon_Firelight_Rapier">Rozżarzona igła</string>
+	<string key="Skin_Mar2023_Rapier_Description" rel_version="Weapon_Firelight_Rapier">Przyżeganie na zawołanie.</string>
+	<string key="Skin_Mar2023_ShieldR_MasterName" rel_version="Weapon_Firelight_ShieldR">Puklerz ognistego światła</string>
+	<string key="Skin_Mar2023_ShieldR_Description" rel_version="Weapon_Firelight_ShieldR">Na jej powierzchni mienią się blade poblaski.</string>
+	<string key="Skin_Mar2023_Spear_MasterName" rel_version="Weapon_Firelight_Spear">Róża wiatrów</string>
+	<string key="Skin_Mar2023_Spear_Description" rel_version="Weapon_Firelight_Spear">Światło, które rozjaśni nawet najbardziej nieprzenikniony mrok.</string>
+	<string key="Skin_Mar2023_Hatchet_MasterName" rel_version="Weapon_Firelight_Hatchet">Osmalony brzask</string>
+	<string key="Skin_Mar2023_Hatchet_Description" rel_version="Weapon_Firelight_Hatchet">“Bądź płomieniem, który rozświetli jutrzenkę.”</string>
+	<string key="Skin_Mar2023_Warhammer_MasterName" rel_version="Weapon_Firelight_Warhammer">Rozpalony piec</string>
+	<string key="Skin_Mar2023_Warhammer_Description" rel_version="Weapon_Firelight_Warhammer">Czerwony jak cegła, rozgrzany jak piec.</string>
+	<string key="Skin_Mar2023_Firestaff_MasterName" rel_version="Weapon_Firelight_Firestaff">Lodestar Lantern</string>
+	<string key="Skin_Mar2023_Firestaff_Description" rel_version="Weapon_Firelight_Firestaff">Lost souls crave the warmth of its glow.</string>
+	<string key="Skin_Mar2023_Lifestaff_MasterName" rel_version="Weapon_Firelight_Lifestaff">Burning Beacon</string>
+	<string key="Skin_Mar2023_Lifestaff_Description" rel_version="Weapon_Firelight_Lifestaff">It’s said that on a stormy night, its light can shine brighter and further than any lighthouse.</string>
+	<string key="Skin_Mar2023_ShieldT_MasterName" rel_version="Weapon_Firelight_ShieldT">Wieża ognistego światła</string>
+	<string key="Skin_Mar2023_ShieldT_Description" rel_version="Weapon_Firelight_ShieldT">Na jej powierzchni mienią się blade poblaski.</string>
+	<string key="Skin_Mar2023_IceGauntlet_MasterName" rel_version="Weapon_Firelight_IceGauntlet">Zamarznięty płomień</string>
+	<string key="Skin_Mar2023_IceGauntlet_Description" rel_version="Weapon_Firelight_IceGauntlet">Bezwzględnie doskonały płomień w temperaturze zera... bezwzględnego.</string>
+	<string key="Skin_Mar2023_VoidGauntlet_MasterName" rel_version="Weapon_Firelight_VoidGauntlet">Palący dotyk</string>
+	<string key="Skin_Mar2023_VoidGauntlet_Description" rel_version="Weapon_Firelight_VoidGauntlet">Gruba skóra chroni cię przed wysoką temperaturą otoczenia. Nie każdy ma tak dobrze.</string>
+	<string key="Skin_Mar2023_Blunderbuss_MasterName" rel_version="Weapon_Firelight_Blunderbuss">Rozświetlacz szlaków</string>
+	<string key="Skin_Mar2023_Blunderbuss_Description" rel_version="Weapon_Firelight_Blunderbuss">"No dobrze. Ty prowadzisz.”</string>
+	<string key="Skin_Mar2023_Greatsword_MasterName" rel_version="Weapon_Firelight_Greatsword">Liżący płomień</string>
+	<string key="Skin_Mar2023_Greatsword_Description" rel_version="Weapon_Firelight_Greatsword">Wystrzegaj się nieprzewidywalnych języków ognia.</string>
+	<string key="Skin_Mar2023_FishingPole_MasterName" rel_version="ToolSkins_Firelight">Latarnio-wędka</string>
+	<string key="Skin_Mar2023_FishingPole_Description" rel_version="ToolSkins_Firelight">Po obróceniu i pewnych modyfikacjach nawet latarnia nadaje się na wędkę.</string>
+	<string key="Skin_Mar2023_AzothStaff_MasterName" rel_version="ToolSkins_Firelight">Berło ognistego światła</string>
+	<string key="Skin_Mar2023_AzothStaff_Description" rel_version="ToolSkins_Firelight">"Bądź światłem".</string>
+	<string key="Skin_Mar2023_LoggingAxe_MasterName" rel_version="ToolSkins_Firelight">Kontrolowane wypalanie</string>
+	<string key="Skin_Mar2023_LoggingAxe_Description" rel_version="ToolSkins_Firelight">"Tylko ty możesz zapobiec pożarom lasu".</string>
+	<string key="Skin_Mar2023_Pickaxe_MasterName" rel_version="ToolSkins_Firelight">Płomień o północy</string>
+	<string key="Skin_Mar2023_Pickaxe_Description" rel_version="ToolSkins_Firelight">Połączenie latarni i kilofa jest niebezpieczne, ale wygodne.</string>
+	<string key="Skin_Mar2023_Sickle_MasterName" rel_version="ToolSkins_Firelight">Wycinacz z kutego żelaza</string>
+	<string key="Skin_Mar2023_Sickle_Description" rel_version="ToolSkins_Firelight">Gorąco, w którym został wykuty, wciąż drzemie w jego ostrzu.</string>
+	<string key="Skin_Mar2023_SkinningKnife_MasterName" rel_version="ToolSkins_Firelight">Gorące żelazo</string>
+	<string key="Skin_Mar2023_SkinningKnife_Description" rel_version="ToolSkins_Firelight">"Jak gorący nóż w masło".</string>
+	<string key="Skin_Mar2023_DrumsFirelightT5_MasterName" rel_version="Instrument_Firelight_Drums">Pozłacane płomieniste bębny</string>
+	<string key="Skin_Mar2023_DrumsFirelightT5_Description" rel_version="Instrument_Firelight_Drums">W tych bębnach zaklęto odgłosy burzy z piorunami zrodzonej pośród gorących piasków.</string>
+	<string key="Skin_Mar2023_GuitarFirelightT5_MasterName" rel_version="Instrument_Firelight_Guitar">Pozłacana płomienista gitara</string>
+	<string key="Skin_Mar2023_GuitarFirelightT5_Description" rel_version="Instrument_Firelight_Guitar">Gra na tej gitarze jest niczym spotkanie z dawno niewidzianym znajomym – każdy dźwięk jest ciepły i podnoszący na duchu.</string>
+	<string key="Skin_Mar2023_URBassFirelightT5_MasterName" rel_version="Instrument_Firelight_Bass">Pozłacany płomienisty bas</string>
+	<string key="Skin_Mar2023_URBassFirelightT5_Description" rel_version="Instrument_Firelight_Bass">Dźwięki tego basu przywodzą na myśl samotny płomień palący się w głębi cichej ziemi.</string>
+	<string key="House_HousingItem_Pet_Entitlement_Wolf_Fire_MasterName" rel_version="Housing_Firelight_MTX_Pack_2023">Cienisty ogień</string>
+	<string key="House_HousingItem_Pet_Entitlement_Wolf_Fire_Description" rel_version="Housing_Firelight_MTX_Pack_2023">Chociaż przerażający i dziki, ten strażnik o ciepłym sercu jest lojalny i zaskakująco milutki.</string>
+	<string key="House_HousingItem_Firelight_MTX_ShadowBox_MasterName" rel_version="Housing_Firelight_MTX_Pack_2023">Gablotka sylwetki płonących piasków</string>
+	<string key="House_HousingItem_Firelight_MTX_ShadowBox_Description" rel_version="Housing_Firelight_MTX_Pack_2023">Ta gablotka przyciąga wzrok, zapraszając do serca Piaskobrzegów.</string>
+	<string key="House_HousingItem_Firelight_MTX_Lantern_Hanging_MasterName" rel_version="Housing_Firelight_MTX_Pack_2023">Zawieszona lampa mrugających ogników</string>
+	<string key="House_HousingItem_Firelight_MTX_Lantern_Hanging_Description" rel_version="Housing_Firelight_MTX_Pack_2023">Przymocowana lampa, która rzuca cienie przypominające wyginających się akrobatów.</string>
+	<string key="House_HousingItem_Firelight_MTX_Lantern_Table_MasterName" rel_version="Housing_Firelight_MTX_Pack_2023">Lampa mrugających ogników</string>
+	<string key="House_HousingItem_Firelight_MTX_Lantern_Table_Description" rel_version="Housing_Firelight_MTX_Pack_2023">Lampa stołowa, w której wiją się małe, tańczące postaci.</string>
+	<string key="House_HousingItem_Firelight_MTX_Lantern_Standing_MasterName" rel_version="Housing_Firelight_MTX_Pack_2023">Latarnia mrugających ogników</string>
+	<string key="House_HousingItem_Firelight_MTX_Lantern_Standing_Description" rel_version="Housing_Firelight_MTX_Pack_2023">Stojąca latarnia, która wypełnia pomieszczenie blaskiem żywotnych wykonawców.</string>
+	<string key="House_HousingItem_Firelight_MTX_FireScreen_MasterName" rel_version="Housing_Firelight_MTX_Pack_2023">Stalowa kratka paleniska</string>
+	<string key="House_HousingItem_Firelight_MTX_FireScreen_Description" rel_version="Housing_Firelight_MTX_Pack_2023">Ta pozłacana kratka tworzy kapliczkę ognia, która sprowadza do domostwa ciepło.</string>
+	<string key="House_HousingItem_Firelight_MTX_Rug_MasterName" rel_version="Housing_Firelight_MTX_Pack_2023">Mata gwiazdy zmierzchu</string>
+	<string key="House_HousingItem_Firelight_MTX_Rug_Description" rel_version="Housing_Firelight_MTX_Pack_2023">Włókna tego dywanu są wyjątkowo ciepłe, jakby wchłonęły całe ciepło zachodzącego słońca.</string>
+	<string key="CampSkin_Firelight01_A_MasterName" rel_version="CampSkin_Firelight_1">Jurta oświetlona latarniami</string>
+	<string key="CampSkin_Firelight01_A_Description" rel_version="CampSkin_Firelight_1">Rozświetl mroki nocy z tego przytulnego wnętrza, które osłoni cię przed najostrzejszym wiatrem Aeternum.</string>
+	<string key="CampSkin_Firelight01_B_MasterName" rel_version="CampSkin_Firelight_2">Pierścień ognia</string>
+	<string key="CampSkin_Firelight01_B_Description" rel_version="CampSkin_Firelight_2">Światło lśni ze wszystkich stron, wypełniając przestrzeń miłym blaskiem.</string>
 </resources>
 

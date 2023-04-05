@@ -9,16 +9,16 @@
 	<string key="ui_acceptsrarity">Benötigte Seltenheit</string>
 	<string key="ui_acceptscraftsmanship">Benötigte Handwerkskunst</string>
 	<string key="ui_howmany">MENGE</string>
-	<string key="ui_postorderfor">Auftrag erteilen für:</string>
-	<string key="ui_unitprice">Stückpreis:</string>
+	<string key="ui_postorderfor">Angebotsdauer</string>
+	<string key="ui_unitprice">Stückpreis</string>
 	<string key="ui_plusfee">({total} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; + {fee} Gebühr)</string>
 	<string key="ui_buyOrderFee">({total} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; +{fee} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; Gebühr)</string>
 	<string key="ui_minusfee">({total} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; - {fee} Gebühr)</string>
 	<string key="ui_listingfee">Angebotsgebühr</string>
 	<string key="ui_total">Insgesamt</string>
 	<string key="ui_balance">Neues Guthaben</string>
-	<string key="ui_quantity">Menge:</string>
-	<string key="ui_placeorder">Auftrag erteilen</string>
+	<string key="ui_quantity">Menge</string>
+	<string key="ui_placeorder">Bestätigen</string>
 	<string key="ui_browse">Stöbern</string>
 	<string key="ui_browseitem">&lt;img src="lyshineui/images/icons/contracts/contracts_iconBrowse" xPadding="0" scale="1.5" yOffset="5.2"&gt;&lt;/img&gt; Gegenstände durchsuchen</string>
 	<string key="ui_sellmyitem">&lt;img src="lyshineui/images/icons/contracts/contracts_iconSell" xPadding="0" scale="1.5" yOffset="5.2"&gt;&lt;/img&gt; Meine Gegenstände verkaufen</string>
@@ -31,7 +31,7 @@
 	<string key="ui_gem_selection_button_specific">Edelstein: {name}</string>
 	<string key="ui_perk_selection_button_none">Effekte: Keine ausgewählt</string>
 	<string key="ui_perk_selection_button_some">Effekte: {number} ausgewählt</string>
-	<string key="ui_perk_selection_apply_filters">Filter anwenden</string>
+	<string key="ui_perk_selection_apply_filters">Anwenden</string>
 	<string key="ui_perk_selection_clear_filters">Alles löschen</string>
 	<string key="ui_perk_selection_reset">Zurücksetzen</string>
 	<string key="ui_perk_selection_selected">Ausgewählt:</string>
@@ -42,24 +42,24 @@
 	<string key="ui_perk_selection_dropdown_only_selected_perks">Nur ausgewählte Effekte</string>
 	<string key="ui_perk_selection_search_perks">Effekte durchsuchen</string>
 	<string key="ui_perk_filter_popup_title">Filter</string>
-	<string key="ui_perk_filter_popup_price">Preis</string>
-	<string key="ui_perk_filter_popup_price_min">Min. Preis</string>
-	<string key="ui_perk_filter_popup_price_max">Max. Preis</string>
+	<string key="ui_perk_filter_popup_price">Preisspanne</string>
+	<string key="ui_perk_filter_popup_price_min">Minimum</string>
+	<string key="ui_perk_filter_popup_price_max">Maximum</string>
 	<string key="ui_perk_filter_popup_price_range">Preis: {minValue}-{maxValue}</string>
-	<string key="ui_perk_filter_popup_gearscore">Rüstwert</string>
-	<string key="ui_perk_filter_popup_gearscore_min">Min. Rüstwert</string>
-	<string key="ui_perk_filter_popup_gearscore_max">Max. Rüstwert</string>
+	<string key="ui_perk_filter_popup_gearscore">Rüstwertspanne</string>
+	<string key="ui_perk_filter_popup_gearscore_min">Minimum</string>
+	<string key="ui_perk_filter_popup_gearscore_max">Maximum</string>
 	<string key="ui_perk_filter_popup_gearscore_range">Rüstwert: {minValue}-{maxValue}</string>
 	<string key="ui_perk_filter_popup_range_max">Max.</string>
 	<string key="ui_perk_filter_popup_attributes">Attribute</string>
 	<string key="ui_perk_filter_popup_attributes_single_only">Nur ein Attribut</string>
 	<string key="ui_perk_filter_popup_attributes_disabled">Du kannst nicht mehr als {maxValue} Attribute auswählen. Entferne ein Attribut, um ein anderes auszuwählen.</string>
 	<string key="ui_perk_filter_popup_perk">Effekt</string>
-	<string key="ui_perk_filter_popup_perk_none_selected">Kein Effekt ausgewählt</string>
+	<string key="ui_perk_filter_popup_perk_none_selected">Keine ausgewählt</string>
 	<string key="ui_perk_filter_popup_perk_count">({quantity}/{maxCount}) Effekte ausgewählt</string>
-	<string key="ui_perk_filter_popup_add_perks">Effekte hinzufügen</string>
+	<string key="ui_perk_filter_popup_add_perks">Effekt hinzufügen</string>
 	<string key="ui_perk_filter_popup_gem">Edelstein</string>
-	<string key="ui_perk_filter_popup_gem_none_selected">Kein Edelstein ausgewählt</string>
+	<string key="ui_perk_filter_popup_gem_none_selected">Keine ausgewählt</string>
 	<string key="ui_perk_filter_popup_gem_count">({quantity}/{maxCount}) Edelsteine ausgewählt</string>
 	<string key="ui_perk_filter_popup_add_gem">Edelstein hinzufügen</string>
 	<string key="ui_perk_filter_popup_single_attribute_only">Nur ein Attribut</string>
@@ -89,9 +89,9 @@
 	<string key="ui_howManySelling">MENGE</string>
 	<string key="ui_accepts_rarities">Benötigte Seltenheitsgrade</string>
 	<string key="ui_accepts_craftmanships">Benötigte Handwerkskünste</string>
-	<string key="ui_inventoryandoutpoststorage">Meine verkäuflichen Gegenstände</string>
+	<string key="ui_inventoryandoutpoststorage">Meine Gegenstände</string>
 	<string key="ui_selltab_searchItem">Gegenstände in Inventar und Außenpostenlager suchen</string>
-	<string key="ui_selltab_cantSellDamagedItems">Du kannst nur Gegenstände verkaufen, die noch über &lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;maximale Strapazierfähigkeit&lt;/font&gt;&lt;/font&gt; verfügen und nicht an dich gebunden sind.</string>
+	<string key="ui_selltab_cantSellDamagedItems">Du kannst nur Gegenstände verkaufen, die noch über maximale Strapazierfähigkeit verfügen und nicht an dich gebunden sind.</string>
 	<string key="ui_selltab_hiddenDamagedItemSingular">&lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Ein Gegenstand&lt;/font&gt;&lt;/font&gt; wurde ausgeblendet.</string>
 	<string key="ui_selltab_hiddenDamagedItems">&lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{number} Gegenstände&lt;/font&gt;&lt;/font&gt; wurden ausgeblendet.</string>
 	<string key="ui_selltab_dyed_item_warning_title">Gefärbten Gegenstand handeln</string>
@@ -101,7 +101,7 @@
 	<string key="ui_item_name_with_tier">&lt;font face="lyshineui/fonts/Pica_Italic.font" color="#f2e8ae"&gt;{tierString} &lt;/font&gt; {itemName}</string>
 	<string key="ui_currentoutpost">AKTUELLER HANDELSPOSTEN:</string>
 	<string key="ui_confirmedKills">Um bestätigte Abschüsse zu verkaufen, musst du den entsprechenden Gegenstand im Inventar haben.</string>
-	<string key="ui_outpostshowing">Aufträge anzeigen für</string>
+	<string key="ui_outpostshowing">Aufträge von</string>
 	<string key="ui_outpostselectorlabelnone">Nichts</string>
 	<string key="ui_outpostselectorlabelmore">{outpostName} … +{numOtherOutposts}</string>
 	<string key="ui_selectallouposts">Alle Siedlungen</string>
@@ -118,16 +118,16 @@
 	<string key="ui_postordererror_noQuantity">Zum Erteilen eines Auftrags musst du erst die Menge festlegen!</string>
 	<string key="ui_postordererror_noUnitPrice">Zum Erteilen eines Auftrags musst du erst den Stückpreis festlegen!</string>
 	<string key="ui_postordererror_noRarity">Wähle zum Erteilen eines Auftrags mindestens eine Seltenheitsstufe aus.</string>
-	<string key="ui_no_existing_sell_contracts">Es gibt keine Verkaufsaufträge.</string>
-	<string key="ui_no_existing_buy_contracts">Es gibt keine Kaufaufträge.</string>
+	<string key="ui_no_existing_sell_contracts">Keine bestehenden Verkaufsaufträge.</string>
+	<string key="ui_no_existing_buy_contracts">Keine bestehenden Kaufaufträge.</string>
 	<string key="ui_instant_buy_failed">Sofortkauf fehlgeschlagen.</string>
 	<string key="ui_instant_sell_failed">Sofortverkauf fehlgeschlagen.</string>
 	<string key="ui_instant_no_more_items">Es sind keine Gegenstände mehr für den Verkauf verfügbar.</string>
 	<string key="ui_my_orders">&lt;img src="lyshineui/images/icons/contracts/contracts_iconMyorders" xPadding="0" scale="1.5" yOffset="5.6"&gt;&lt;/img&gt; Meine Aufträge</string>
 	<string key="ui_my_orders_notify">&lt;img src="lyshineui/images/encumbrance/iconExclamation" xPadding="0" scale="1" yOffset="3"&gt;&lt;/img&gt; Meine Aufträge</string>
 	<string key="ui_myorders">Meine Aufträge</string>
-	<string key="ui_myorders_with_count_max">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{count}&lt;/font&gt;&lt;/font&gt; Aktive Kauf- und Verkaufsaufträge – insgesamt {max} erlaubt</string>
-	<string key="ui_active_orders">Aktive Aufträge</string>
+	<string key="ui_myorders_with_count_max">Aktive Kauf- und Verkaufsaufträge ({count}/{max})</string>
+	<string key="ui_active_orders">Aktiv</string>
 	<string key="ui_ended_orders">Abgeschlossen/Abgelaufen</string>
 	<string key="ui_select_to_sell">Zu verkaufenden Gegenstand auswählen</string>
 	<string key="ui_order_detail">Auftragsdetails</string>
@@ -148,6 +148,7 @@
 	<string key="ui_contract_previous_freeweekend_encourage">Du musst mindestens drei Stunden Spielzeit haben, um im Handelsposten etwas kaufen oder verkaufen zu können.</string>
 	<string key="ui_contract_failure_server_error">Serverfehler.</string>
 	<string key="ui_contract_failure_creator_cannot_complete">Du kannst keinen selbst erstellten Auftrag erfüllen.</string>
+	<string key="ui_contract_failure_cross_world">Du kannst den Handelsposten nicht nutzen, während du dich in einer weltübergreifenden Instanz befindest.</string>
 	<string key="ui_contract_failure_invalid_request">Die Auftragsanfrage war ungültig.</string>
 	<string key="ui_contract_failure_inventory_full">Inventar voll.</string>
 	<string key="ui_contract_failure_throttled">Anfrage wurde abgebrochen. Bitte warte einen Moment und versuche es später erneut.</string>
@@ -193,8 +194,8 @@
 	<string key="ui_contract_reason_failed">&lt;font color="#b45353"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Fehlgeschlagen&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_contract_reason_cancelled">&lt;font color="#b45353"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Gekündigt&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_contract_reason_expired">&lt;font color="#b45353"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Abgelaufen&lt;/font&gt;&lt;/font&gt;</string>
-	<string key="ui_no_existing_ended_contracts">Es gibt keine erfüllten Aufträge.</string>
-	<string key="ui_no_existing_active_contracts">Es gibt keine aktiven Aufträge.</string>
+	<string key="ui_no_existing_ended_contracts">Keine erfüllten Aufträge.</string>
+	<string key="ui_no_existing_active_contracts">Keine aktiven Aufträge.</string>
 	<string key="ui_quant">Mng</string>
 	<string key="ui_avail">Vorh.</string>
 	<string key="ui_contract_count_none">&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;&lt;font color="#d66d6d"&gt;Keine&lt;/font&gt;&lt;/font&gt;</string>
@@ -210,14 +211,14 @@
 	<string key="ui_view_my_outpost_storage">Mein Außenpostenlager ansehen</string>
 	<string key="ui_totalnumbuyandsellorders">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{numOrders}&lt;/font&gt;&lt;/font&gt; Kauf- und Verkaufsaufträge verfügbar</string>
 	<string key="ui_alloutposts">Alle Außenposten</string>
-	<string key="ui_buyFromOrder">Gegenstand von diesem Auftrag kaufen.</string>
-	<string key="ui_sellToOrder">Gegenstand an diesen Auftrag verkaufen.</string>
+	<string key="ui_buyFromOrder">Von diesem Auftrag kaufen.</string>
+	<string key="ui_sellToOrder">An diesen Auftrag verkaufen.</string>
 	<string key="ui_noItemAvailable">Kein Gegenstand verfügbar.</string>
 	<string key="ui_noItemAvailable_desc">Du verfügst über keinen Gegenstand, der den Anforderungen dieses Auftrags entspricht!</string>
 	<string key="ui_orderNotAvailable">Auftrag ist nicht verfügbar.</string>
 	<string key="ui_orderNotAvailable_desc">Dieser Auftrag wurde bereits von anderen Spielern erfüllt oder ist abgelaufen.</string>
 	<string key="ui_bought">Gekauft</string>
-	<string key="ui_noInventory">Kein Gegenstand zum Verkauf vorhanden.</string>
+	<string key="ui_noInventory">Keine verkäuflichen Gegenstände.</string>
 	<string key="ui_sellAll">Alle verkaufen</string>
 	<string key="ui_cantsellall">Alle verkaufen</string>
 	<string key="ui_buyClaim">Gebietsurkunde kaufen</string>
@@ -225,19 +226,19 @@
 	<string key="ui_buy_icon">&lt;img src="lyshineui/images/icons/contracts/contracts_iconBuy" xPadding="0" scale="1.5" yOffset="5.6"&gt;&lt;/img&gt; KAUFEN</string>
 	<string key="ui_sell_icon">&lt;img src="lyshineui/images/icons/contracts/contracts_iconSell" xPadding="0" scale="1.5" yOffset="5.6"&gt;&lt;/img&gt; VERKAUFEN</string>
 	<string key="ui_invalid_outpost_markup">&lt;font color="#b45353"&gt;{outpostName}&lt;/font&gt;</string>
-	<string key="ui_current_outpost_label">{outpostName} (Aktueller Handelsposten)</string>
+	<string key="ui_current_outpost_label">{outpostName} (Hier)</string>
 	<string key="ui_invalid_price_markup">&lt;font color="#b45353"&gt;{price}&lt;/font&gt;</string>
 	<string key="ui_trading_post_in_progress">Der Handelsposten wird noch errichtet.</string>
-	<string key="ui_listingunitprice">Stückpreisauflistung</string>
+	<string key="ui_listingunitprice">Stückpreis</string>
 	<string key="ui_transactionCharge">Transaktionsgebühr</string>
-	<string key="ui_earningPerUnit">Dein Verdienst pro Stück</string>
+	<string key="ui_earningPerUnit">Verdienst pro Stück</string>
 	<string key="ui_postOrder">Auftrag erteilen</string>
 	<string key="ui_postOrderAtLossWarning">Achtung: Mit diesem Auftrag verlierst du Geld.\nTrotzdem fortfahren?</string>
 	<string key="ui_category_sellOrders">Verkaufsaufträge</string>
 	<string key="ui_category_buyOrders">Kaufaufträge</string>
 	<string key="ui_min_gear_score">Min. Rüstwert</string>
-	<string key="ui_buyorder_add_perk">+ Effekt hinzufügen …</string>
-	<string key="ui_buyorder_add_gem_socket">+ Edelsteinsockel hinzufügen …</string>
+	<string key="ui_buyorder_add_perk">Effekt hinzufügen</string>
+	<string key="ui_buyorder_add_gem_socket">Edelstein hinzufügen</string>
 	<string key="ui_buyorder_any_perk">(beliebiger Effekt)</string>
 	<string key="ui_buyorder_any_gem">(beliebiger Edelstein)</string>
 	<string key="ui_perk_selector_any_perk">Beliebiger Effekt</string>
@@ -251,11 +252,11 @@
 	<string key="ui_select_gem">Edelstein auswählen</string>
 	<string key="ui_select_perk">Effekte auswählen</string>
 	<string key="ui_buyorder_has_these_properties">BESITZT DIESE EIGENSCHAFTEN</string>
-	<string key="ui_buyorder_tier_label">Rang:</string>
-	<string key="ui_buyorder_gear_score_label">Rüstwert:</string>
-	<string key="ui_buyorder_gem_socket_label">Edelsteinsockel:</string>
-	<string key="ui_buyorder_rarity_label">Seltenh.:</string>
-	<string key="ui_buyorder_perk_label">Effekt:</string>
+	<string key="ui_buyorder_tier_label">Rang</string>
+	<string key="ui_buyorder_gear_score_label">Rüstwert</string>
+	<string key="ui_buyorder_gem_socket_label">Edelsteinsockel</string>
+	<string key="ui_buyorder_rarity_label">Seltenheit</string>
+	<string key="ui_buyorder_perk_label">Effekt</string>
 	<string key="ui_exclusive_perk_popup_title">Exkl. Effekt ausgewählt</string>
 	<string key="ui_exclusive_perk_popup_message">Du kannst nur einen Effekt dieses Typs haben. Möchtest du deinen aktuell ausgewählten Effekt dieses Typs durch den neu ausgewählten ersetzen?</string>
 	<string key="ui_exclusive_perk_popup_message_no_replace">{newPerkName} und {selectedPerkName} sind exklusiv und können nicht gleichzeitig ausgewählt werden.</string>
@@ -274,8 +275,24 @@
 	<string key="ui_contract_gearscore_icon">&lt;img src="lyshineui/images/icons/misc/icon_gearscore_tan" xPadding="0" scale="1.8" yOffset="4"&gt;&lt;/img&gt;</string>
 	<string key="ui_contract_time">Zeit</string>
 	<string key="ui_order_tooltip">Verfügbare Aufträge in dieser Kategorie: \n&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{number}&lt;/font&gt;</string>
-	<string key="ui_available_buy_orders">Kaufaufträge für diesen Gegenstand</string>
+	<string key="ui_available_buy_orders">Aktuelle Kaufaufträge</string>
 	<string key="ui_item_attribute">{attributeName} &lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{statValue}&lt;/font&gt;</string>
 	<string key="ui_item_attributes_separator">, </string>
+	<string key="compensations_column_name" rel_version="Feature_Make_Good">Name</string>
+	<string key="compensations_column_status" rel_version="Feature_Make_Good">Status</string>
+	<string key="compensations_column_date" rel_version="Feature_Make_Good">Datum</string>
+	<string key="compensations_column_message" rel_version="Feature_Make_Good">Nachricht</string>
+	<string key="compensations_notification_message" rel_version="Feature_Make_Good">Nachricht</string>
+	<string key="compensations_notification_title" rel_version="Feature_Make_Good">Entschädigung verfügbar</string>
+	<string key="ui_compensations_available_desc_mult" rel_version="Feature_Make_Good">Du hast &lt;font color={color}&gt;{number} ausstehende Entschädigungen&lt;/font&gt;!</string>
+	<string key="ui_compensations_available_desc_one" rel_version="Feature_Make_Good">Du hast &lt;font color={color}&gt;1 ausstehende Entschädigung&lt;/font&gt;!</string>
+	<string key="ui_claim" rel_version="Feature_Make_Good">Beanspruchen</string>
+	<string key="ui_claimed" rel_version="Feature_Make_Good">Beansprucht</string>
+	<string key="ui_unclaimed_contract" rel_version="Feature_Make_Good">Unbeansprucht</string>
+	<string key="compensations_coin" rel_version="Feature_Make_Good">{number} Taler</string>
+	<string key="compensations_delivery_message" rel_version="Feature_Make_Good">Dieser Gegenstand wird in dein Inventar überführt.</string>
+	<string key="compensations_popup_title" rel_version="Feature_Make_Good">Entschädigung</string>
+	<string key="compensations_popup_message" rel_version="Feature_Make_Good">Erteilungsdatum: {dateString} \n\n{messageString}\n\nNach der Annahme verfällt diese Nachricht nach 30 Tagen. Ausstehende Nachrichten verfallen nach einem Jahr.</string>
+	<string key="compensations_cannot_claim" rel_version="Feature_Make_Good">Beanspruchen aufgrund eines vollen Inventars/einer vollen Geldbörse nicht möglich.</string>
 </resources>
 

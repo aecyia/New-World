@@ -22,7 +22,7 @@
 	<string key="ui_territory_claimed_title">Terytorium przejęte</string>
 	<string key="ui_territory_current">Obecne terytorium:</string>
 	<string key="ui_territory_controlling_faction">Frakcja kontrolująca:</string>
-	<string key="ui_territory_not_claimed_desc">Gdy to terytorium zostanie przejęte, będzie można wykonywać misje PvP zapewniające wpływy, które umożliwią twojej frakcji wypowiedzenie wojny. Jednak póki co pomóż swojej frakcji zająć to terytorium!</string>
+	<string key="ui_territory_not_claimed_desc">Przejmij to terytorium, by wykonywać misje PvP zapewniające wpływy, które umożliwią twojej frakcji wypowiedzenie wojny.</string>
 	<string key="ui_territory_upgrade_cancelled">Ulepszenie anulowane (w miejscu: {territoryName})</string>
 	<string key="ui_territory_upgraded">Terytorium ulepszone</string>
 	<string key="ui_territory_standinglabel">Ranga {territoryName}</string>
@@ -101,11 +101,11 @@
 	<string key="ui_attribute_and_mastery_points_available">Liczba niewydanych punktów cech: {attributePoints}. Liczba niewydanych punktów biegłości: {masteryPoints}</string>
 	<string key="ui_attribute_points_available">Liczba niewydanych punktów cech: {attributePoints}</string>
 	<string key="ui_mastery_points_available">Liczba niewydanych punktów biegłości: {masteryPoints}</string>
-	<string key="ui_standing_tokens_available">Masz {standingTokens} niewydanych punktów rangi terytoriów</string>
+	<string key="ui_standing_tokens_available">Masz niewydane punkty rangi terytoriów: {standingTokens}</string>
 	<string key="ui_points_available">ULEPSZENIE DOSTĘPNE</string>
-	<string key="ui_mastery_point">Punkt biegłości</string>
-	<string key="ui_attribute_point">Punkt cech</string>
-	<string key="ui_standing_point">Punkt rangi terytorium</string>
+	<string key="ui_mastery_point">Punkty biegłości</string>
+	<string key="ui_attribute_point">Punkty cech</string>
+	<string key="ui_standing_point">Punkty rangi terytorium</string>
 	<string key="ui_cinematics_banner_msq_actone_title_label">AKT I</string>
 	<string key="ui_cinematics_banner_msq_actone_chapterone_title_text">Rozdział I</string>
 	<string key="ui_cinematics_banner_msq_actone_chapterone_title_description">Diabelski sztorm</string>

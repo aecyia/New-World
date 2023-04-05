@@ -5,7 +5,7 @@
 	<string key="ui_calendar_event_button_go">Andiamo!</string>
 	<string key="ui_calendar_event_button_view_details">Dettagli</string>
 	<string key="ui_rewardtype_event_progress">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{displayName}&lt;/font&gt;</string>
-	<string key="ui_news_button">Novità</string>
+	<string key="ui_news_button">Eventi e novità</string>
 	<string key="ui_news_button_no_news">Nessuna storia nuova disponibile.</string>
 	<string key="ui_event_progress_name">Reputazione evento</string>
 	<string key="ui_event">Evento</string>
@@ -19,21 +19,21 @@
 	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Il sale di Azoth è una valuta che ti consente di ottenere ricompense nei percorsi PvP. Puoi ottenere sale di Azoth impegnandoti in Guerra, Carica all'avamposto, arene 3 vs 3, missioni PvP, uccidendo personaggi in mondo aperto e ottenendo PE con PvP attivo.</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">RICOMPENSE</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Scegli tra ricompense uniche come armature e armi prestigiose, emote, valute e consumabili.</string>
-	<string key="ui_event_weapon_xp_tabname">Aumento PE armi</string>
-	<string key="ui_event_weapon_xp_title">BONUS PE ARMI QUESTA SETTIMANA</string>
-	<string key="ui_event_weapon_xp_desc">Il bonus viene attivato:</string>
-	<string key="ui_event_gathering_xp_tabname">Aumento PE raccolta</string>
-	<string key="ui_event_gathering_xp_title">BONUS PE RACCOLTA QUESTA SETTIMANA</string>
-	<string key="ui_event_gathering_xp_desc">Il bonus viene attivato:</string>
-	<string key="ui_event_character_xp_tabname">Aumento PE livello</string>
+	<string key="ui_event_weapon_xp_tabname">Evento PE</string>
+	<string key="ui_event_weapon_xp_title">EVENTO BONUS PE ARMI</string>
+	<string key="ui_event_weapon_xp_desc">Bonus attivi:</string>
+	<string key="ui_event_gathering_xp_tabname">Evento PE</string>
+	<string key="ui_event_gathering_xp_title">EVENTO BONUS PE RACCOLTA</string>
+	<string key="ui_event_gathering_xp_desc">Bonus attivi:</string>
+	<string key="ui_event_character_xp_tabname">Evento PE</string>
 	<string key="ui_event_character_xp_title">EVENTO BONUS PE LIVELLO PERSONAGGIO</string>
-	<string key="ui_event_character_xp_desc">Il bonus viene attivato:</string>
-	<string key="ui_event_refining_xp_tabname">Aumento PE lavorazione</string>
-	<string key="ui_event_refining_xp_title">BONUS PE LAVORAZIONE QUESTA SETTIMANA</string>
-	<string key="ui_event_refining_xp_desc">Il bonus viene attivato:</string>
-	<string key="ui_event_extravaganza_tabname">Insolito bonus PE</string>
-	<string key="ui_event_extravaganza_title">INSOLITO BONUS PE</string>
-	<string key="ui_event_extravaganza_desc">Il bonus viene attivato:</string>
+	<string key="ui_event_character_xp_desc">Bonus attivi:</string>
+	<string key="ui_event_refining_xp_tabname">Evento PE</string>
+	<string key="ui_event_refining_xp_title">EVENTO BONUS PE LAVORAZIONE</string>
+	<string key="ui_event_refining_xp_desc">Bonus attivi:</string>
+	<string key="ui_event_extravaganza_tabname">Evento PE</string>
+	<string key="ui_event_extravaganza_title">EVENTO INSOLITO PE</string>
+	<string key="ui_event_extravaganza_desc">Bonus attivi:</string>
 	<string key="ui_news_end_game_tabname">Gioco avanzato</string>
 	<string key="ui_news_end_game_description">Al livello 60, ora puoi&lt;font color="#ffdb7a"&gt; migliorare il tuo equipaggiamento &lt;/font&gt;con punteggi attrezzatura più alti. Per farlo, dovrai raccogliere gesso visitando vari luoghi e svolgendo attività al Livello 60. Visita una&lt;font color="#ffdb7a"&gt; fornace di gesso &lt;/font&gt;per saperne di più.</string>
 	<string key="ui_end_game_panel1_title">ATTIVITÀ AVANZATE</string>
@@ -84,7 +84,7 @@
 	<string key="ui_news_modal_display_end_datetime">Termina alle ore {endTime} del giorno {endDate}</string>
 	<string key="ui_event_free_weekend_event_message_title" rel_version="Feature_FreeWeekend">Weekend gratuito</string>
 	<string key="ui_event_free_weekend_event_message_description" rel_version="Feature_FreeWeekend">Il weekend gratuito è in corso.</string>
-	<string key="ui_event_free_weekend_description" rel_version="Feature_FreeWeekend">Durante questo evento a tempo limitato, scopri gratuitamente la nuova zona dei Deserti di zolfo, la missione principale rinnovata e gli ultimi aggiornamenti di New World!\n\nPer giocare con gli amici, i personaggi devono trovarsi nello stesso mondo. Chi gioca gratuitamente potrà usufruire di sessioni illimitate, a meno che non ci sia coda per il mondo (alla fine di una sessione, a chi gioca gratuitamente verrà chiesto di rimettersi in coda).\n\nI nuovi giocatori possono anche risparmiare il 50% sulle edizioni Standard e Deluxe di New World se le acquistano tra il 15 dicembre alle 10:00 PT e il 26 dicembre alle 10:00 PT.</string>
+	<string key="ui_event_free_weekend_description" rel_version="Feature_FreeWeekend">Durante questo evento a tempo limitato, scopri gratuitamente la nuova zona dei Deserti di zolfo, la missione principale rinnovata e gli ultimi aggiornamenti di New World!\n\nPer giocare con gli amici, i personaggi devono trovarsi nello stesso mondo. Chi gioca gratuitamente potrà usufruire di sessioni illimitate, a meno che non ci sia coda per il mondo (alla fine di una sessione, a chi gioca gratuitamente verrà chiesto di rimettersi in coda).\n\nI nuovi giocatori possono anche risparmiare il 50% sulle edizioni Standard e Deluxe di New World se le acquistano tra il 15 dicembre alle 10:00 PT e il 5 gennaio alle 10:00 PT.</string>
 	<string key="ui_event_free_weekend" rel_version="Feature_FreeWeekend">Weekend gratuito</string>
 	<string key="ui_event_free_weekend_in_progress_panel1_bullet1_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 1 Title</string>
 	<string key="ui_event_free_weekend_in_progress_panel1_bullet1_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 1 Text</string>
@@ -120,7 +120,7 @@
 	<string key="ui_event_dec_mtx_tabname" rel_version="Entitlements_WinterConvergence_MTX">Negozio</string>
 	<string key="ui_event_dec_mtx_title" rel_version="Entitlements_WinterConvergence_MTX">Convergenza invernale</string>
 	<string key="ui_event_dec_mtx_description" rel_version="Entitlements_WinterConvergence_MTX">Proteggiti dalla devastazione dell'inverno eterno con i nuovi elementi estetici disponibili nel negozio! Quando le giornate si accorceranno e le lunghe notti si tingeranno di terrore, ti converrà poter contare sulle armi e gli indumenti invernali più recenti. Accedi regolarmente al negozio per scoprire gli omaggi di dicembre e approfitta delle nostre offerte invernali! I contenuti speciali esclusivi saranno acquistabili a partire dal 13 dicembre, mentre l'attrezzatura della convergenza invernale dello scorso anno sarà disponibile a partire dal 20 dicembre!</string>
-	<string key="ui_event_dec_mtx_button_about" rel_version="Entitlements_WinterConvergence_MTX">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Convergenza invernale</string>
+	<string key="ui_event_dec_mtx_button_about" rel_version="Entitlements_WinterConvergence_MTX">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Informazioni sulla convergenza invernale</string>
 	<string key="ui_news_store_tabname">Negozio</string>
 	<string key="ui_event_jan_mtx_title" rel_version="Entitlements_WinterDragon">Drago invernale</string>
 	<string key="ui_event_jan_mtx_description" rel_version="Entitlements_WinterDragon">Che la forma dell'inverno sia l'ombra di un drago? Visita il negozio per acquistare nuovi elementi estetici baciati dal soffio gelido del serpente! E preparati al meglio anche in caso di sfide meno letali! Usa l'emote Gara di schiaffi o la Camminata in punta di piedi per allontanarti da risse violente senza farti notare!</string>
@@ -131,11 +131,21 @@
 	<string key="ui_event_feb_mtx_bullet1" rel_version="Entitlements_OmensOfWinter">Skin</string>
 	<string key="ui_event_feb_mtx_bullet2" rel_version="Entitlements_OmensOfWinter">Emote</string>
 	<string key="ui_event_feb_mtx_button_about" rel_version="Entitlements_OmensOfWinter">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Informazioni su Presagi invernali</string>
-	<string key="ui_event_legacy_of_crassus_tabname" rel_version="Event_February_Temp">Lascito di Crasso</string>
-	<string key="ui_event_legacy_of_crassus_title" rel_version="Event_February_Temp">Lascito di Crasso</string>
-	<string key="ui_event_legacy_of_crassus_description" rel_version="Event_February_Temp">La potenza di Roma minaccia Aeternum! Dai la caccia a Decimus e Lucanus, i mostruosi capitani del generale Crasso, ed evita che la tirannia romana abbia il sopravvento. Ottieni ricompense giornaliere oltre a quelle per la sconfitta di questi feroci nemici a Boscobrillante, Palude del tessitore, Valle del cordoglio, Scaglia d'ebano e Frutteto dell'Eden.</string>
-	<string key="ui_event_legacy_of_crassus_about" rel_version="Event_February_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Informazioni su Lascito di Crasso</string>
-	<string key="ui_event_legacy_of_crassus_bullet1" rel_version="Event_February_Temp">Armi giornaliere</string>
-	<string key="ui_event_legacy_of_crassus_bullet2" rel_version="Event_February_Temp">Parti di armatura giornaliere</string>
+	<string key="ui_event_empyrean_forge_tabname" rel_version="Expedition_GreatCleave_01">Fucina empirea</string>
+	<string key="ui_event_empyrean_forge_title" rel_version="Expedition_GreatCleave_01">Fucina empirea</string>
+	<string key="ui_event_empyrean_forge_description" rel_version="Expedition_GreatCleave_01">Leggendaria fonderia presso la quale gli Antichi forgiavano le proprie devastanti macchine da guerra. Tutti coloro che sono assetati di potere bramano la magia occulta che si cela tra queste colossali rovine.</string>
+	<string key="ui_event_empyrean_forge_about" rel_version="Expedition_GreatCleave_01">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Informazioni sulla fucina empirea</string>
+	<string key="ui_event_season_one_tabname" rel_version="Season_1_Perm">Stagioni</string>
+	<string key="ui_event_season_one_title" rel_version="Season_1_Perm">Stagioni</string>
+	<string key="ui_event_season_one_description" rel_version="Season_1_Perm">Accompagna Grace O'Malley in un nuovo viaggio, mentre forma la nuova compagnia di mercenari di Aeternum: i Corvi d'argento.</string>
+	<string key="ui_event_season_one_about" rel_version="Season_1_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Informazioni sulle stagioni</string>
+	<string key="ui_event_season_one_bullet1" rel_version="Season_1_Perm">Pass stagionale</string>
+	<string key="ui_event_season_one_bullet2" rel_version="Season_1_Perm">I Corvi d'argento</string>
+	<string key="ui_event_mar_mtx_title" rel_version="Entitlements_FirelightSeason">Firelight</string>
+	<string key="ui_event_mar_mtx_description" rel_version="Entitlements_FirelightSeason">I fuochi della fucina ardono più vivi che mai nei nuovi oggetti del negozio di questo mese! Sfoggiane il calore con nuove skin e decorazioni. Vivi la competizione con le nuove emote per esprimere trionfo o confortare i poveri nemici umiliati! Approfittane finché il fuoco è acceso!</string>
+	<string key="ui_event_mar_mtx_about" rel_version="Entitlements_FirelightSeason">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Informazioni sulla luce di fuoco</string>
+	<string key="ui_event_mar_mtx_bullet1" rel_version="Entitlements_FirelightSeason">Armature</string>
+	<string key="ui_event_mar_mtx_bullet2" rel_version="Entitlements_FirelightSeason">Armi</string>
+	<string key="ui_event_mar_mtx_bullet3" rel_version="Entitlements_FirelightSeason">Emote</string>
 </resources>
 

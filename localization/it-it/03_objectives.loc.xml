@@ -524,7 +524,7 @@
 	<string key="0325_0101_RL_00_objective_desc" speaker="UI">Raccogli i componenti per realizzare il leggendario guanto di ghiaccio Rimelash.</string>
 	<string key="0325_0101_RL_01_objective_desc" speaker="UI">Raccogli i ceppi corrotti per intrecciare il guanto dal Generale delegato Patrick al Baluardo di Svikin. Parla con la Ranger Madaki a Monte infranto.</string>
 	<string key="0325_0101_RL_02_objective_desc" speaker="UI">Raccogli il rivestimento in oricalco congelato dalla corona gelata nella zona nord di Myrkgard, presso Grande tribolazione.</string>
-	<string key="0325_0101_RL_03_objective_desc" speaker="UI">Raccogli il fungo gelido che cresce sui Guardiano alcazariano élite di Malevolenza per un tocco di gelo in più.</string>
+	<string key="0325_0101_RL_03_objective_desc" speaker="UI">Raccogli i funghi gelidi che crescono sui Guardiani alcazariani élite di Malevolenza per un tocco di gelo in più.</string>
 	<string key="0325_0101_RL_04_objective_desc" speaker="UI">Uccidi i Corrotti lungo il cammino mentre vai a raccogliere il cuore contorto e ghiacciato di S'ylanx l'invisibile per realizzare il nucleo del guanto.</string>
 	<string key="0325_0101_RL_05_objective_desc" speaker="UI">Raccogli le dita forgiate nel gelo dai Corrotti di Caminus per realizzare la mano del guanto.</string>
 	<string key="0325_0101_RL_06_objective_desc" speaker="UI">Raccogli l'ectoplasma assiderante dagli spettri del gelido Borgomorto: il loro freddo resta immutato grazie alla non morte.</string>
@@ -554,7 +554,7 @@
 	<string key="0325_0103_RL_task_01_TaskGoToPOITag" speaker="UI">Cerca il rivestimento in oricalco congelato a Myrkgard presso: {POITags}</string>
 	<string key="0325_0103_RL_task_02a_TaskKillContribution">Sconfiggi la Corruzione di: {targetName}</string>
 	<string key="0325_0103_RL_task_02b_TaskHaveAndReturnItems" speaker="UI">Cerca nei forzieri presso {POITags} per ottenere: {itemName}</string>
-	<string key="0325_0104_RL_task_01_TaskGoToPOITag" speaker="UI">Raccogli il fungo gelido che cresce sui Guardiani delle driadi presso: {POITags}</string>
+	<string key="0325_0104_RL_task_01_TaskGoToPOITag" speaker="UI">Raccogli i funghi gelidi che crescono sui Guardiani delle driadi presso: {POITags}</string>
 	<string key="0325_0104_RL_task_02a_TaskKillContribution">Sconfiggi le driadi: {targetName}</string>
 	<string key="0325_0104_RL_task_02b_TaskHaveAndReturnItems" speaker="UI">Per ottenere {itemName} sconfiggi i grandi costrutti ursini: {targetName}.</string>
 	<string key="0325_0104_RL_task_02c_TaskGameEvent">Estirpa i rampicanti incantati dalle mura di Malevolenza</string>

@@ -524,7 +524,7 @@
 	<string key="0325_0101_RL_00_objective_desc" speaker="UI">Reúne componentes para fabricar la manopla de hielo legendaria Azote Escarchado.</string>
 	<string key="0325_0101_RL_01_objective_desc" speaker="UI">Consigue las ataduras corruptas que asegurarán la manopla del general legado Patrick en el alcázar de los svikin. Habla con la montaraz Madaki en Cima Quebrada.</string>
 	<string key="0325_0101_RL_02_objective_desc" speaker="UI">Consigue el blindaje de oricalco congelado de la corona helada del norte de Myrkgard, Tribulación Mayor.</string>
-	<string key="0325_0101_RL_03_objective_desc" speaker="UI">Consigue hongos helados que crecen sobre los guardianes de la alcazaba de élite de Malevolencia para disfrutar de un toque extra de escarcha.</string>
+	<string key="0325_0101_RL_03_objective_desc" speaker="UI">Consigue los hongos helados que crecen sobre los guardianes de la alcazaba de élite de Malevolencia para disfrutar de un toque extra de escarcha.</string>
 	<string key="0325_0101_RL_04_objective_desc" speaker="UI">Mata corruptos mientras te diriges a hacerte con el corazón retorcido y gélido de S'ylanx el Oculto para crear el núcleo de la manopla.</string>
 	<string key="0325_0101_RL_05_objective_desc" speaker="UI">Consigue la empuñadura forjada en escarcha para crear la mano de la manopla de los corruptos de Caminus.</string>
 	<string key="0325_0101_RL_06_objective_desc" speaker="UI">Consigue ectoplasma erosionador de los espíritus de Perivilla, ya que su frío perdura tras la muerte.</string>
@@ -554,7 +554,7 @@
 	<string key="0325_0103_RL_task_01_TaskGoToPOITag" speaker="UI">Hazte con el blindaje de oricalco congelado de {POITags} en Myrkgard</string>
 	<string key="0325_0103_RL_task_02a_TaskKillContribution">Derrota a los corruptos {targetName}</string>
 	<string key="0325_0103_RL_task_02b_TaskHaveAndReturnItems" speaker="UI">Inspecciona cofres en {POITags} en busca de {itemName}</string>
-	<string key="0325_0104_RL_task_01_TaskGoToPOITag" speaker="UI">Consigue los hongos helados que crecen sobre los guardianes dríades de {POITags}</string>
+	<string key="0325_0104_RL_task_01_TaskGoToPOITag" speaker="UI">Consigue los hongos helados que crecen sobre los guardianes dríades de {POITags}.</string>
 	<string key="0325_0104_RL_task_02a_TaskKillContribution">Derrota a los dríades {targetName}</string>
 	<string key="0325_0104_RL_task_02b_TaskHaveAndReturnItems" speaker="UI">Derrota {targetName}, unas creaciones enormes con forma de oso, y consigue {itemName}</string>
 	<string key="0325_0104_RL_task_02c_TaskGameEvent">Destroza enredaderas encantadas en los muros de Malevolencia</string>

@@ -9,16 +9,16 @@
 	<string key="ui_acceptsrarity">Dozwolona rzadkość</string>
 	<string key="ui_acceptscraftsmanship">Dozwolony rodzaj rzemiosła</string>
 	<string key="ui_howmany">LICZBA</string>
-	<string key="ui_postorderfor">Wystaw ofertę na:</string>
-	<string key="ui_unitprice">Cena za sztukę:</string>
+	<string key="ui_postorderfor">Czas trwania listy</string>
+	<string key="ui_unitprice">Cena za sztukę</string>
 	<string key="ui_plusfee">({total} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; + {fee} prowizji)</string>
 	<string key="ui_buyOrderFee">({total} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; + {fee} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; prowizji)</string>
 	<string key="ui_minusfee">({total} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; – {fee} prowizji)</string>
 	<string key="ui_listingfee">Prowizja za wystawienie:</string>
 	<string key="ui_total">Łącznie:</string>
 	<string key="ui_balance">Nowe saldo:</string>
-	<string key="ui_quantity">Liczba:</string>
-	<string key="ui_placeorder">Wystaw ofertę</string>
+	<string key="ui_quantity">Liczba</string>
+	<string key="ui_placeorder">Potwierdź</string>
 	<string key="ui_browse">Przeglądaj</string>
 	<string key="ui_browseitem">&lt;img src="lyshineui/images/icons/contracts/contracts_iconBrowse" xPadding="0" scale="1.5" yOffset="5.2"&gt;&lt;/img&gt; Przeglądaj przedmioty</string>
 	<string key="ui_sellmyitem">&lt;img src="lyshineui/images/icons/contracts/contracts_iconSell" xPadding="0" scale="1.5" yOffset="5.2"&gt;&lt;/img&gt; Sprzedaj moje przedmioty</string>
@@ -31,36 +31,36 @@
 	<string key="ui_gem_selection_button_specific">Klejnot: {name}</string>
 	<string key="ui_perk_selection_button_none">Profity: nie wybrano</string>
 	<string key="ui_perk_selection_button_some">Profity: wybrano {number}</string>
-	<string key="ui_perk_selection_apply_filters">Zastosuj filtry</string>
+	<string key="ui_perk_selection_apply_filters">Zastosuj</string>
 	<string key="ui_perk_selection_clear_filters">Usuń wszystkie</string>
 	<string key="ui_perk_selection_reset">Zresetuj</string>
 	<string key="ui_perk_selection_selected">Wybrano:</string>
 	<string key="ui_perk_selection_none">(nie wybrano)</string>
-	<string key="ui_perk_selection_count">Wybrane ({quantity}/{maxCount}):</string>
+	<string key="ui_perk_selection_count">Wybrane {quantity}/{maxCount}:</string>
 	<string key="ui_perk_selection_show_items_with">Pokaż przedmioty z:</string>
 	<string key="ui_perk_selection_dropdown_any_selected_perks">Dowolne wybrane profity</string>
 	<string key="ui_perk_selection_dropdown_only_selected_perks">Tylko wybrane profity</string>
 	<string key="ui_perk_selection_search_perks">Szukaj profitów</string>
 	<string key="ui_perk_filter_popup_title">Filtry</string>
-	<string key="ui_perk_filter_popup_price">Cena</string>
-	<string key="ui_perk_filter_popup_price_min">Min. cena</string>
-	<string key="ui_perk_filter_popup_price_max">Maks. cena</string>
+	<string key="ui_perk_filter_popup_price">Zakres cenowy</string>
+	<string key="ui_perk_filter_popup_price_min">Minimum</string>
+	<string key="ui_perk_filter_popup_price_max">Maksimum</string>
 	<string key="ui_perk_filter_popup_price_range">Cena: {minValue} – {maxValue}</string>
-	<string key="ui_perk_filter_popup_gearscore">Pkt wyposażenia</string>
-	<string key="ui_perk_filter_popup_gearscore_min">Min. pkt wyposażenia</string>
-	<string key="ui_perk_filter_popup_gearscore_max">Maks. pkt wyposażenia</string>
+	<string key="ui_perk_filter_popup_gearscore">Zakres punktów wyposażenia</string>
+	<string key="ui_perk_filter_popup_gearscore_min">Minimum</string>
+	<string key="ui_perk_filter_popup_gearscore_max">Maksimum</string>
 	<string key="ui_perk_filter_popup_gearscore_range">Pkt wyposażenia: {minValue} – {maxValue}</string>
 	<string key="ui_perk_filter_popup_range_max">Maks.</string>
 	<string key="ui_perk_filter_popup_attributes">Cechy</string>
 	<string key="ui_perk_filter_popup_attributes_single_only">Tylko jedna cecha</string>
 	<string key="ui_perk_filter_popup_attributes_disabled">Nie możesz wybrać więcej cech niż {maxValue}. Odznacz cechę, by móc wybrać kolejną.</string>
 	<string key="ui_perk_filter_popup_perk">Profit</string>
-	<string key="ui_perk_filter_popup_perk_none_selected">Nie wybrano profitu</string>
-	<string key="ui_perk_filter_popup_perk_count">Wybrane profity: ({quantity}/{maxCount})</string>
-	<string key="ui_perk_filter_popup_add_perks">Dodaj profity</string>
+	<string key="ui_perk_filter_popup_perk_none_selected">Nie wybrano</string>
+	<string key="ui_perk_filter_popup_perk_count">Wybrane profity {quantity}/{maxCount}</string>
+	<string key="ui_perk_filter_popup_add_perks">Dodaj profit</string>
 	<string key="ui_perk_filter_popup_gem">Klejnot</string>
-	<string key="ui_perk_filter_popup_gem_none_selected">Nie wybrano klejnotu</string>
-	<string key="ui_perk_filter_popup_gem_count">Wybrane klejnoty: ({quantity}/{maxCount})</string>
+	<string key="ui_perk_filter_popup_gem_none_selected">Nie wybrano</string>
+	<string key="ui_perk_filter_popup_gem_count">Wybrane klejnoty {quantity}/{maxCount}</string>
 	<string key="ui_perk_filter_popup_add_gem">Dodaj klejnot</string>
 	<string key="ui_perk_filter_popup_single_attribute_only">Tylko jedna cecha</string>
 	<string key="ui_perk_filter_popup_single_attribute_only_tooltip">Jeśli wybierzesz tę opcję, zostaną wyświetlone przedmioty z tylko 1 cechą.</string>
@@ -89,9 +89,9 @@
 	<string key="ui_howManySelling">LICZBA</string>
 	<string key="ui_accepts_rarities">Dozwolone rzadkości</string>
 	<string key="ui_accepts_craftmanships">Dozwolone rodzaje rzemiosła</string>
-	<string key="ui_inventoryandoutpoststorage">Moje przedmioty do sprzedaży</string>
+	<string key="ui_inventoryandoutpoststorage">Moje przedmioty</string>
 	<string key="ui_selltab_searchItem">Szukaj przedmiotów w ekwipunku i magazynie lokalnym</string>
-	<string key="ui_selltab_cantSellDamagedItems">Możesz sprzedać tylko przedmioty o &lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;maksymalnej trwałości&lt;/font&gt;&lt;/font&gt; i nie będące w wyposażeniu.</string>
+	<string key="ui_selltab_cantSellDamagedItems">Możesz sprzedawać jedynie przedmioty, które nie są przypisane do postaci i mają maksymalną trwałość.</string>
 	<string key="ui_selltab_hiddenDamagedItemSingular">Ukryto &lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;1 przedmiot&lt;/font&gt;&lt;/font&gt;.</string>
 	<string key="ui_selltab_hiddenDamagedItems">Ukryto &lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{number} szt. przedmiotów&lt;/font&gt;&lt;/font&gt;.</string>
 	<string key="ui_selltab_dyed_item_warning_title">Handel ufarbowanym przedmiotem</string>
@@ -101,7 +101,7 @@
 	<string key="ui_item_name_with_tier">&lt;font face="lyshineui/fonts/Pica_Italic.font" color="#f2e8ae"&gt;{tierString} &lt;/font&gt; {itemName}</string>
 	<string key="ui_currentoutpost">OBECNA FAKTORIA:</string>
 	<string key="ui_confirmedKills">Aby otrzymać pieniądze za zabitych przeciwników, należy mieć dane przedmioty w ekwipunku.</string>
-	<string key="ui_outpostshowing">Oferty w:</string>
+	<string key="ui_outpostshowing">Oferty z</string>
 	<string key="ui_outpostselectorlabelnone">Brak</string>
 	<string key="ui_outpostselectorlabelmore">{outpostName} ... +({numOtherOutposts})</string>
 	<string key="ui_selectallouposts">Wszystkie osady</string>
@@ -126,8 +126,8 @@
 	<string key="ui_my_orders">&lt;img src="lyshineui/images/icons/contracts/contracts_iconMyorders" xPadding="0" scale="1.5" yOffset="5.6"&gt;&lt;/img&gt; Moje oferty</string>
 	<string key="ui_my_orders_notify">&lt;img src="lyshineui/images/encumbrance/iconExclamation" xPadding="0" scale="1" yOffset="3"&gt;&lt;/img&gt; Moje oferty</string>
 	<string key="ui_myorders">Moje oferty</string>
-	<string key="ui_myorders_with_count_max">Liczba aktywnych ofert kupna i sprzedaży: &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{count}&lt;/font&gt;&lt;/font&gt; (maks. dozwolona liczba: {max})</string>
-	<string key="ui_active_orders">Bieżące oferty</string>
+	<string key="ui_myorders_with_count_max">Aktywne oferty kupna i sprzedaży {count}/{max}</string>
+	<string key="ui_active_orders">Aktywne</string>
 	<string key="ui_ended_orders">Zakończone i wygasłe</string>
 	<string key="ui_select_to_sell">Wybierz przedmioty na sprzedaż</string>
 	<string key="ui_order_detail">Szczegóły oferty</string>
@@ -148,6 +148,7 @@
 	<string key="ui_contract_previous_freeweekend_encourage">Musisz mieć na koncie 3 godziny rozgrywki, by móc kupować lub sprzedawać przedmioty w faktorii.</string>
 	<string key="ui_contract_failure_server_error">Błąd serwera.</string>
 	<string key="ui_contract_failure_creator_cannot_complete">Nie możesz zrealizować oferty utworzonej przez siebie.</string>
+	<string key="ui_contract_failure_cross_world">Nie możesz korzystać z faktorii w instancji pomiędzy światami.</string>
 	<string key="ui_contract_failure_invalid_request">Nieprawidłowe żądanie zrealizowania oferty.</string>
 	<string key="ui_contract_failure_inventory_full">Ekwipunek pełny.</string>
 	<string key="ui_contract_failure_throttled">Prośba odrzucona w ramach ograniczania żądań. Odczekaj chwilę i spróbuj ponownie.</string>
@@ -194,7 +195,7 @@
 	<string key="ui_contract_reason_cancelled">&lt;font color="#b45353"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Anulowany&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_contract_reason_expired">&lt;font color="#b45353"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Wygasły&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_no_existing_ended_contracts">Brak zrealizowanych ofert.</string>
-	<string key="ui_no_existing_active_contracts">Brak bieżących ofert.</string>
+	<string key="ui_no_existing_active_contracts">Brak aktywnych ofert.</string>
 	<string key="ui_quant">Ilość</string>
 	<string key="ui_avail">Dost.</string>
 	<string key="ui_contract_count_none">&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;&lt;font color="#d66d6d"&gt;Brak&lt;/font&gt;&lt;/font&gt;</string>
@@ -225,19 +226,19 @@
 	<string key="ui_buy_icon">&lt;img src="lyshineui/images/icons/contracts/contracts_iconBuy" xPadding="0" scale="1.5" yOffset="5.6"&gt;&lt;/img&gt; KUP</string>
 	<string key="ui_sell_icon">&lt;img src="lyshineui/images/icons/contracts/contracts_iconSell" xPadding="0" scale="1.5" yOffset="5.6"&gt;&lt;/img&gt; SPRZEDAJ</string>
 	<string key="ui_invalid_outpost_markup">&lt;font color="#b45353"&gt;{outpostName}&lt;/font&gt;</string>
-	<string key="ui_current_outpost_label">{outpostName} (obecna faktoria)</string>
+	<string key="ui_current_outpost_label">{outpostName} (Tutaj)</string>
 	<string key="ui_invalid_price_markup">&lt;font color="#b45353"&gt;{price}&lt;/font&gt;</string>
 	<string key="ui_trading_post_in_progress">Faktoria jest budowana.</string>
-	<string key="ui_listingunitprice">Cena brutto za sztukę:</string>
+	<string key="ui_listingunitprice">Cena za sztukę</string>
 	<string key="ui_transactionCharge">Opłata za transakcję:</string>
-	<string key="ui_earningPerUnit">Twój zysk za sztukę:</string>
+	<string key="ui_earningPerUnit">Zysk za sztukę</string>
 	<string key="ui_postOrder">Wystaw ofertę</string>
-	<string key="ui_postOrderAtLossWarning">Uwaga: przez tę ofertę stracisz pieniądze.\nCzy chcesz kontynuować?</string>
+	<string key="ui_postOrderAtLossWarning">Uwaga: przez tę ofertę stracisz monety.\nCzy chcesz kontynuować?</string>
 	<string key="ui_category_sellOrders">Oferty sprzedaży</string>
 	<string key="ui_category_buyOrders">Oferty kupna</string>
 	<string key="ui_min_gear_score">Min. pkt wyposażenia</string>
-	<string key="ui_buyorder_add_perk">+ dodaj profit…</string>
-	<string key="ui_buyorder_add_gem_socket">+ dodaj gniazdo na klejnot…</string>
+	<string key="ui_buyorder_add_perk">Dodaj profit</string>
+	<string key="ui_buyorder_add_gem_socket">Dodaj klejnot</string>
 	<string key="ui_buyorder_any_perk">(dowolny profit)</string>
 	<string key="ui_buyorder_any_gem">(dowolny klejnot)</string>
 	<string key="ui_perk_selector_any_perk">Dowolny profit</string>
@@ -251,11 +252,11 @@
 	<string key="ui_select_gem">Wybierz klejnot</string>
 	<string key="ui_select_perk">Wybierz profity</string>
 	<string key="ui_buyorder_has_these_properties">POSIADA TE WŁAŚCIWOŚCI</string>
-	<string key="ui_buyorder_tier_label">Klasa:</string>
-	<string key="ui_buyorder_gear_score_label">Pkt wyposażenia:</string>
-	<string key="ui_buyorder_gem_socket_label">Gniazdo na klejnot:</string>
-	<string key="ui_buyorder_rarity_label">Rzadkość:</string>
-	<string key="ui_buyorder_perk_label">Profit:</string>
+	<string key="ui_buyorder_tier_label">Klasa</string>
+	<string key="ui_buyorder_gear_score_label">Punkty wyposażenia</string>
+	<string key="ui_buyorder_gem_socket_label">Gniazdo na klejnot</string>
+	<string key="ui_buyorder_rarity_label">Rzadkość</string>
+	<string key="ui_buyorder_perk_label">Profit</string>
 	<string key="ui_exclusive_perk_popup_title">Wybrano ekskluzywny profit</string>
 	<string key="ui_exclusive_perk_popup_message">Możesz wybrać tylko jeden profit tego rodzaju. Czy na pewno chcesz zamienić obecnie używany profit tego rodzaju na wybrany profit?</string>
 	<string key="ui_exclusive_perk_popup_message_no_replace">Profity: {newPerkName} oraz {selectedPerkName} wzajemnie się wykluczają i nie można wybrać ich jednocześnie.</string>
@@ -274,8 +275,24 @@
 	<string key="ui_contract_gearscore_icon">&lt;img src="lyshineui/images/icons/misc/icon_gearscore_tan" xPadding="0" scale="1.8" yOffset="4"&gt;&lt;/img&gt;</string>
 	<string key="ui_contract_time">Czas</string>
 	<string key="ui_order_tooltip">Dostępne oferty z tej kategorii:\n&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{number}&lt;/font&gt;</string>
-	<string key="ui_available_buy_orders">Oferty kupna tego przedmiotu</string>
+	<string key="ui_available_buy_orders">Bieżące oferty kupna</string>
 	<string key="ui_item_attribute">{attributeName} &lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{statValue}&lt;/font&gt;</string>
 	<string key="ui_item_attributes_separator">, </string>
+	<string key="compensations_column_name" rel_version="Feature_Make_Good">Nazwa</string>
+	<string key="compensations_column_status" rel_version="Feature_Make_Good">Stan</string>
+	<string key="compensations_column_date" rel_version="Feature_Make_Good">Data</string>
+	<string key="compensations_column_message" rel_version="Feature_Make_Good">Wiadomość</string>
+	<string key="compensations_notification_message" rel_version="Feature_Make_Good">Wiadomość</string>
+	<string key="compensations_notification_title" rel_version="Feature_Make_Good">Rekompensata dostępna</string>
+	<string key="ui_compensations_available_desc_mult" rel_version="Feature_Make_Good">Twoje &lt;font color={color}&gt;rekompensaty ({number}) czekają&lt;/font&gt; na odbiór!</string>
+	<string key="ui_compensations_available_desc_one" rel_version="Feature_Make_Good">&lt;font color={color}&gt;1 rekompensata czeka&lt;/font&gt; na odbiór!</string>
+	<string key="ui_claim" rel_version="Feature_Make_Good">Odbierz</string>
+	<string key="ui_claimed" rel_version="Feature_Make_Good">Odebrane</string>
+	<string key="ui_unclaimed_contract" rel_version="Feature_Make_Good">Nieodebrane</string>
+	<string key="compensations_coin" rel_version="Feature_Make_Good">{number} mon.</string>
+	<string key="compensations_delivery_message" rel_version="Feature_Make_Good">Ten przedmiot zostanie dostarczony do twojego ekwipunku.</string>
+	<string key="compensations_popup_title" rel_version="Feature_Make_Good">Rekompensata</string>
+	<string key="compensations_popup_message" rel_version="Feature_Make_Good">Data przyznania nagrody: {dateString} \n\n{messageString}\n\nTa wiadomość wygaśnie po 30 dniach od zaakceptowania. Oczekujące wiadomości wygasną po roku.</string>
+	<string key="compensations_cannot_claim" rel_version="Feature_Make_Good">Nie można odebrać, brak miejsca w ekwipunku lub portfelu</string>
 </resources>
 

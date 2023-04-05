@@ -145,7 +145,7 @@
 	<string key="PerkID_MusicalInstrument_RakeReduction_Description" rel_version="Feature_MusicalPerformances">Der Vorführende erhält jetzt den vollständigen Trinkgeldbetrag.</string>
 	<string key="PerkID_MusicalInstrument_FinalNotePerfectXPBonus_Description" rel_version="Feature_MusicalPerformances">Wenn er die letzte Note perfekt trifft, erhält der Spieler einen Musik-EP-Boost von 10 %.</string>
 	<string key="PerkID_MusicalInstrument_GroupXPBonus_Description" rel_version="Feature_MusicalPerformances">Wenn er in einer Gruppe spielt, erhält der Spieler einen Musik-EP-Boost von 10 %.</string>
-	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Wenn er allein spielt, erhält der Spieler einen Musik-EP-Boost von 10 %.</string>
+	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Wenn er allein spielt, erhält der Spieler einen Musik-EP-Boost von 15 %.</string>
 	<string key="ui_music_guitar_part_1" rel_version="Feature_MusicalPerformances">Gitarre (Teil 1)</string>
 	<string key="ui_music_guitar_part_2" rel_version="Feature_MusicalPerformances">Gitarre (Teil 2)</string>
 	<string key="ui_music_guitar_part_3" rel_version="Feature_MusicalPerformances">Gitarre (Teil 3)</string>
@@ -167,7 +167,7 @@
 	<string key="songtitle_Embark" rel_version="Feature_MusicalPerformances">Der Aufbruch</string>
 	<string key="songtitle_The_Brightwood" rel_version="Feature_MusicalPerformances">Reise der Seelenwächter</string>
 	<string key="songtitle_The_Butterfly" rel_version="Feature_MusicalPerformances">Der Schmetterling</string>
-	<string key="songtitle_These_Old_Bones" rel_version="Feature_MusicalPerformances">Meine alten Knochen</string>
+	<string key="songtitle_These_Old_Bones" rel_version="Feature_MusicalPerformances">Alte Knochen</string>
 	<string key="songtitle_Young_King_Stanley" rel_version="Feature_MusicalPerformances">Der junge König Stanley</string>
 	<string key="songtitle_Ancient" rel_version="Feature_MusicalPerformances">Ruf der Ahnen</string>
 	<string key="songtitle_Breathe" rel_version="Feature_MusicalPerformances">Wiegenlied der Wellen</string>

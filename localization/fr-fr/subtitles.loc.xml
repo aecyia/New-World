@@ -232,5 +232,16 @@
 	<string key="Apophis_CombatTaunt_D" comment="Sand_Elemental_QuestBoss.slice" speaker="Apophis" rel_version="Territory_Brimstone_Sands">Régale-toi, Grand Dévoreur !</string>
 	<string key="Apophis_Intro" comment="Sand_Elemental_QuestBoss.slice" speaker="Apophis" rel_version="Territory_Brimstone_Sands">Misérables vermisseaux !</string>
 	<string key="Apophis_Death" comment="Sand_Elemental_QuestBoss.slice" speaker="Apophis" rel_version="Territory_Brimstone_Sands">Vous n'êtes rien !</string>
+	<string key="Flamekeeper_CombatBark_01" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">TEXTE TEMPORAIRE : Bruit de bombe vivante !</string>
+	<string key="Flamekeeper_CombatBark_02" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">TEXTE TEMPORAIRE : Bruit de pluie de météores !</string>
+	<string key="Flamekeeper_CombatBark_03" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">TEXTE TEMPORAIRE : Bruit de coulée de lave !</string>
+	<string key="Flamekeeper_CombatBark_04" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">TEXTE TEMPORAIRE : Bruit d'entités de feu !</string>
+	<string key="Flamekeeper_CombatBark_05" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">TEXTE TEMPORAIRE : Bruit d'embrasement !</string>
+	<string key="Flamekeeper_CombatBark_06" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">TEXTE TEMPORAIRE : Bruit d'arrêt, d'esquive et de roulade !</string>
+	<string key="Flamekeeper_CombatBark_07" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">TEXTE TEMPORAIRE : Bruit d'aspiration de flamme !</string>
+	<string key="BrotherUmberto_Intro_Human" comment="brother_umberto_human.slice" speaker="Brother Umberto" rel_version="Quest_MSQ2_Brightwood">Je ne me repentirai pas ! Et j'échouerai encore moins. C'est votre âme qui va être oblitérée !</string>
+	<string key="BrotherUmberto_Death_Human" comment="brother_umberto_human.slice" speaker="Brother Umberto" rel_version="Quest_MSQ2_Brightwood">Le juste sera toujours de retour...</string>
+	<string key="BrotherUmberto_Intro_Dark_Alt" comment="brother_umberto.slice" speaker="Brother Umberto" rel_version="Quest_MSQ2_Brightwood">Mon âme ne sera pas aussi facilement vaincue...</string>
+	<string key="BrotherUmberto_Death_Dark" comment="io_caerdun_99b_msq_10_finalseal.slice" speaker="Brother Umberto" rel_version="Quest_MSQ2_Brightwood">Je suis libre...</string>
 </resources>
 

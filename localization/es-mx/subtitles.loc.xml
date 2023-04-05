@@ -232,5 +232,16 @@
 	<string key="Apophis_CombatTaunt_D" comment="Sand_Elemental_QuestBoss.slice" speaker="Apophis" rel_version="Territory_Brimstone_Sands">¡Sacia tu ansia, Gran Devorador!</string>
 	<string key="Apophis_Intro" comment="Sand_Elemental_QuestBoss.slice" speaker="Apophis" rel_version="Territory_Brimstone_Sands">¡Gusanos insignificantes!</string>
 	<string key="Apophis_Death" comment="Sand_Elemental_QuestBoss.slice" speaker="Apophis" rel_version="Territory_Brimstone_Sands">¡No eres nada!</string>
+	<string key="Flamekeeper_CombatBark_01" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">TEXTO PH: ¡Corteza de Bomba viviente!</string>
+	<string key="Flamekeeper_CombatBark_02" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">TEXTO PH: ¡Corteza de Lluvia de meteoritos!</string>
+	<string key="Flamekeeper_CombatBark_03" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">TEXTO PH: ¡Corteza de Lengua de lava!</string>
+	<string key="Flamekeeper_CombatBark_04" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">TEXTO PH: ¡Corteza de Entes ardientes!</string>
+	<string key="Flamekeeper_CombatBark_05" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">TEXTO PH: ¡Corteza astillada!</string>
+	<string key="Flamekeeper_CombatBark_06" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">TEXTO PH: ¡Corteza de Tirarse al suelo y rodar!</string>
+	<string key="Flamekeeper_CombatBark_07" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">TEXTO PH: ¡Corteza de Vacío de llamas!</string>
+	<string key="BrotherUmberto_Intro_Human" comment="brother_umberto_human.slice" speaker="Brother Umberto" rel_version="Quest_MSQ2_Brightwood">¡No me arrepentiré! Ni pereceré. ¡Es tu alma la que debe ser castigada!</string>
+	<string key="BrotherUmberto_Death_Human" comment="brother_umberto_human.slice" speaker="Brother Umberto" rel_version="Quest_MSQ2_Brightwood">¡Los justos siempre regresan!</string>
+	<string key="BrotherUmberto_Intro_Dark_Alt" comment="brother_umberto.slice" speaker="Brother Umberto" rel_version="Quest_MSQ2_Brightwood">Mi alma no se extinguirá tan fácil…</string>
+	<string key="BrotherUmberto_Death_Dark" comment="io_caerdun_99b_msq_10_finalseal.slice" speaker="Brother Umberto" rel_version="Quest_MSQ2_Brightwood">Estoy… liberado.</string>
 </resources>
 

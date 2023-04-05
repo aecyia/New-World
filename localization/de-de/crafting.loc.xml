@@ -4,7 +4,7 @@
 	<string key="cooking_desc">Koche verschiedene Gerichte.</string>
 	<string key="engineering">Werkstatt</string>
 	<string key="outfitting">Kleidermacherei</string>
-	<string key="outfitting_desc">Stelle hier leichte und mittlere Rüstungen sowie Schmuck her.</string>
+	<string key="outfitting_desc">Hier kannst du Schmuck und mittlere Rüstungen herstellen.</string>
 	<string key="alchemy">Arkanumarchiv</string>
 	<string key="camp">Zeltlager</string>
 	<string key="masonry">Steinmetztisch</string>
@@ -53,7 +53,7 @@
 	<string key="cr_add_inventory">Ins &lt;font color="#c0c0c0"&gt;Inventar&lt;/font&gt; gelegt.</string>
 	<string key="cr_add_quickslot">In die &lt;font color="#c0c0c0"&gt;Schnellleiste&lt;/font&gt; gelegt.</string>
 	<string key="cr_add_equipment">Zur &lt;font color="#c0c0c0"&gt;Ausrüstung&lt;/font&gt; gelegt.</string>
-	<string key="cr_cantcraft">Nicht möglich</string>
+	<string key="cr_cantcraft">Herstellen</string>
 	<string key="cr_itemdisabled">Gegenstand vorübergehend deaktiviert</string>
 	<string key="cr_alreadycrafted" rel_version="Feature_Camp_Skins">Bereits hergestellt</string>
 	<string key="cr_unlockrecipe_info" rel_version="Feature_Camp_Skins">Dies ist ein einmalig herstellbarer und charaktergebundener Skin. Sobald du ihn hergestellt hast, ist er im Menü "Zeltlager-Skins" verfügbar.</string>
@@ -104,15 +104,15 @@
 	<string key="crafting_show_summary">Übersicht einblenden</string>
 	<string key="crafting_tree_unlocked">Freigeschaltet</string>
 	<string key="crafting_tree_locked">Gesperrt</string>
-	<string key="crafting_no_bonus">Diesem Gegenstand kann kein Bonus hinzugefügt werden.</string>
+	<string key="crafting_no_bonus">Diesem Gegenstand können keine Mods hinzugefügt werden.</string>
 	<string key="crafting_tree_learned">Erlernt</string>
 	<string key="crafting_tree_unlearned">Ungelernt</string>
 	<string key="crafting_quality_fixed">Diese Leiste zeigt den Rüstwertbereich an, in dem der Gegenstand sich befinden wird.</string>
-	<string key="crafting_quality_desc">Diese Leiste zeigt den Rüstwertbereich an, in dem der Gegenstand sich befinden wird. Deine Fähigkeitsstufe bestimmt den Grundwert. Die Ränge und Seltenheitsgrade der Rohstoffe wirken sich auf diesen Bereich aus.</string>
+	<string key="crafting_quality_desc">Diese Leiste zeigt den Rüstwertbereich an, in dem der Gegenstand sich befinden wird. Deine Fähigkeitsstufe bestimmt den Grundwert. Die Ränge und Seltenheitsgrade der Materialien wirken sich auf diesen Bereich aus.</string>
 	<string key="crafting_quality_expertise">Diese Leiste zeigt den Rüstwertbereich an, in dem der Gegenstand sich befinden wird. Der Rüstwert für diesen Gegenstand wird auf Grundlage deiner {expertiseName} Kompetenz und Spielerstufe berechnet.\n(Aktuelle {expertiseName} Kompetenz: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
 	<string key="crafting_recipe_expertise">Der Rüstwert für diesen Gegenstand wird auf Grundlage deiner {expertiseName} Kompetenz und Spielerstufe berechnet.\n(Aktuelle {expertiseName} Kompetenz: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
 	<string key="crafting_quest_recipes">Rezepte aus Aufgaben</string>
-	<string key="crafting_select_resources">Rohstoffe auswählen</string>
+	<string key="crafting_select_resources">Materialien auswählen</string>
 	<string key="new_recipe_unlocked">NEUES REZEPT FREIGESCHALTET</string>
 	<string key="dyeing_equipped_armor_title">Ausgerüstete Rüstung einfärben</string>
 	<string key="dyeing_unequipped_armor_title_inventory">Gefärbte Rüstung</string>
@@ -122,20 +122,20 @@
 	<string key="dyeing_secondary">Sekundär</string>
 	<string key="dyeing_accent">Akzente</string>
 	<string key="dyeing_tint">Farbton</string>
-	<string key="dyeing_recently_used">Kürzlich verwendet</string>
-	<string key="dyeing_available">Verfügbare Farben</string>
+	<string key="dyeing_recently_used">Zuletzt</string>
+	<string key="dyeing_available">Verfügbar</string>
 	<string key="dyeing_confirm">Bestätigen</string>
 	<string key="dyeing_cancel">Abbrechen</string>
 	<string key="dyeing_error_not_enough_dyes">Du hast nicht genügend Farbstoffe.</string>
 	<string key="dyeing_none_available">Keine Farbstoffe im Inventar</string>
 	<string key="dye_crafting_title">Farbstoffherstellung</string>
 	<string key="dye_crafting_recipes_title">Pläne</string>
-	<string key="dye_crafting_resources_title">Rohstoffe</string>
+	<string key="dye_crafting_resources_title">Materialien</string>
 	<string key="dye_crafting_discovery_title">Entdecken</string>
 	<string key="dye_crafting_craft_button">Herstellen</string>
 	<string key="dye_crafting_invalid">Ungültige Kombination</string>
 	<string key="dye_crafting_not_at_station">Du musst in einem Arkanumarchiv stehen.</string>
-	<string key="cooldown_threshold">&lt;img src="lyshineui/images/icons/misc/icon_question_orange.dds" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; Abklingzeit: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{time}&lt;/font&gt; | Abklingzeit-Schwellwert: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{count}&lt;/font&gt;</string>
+	<string key="cooldown_threshold">&lt;img src="lyshineui/images/icons/misc/icon_question_orange.dds" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; Herstellungs-Abklingzeit: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{time}&lt;/font&gt; pro &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{count}&lt;/font&gt; Gegenstände</string>
 	<string key="cooldown_threshold_tooltip">Wenn du {count} Gegenstände herstellst, musst du {time} warten, bevor du diesen Gegenstand erneut herstellen kannst.</string>
 	<string key="cooldown_cancraftin">Herstellung möglich in {time} &lt;img src="lyshineui/images/icons/misc/icon_hourglass" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="crafting_always_available">Immer verfügbar</string>
@@ -148,20 +148,20 @@
 	<string key="crafting_craftagain_fee">ERNEUT HERSTELLEN {fee}&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="crafting_gemhint">Füge &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{itemName}&lt;/font&gt; hinzu, um die Chance für &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Edelsteinsockel&lt;/font&gt; zu erhöhen.</string>
 	<string key="crafting_perkhint">Füge &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{itemName}&lt;/font&gt; hinzu, um die Chance für &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Effekte&lt;/font&gt; zu erhöhen.</string>
-	<string key="crafting_gemtitle">Primären Rohstoff hinzufügen</string>
+	<string key="crafting_gemtitle">Primärmaterial hinzufügen</string>
 	<string key="crafting_gemdesc">Chance für Edelsteinsockel erhöhen</string>
 	<string key="crafting_perktitle">Azoth hinzufügen</string>
 	<string key="crafting_perkdesc">Erhöht Chance auf zusätzlichen Bonus.</string>
-	<string key="crafting_specialtitle">Besondere Rohstoffe hinzufügen</string>
+	<string key="crafting_specialtitle">Herstellungsmod hinzufügen</string>
 	<string key="crafting_specialdesc">Bestimmt den Effekt</string>
-	<string key="crafting_specialadded">Spezialgegenstand hinzugefügt</string>
-	<string key="crafting_azothadded">Azoth hinzugefügt</string>
+	<string key="crafting_specialadded">Herstellungsmod</string>
+	<string key="crafting_azothadded">Azoth</string>
 	<string key="crafting_carried">Im Inventar</string>
 	<string key="crafting_noitem">Kein Gegenstand</string>
-	<string key="crafting_showowned">Gegenstände in Besitz</string>
+	<string key="crafting_showowned">In Besitz</string>
 	<string key="crafting_primary_ingredient">(PRIMÄR)</string>
-	<string key="crafting_perkselectiontitle">BESONDEREN ROHSTOFF AUSWÄHLEN</string>
-	<string key="crafting_perkselectiondesc">Durch das Hinzufügen eines Spezialrohstoffs erhält dieser Gegenstand einen bestimmten Effekt. Es kann nur ein besonderer Rohstoff hinzugefügt werden.</string>
+	<string key="crafting_perkselectiontitle">HERSTELLUNGSMOD AUSWÄHLEN</string>
+	<string key="crafting_perkselectiondesc">Herstellungsmods fügen dem hergestellten Gegenstand einen besonderen Effekttyp hinzu.</string>
 	<string key="crafting_perk_item_available">1 Gegenstand verfügbar</string>
 	<string key="crafting_perk_items_available">{amount} Gegenstände verfügbar</string>
 	<string key="crafting_azothselectiontitle">&lt;img src="lyshineui/images/crafting/itemIconAzoth" xPadding="0" scale="2.6" yOffset="20"&gt;&lt;/img&gt; Azoth hinzufügen</string>
@@ -220,18 +220,18 @@
 	<string key="crafting_sort_gear_score">Nach Rüstwert sortieren</string>
 	<string key="crafting_sort_xp">Nach EP sortieren</string>
 	<string key="crafting_filter_materials">Vorhandene Materialien</string>
-	<string key="crafting_filter_skill">Herstellung möglich mit meinen Fähigkeiten</string>
-	<string key="crafting_filter_station">Herstellung ab diesem Herstellungsrang möglich</string>
+	<string key="crafting_filter_skill">Fähigkeitenstufe</string>
+	<string key="crafting_filter_station">Werkstellenrang</string>
 	<string key="crafting_filter_clear">FILTER LÖSCHEN</string>
 	<string key="crafting_filter_clear_all">Alles löschen</string>
-	<string key="crafting_filter_placeholder">Nach Name filtern ...</string>
-	<string key="crafting_category_select_title">{type} AUSWÄHLEN</string>
+	<string key="crafting_filter_placeholder">Suchen</string>
+	<string key="crafting_category_select_title">MATERIAL AUSWÄHLEN</string>
 	<string key="crafting_discount_base">Grundgebühr</string>
-	<string key="ui_crafting_resource_origin_message">Hinweis: Verwendete Rohstoffe werden erst deinem Inventar und dann dem Siedlungslager entnommen.</string>
+	<string key="ui_crafting_resource_origin_message">Herstellungsmaterialien werden zuerst aus deinem Inventar genommen, bevor auf dein Lager zugegriffen wird.</string>
 	<string key="cr_firstcraft_bonusavailable">Erstherstellungsbonus verfügbar</string>
-	<string key="cr_firstcraft_bonus">Erstherstellungsbonus</string>
-	<string key="cr_tradeskillbonus_title">Fähigkeits-EP-Bonus</string>
-	<string key="cr_tradeskillbonus_basecraft">Fähigkeits-EP-Bonus</string>
+	<string key="cr_firstcraft_bonus">Erstherstellung</string>
+	<string key="cr_tradeskillbonus_title">Fähigkeits-EP</string>
+	<string key="cr_tradeskillbonus_basecraft">Grundwert</string>
 	<string key="cr_tradeskillbonus_description">Wenn du zum ersten Mal ein Rezept herstellst, erhältst du einen zusätzlichen Fähigkeits-EP-Bonus.</string>
 </resources>
 

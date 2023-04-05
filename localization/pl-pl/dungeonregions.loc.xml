@@ -176,5 +176,26 @@
 	<string key="ui_icon_brimstone_description_crassus" rel_version="Expedition_BrimstoneSands_00">Przywódca XIX legionu</string>
 	<string key="ui_icon_brimstone_title_goliaths" rel_version="Expedition_BrimstoneSands_00">Anpu i Heru</string>
 	<string key="ui_icon_brimstone_description_goliaths" rel_version="Expedition_BrimstoneSands_00">Pradawne bożki</string>
+	<string key="ui_area_greatcleave01_LostEntrance" rel_version="Expedition_GreatCleave_01">Zaginione wejście</string>
+	<string key="ui_area_greatcleave01_Vestibule" rel_version="Expedition_GreatCleave_01">Westybul</string>
+	<string key="ui_area_greatcleave01_ForgeGate" rel_version="Expedition_GreatCleave_01">Brama Kuźni</string>
+	<string key="ui_area_greatcleave01_Shrine" rel_version="Expedition_GreatCleave_01">Kapliczka</string>
+	<string key="ui_area_greatcleave01_HiddenChamber" rel_version="Expedition_GreatCleave_01">Ukryta komnata</string>
+	<string key="ui_area_greatcleave01_Reliquary" rel_version="Expedition_GreatCleave_01">Relikwiarz</string>
+	<string key="ui_area_greatcleave01_Foundry" rel_version="Expedition_GreatCleave_01">Odlewnia</string>
+	<string key="ui_area_greatcleave01_ForgeWest" rel_version="Expedition_GreatCleave_01">Zachodnia Kuźnia</string>
+	<string key="ui_area_greatcleave01_Bellows" rel_version="Expedition_GreatCleave_01">Miechy</string>
+	<string key="ui_area_greatcleave01_Ascent" rel_version="Expedition_GreatCleave_01">Podejście</string>
+	<string key="ui_area_greatcleave01_ControlRoom" rel_version="Expedition_GreatCleave_01">Pomieszczenie kontrolne</string>
+	<string key="ui_area_greatcleave01_ForgeSouth" rel_version="Expedition_GreatCleave_01">Południowa Kuźnia</string>
+	<string key="ui_area_greatcleave01_Berths" rel_version="Expedition_GreatCleave_01">Koszary</string>
+	<string key="ui_area_greatcleave01_Ifrit" rel_version="Expedition_GreatCleave_01">Zapomniana pierwotna obecność</string>
+	<string key="ui_area_greatcleave01_Commander" rel_version="Expedition_GreatCleave_01">Nasączony mocą dowódca sir Lotha</string>
+	<string key="ui_area_greatcleave01_Mechanism" rel_version="Expedition_GreatCleave_01">Pradawny mechanizm</string>
+	<string key="ui_area_greatcleave01_Nora" rel_version="Expedition_GreatCleave_01">Nora</string>
+	<string key="ui_area_greatcleave01_AncientSeal" rel_version="Expedition_GreatCleave_01">Azothowa pieczęć</string>
+	<string key="ui_area_greatcleave01_FireSeal" rel_version="Expedition_GreatCleave_01">Ognista pieczęć</string>
+	<string key="ui_area_greatcleave01_Desecrated" rel_version="Expedition_GreatCleave_01">Sprofanowany pradawny mechanizm</string>
+	<string key="ui_area_greatcleave01_Heel" rel_version="Expedition_GreatCleave_01">Drań</string>
 </resources>
 

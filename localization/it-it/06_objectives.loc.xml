@@ -559,7 +559,7 @@
 	<string key="0623_0102_d_03_TaskFishingHook" speaker="UI">Prendi il pesce all'amo</string>
 	<string key="0623_0102_d_04_TaskFishingReel" speaker="UI">Tira su il pesce</string>
 	<string key="0423_0101_FQ03_objective_title" speaker="UI _ Quest Title">Abboccato</string>
-	<string key="0423_0101_FQ03_objective_desc" speaker="UI - Quest Description">Cattura una lumaca in acqua dolce e una vongola in acqua salata da utilizzare come esca per il mastro pescatore Ruby, poi consegnale al mastro pescatore Clemenson a Prima luce.</string>
+	<string key="0423_0101_FQ03_objective_desc" speaker="UI - Quest Description">Cattura una lumaca in acqua dolce e una vongola in acqua salata per recuperarle come esca per il mastro pescatore Ruby e consegnarle al mastro pescatore Clemenson a Promontorio del Monarca.</string>
 	<string key="0423_0101_FQ03_prompt" speaker="UI - Player Prompt">"Sì. Il mastro pescatore Shields mi ha detto di venire da te."</string>
 	<string key="0423_0101_FQ03_proposal" speaker="Master Fisher Ruby - Everfall" name="MasterFisherRuby" VO="Fisher_0423_0101_FQ03_ProposalResponse" VO_Status="Recorded" dialogue-next="@0423_0101_FQ03_proposal_next">In acqua dolce, le esche più comuni sono le lumache, mentre in acqua salata sono le vongole. \n\nIl mastro pescatore Clemenson, ti sarebbe grata se le portassi questa esca di acqua salata. </string>
 	<string key="0423_0101_FQ03_proposal_prompt" speaker="UI - Player Prompt">"Perché devo pescare per un mastro pescatore?"</string>
@@ -636,7 +636,7 @@
 	<string key="1123_0101_FQ10_complete_available_response" speaker="Master Fisher Klaus- Great Cleave" name="MasterFisherKlaus" VO="Fisher_1123_0101_FQ10_AvailResponse" VO_Status="Recorded">Ehilà. Sono il mastro pescatore Klaus, al tuo servizio. Da queste parti, serve molta forza per affrontare i pesci.\n\nImparano a combattere nelle fredde acque montane, perciò preparati.</string>
 	<string key="1123_0101_d_01_TaskFishingCatchFish" speaker="UI">Pesca: {itemName}</string>
 	<string key="1424_0101_FQ11_objective_title" speaker="UI">Razioni da Custode di anime</string>
-	<string key="1424_0101_FQ11_objective_desc" speaker="UI">Cattura cinque pesci dal peso superiore a 30 libbre per il mastro pescatore Klaus e consegnali al mastro pescatore Davies a Frutteto dell'Eden</string>
+	<string key="1424_0101_FQ11_objective_desc" speaker="UI">Cattura cinque pesci dal peso superiore a 14 kg per il mastro pescatore Klaus e consegnali al mastro pescatore Davies a Frutteto dell'Eden</string>
 	<string key="1424_0101_FQ11_prompt" speaker="UI - Player Prompt">"Se la cava bene."</string>
 	<string key="1424_0101_FQ11_proposal" speaker="Master Fisher Klaus- Great Cleave" name="MasterFisherKlaus" VO="Fisher_1424_0101_FQ11_ProposalResponse" VO_Status="Recorded" dialogue-next="@1424_0101_FQ11_proposal_next">I Custodi di anime hanno un appetito robusto e hanno bisogno di pesci grandi con cui rifornire le proprie razioni.\n\nPotresti catturare cinque pesci di grossa taglia e consegnarli al mastro pescatore Davies? Siamo entrambi incaricati di procurare il cibo dei Custodi di anime.</string>
 	<string key="1424_0101_FQ11_proposal_prompt" speaker="UI - Player Prompt">"Perché procurate cibo per i Custodi di anime?"</string>
@@ -645,14 +645,14 @@
 	<string key="1424_0101_FQ11_complete_available_response" speaker="Master Fisher Davies - Edengrove" name="MasterFisherDavies" VO="Fisher_1424_0101_FQ11_AvailResponse" VO_Status="Recorded">Forza, su... Venite da papà, pesciolini... Oh! Non ti avevo visto. Cantare mentre pesco mi calma.\n\nVedo che hai portato un bottino favoloso per gli affamati Custodi di anime del posto.</string>
 	<string key="1424_0101_d_01_TaskFishingCatchFish" speaker="UI">Pesca: {itemName}</string>
 	<string key="0324_0101_FQ12_objective_title" speaker="UI">Pesce permeato di Azoth</string>
-	<string key="0324_0101_FQ12_objective_desc" speaker="UI">Cattura un pesce permeato di Azoth a Frutteto dell'Eden per il mastro pescatore Davies e consegnalo al mastro pescatore Bernard a Monte infranto.</string>
+	<string key="0324_0101_FQ12_objective_desc" speaker="UI">Pesca un pesce permeato di Azoth a Monte infranto e consegnalo al mastro pescatore Bernard.</string>
 	<string key="0324_0101_FQ12_prompt" speaker="UI - Player Prompt">"Cos'altro c'è nell'acqua oltre ai pesci?"</string>
 	<string key="0324_0101_FQ12_proposal" speaker="Master Fisher Davies - Edengrove" name="MasterFisherDavies" VO="Fisher_0324_0101_FQ12_ProposalResponse" VO_Status="Recorded" dialogue-next="@0324_0101_FQ12_proposal_next">Oh... Ci sono anche creature mitiche, come il pesce permeato di Azoth.</string>
 	<string key="0324_0101_FQ12_proposal_prompt" speaker="UI - Player Prompt">"Cos'è il pesce permeato di Azoth?"</string>
-	<string key="0324_0101_FQ12_proposal_next" speaker="Master Fisher Davies - Edengrove" name="MasterFisherDavies" VO="Fisher_0324_0101_FQ12_CompleteNext" VO_Status="Recorded" dialogue-prompt="@0324_0101_FQ12_proposal_prompt">Un pesce la cui essenza è stata interamente posseduta e impregnata dei magici poteri dell'Azoth, ovviamente! Portane uno a Bernard al Monte infranto. Puoi catturarlo qui a Frutteto dell'Eden, dove l'acqua riverbera di Azoth.</string>
+	<string key="0324_0101_FQ12_proposal_next" speaker="Master Fisher Davies - Edengrove" name="MasterFisherDavies" VO="Fisher_0324_0101_FQ12_CompleteNext" VO_Status="Recorded" dialogue-prompt="@0324_0101_FQ12_proposal_prompt">Un pesce la cui essenza è stata interamente posseduta e impregnata dei magici poteri dell'Azoth, ovviamente! Portane uno a Bernard a Monte infranto.</string>
 	<string key="0324_0101_FQ12_incomplete" speaker="Master Fisher Davies - Edengrove">Non scoraggiarti se non hai ancora catturato un pesce permeato di Azoth: sono creature sfuggenti ed effimere.</string>
 	<string key="0324_0101_FQ12_complete_available_response" speaker="Master Fisher Bernard - Shattered Mtn" name="MasterFisherBernard" VO="Fisher_0324_0101_FQ12_AvailResponse" VO_Status="Recorded">Ah, presumo che tu sia l'apprendista che mi ha mandato il mastro pescatore Davies? Hai con te uno strano pesce.</string>
-	<string key="0324_0101_d_01_TaskFishingCatchWeight" speaker="UI">Cattura pesci dal peso superiore a 30 libbre</string>
+	<string key="0324_0101_d_01_TaskFishingCatchWeight" speaker="UI">Cattura pesci dal peso superiore a 14 kg</string>
 	<string key="0724_0101_FQ13_objective_title" speaker="UI">Pesce permeato di Corruzione</string>
 	<string key="0724_0101_FQ13_objective_desc" speaker="UI">Cattura un pesce permeato di Corruzione a Monte infranto e portalo al mastro pescatore Chang a Scaglia d'ebano.</string>
 	<string key="0724_0101_FQ13_prompt" speaker="UI - Player Prompt">"Salve, Bernard. Hai bisogno d'altro?"</string>

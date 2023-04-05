@@ -12,6 +12,7 @@
 	<string key="LeatherT2_Down_Name">Declassa il cuoio robusto in cuoio grezzo</string>
 	<string key="LeatherT3_Down_Name">Declassa il cuoio multistrato in cuoio robusto</string>
 	<string key="LeatherT4_Down_Name">Declassa il cuoio impregnato in cuoio multistrato</string>
+	<string key="LeatherT4_Down_Name">Declassa il cuoio impregnato in cuoio multistrato</string>
 	<string key="ClothT2_Down_Name">Declassa il raso in lino</string>
 	<string key="ClothT3_Down_Name">Declassa la seta in raso</string>
 	<string key="ClothT4_Down_Name">Declassa la seta impregnata in seta</string>
@@ -1973,5 +1974,12 @@
 	<string key="LightHands_ChitinT5">Guanti di tessuto di chitina</string>
 	<string key="LightLegs_ChitinT5">Pantaloni di tessuto di chitina</string>
 	<string key="LightFeet_ChitinT5">Stivali di tessuto di chitina</string>
+	<string key="PotionFamilyWardAeternianT3" rel_version="Season_1_Perm">Pozione di protezione dagli umani potente</string>
+	<string key="PotionFamilyWardAeternianT4" rel_version="Season_1_Perm">Pozione di protezione dagli umani formidabile</string>
+	<string key="PotionFamilyWardAeternianT5" rel_version="Season_1_Perm">Pozione di protezione dagli umani impregnata</string>
+	<string key="Procedural_CoatingAeternianT2" rel_version="Season_1_Perm">Rivestimento per umani comune</string>
+	<string key="Procedural_CoatingAeternianT3" rel_version="Season_1_Perm">Rivestimento per umani potente</string>
+	<string key="Procedural_CoatingAeternianT4" rel_version="Season_1_Perm">Rivestimento per umani formidabile</string>
+	<string key="Procedural_CoatingAeternianT5" rel_version="Season_1_Perm">Rivestimento per umani impregnato</string>
 </resources>
 

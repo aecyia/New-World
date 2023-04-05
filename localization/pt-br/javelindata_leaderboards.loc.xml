@@ -52,14 +52,14 @@
 	<string key="ui_leaderboard_display_war_wins" rel_version="Feature_Leaderboards">Vitórias</string>
 	<string key="ui_leaderboard_display_war_attacker_wins" rel_version="Feature_Leaderboards">Vitórias do Atacante</string>
 	<string key="ui_leaderboard_display_war_defender_wins" rel_version="Feature_Leaderboards">Vitórias do Defensor</string>
-	<string key="ui_leaderboard_display_war_kill_death" rel_version="Feature_Leaderboards">Taxa de Abates e Mortes</string>
+	<string key="ui_leaderboard_display_war_kill_death" rel_version="Feature_Leaderboards">Taxa de Abates/Mortes</string>
 	<string key="ui_leaderboard_display_outpostrush_heals" rel_version="Feature_Leaderboards">Curas</string>
 	<string key="ui_leaderboard_display_outpostrush_kills" rel_version="Feature_Leaderboards">Abates de Jogador</string>
 	<string key="ui_leaderboard_display_outpostrush_resources" rel_version="Feature_Leaderboards">Recursos Contribuídos</string>
 	<string key="ui_leaderboard_display_outpostrush_score" rel_version="Feature_Leaderboards">Pontuação</string>
 	<string key="ui_leaderboard_display_outpostrush_npc_kills" rel_version="Feature_Leaderboards">Abates de NPCs</string>
 	<string key="ui_leaderboard_display_outpostrush_wins" rel_version="Feature_Leaderboards">Vitórias</string>
-	<string key="ui_leaderboard_display_outpostrush_kill_death" rel_version="Feature_Leaderboards">Taxa de Abates e Mortes</string>
+	<string key="ui_leaderboard_display_outpostrush_kill_death" rel_version="Feature_Leaderboards">Taxa de Abates/Mortes</string>
 	<string key="ui_leaderboard_display_outpostrush_damage_dealt" rel_version="Feature_Leaderboards">Dano Causado</string>
 	<string key="ui_leaderboard_display_darkness_score" rel_version="Feature_Leaderboards">Pontuação</string>
 	<string key="ui_leaderboard_display_openworldpvp_influence" rel_version="Feature_Leaderboards">Influência Obtida</string>
@@ -71,9 +71,9 @@
 	<string key="ui_leaderboard_display_territory_control_streak" rel_version="Feature_Leaderboards">Sequência de Governos</string>
 	<string key="ui_leaderboard_display_territory_control_score" rel_version="Feature_Leaderboards">Dias de Governo</string>
 	<string key="ui_leaderboard_display_pvparena_wins" rel_version="Feature_Leaderboards">Vitórias</string>
-	<string key="ui_leaderboard_display_pvparena_winlossratio" rel_version="Feature_Leaderboards">Taxa de Vitórias e Derrotas</string>
+	<string key="ui_leaderboard_display_pvparena_winlossratio" rel_version="Feature_Leaderboards">Taxa de Vitórias/Derrotas</string>
 	<string key="ui_leaderboard_display_pvparena_kills" rel_version="Feature_Leaderboards">Abates</string>
-	<string key="ui_leaderboard_display_pvparena_killdeathratio" rel_version="Feature_Leaderboards">Taxa de Abates e Mortes</string>
+	<string key="ui_leaderboard_display_pvparena_killdeathratio" rel_version="Feature_Leaderboards">Taxa de Abates/Mortes</string>
 	<string key="ui_leaderboard_display_pvparena_score" rel_version="Feature_Leaderboards">Pontuação</string>
 	<string key="ui_leaderboard_display_pvparena_heals" rel_version="Feature_Leaderboards">Curas</string>
 	<string key="ui_leaderboard_display_pvparena_damagedealt" rel_version="Feature_Leaderboards">Dano Causado</string>
@@ -90,9 +90,9 @@
 	<string key="ui_leaderboard_display_invasion_heals" rel_version="Feature_Leaderboards">Curas</string>
 	<string key="ui_leaderboard_display_invasion_wins" rel_version="Feature_Leaderboards">Vitórias</string>
 	<string key="ui_leaderboard_display_invasion_kills" rel_version="Feature_Leaderboards">Abates</string>
-	<string key="ui_leaderboard_display_invasion_kill_death" rel_version="Feature_Leaderboards">Taxa de Abates e Mortes</string>
+	<string key="ui_leaderboard_display_invasion_kill_death" rel_version="Feature_Leaderboards">Taxa de Abates/Mortes</string>
 	<string key="ui_leaderboard_display_invasion_damage_dealt" rel_version="Feature_Leaderboards">Dano Causado</string>
-	<string key="ui_leaderboard_character_empty_leaderboard" rel_version="Feature_Leaderboards">Você não está nesta classificação no momento</string>
+	<string key="ui_leaderboard_character_empty_leaderboard" rel_version="Feature_Leaderboards">Você não está nesta classificação</string>
 	<string key="ui_leaderboard_faction_no_faction" rel_version="Feature_Leaderboards">Entre em uma facção para participar</string>
 	<string key="ui_leaderboard_faction_no_company" rel_version="Feature_Leaderboards">Entre em uma companhia para participar</string>
 	<string key="ui_leaderboard_error_nodata" rel_version="Feature_Leaderboards">Nenhum dado foi localizado</string>
@@ -107,10 +107,10 @@
 	<string key="ui_leaderboard_not_tracked_character" rel_version="Feature_Leaderboards">Esta categoria não é localizada por personagem</string>
 	<string key="ui_leaderboard_not_tracked_company" rel_version="Feature_Leaderboards">Esta categoria não é localizada por companhia</string>
 	<string key="ui_leaderboard_not_tracked_faction" rel_version="Feature_Leaderboards">Esta categoria não é localizada por facção</string>
-	<string key="ui_leaderboard_not_tracked_category_season" rel_version="Feature_Leaderboards">Esta categoria não é localizada trimestralmente</string>
+	<string key="ui_leaderboard_not_tracked_category_season" rel_version="Feature_Leaderboards">Esta categoria não é localizada sazonalmente</string>
 	<string key="ui_leaderboard_not_tracked_category_week" rel_version="Feature_Leaderboards">Esta categoria não é localizada semanalmente</string>
 	<string key="ui_leaderboard_not_tracked_category_month" rel_version="Feature_Leaderboards">Esta categoria não é localizada mensalmente</string>
-	<string key="ui_leaderboard_not_tracked_season" rel_version="Feature_Leaderboards">Esta estatística não é localizada trimestralmente</string>
+	<string key="ui_leaderboard_not_tracked_season" rel_version="Feature_Leaderboards">Esta estatística não é localizada sazonalmente</string>
 	<string key="ui_leaderboard_not_tracked_week" rel_version="Feature_Leaderboards">Esta estatística não é localizada semanalmente</string>
 	<string key="ui_leaderboard_not_tracked_month" rel_version="Feature_Leaderboards">Esta estatística não é localizada mensalmente</string>
 	<string key="ui_leaderboard_tip_war_score" rel_version="Feature_Leaderboards">Sua Pontuação em Guerras é a pontuação máxima que você recebeu em uma guerra.</string>
@@ -146,9 +146,10 @@
 	<string key="ui_leaderboard_display_legendaries" rel_version="Feature_Leaderboards">Lendários</string>
 	<string key="ui_leaderboard_territory_all" rel_version="Feature_Leaderboards">Todos os Territórios</string>
 	<string key="ui_leaderboard_row_rank_morethan" rel_version="Feature_Leaderboards">&gt;{number}</string>
-	<string key="ui_leaderboard_with_gold" rel_version="Feature_Leaderboards">Com &lt;img src="lyshineui/images/dungeons/mutator_rank_gold_sm" scale="2.0" xPadding="0" yOffset="5"&gt;&lt;/img&gt; &lt;font color={color}&gt; Ranque Ouro&lt;/font&gt;</string>
+	<string key="ui_leaderboard_with_gold" rel_version="Feature_Leaderboards">com &lt;img src="lyshineui/images/dungeons/mutator_rank_gold_sm" scale="2.0" xPadding="0" yOffset="5"&gt;&lt;/img&gt; &lt;font color={color}&gt; Ranque Ouro&lt;/font&gt;</string>
 	<string key="ui_leaderboard_company_deleted" rel_version="Feature_Leaderboards">(Companhia Excluída)</string>
 	<string key="ui_leaderboard_player_deleted" rel_version="Feature_Leaderboards">(Jogador Excluído)</string>
 	<string key="ui_leaderboard_rewards_top" rel_version="Feature_Leaderboards">{number} MELHORES</string>
+	<string key="ui_leaderboard_category_expedition_empyrean" rel_version="Expedition_GreatCleave_01">Forja Empírea</string>
 </resources>
 

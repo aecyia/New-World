@@ -255,7 +255,7 @@
 	<string key="ui_twohanded_weapons">À deux mains</string>
 	<string key="ui_ranged_weapons">À distance</string>
 	<string key="ui_magic_skills">Capacités de magie</string>
-	<string key="ui_weaponmastery_description">Pour améliorer vos capacités avec une arme, utilisez-la régulièrement. À chaque niveau, vous gagnez un point à dépenser pour déverrouiller des améliorations spécifiques à l'arme en question.</string>
+	<string key="ui_weaponmastery_description">Pour augmenter le niveau de maîtrise d'une arme, utilisez-la régulièrement. À chaque niveau, vous gagnez un point à dépenser pour déverrouiller une capacité unique à l'arme en question.</string>
 	<string key="ui_weaponmastery_in_progress" comment="this is a temporary message to explain the limited number of weapon mastery trees available">L'arbre de maîtrise des armes est en cours de développement D'autres armes seront bientôt disponibles.</string>
 	<string key="ui_farmplants">Plantes agricoles</string>
 	<string key="ui_hemp">Chanvre</string>

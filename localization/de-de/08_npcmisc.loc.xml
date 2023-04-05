@@ -17,8 +17,8 @@
 	<string key="0803_Survivalist_t" gender="M">Überlebenskünstler aus Ebenmaß</string>
 	<string key="0804_Overseer_t" gender="M">Ältester aus Ebenmaß</string>
 	<string key="0805_Artificer_t" gender="F">Werkmeisterin aus Ebenmaß</string>
-	<string key="0807_Commander_t" gender="F">Kommandantin aus Ebenmaß</string>
-	<string key="0808_Alchemist_t" gender="M">Alchemistin aus Ebenmaß</string>
+	<string key="0807_Commander_t" gender="F">Kommandant aus Ebenmaß</string>
+	<string key="0808_Alchemist_t" gender="M">Alchemist aus Ebenmaß</string>
 	<string key="0809_Adjudicator_t" gender="M">Richter aus Ebenmaß</string>
 	<string key="0810_Barkeep_t" gender="M">Tavernenbetreiber aus Ebenmaß</string>
 	<string key="0811_Stranger_t" gender="F">Frühere Dienerin</string>

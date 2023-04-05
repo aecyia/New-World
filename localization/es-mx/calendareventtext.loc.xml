@@ -5,12 +5,12 @@
 	<string key="ui_calendar_event_button_go">¡Vamos!</string>
 	<string key="ui_calendar_event_button_view_details">Ver detalles</string>
 	<string key="ui_rewardtype_event_progress">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{displayName}&lt;/font&gt;</string>
-	<string key="ui_news_button">Noticias</string>
+	<string key="ui_news_button">Noticias y eventos</string>
 	<string key="ui_news_button_no_news">No hay noticias disponibles.</string>
 	<string key="ui_event_progress_name">Reputación del evento</string>
 	<string key="ui_event">Evento</string>
 	<string key="ui_event_rules">Lo destacado del evento</string>
-	<string key="ui_calendar_event_button_about" rel_version="PvP_Rewards_Track">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; Acerca de la pista de recompensas de PvP</string>
+	<string key="ui_calendar_event_button_about" rel_version="PvP_Rewards_Track">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; Sobre las recompensas de PvP</string>
 	<string key="ui_pvp_rewards_panel1_title" rel_version="PvP_Rewards_Track">NUEVA PISTA DE RECOMPENSAS DE PVP</string>
 	<string key="ui_pvp_rewards_panel1_subtitle" rel_version="PvP_Rewards_Track">La pista de recompensas de PvP contiene recompensas específicas de PvP por hacer actividades de PvP en el juego. Esta pista se puede completar y repetir para obtener una variedad de recompensas diferentes. Las recompensas de mayor prestigio estarán disponibles a medida que se completen más pistas.</string>
 	<string key="ui_pvp_rewards_panel1_bullet1_title" rel_version="PvP_Rewards_Track">EXP DE PVP</string>
@@ -19,21 +19,21 @@
 	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">La sal de azoth es una moneda que te permite adquirir recompensas de la pista de PvP. Puedes obtener sal de azoth por medio de guerras, avances de puesto de avanzada, arenas de 3v3, misiones de PvP, eliminaciones de jugadores en el mundo abierto y EXP cuando estés marcado para PvP.</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">RECOMPENSAS</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Elige entre recompensas únicas como armaduras y armas de prestigio, gestos, monedas y consumibles.</string>
-	<string key="ui_event_weapon_xp_tabname">Potenciador de EXP de arma</string>
-	<string key="ui_event_weapon_xp_title">BONIFICACIÓN DE EXP DE ARMAS DE ESTA SEMANA</string>
-	<string key="ui_event_weapon_xp_desc">La bonificación se activa el:</string>
-	<string key="ui_event_gathering_xp_tabname">Potenciador de EXP de recolección</string>
-	<string key="ui_event_gathering_xp_title">BONIFICACIÓN DE EXP DE RECOLECCIÓN DE ESTA SEMANA</string>
-	<string key="ui_event_gathering_xp_desc">La bonificación se activa el:</string>
-	<string key="ui_event_character_xp_tabname">Potenciador de EXP de nivel</string>
-	<string key="ui_event_character_xp_title">BONIFICACIÓN DE EXP DE NIVEL DE PERSONAJE DEL EVENTO</string>
-	<string key="ui_event_character_xp_desc">La bonificación se activa el:</string>
-	<string key="ui_event_refining_xp_tabname">Potenciador de EXP de refinamiento</string>
-	<string key="ui_event_refining_xp_title">BONIFICACIÓN DE EXP DE REFINAMIENTO DE ESTA SEMANA</string>
-	<string key="ui_event_refining_xp_desc">La bonificación se activa el:</string>
-	<string key="ui_event_extravaganza_tabname">Fiesta de bonificación de EXP</string>
-	<string key="ui_event_extravaganza_title">FIESTA DE BONIFICACIÓN DE EXP</string>
-	<string key="ui_event_extravaganza_desc">La bonificación se activa el:</string>
+	<string key="ui_event_weapon_xp_tabname">Evento de EXP</string>
+	<string key="ui_event_weapon_xp_title">EVENTO DE BONIFICACIÓN DE EXP DE ARMAS</string>
+	<string key="ui_event_weapon_xp_desc">Bonificaciones activas:</string>
+	<string key="ui_event_gathering_xp_tabname">Evento de EXP</string>
+	<string key="ui_event_gathering_xp_title">EVENTO DE BONIFICACIÓN DE EXP DE RECOLECCIÓN</string>
+	<string key="ui_event_gathering_xp_desc">Bonificaciones activas:</string>
+	<string key="ui_event_character_xp_tabname">Evento de EXP</string>
+	<string key="ui_event_character_xp_title">EVENTO DE BONIFICACIÓN DE EXP DE NIVEL</string>
+	<string key="ui_event_character_xp_desc">Bonificaciones activas:</string>
+	<string key="ui_event_refining_xp_tabname">Evento de EXP</string>
+	<string key="ui_event_refining_xp_title">EVENTO DE BONIFICACIÓN DE EXP DE REFINAMIENTO</string>
+	<string key="ui_event_refining_xp_desc">Bonificaciones activas:</string>
+	<string key="ui_event_extravaganza_tabname">Evento de EXP</string>
+	<string key="ui_event_extravaganza_title">FIESTA DE EXP</string>
+	<string key="ui_event_extravaganza_desc">Bonificaciones activas:</string>
 	<string key="ui_news_end_game_tabname">Fin de juego</string>
 	<string key="ui_news_end_game_description">En el nivel 60, ahora puedes &lt;font color="#ffdb7a"&gt;mejorar tu equipo&lt;/font&gt; para que tenga puntuaciones más altas. Para hacerlo, deberás cosechar aljez en varias actividades y ubicaciones de nivel 60. Ve a un &lt;font color="#ffdb7a"&gt;horno de aljez&lt;/font&gt; para obtener más información.</string>
 	<string key="ui_end_game_panel1_title">ACTIVIDADES DE FIN DE JUEGO</string>
@@ -84,7 +84,7 @@
 	<string key="ui_news_modal_display_end_datetime">Termina a las {endTime} el {endDate}</string>
 	<string key="ui_event_free_weekend_event_message_title" rel_version="Feature_FreeWeekend">Fin de semana gratis</string>
 	<string key="ui_event_free_weekend_event_message_description" rel_version="Feature_FreeWeekend">El fin de semana gratis está en progreso.</string>
-	<string key="ui_event_free_weekend_description" rel_version="Feature_FreeWeekend">Disfruta la nueva zona en las Arenas de azufre, la misión renovada de la historia principal y las actualizaciones más recientes de New World sin costo durante el evento por tiempo limitado.\n\nPara jugar con tus amigos, los personajes deben estar en el mismo mundo. Los jugadores gratuitos disfrutan de tiempos de sesión ilimitados, a menos que el mundo tenga una lista de espera (al final de una sesión, deberán volver a la lista de espera).\n\nAdemás, los jugadores nuevos pueden ahorrar un 50 % en las ediciones estándar y de lujo de New World si lo compran entre el 15 y el 26 de diciembre a las 10 a. m. (PST).</string>
+	<string key="ui_event_free_weekend_description" rel_version="Feature_FreeWeekend">Disfruta la nueva zona en las Arenas de azufre, la misión renovada de la historia principal y las actualizaciones más recientes de New World sin costo durante el evento por tiempo limitado.\n\nPara jugar con tus amigos, los personajes deben estar en el mismo mundo. Los jugadores gratuitos disfrutan de tiempos de sesión ilimitados, a menos que el mundo tenga una cola para acceder (al final de una sesión, deberán volver a la cola).\n\nAdemás, los jugadores nuevos pueden ahorrar un 50 % en las ediciones estándar y de lujo de New World si lo compran entre el 15 de diciembre a las 10 a. m. (PST) y el 5 de enero a las 10 a. m. (PST).</string>
 	<string key="ui_event_free_weekend" rel_version="Feature_FreeWeekend">Fin de semana gratis</string>
 	<string key="ui_event_free_weekend_in_progress_panel1_bullet1_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 1 Title</string>
 	<string key="ui_event_free_weekend_in_progress_panel1_bullet1_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 1 Text</string>
@@ -120,7 +120,7 @@
 	<string key="ui_event_dec_mtx_tabname" rel_version="Entitlements_WinterConvergence_MTX">Tienda</string>
 	<string key="ui_event_dec_mtx_title" rel_version="Entitlements_WinterConvergence_MTX">Convergencia invernal</string>
 	<string key="ui_event_dec_mtx_description" rel_version="Entitlements_WinterConvergence_MTX">¡Protégete de los estragos del invierno eterno con los nuevos cosméticos disponibles en la tienda! Será mejor que te equipes con las últimas armas e indumentaria de invierno, para cuando los días se acorten y te esperen largas noches de terror. ¡Visita la tienda de vez en cuando para obtener regalos gratis en diciembre y aprovechar nuestras ofertas invernales! La oferta de contenido especial que vuelve a estar disponible comienza el 13/12 y el equipo de Convergencia invernal del año pasado llega el 20/12.</string>
-	<string key="ui_event_dec_mtx_button_about" rel_version="Entitlements_WinterConvergence_MTX">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Convergencia invernal</string>
+	<string key="ui_event_dec_mtx_button_about" rel_version="Entitlements_WinterConvergence_MTX">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Información sobre la Convergencia invernal</string>
 	<string key="ui_news_store_tabname">Tienda</string>
 	<string key="ui_event_jan_mtx_title" rel_version="Entitlements_WinterDragon">Dragón invernal</string>
 	<string key="ui_event_jan_mtx_description" rel_version="Entitlements_WinterDragon">¿La silueta del invierno será la sombra de un dragón? ¡Ve a la tienda para ver los nuevos cosméticos trastocados por el aliento gélido de la serpiente! ¡Que nunca te tomen por sorpresa, ni siquiera en un combate trivial! ¡Usa el emoticono Pelea a bofetadas o Andar de puntillas para evitar cualquier pelea violenta sigilosamente!</string>
@@ -131,11 +131,21 @@
 	<string key="ui_event_feb_mtx_bullet1" rel_version="Entitlements_OmensOfWinter">Diseños</string>
 	<string key="ui_event_feb_mtx_bullet2" rel_version="Entitlements_OmensOfWinter">Emoticonos</string>
 	<string key="ui_event_feb_mtx_button_about" rel_version="Entitlements_OmensOfWinter">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Información sobre Presagio invernal</string>
-	<string key="ui_event_legacy_of_crassus_tabname" rel_version="Event_February_Temp">Legado de Crassus</string>
-	<string key="ui_event_legacy_of_crassus_title" rel_version="Event_February_Temp">Legado de Crassus</string>
-	<string key="ui_event_legacy_of_crassus_description" rel_version="Event_February_Temp">¡El poder de Roma amenaza a Aeternum! Acaba con los monstruosos capitanes del general Crassus, Décimo y Lucano, y elimina la sombra de la tiranía de Roma. Consigue recompensas diarias además de las recompensas por acabar con estos despiadados mercenarios en Brightwood, el Pantano del tejedor, Mourningdale, Ebonscale Reach y Edengrove.</string>
-	<string key="ui_event_legacy_of_crassus_about" rel_version="Event_February_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Información sobre Legado de Crassus</string>
-	<string key="ui_event_legacy_of_crassus_bullet1" rel_version="Event_February_Temp">Armas diarias</string>
-	<string key="ui_event_legacy_of_crassus_bullet2" rel_version="Event_February_Temp">Partes de armadura diarias</string>
+	<string key="ui_event_empyrean_forge_tabname" rel_version="Expedition_GreatCleave_01">Forja Empírea</string>
+	<string key="ui_event_empyrean_forge_title" rel_version="Expedition_GreatCleave_01">Forja Empírea</string>
+	<string key="ui_event_empyrean_forge_description" rel_version="Expedition_GreatCleave_01">Fundición legendaria en que los antiguos forjaban sus devastadores mecanismos de guerra. Los hambrientos de poder ansían que la magia siniestra se desate en estas ruinas colosales.</string>
+	<string key="ui_event_empyrean_forge_about" rel_version="Expedition_GreatCleave_01">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Acerca de la Forja empírea</string>
+	<string key="ui_event_season_one_tabname" rel_version="Season_1_Perm">Temporadas</string>
+	<string key="ui_event_season_one_title" rel_version="Season_1_Perm">Temporadas</string>
+	<string key="ui_event_season_one_description" rel_version="Season_1_Perm">Embárcate en una nueva aventura junto a Grace O'Malley y ayúdala a fundar la nueva compañía de mercenarios de Aeternum, los Cuervos Plateados.</string>
+	<string key="ui_event_season_one_about" rel_version="Season_1_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Acerca de las Temporadas</string>
+	<string key="ui_event_season_one_bullet1" rel_version="Season_1_Perm">Pase de temporada</string>
+	<string key="ui_event_season_one_bullet2" rel_version="Season_1_Perm">Los Cuervos Plateados</string>
+	<string key="ui_event_mar_mtx_title" rel_version="Entitlements_FirelightSeason">Firelight</string>
+	<string key="ui_event_mar_mtx_description" rel_version="Entitlements_FirelightSeason">¡En la forja, las llamas arden con todo su esplendor con los nuevos objetos de la tienda de este mes! Siente el calor con los nuevos diseños y objetos de decoración. Saca tu lado más competitivo con los nuevos emoticonos para celebrar tus victorias o tranquilizar a tus pobres enemigos. ¡Consíguelos antes de que se enfríen!</string>
+	<string key="ui_event_mar_mtx_about" rel_version="Entitlements_FirelightSeason">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Acerca de la fogata</string>
+	<string key="ui_event_mar_mtx_bullet1" rel_version="Entitlements_FirelightSeason">Armaduras</string>
+	<string key="ui_event_mar_mtx_bullet2" rel_version="Entitlements_FirelightSeason">Armas</string>
+	<string key="ui_event_mar_mtx_bullet3" rel_version="Entitlements_FirelightSeason">Emoticonos</string>
 </resources>
 

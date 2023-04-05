@@ -190,12 +190,12 @@
 	<string key="ui_poi_ancient_tower">Turm der Ahnen</string>
 	<string key="ui_poi_ancient_watchtower">Wachturm der Ahnen</string>
 	<string key="ui_poi_ancient_watchtower_ancientport_a">Wachturm der Ahnen</string>
-	<string key="ui_poi_abandoned_fishing_village_50207">Anglerschreck</string>
+	<string key="ui_poi_abandoned_fishing_village_50207">Geruchten</string>
 	<string key="ui_poi_ancient_ruins_30121">Antares</string>
 	<string key="ui_poi_ancient_lookout_40127">Adler</string>
 	<string key="ui_poi_archlightcave_60204">Lichtbogenhöhle</string>
 	<string key="ui_poi_ancient_ruins_40223">Arktur</string>
-	<string key="ui_poi_abandoned_farm_village_50204">Dorf Aria</string>
+	<string key="ui_poi_abandoned_farm_village_50204">Dunkelberg</string>
 	<string key="ui_poi_witheredfarm_30116">Arruda-Ranch</string>
 	<string key="ui_poi_crater_mysticruins_50366">Arum</string>
 	<string key="ui_poi_crater_blightedbridge_50351">Welkasterbrücke</string>
@@ -210,13 +210,13 @@
 	<string key="ui_poi_greywolf_den_30131">Heulerhöhle</string>
 	<string key="ui_poi_wolf_den_forestsouth_60322">Heulechohöhle</string>
 	<string key="ui_poi_wolf_den_highpoint_60323">Braunhalshöhle</string>
-	<string key="ui_poi_bear_cave_40321">Waisenhöhle</string>
+	<string key="ui_poi_bear_cave_40321">Strahlende-Wacht-Aussichtspunkt</string>
 	<string key="ui_poi_bear_den">Bärenhöhle</string>
 	<string key="ui_poi_bear_den_30106">Sabberwichthöhle</string>
 	<string key="ui_poi_bear_den_50108">Schrammfußhöhle</string>
 	<string key="ui_poi_bear_den_50109">Knochenbrecherhöhle</string>
 	<string key="ui_poi_bear_grizzly_den">Bärenhöhle</string>
-	<string key="ui_poi_haunted_village_40249">Rübensumpf</string>
+	<string key="ui_poi_haunted_village_40249">Vigil-Lager</string>
 	<string key="ui_poi_drownedshipwreck_ef_2">Beringers Segen</string>
 	<string key="ui_poi_drownedshipwreck_ef_2_30216">Beringers Segen</string>
 	<string key="ui_poi_crater_blightedvillage_50382">Gallenstaub</string>
@@ -241,7 +241,7 @@
 	<string key="ui_poi_shipwreck_mb_04">Boehms Prämie</string>
 	<string key="ui_poi_shipwreck_mb_04_30130">Boehms Prämie</string>
 	<string key="ui_poi_shipwreck_mb_04_30130_MSQ2">Die Zufriedenheit</string>
-	<string key="ui_poi_haunted_village_40263">Brackwasserdorf</string>
+	<string key="ui_poi_haunted_village_40263">Wolfseggdorf</string>
 	<string key="ui_poi_abandoned_village_40206">Bradbury-Felder</string>
 	<string key="ui_poi_abandoned_village_40289">Lugdunumfelder</string>
 	<string key="ui_poi_abandoned_village_40307">Verworrene Gemeinde</string>
@@ -270,6 +270,7 @@
 	<string key="ui_poi_undeadbastion_3_40124_MSQ2_description">Diejenigen, die mit Träumen vom Glück kamen, waren diejenigen, die am schnellsten in tödliche Verzweiflung fielen.</string>
 	<string key="ui_poi_damnedfortress_40408">Caminus</string>
 	<string key="ui_poi_abandoned_village_40001">Campbells Rastplatz</string>
+	<string key="ui_poi_abandoned_village_40001_fl_revamp">Campbells Rastplatz</string>
 	<string key="ui_poi_mine_40203">Singvogelbergwerk</string>
 	<string key="ui_poi_abandoned_village_40204">Töchterbrunnen</string>
 	<string key="ui_poi_ancient_tower_40215">Kleiner Hund</string>
@@ -282,10 +283,10 @@
 	<string key="ui_poi_ancient_lookout_40111">Schiffskiel</string>
 	<string key="ui_poi_ancient_lighthouse_60207">Kassiopeia</string>
 	<string key="ui_poi_ancient_shrine_40313">Catarafälle</string>
-	<string key="ui_poi_haunted_church_40328">Kathedrale de Vasquez</string>
+	<string key="ui_poi_haunted_church_40328">Sonnesbruck-Kathedrale</string>
 	<string key="ui_poi_cave">Höhle</string>
 	<string key="ui_poi_cave_60337">Sorgenschlammkamm</string>
-	<string key="ui_poi_haunted_village_40254">Qual des Kanzlers</string>
+	<string key="ui_poi_haunted_village_40254">Landhaus Mortemer</string>
 	<string key="ui_poi_claim">Gebietsabsteckung</string>
 	<string key="ui_poi_shipwreck_30001">Clearmons Zweifel</string>
 	<string key="ui_poi_abandoned_village_40025">Klarwasserbiegung</string>
@@ -361,7 +362,7 @@
 	<string key="ui_poi_village_40418">Einödeklippen</string>
 	<string key="ui_poi_ancient_lookout_40109">Drache</string>
 	<string key="ui_poi_alpha_wolf_den_40117">Sägezahnbau</string>
-	<string key="ui_poi_haunted_village_40261">Drommgol</string>
+	<string key="ui_poi_haunted_village_40261">Deggendorf</string>
 	<string key="ui_poi_crater_feycrossing_50314">Sonnentau</string>
 	<string key="ui_poi_cavern_mb_01">Höhlen der Ertrunkenen</string>
 	<string key="ui_poi_drownedcavern">Höhlen der Ertrunkenen</string>
@@ -381,7 +382,7 @@
 	<string key="ui_poi_blighted_cave_40247">Ebenholzsteinbruch</string>
 	<string key="ui_poi_graveyard_40320">Friedhof Unheimliche Düne</string>
 	<string key="ui_poi_ancient_lighthouse_40008">Elafry Pyrgo</string>
-	<string key="ui_poi_haunted_village_40210">Eldritchton</string>
+	<string key="ui_poi_haunted_village_40210">Pendleton</string>
 	<string key="ui_poi_den_bear_elemental">Elementarbärenhöhle</string>
 	<string key="ui_poi_ancient_lighthouse_60206">Eridanus</string>
 	<string key="ui_poi_ancient_lookout_portside_60308">Sunadire</string>
@@ -417,7 +418,7 @@
 	<string key="ui_poi_outpost_firstlight_a">Stätte des Ersten Lichts</string>
 	<string key="ui_poi_fishing_village_30002">Spitzenreiter-Fischerei</string>
 	<string key="ui_poi_fishing_village_30018">Grätendorf</string>
-	<string key="ui_poi_abandoned_fishing_village_50206">Fischerende</string>
+	<string key="ui_poi_abandoned_fishing_village_50206">Hakenstadt</string>
 	<string key="ui_poi_fishing_village_30007">Plattfisch-Fischerei</string>
 	<string key="ui_poi_ancient_ruins_flooded">Überflutete Ruinen</string>
 	<string key="ui_poi_ancient_ruins_flooded_60315">Marsic</string>
@@ -426,7 +427,7 @@
 	<string key="ui_poi_abandoned_fishing_village_40024">Forellsee</string>
 	<string key="ui_poi_ruins_60201">Fornax</string>
 	<string key="ui_poi_crater_fort">Fort</string>
-	<string key="ui_poi_soulwarden_camp_50392">Fort Alazar</string>
+	<string key="ui_poi_soulwarden_camp_50392">Caer Dun</string>
 	<string key="ui_poi_fortdamnation_60221">Fort der Verdammnis</string>
 	<string key="ui_poi_corrupted_fort_30020">Fort Ramos</string>
 	<string key="ui_poi_witheredfarm_mb_5">Fraster-Farm</string>
@@ -439,7 +440,7 @@
 	<string key="ui_poi_ancient_ruins_40330">Gelida-Säulen</string>
 	<string key="ui_poi_witheredfarm_mb_4">Gillinger-Farm</string>
 	<string key="ui_poi_bear_den_40138">Rothaarbau</string>
-	<string key="ui_poi_abandoned_farm_village_50203">Gnadenbach</string>
+	<string key="ui_poi_abandoned_farm_village_50203">Hinbrucken</string>
 	<string key="ui_poi_crater_brutalsummit_50309">Ergreifender Gipfel</string>
 	<string key="ui_poi_Graveyard">Friedhof</string>
 	<string key="ui_poi_wolf_den_40011">Graumänenbau</string>
@@ -488,7 +489,7 @@
 	<string key="ui_poi_ancient_ruins_hillside">Hügelruinen</string>
 	<string key="ui_poi_corrupted_camp_40013">Hügelspitzenlager</string>
 	<string key="ui_poi_corrupted_fort_blacksmith_00_40318">Aushölungsfort</string>
-	<string key="ui_poi_haunted_farm_40255">Holms Qual</string>
+	<string key="ui_poi_haunted_farm_40255">Anlegestelle Dragsholm</string>
 	<string key="ui_poi_wolf_den_40010">Heulende Fälle</string>
 	<string key="ui_poi_bear_den_40139">Heulturmhöhle</string>
 	<string key="ui_poi_drownedshipwreck_ef_4">Huangs Hammer</string>
@@ -510,7 +511,7 @@
 	<string key="ui_poi_abandoned_haunted_town_50208">Karburg</string>
 	<string key="ui_poi_abandoned_farm_village_40201">Kelleher-Hofstatt</string>
 	<string key="ui_poi_crater_prowlerridge_50404">Rostiger Knoten</string>
-	<string key="ui_poi_haunted_graveyard_40252">Kristofers Ruhestätte</string>
+	<string key="ui_poi_haunted_graveyard_40252">Graybrooke-Hofstatt</string>
 	<string key="ui_poi_shipwreck_50210">La Escamilla</string>
 	<string key="ui_poi_ancient_lookout_40112">Eidechse</string>
 	<string key="ui_poi_witheredfarm_3_30113">Preiddeu-Bauernhöfe</string>
@@ -585,24 +586,24 @@
 	<string key="ui_poi_myrkgardeast_40410">Überfluss</string>
 	<string key="ui_poi_ancient_lookout_40110">Orion</string>
 	<string key="ui_poi_outpost_outfitting">Bekleidungsaußenposten</string>
-	<string key="ui_poi_abandoned_farm_mill_50202">Spähmühle</string>
+	<string key="ui_poi_abandoned_farm_mill_50202">Hoffnungstal</string>
 	<string key="ui_poi_ancient_lookout_overgrowth">Überwucherter Aussichtspunkt</string>
 	<string key="ui_poi_abandoned_homestead_overlook">Heimstatt am Aussichtspunkt</string>
 	<string key="ui_poi_crater_mysticbridge_50367">Panellus</string>
 	<string key="ui_poi_crater_ancientwatchtower_50328">Pfau</string>
 	<string key="ui_poi_haunted_town_50201">Periheim</string>
 	<string key="ui_poi_ancient_tower_40220">Perseus</string>
-	<string key="ui_poi_abandoned_fishing_village_50205">Fischwidder-Fischerei</string>
+	<string key="ui_poi_abandoned_fishing_village_50205">Verlorenmarsch</string>
 	<string key="ui_poi_shrine_60202">Fische</string>
 	<string key="ui_poi_abandoned_campsite_description">Landmarke</string>
-	<string key="ui_poi_abandoned_farm_mill_50202_description">Einst standen hier zwei Mühlen. Keiner kann sich mehr erinnern, was mit der anderen Mühle passiert ist. Noch ein Mysterium, das man nie mehr lösen wird.</string>
+	<string key="ui_poi_abandoned_farm_mill_50202_description">Für alle, die so dumm sind, optimistisch zu sein.</string>
 	<string key="ui_poi_abandoned_farm_mill_description">Landmarke</string>
 	<string key="ui_poi_abandoned_farm_village_40201_description">Selbst die unerfahrensten Landwirte haben keine Schwierigkeiten, den reichhaltigen Boden von Aeternum zu bestellen.</string>
 	<string key="ui_poi_abandoned_farm_village_40267_description">Am Hügel von Brachen endet diese Geschichte\nGesegnete Seele suchet\nund findet nichts</string>
 	<string key="ui_poi_abandoned_farm_village_40303_description">Sie lernten nur allzu spät, dass nichts die Dunkelheit zurückhalten könnte.</string>
 	<string key="ui_poi_abandoned_farm_village_50203_description">Selbst in diesem ewigen Inselgefängnis gab es Platz für Hoffnung. Gab es.</string>
-	<string key="ui_poi_abandoned_farm_village_50204_description">Du kannst sie immer noch ihre Hymnen singen hören, wie sie für ein besseres Schicksal beten.</string>
-	<string key="ui_poi_abandoned_farm_village_50223_description">Die Märkte von Taryheim haben Reisenden wie dir einst viel Freude bereitet.</string>
+	<string key="ui_poi_abandoned_farm_village_50204_description">Du kannst die ungeborenen Kinder immer noch ihre Hymnen singen hören, wie sie für ein besseres Schicksal beten.</string>
+	<string key="ui_poi_abandoned_farm_village_50223_description">Die Märkte von Lappendorf haben Reisenden wie dir einst viel Freude bereitet.</string>
 	<string key="ui_poi_abandoned_farm_village_50230_description">Landmarke</string>
 	<string key="ui_poi_abandoned_farm_village_description">Landmarke</string>
 	<string key="ui_poi_abandoned_fishing_village_40024_description">Ein perfekter Ort zum Angeln, solange du nichts gegen Gesellschaft hast.</string>
@@ -610,7 +611,7 @@
 	<string key="ui_poi_abandoned_fishing_village_40246_description">An einem unbewölkten Tag kannst du den Zerstörten Obelisk von hier aus sehen.</string>
 	<string key="ui_poi_abandoned_fishing_village_50106_description">Das Tor zu Brackwasser und einem geschäftigen Fischerdorf. Zu viele große Fische zu verlieren, fordert jedoch seinen Tribut ...</string>
 	<string key="ui_poi_abandoned_fishing_village_50205_description">Angeln als Freizeitbeschäftigung hat schon so manchen Abenteurer entspannt. Die Rettung der Welt kann auch mal warten.</string>
-	<string key="ui_poi_abandoned_fishing_village_50206_description">"Das heißt nicht, dass das Fischen nicht gut ist."\n- Altes Sprichwort der Fischer</string>
+	<string key="ui_poi_abandoned_fishing_village_50206_description">Wer sagt, dass man tagsüber keine Albträume haben kann?</string>
 	<string key="ui_poi_abandoned_fishing_village_50207_description">Nicht auszumalen, welche Abscheulichkeiten in den tiefen Gewässern von Aeternum lauern.</string>
 	<string key="ui_poi_abandoned_fishing_village_50209_description">Wenn man einem Fisch das Wasser wegnimmt, erstickt er dann auf ewig? Die meisten Bewohner von Aeternum vermeiden, darüber nachzudenken.</string>
 	<string key="ui_poi_abandoned_fishing_village_description">Landmarke</string>
@@ -620,6 +621,7 @@
 	<string key="ui_poi_abandoned_homestead_overlook_60402_description">Einst gab es hier eine lebhafte Künstlergemeinschaft, doch dank der Verderbten sind nur ausgebrannte Ruinen übrig geblieben.</string>
 	<string key="ui_poi_abandoned_homestead_overlook_description">Landmarke</string>
 	<string key="ui_poi_abandoned_village_40001_description">Er wehrte sich gegen die dunklen Horden, bis er sich schließlich selbst im Spiegelglas erblickte.</string>
+	<string key="ui_poi_abandoned_village_40001_fl_revamp_description">LORUM IPSUM APES GEMEINSAM STARK</string>
 	<string key="ui_poi_abandoned_village_40002_description">Während der Müller seine Geschichte erzählte, erblasste sie wie ein Geist.</string>
 	<string key="ui_poi_abandoned_village_40015_description">Ist der Lebenszyklus eines Fisches hier auf Aeternum anders? Das Syndikat ist stets auf der Suche nach der Wahrheit.</string>
 	<string key="ui_poi_abandoned_village_40025_description">Das Spinnrad kann den Kummer heilen, aber nicht für lange.</string>
@@ -650,7 +652,7 @@
 	<string key="ui_poi_ancient_bridge_40121_description">Mit genug Steinen teilt sich selbst das Meer für eine Zeit lang.</string>
 	<string key="ui_poi_ancient_bridge_40126_description">Überraschenderweise ist er nicht nach der Form des Flusses benannt, sondern nach dem Preis für die Überfahrtsmaut in früheren Zeiten.</string>
 	<string key="ui_poi_ancient_bridge_40329_description">Diese Brücke ist ein Glanzstück der Ahnen-Ingenieurskunst und hat schon viele Stürme unbeschadet durchgestanden.</string>
-	<string key="ui_poi_ancient_bridge_50212_description">Du kannst die Natur zähmen, wenn du dich über sie stellst.</string>
+	<string key="ui_poi_ancient_bridge_50212_description">Baut Brücken statt Mauern. Zumindest dachten das die Ahnen zu besseren Zeiten.</string>
 	<string key="ui_poi_ancient_bridge_50215_description">Die Ahnen legten sichere Pfade durch das wilde, ungezähmte Land an. Sie ahnten nicht, dass diese Wege für viele zum Verhängnis werden würden.</string>
 	<string key="ui_poi_ancient_buttress_40120_description">Anscheinend ist der Meeresspiegel seit den Zeiten, als die Originalstruktur errichtet wurde, gesunken.</string>
 	<string key="ui_poi_ancient_buttress_description">Landmarke</string>
@@ -663,8 +665,8 @@
 	<string key="ui_poi_ancient_lookout_40107_description">Nur die Sterne entscheiden, nur das Schicksal erkennt.</string>
 	<string key="ui_poi_ancient_lookout_40108_description">Hier ruht die Seele einer armen Fehlschöpfung.</string>
 	<string key="ui_poi_ancient_lookout_40109_description">Stolzer Wächter des nordischen Himmels.</string>
-	<string key="ui_poi_ancient_lookout_40110_description">Des Jägers Leben verwirkt, das Ziel der Pflicht fast verfehlt.</string>
-	<string key="ui_poi_ancient_lookout_40111_description">In Eile der Mission schneidet das Kiel des mächtigsten Schiffes die Wellen.</string>
+	<string key="ui_poi_ancient_lookout_40110_description">In diesen Sümpfen sind schon viele Stiefel qualvoll verendet.</string>
+	<string key="ui_poi_ancient_lookout_40111_description">In diesen Sümpfen sind schon viele Stiefel qualvoll verendet.</string>
 	<string key="ui_poi_ancient_lookout_40112_description">Der Schwanz des Reptils aller geheimnisvollen Dinge.</string>
 	<string key="ui_poi_ancient_lookout_40113_description">Und das Horn einer Bestie, geweiht durch die Hand des erhabensten Priesters.</string>
 	<string key="ui_poi_ancient_lookout_40114_description">Und das Siegel der Tür, vom Geist des Bären festgehalten.</string>
@@ -1104,26 +1106,26 @@
 	<string key="ui_poi_haunted_farm_40251_description">Alles, was sie wollten, war ein kleines Stück Land, auf dem sie Getreide anbauen konnten.</string>
 	<string key="ui_poi_haunted_farm_40255_description">Holm verzweifelte oft wegen der hier gefangenen Fische. Irgendwie schmeckten sie nicht.</string>
 	<string key="ui_poi_haunted_farm_description">Landmarke</string>
-	<string key="ui_poi_haunted_graveyard_40252_description">Ruhe in Frieden, lieber Kristofer. Möge deine Reise dich endlich in die stille Vergessenheit führen, oder zumindest in die nächste Stadt.</string>
+	<string key="ui_poi_haunted_graveyard_40252_description">Ruhe in Frieden, lieber Verwandter. Möge deine Reise dich endlich in die stille Vergessenheit führen, oder zumindest in die nächste Stadt.</string>
 	<string key="ui_poi_haunted_graveyard_40258_description">An Händen und Füßen gefesselt, gingen sie stöhnend in die Kisten und wurden bald von der Erde zum Schweigen gebracht.</string>
 	<string key="ui_poi_haunted_graveyard_40264_description">Zwischen zwei Flüssen gelegen, schien dieser Ort zu gut, um wahr zu sein.</string>
 	<string key="ui_poi_haunted_graveyard_description">Landmarke</string>
 	<string key="ui_poi_haunted_mine_description">Landmarke</string>
 	<string key="ui_poi_haunted_shipwreck_description">Landmarke</string>
-	<string key="ui_poi_haunted_town_50201_description">Elite-Bollwerk\n\nEin Ort der einstigen Verheißung, der nun an die rasende Geißel der Untoten verloren ist.</string>
+	<string key="ui_poi_haunted_town_50201_description">Ein Ort der einstigen Verheißung, der nun an die rasende Geißel des Untodes verloren ist.</string>
 	<string key="ui_poi_haunted_town_50216_description">Etwas Schreckliches war hier geschehen. Etwas, an was sich nur die Wiedergänger erinnern.</string>
 	<string key="ui_poi_haunted_village_40012_description">Alles schien furchterregender bei Kerzenschein. Insbesondere hier.</string>
 	<string key="ui_poi_haunted_village_40210_description">Etwas scheint an diesem Ort nicht zu stimmen.</string>
-	<string key="ui_poi_haunted_village_40249_description">Zuerst verspotteten sie Beet, denn wer würde dort schon ein Haus bauen? Und dann wuchs die Stadt.</string>
+	<string key="ui_poi_haunted_village_40249_description">Wer würde in einem Moor bauen? Nur die ganz Verzweifelten … oder die ganz Paranoiden.</string>
 	<string key="ui_poi_haunted_village_40250_description">Eine eingeschworene Gemeinschaft, für manche vielleicht zu innig.</string>
 	<string key="ui_poi_haunted_village_40254_description">"Es gibt einen Ort jenseits des Leidens", sagte sie. "Komm mit mir zum Fluss."</string>
 	<string key="ui_poi_haunted_village_40256_description">Sie dachten, sie könnten Walshams Schicksal entkommen. Wie falsch sie lagen.</string>
 	<string key="ui_poi_haunted_village_40257_description">Wo Walsham liegt\nVerloren im Lichtholz\nSieh dich um\nEs gibt keinen Ausweg</string>
-	<string key="ui_poi_haunted_village_40261_description">Und ja, die ganze Region erzitterte vor Angst, wenn die Reiter von Drommgol auf Patrouille waren.</string>
+	<string key="ui_poi_haunted_village_40261_description">Und ja, die ganze Region erzitterte vor Angst, wenn die Reiter von Deggendorf auf Patrouille waren.</string>
 	<string key="ui_poi_haunted_village_40262_description">Zu viel Bedauern sucht diesen Ort heim.</string>
 	<string key="ui_poi_haunted_village_40263_description">Eine Stadt, die in guten Zeiten geteilt wurde, nun geeint in seelenloser Reue.</string>
 	<string key="ui_poi_haunted_village_40266_description">Geschichten der Vergangenheit ruhen inmitten dieser verwunschenen Ländereien.</string>
-	<string key="ui_poi_haunted_village_40310_description">Lass dich nicht von dem Namen täuschen. Nichts schläft hier. Nicht jetzt.</string>
+	<string key="ui_poi_haunted_village_40310_description">Nichts schläft hier. Und hier wird auch nie wieder etwas schlafen.</string>
 	<string key="ui_poi_haunted_village_description">Landmarke</string>
 	<string key="ui_poi_homestead_waterrun_60304_description">Das Wasser läuft hier im Kreis, wie gerührter Haferbrei in einem Topf.</string>
 	<string key="ui_poi_homestead_waterrun_description">Landmarke</string>
@@ -1358,15 +1360,15 @@
 	<string key="ui_poi_shattered_obelisk">Zerstörter Obelisk</string>
 	<string key="ui_poi_shattered_obelisk_40116">Zerstörter Obelisk</string>
 	<string key="ui_poi_ancient_lookout_sheperd">Schafhirtenaussichtspunkt</string>
-	<string key="ui_poi_lumbermill_40202">Sherveys Sägewerk</string>
-	<string key="ui_poi_graveyard_40327">Schildruh</string>
+	<string key="ui_poi_lumbermill_40202">Blairadam-Mühle</string>
+	<string key="ui_poi_graveyard_40327">Kalterstein-Friedhof</string>
 	<string key="ui_poi_shipwreck">Schiffswrack</string>
 	<string key="ui_poi_alpha_wolf_den_30110">Silberklauenhöhle</string>
 	<string key="ui_poi_haunted_farm_40251">Sinanovic-Farm</string>
 	<string key="ui_poi_ancient_ruins_40123">Sirius</string>
-	<string key="ui_poi_haunted_village_40310">Sankt Sarmad</string>
+	<string key="ui_poi_haunted_village_40310">Morgenstadt</string>
 	<string key="ui_poi_haunted_village_40012">Talghofen</string>
-	<string key="ui_poi_bear_den_50301">Sabbernde Höhle</string>
+	<string key="ui_poi_bear_den_50301">Geldvenehöhle</string>
 	<string key="ui_poi_abandoned_village_40308">Schlummerechos</string>
 	<string key="ui_poi_small_outpost_60340">Guerras Fluch</string>
 	<string key="ui_poi_witheredfarm_2">Smith-Hof</string>
@@ -1386,7 +1388,7 @@
 	<string key="ui_poi_crater_spriggan">Zygoramets Hain</string>
 	<string key="ui_poi_dryadlookout_50418">Spryla-Turm</string>
 	<string key="ui_poi_shipwreck_40003">Seichtstand</string>
-	<string key="ui_poi_haunted_graveyard_40264">Seicht-Staud</string>
+	<string key="ui_poi_haunted_graveyard_40264">Landhaus Staudt</string>
 	<string key="ui_poi_ancient_ruins_streamside">Bachuferruinen</string>
 	<string key="ui_poi_pirate_fort_30016">Steinschädelfort</string>
 	<string key="ui_poi_undeadbastion_50232">Steinzahnterasse</string>
@@ -1402,10 +1404,10 @@
 	<string key="ui_poi_corrupted_fort_outfitting_00_40316">Entzweites Fort</string>
 	<string key="ui_poi_crater_feralaqueduct_50356">Sonnentau-Aquädukt</string>
 	<string key="ui_poi_military_camp_40405">Svikin-Lager</string>
-	<string key="ui_poi_abandoned_fishing_village_50209">Sumpfwasser-Fischerei</string>
+	<string key="ui_poi_abandoned_fishing_village_50209">Schattensee</string>
 	<string key="ui_poi_boar_infestation_1_40145">Schweinsleder-Schuppen</string>
 	<string key="ui_poi_crater_feralruins_50375">Tadeas-Bollwerk</string>
-	<string key="ui_poi_abandoned_farm_village_50223">Taryheim</string>
+	<string key="ui_poi_abandoned_farm_village_50223">Lappendorf</string>
 	<string key="ui_poi_ancient_bridge_40329">Meridian-Brücke</string>
 	<string key="ui_poi_drownedshipwreck_1">Le Caraquon</string>
 	<string key="ui_poi_drownedshipwreck_1_40144">Le Caraquon</string>
@@ -1469,7 +1471,7 @@
 	<string key="ui_poi_wolf_den_forestnorth_60324">Fletschzahns Versteck</string>
 	<string key="ui_poi_elemental_wolf_ice_den">Wolfswächterhöhle</string>
 	<string key="ui_poi_ancient_ruins_woods">Baumwipfelruinen</string>
-	<string key="ui_poi_haunted_village_40262">Gespensterburg</string>
+	<string key="ui_poi_haunted_village_40262">Tillingast</string>
 	<string key="ui_poi_wrecked_galleon_60339">Gebrochenes Versprechen</string>
 	<string key="ui_poi_ancient_ruins_30012">Yafdastufen</string>
 	<string key="ui_poi_devilspit_30134">Hiraeth-Ausguck</string>
@@ -1480,7 +1482,7 @@
 	<string key="ui_poi_ancient_ruins_40155">Alioth</string>
 	<string key="ui_poi_ancient_ruins_40154_description">Die Reste dieser uralten Treppen ragen beeindruckend hoch hinauf, ihre Steine erzählen von einer beeindruckenden Reise.</string>
 	<string key="ui_poi_ancient_ruins_40155_description">Die Geheimnisse der Seelenwächter verstecken sich in aller Deutlichkeit.</string>
-	<string key="ui_poi_gracewatercave_50233">Hazels Höhle</string>
+	<string key="ui_poi_gracewatercave_50233">Leichenhexen-Höhle</string>
 	<string key="ui_poi_gracewatercave_50233_description">Die Aromen der Heilkräuter verbreiten sich in der Luft.</string>
 	<string key="ui_poi_alpha_wolf_den_30135">Offal-Grotte</string>
 	<string key="ui_poi_alpha_wolf_den_30135_description">Versuche, die Katzen nicht aufzuregen.</string>
@@ -1510,11 +1512,11 @@
 	<string key="ui_poi_witheredfarm_40159_description">Es ist schwer, zu verstehen, wie an einem so netten Ort alles so schief gehen konnte. Aber so ist eben Moe.</string>
 	<string key="ui_poi_witheredfarm_40159_MSQ2">Süßacker-Bauernhof</string>
 	<string key="ui_poi_witheredfarm_40159_MSQ2_description">Es ist schwer, zu verstehen, wie an einem so netten Ort alles so schief gehen konnte. Aber so ist eben Moe.</string>
-	<string key="ui_poi_corrupted_camp_40335">Reidas Höhle</string>
+	<string key="ui_poi_corrupted_camp_40335">Rotlager</string>
 	<string key="ui_poi_corrupted_camp_40335_description">Reida bevorzugte immer Orte, die leicht zu verteidigen waren.</string>
 	<string key="ui_poi_corrupted_camp_40336">Die Eisenfelder</string>
 	<string key="ui_poi_corrupted_camp_40336_description">Du musst hart wie Eisen und zäh wie Leder sein, um hier überleben zu können.</string>
-	<string key="ui_poi_green_defile_40268">Grüne Verderbnis</string>
+	<string key="ui_poi_green_defile_40268">Pendelschlucht</string>
 	<string key="ui_poi_green_defile_40268_description">Ein Spritzer von Farbe quer über das Land, wie Lack, der auf dem Boden verschüttet wurde.</string>
 	<string key="ui_poi_clawpointruins_50234">Krallenspitzen-Ruinen</string>
 	<string key="ui_poi_clawpointruins_50234_description">Die hier lebenden Luchse mögen keine Eindringlinge.</string>
@@ -1522,10 +1524,10 @@
 	<string key="ui_poi_treetopterror_60227_description">Ob sie an den Seilen schwingen oder in den Bäumen über Planken laufen, diese Piraten fühlen sich stets heimisch.</string>
 	<string key="ui_poi_ancient_ruins_50235">Andrometus</string>
 	<string key="ui_poi_ancient_ruins_50236">Lepus</string>
-	<string key="ui_poi_abandoned_fishing_village_50237">Finstere Seichte</string>
-	<string key="ui_poi_ancient_ruins_50235_description">Mit Blick in jede Richtung konnten die Ahnen alles sehen.</string>
+	<string key="ui_poi_abandoned_fishing_village_50237">Krummholm</string>
+	<string key="ui_poi_ancient_ruins_50235_description">Ein Gesicht für jede Richtung. Dann hat die Fäulnis sie alle gesichtslos gemacht.</string>
 	<string key="ui_poi_ancient_ruins_50236_description">Erhebt sich die Erde, um auf diese Ruinen zu treffen, oder sind die Ruinen im Sumpf versunken?</string>
-	<string key="ui_poi_abandoned_fishing_village_50237_description">Es ist das, was man in den Untiefen findet, was sie wirklich armselig macht.</string>
+	<string key="ui_poi_abandoned_fishing_village_50237_description">Nicht alle Schrecken sind sichtbar. Manche spürt man nur unter der Haut.</string>
 	<string key="ui_poi_nettlerest_graveyard_40151_description">Die Überlieferung besagt, dass das Pflanzen von Brennnesseln auf Gräbern die ruhelosen Geister im Inneren bindet.</string>
 	<string key="ui_poi_Lion_Den_50117">Zottelmähnenwinkel</string>
 	<string key="ui_poi_Hilltop_Ruins_50118">Himmelsblickrast</string>
@@ -1657,6 +1659,8 @@
 	<string key="ui_poi_phantomtree_30325_description" rel_version="Territory_Brimstone_Sands">Monument\n\nEin heiliger, uralter Baum und der eigensinnigste Exilant unter der Wüstensonne.</string>
 	<string key="ui_poi_necropolis_20425" rel_version="Territory_Brimstone_Sands">Nekropolis von Sutekh</string>
 	<string key="ui_poi_necropolis_20425_description" rel_version="Territory_Brimstone_Sands">Seelenprüfung\n\nEine Gruft ist ein Denkmal für die Toten. Auf Aeternum ist es ein Gefängnis, in dem der Tod lediglich schlummert.</string>
+	<string key="ui_poi_caerdun_40354" rel_version="Quest_MSQ2_Brightwood">Der Fluch von Caer Dun</string>
+	<string key="ui_poi_caerdun_40354_description" rel_version="Quest_MSQ2_Brightwood">Seelenprüfung\n\nSchrecken und Wahnsinn kleben wie Schimmel an den Wänden der Krypta. Darin haust Dunkelheit, ein von gequälten Geistern und unheiligen Taten genährter Fluch.</string>
 	<string key="ui_poi_dynasty_shrine_30312">Himmelssang-Schrein</string>
 	<string key="ui_poi_dynasty_shrine_30312_description">Ein einst heiliger Ort, der von der Verderbnis besudelt wurde.</string>
 	<string key="ui_poi_aqueduct_30401" rel_version="Territory_Brimstone_Sands">Oase Spontanea</string>
@@ -1787,9 +1791,9 @@
 	<string key="ui_poi_dungeon_ennead_20413_description" rel_version="Expedition_BrimstoneSands_00">Expedition\n\nDie Echowellen der Zeit treiben auf den sich immer weiter ausdehnenden Rändern dieser Leere.</string>
 	<string key="ui_poi_spiritshrine_01_40037">Entdeckerausblick</string>
 	<string key="ui_poi_spiritshrine_02_40038">Kap Thomas-Schrein</string>
-	<string key="ui_poi_spiritshrine_01_40279">Schrein des Alchemisten</string>
+	<string key="ui_poi_spiritshrine_01_40279">Postrehkin-Schrein</string>
 	<string key="ui_poi_spiritshrine_02_40280">Wolfsgalgenschrein</string>
-	<string key="ui_poi_spiritshrine_01_40345">Fort Alazar-Schrein</string>
+	<string key="ui_poi_spiritshrine_01_40345">Schrein von Caer Dun</string>
 	<string key="ui_poi_spiritshrine_02_40344">Sturmwindtal-Schrein</string>
 	<string key="ui_poi_spiritshrine_01_60351">Orions Schrein</string>
 	<string key="ui_poi_spiritshrine_02_60414">Widderrast</string>
@@ -1797,21 +1801,23 @@
 	<string key="ui_poi_spiritshrine_01_40170">Schrein der Eisernen Rose</string>
 	<string key="ui_poi_spiritshrine_02_40171">Khalladan-Tor</string>
 	<string key="ui_poi_spiritshrine_01_30142">Totenschrein</string>
-	<string key="ui_poi_spiritshrine_01_40425">Alt Düsterheim-Schrein</string>
+	<string key="ui_poi_spiritshrine_01_40425">Alter Düsterheim-Schrein</string>
 	<string key="ui_poi_spiritshrine_01_50396">Himmelsschrein</string>
 	<string key="ui_poi_spiritshrine_02_50397">Verfaulter Schrein</string>
 	<string key="ui_poi_spiritshrine_01_40281">Bärenklauenschrein</string>
 	<string key="ui_poi_spiritshrine_02_40282">Schattenmine-Schrein</string>
 	<string key="ui_poi_spiritshrine_01_30038">Moorschrein</string>
 	<string key="ui_poi_spiritshrine_02_30039">Steinschädel-Schrein</string>
-	<string key="ui_poi_spiritshrine_02_50398">Mallorys Zuflucht</string>
+	<string key="ui_poi_spiritshrine_02_50398">Mallorys Schrein</string>
 	<string key="ui_poi_spiritshrine_03_50423">Straße der Sammler</string>
 	<string key="ui_poi_spiritshrine_01_50149">Aufschub des Todes</string>
 	<string key="ui_poi_spiritshrine_02_50150">Lauf der Sirene</string>
-	<string key="ui_poi_spiritshrine_01_50250">Rast der Moorwandlerin</string>
+	<string key="ui_poi_spiritshrine_01_50250">Dunkelberg-Schrein</string>
 	<string key="ui_poi_spiritshrine_01_30251">Pilgerrast</string>
 	<string key="ui_poi_spiritshrine_02_30314">Schrein des Verliebten</string>
 	<string key="ui_poi_spiritshrine_20208">Kaiserlicher Schrein</string>
+	<string key="ui_poi_spiritshrine_04_30042" rel_version="Season_1_Perm">Laue-Steppe-Schrein</string>
+	<string key="ui_poi_spiritshrine_05_30043" rel_version="Season_1_Perm">Ungebundener Schrein</string>
 	<string key="ui_poi_spiritshrine_20209">@ui_poi_spiritshrine_20209</string>
 	<string key="ui_poi_vikingshipwreck_40039">Vigrid</string>
 	<string key="ui_poi_vikingshipwreck_40039_description">Schiffe aus dem Norden und auf ihnen Geister der verfluchten Crews.</string>
@@ -1967,14 +1973,14 @@
 	<string key="ui_poi_yeti_50424_description">Einsamkeit ist eine schöne Form der Traurigkeit, die der inneren Einkehr zuträglich ist.</string>
 	<string key="ui_poi_yeti_60352">Hochpass-Schlupfwinkel</string>
 	<string key="ui_poi_yeti_60352_description">Sind die Geschichten über verborgene Schätze wahr oder lediglich ein Köder, um die Habgierigen und Leichtsinnigen anzulocken?</string>
-	<string key="ui_poi_40348_wintervillage">Winterdorf</string>
-	<string key="ui_poi_40348_wintervillage_description">Ein geheimnisvolles Dorf, so schneebedeckt wie heiter, ist auf Aeternum erschienen. Willkommen zur Winterkonvergenz!</string>
-	<string key="ui_poi_wintervillage_50151">Winterdorf</string>
-	<string key="ui_poi_wintervillage_50151_description">Ein geheimnisvolles Dorf, so schneebedeckt wie heiter, ist auf Aeternum erschienen. Willkommen zur Winterkonvergenz!</string>
-	<string key="ui_poi_50300_wintervillage">Winterdorf</string>
-	<string key="ui_poi_50300_wintervillage_description">Ein geheimnisvolles Dorf, so schneebedeckt wie heiter, ist auf Aeternum erschienen. Willkommen zur Winterkonvergenz!</string>
-	<string key="ui_poi_wintervillage_30145">Winterdorf</string>
-	<string key="ui_poi_wintervillage_30145_description">Ein geheimnisvolles Dorf, so schneebedeckt wie heiter, ist auf Aeternum erschienen. Willkommen zur Winterkonvergenz!</string>
+	<string key="ui_poi_40348_wintervillage">Winter-Zusammenkunft</string>
+	<string key="ui_poi_40348_wintervillage_description">Ein geheimnisvolles Dorf, so schneebedeckt wie heiter, ist auf Aeternum erschienen. Willkommen zur Winter-Zusammenkunft!</string>
+	<string key="ui_poi_wintervillage_50151">Winter-Zusammenkunft</string>
+	<string key="ui_poi_wintervillage_50151_description">Ein geheimnisvolles Dorf, so schneebedeckt wie heiter, ist auf Aeternum erschienen. Willkommen zur Winter-Zusammenkunft!</string>
+	<string key="ui_poi_50300_wintervillage">Winter-Zusammenkunft</string>
+	<string key="ui_poi_50300_wintervillage_description">Ein geheimnisvolles Dorf, so schneebedeckt wie heiter, ist auf Aeternum erschienen. Willkommen zur Winter-Zusammenkunft!</string>
+	<string key="ui_poi_wintervillage_30145">Winter-Zusammenkunft</string>
+	<string key="ui_poi_wintervillage_30145_description">Ein geheimnisvolles Dorf, so schneebedeckt wie heiter, ist auf Aeternum erschienen. Willkommen zur Winter-Zusammenkunft!</string>
 	<string key="ui_poi_summervillage_30149">Medleyfaire</string>
 	<string key="ui_poi_summervillage_30149_description">"Kommt, kommt alle zur größten Feier ganz Aeternums! Das Sommer-Medleyfaire hat begonnen!" – Medleyfaire-Meister</string>
 	<string key="ui_poi_summervillage_40349">Medleyfaire</string>
@@ -1983,6 +1989,14 @@
 	<string key="ui_poi_summervillage_50252_description">"Kommt, kommt alle zur größten Feier ganz Aeternums! Das Sommer-Medleyfaire hat begonnen!" – Medleyfaire-Meister</string>
 	<string key="ui_poi_summervillage_50304">Medleyfaire</string>
 	<string key="ui_poi_summervillage_50304_description">"Kommt, kommt alle zur größten Feier ganz Aeternums! Das Sommer-Medleyfaire hat begonnen!" – Medleyfaire-Meister</string>
+	<string key="ui_poi_springvillage_30156">Frühlingsdorf</string>
+	<string key="ui_poi_springvillage_30156_description">"Ein weiterer gesegneter Frühling ist angebrochen! Feiert mit dem Rest der Kinder der Blüte diesen glorreichen Anlass!" - Blütenherold</string>
+	<string key="ui_poi_springvillage_40350">Frühlingsdorf</string>
+	<string key="ui_poi_springvillage_40350_description">"Ein weiterer gesegneter Frühling ist angebrochen! Feiert mit dem Rest der Kinder der Blüte diesen glorreichen Anlass!" - Blütenherold</string>
+	<string key="ui_poi_springvillage_53000">Frühlingsdorf</string>
+	<string key="ui_poi_springvillage_53000_description">"Ein weiterer gesegneter Frühling ist angebrochen! Feiert mit dem Rest der Kinder der Blüte diesen glorreichen Anlass!" - Blütenherold</string>
+	<string key="ui_poi_springvillage_50256">Frühlingsdorf</string>
+	<string key="ui_poi_springvillage_50256_description">"Ein weiterer gesegneter Frühling ist angebrochen! Feiert mit dem Rest der Kinder der Blüte diesen glorreichen Anlass!" - Blütenherold</string>
 	<string key="ui_poi_dungeon_shattermtn_40428">Herz des Sturmwinds</string>
 	<string key="ui_poi_dungeon_shattermtn_40428_description">Expedition\n\nVerfolge Isabella in eine verderbte Dimension der Realität.</string>
 	<string key="ui_poi_factionarea_40284">Rabenklippe-Grasland</string>
@@ -1997,7 +2011,7 @@
 	<string key="ui_poi_cave_40042_description">Eine Höhle der Geheimnisse und Fehden, in der die Ehre nach Blut lechzt.</string>
 	<string key="ui_poi_keep_40287">Burg am Fluss</string>
 	<string key="ui_poi_keep_40287_description">Eine düstere Feste erhebt sich. Darin dürstet ein einsamer Wächter nach Eroberungen.</string>
-	<string key="ui_poi_stinky_50251">Stinkys Schuppen</string>
+	<string key="ui_poi_stinky_50251">Wassergard</string>
 	<string key="ui_poi_stinky_50251_description">Von seinen Freunden verlassen, beginnt der Jäger ein neues Leben.</string>
 	<string key="ui_poi_dynasty_harborage_20209">Dynastien-Herberge</string>
 	<string key="ui_poi_dynasty_harborage_20209_description">Von seinen Freunden verlassen, beginnt der Jäger ein neues Leben.</string>
@@ -2024,11 +2038,8 @@
 	<string key="ui_poi_eldergate_ruins_40177">Kochab-Steinnadel</string>
 	<string key="ui_poi_eldergate_ruins_40177_description">Dieser einstige Leuchtturm in der Nacht ist inzwischen verfallen.</string>
 	<string key="ui_poi_spiritshrine_02_30151">Schrein am Brysedd-Aussichtspunkt</string>
-	<string key="ui_poi_spiritshrine_02_30151_description">Schrein am Brysedd-Aussichtspunkt</string>
 	<string key="ui_poi_spiritshrine_02_30153">Preddieu-Schrein</string>
-	<string key="ui_poi_spiritshrine_02_30153_description">Preddieu-Schrein</string>
 	<string key="ui_poi_spiritshrine_02_30154">"Insel Werna"-Schrein</string>
-	<string key="ui_poi_spiritshrine_02_30154_description">"Insel Werna"-Schrein</string>
 	<string key="ui_poi_ancient_ruins_40178">Fatentur</string>
 	<string key="ui_poi_ancient_ruins_40178_description">Dein Schicksal ändert sich, wenn du diese Ruinen besuchst.</string>
 	<string key="ui_poi_ancient_ruins_30152">Fatentur</string>
@@ -2043,7 +2054,6 @@
 	<string key="ui_poi_bisonisland_40182">Bisoninsel</string>
 	<string key="ui_poi_bisonisland_40182_description">Der ideale Ort zum Ausruhen und Erholen für Bisons.</string>
 	<string key="ui_poi_spiritshrine_07_40183">Bündnisschrein</string>
-	<string key="ui_poi_spiritshrine_07_40183_description">Die Bündnisenklave erhebt sich aus den vom Miasma verschluckten Hügeln vom Ruhenden Ärgernis und ist ein leuchtendes Zeugnis ihrer ewigen Entschlossenheit und eine Bastion für alle, die in ihren Mauern Schutz suchen.</string>
 	<string key="ui_poi_covenantenclave_40184">Bündnisenklave</string>
 	<string key="ui_poi_covenantenclave_40184_description">Die Enklave des Bündnisses erhebt sich aus den vom Miasma verschluckten Hügeln vom Ruhenden Ärgernis und ist ein leuchtendes Zeugnis ihrer ewigen Entschlossenheit und eine Bastion für alle, die in ihren Mauern Schutz suchen.</string>
 	<string key="ui_poi_cygnius_40185">Vulcanus</string>
@@ -2059,11 +2069,9 @@
 	<string key="ui_poi_marauderenclave_40292">Marodeur-Enklave</string>
 	<string key="ui_poi_marauderenclave_40292_description">Hoch über den dichten Wäldern von Immerfall wacht die Enklave der Marodeure über diejenigen, die ihrer Gemeinschaft Schaden zufügen wollen, doch nur wenige, die die lärmenden Bewohner hören, wagen es, einzudringen.</string>
 	<string key="ui_poi_spiritshrine_03_40293">Marodeur-Schrein</string>
-	<string key="ui_poi_spiritshrine_03_40293_description">Marodeur-Geisterschrein</string>
 	<string key="ui_poi_syndicateenclave_40294">Syndikats-Enklave</string>
 	<string key="ui_poi_syndicateenclave_40294_description">Die geheimnisvolle Enklave des Syndikats versteckt sich zwischen den Steinen der Ahnen, während ihre Mitglieder in ihren Laboren fleißig daran arbeiten, die arkanen Geheimnisse von Aeternum zu entschlüsseln.</string>
 	<string key="ui_poi_spiritshrine_04_40295">Syndikats-Schrein</string>
-	<string key="ui_poi_spiritshrine_04_40295_description">Syndikats-Geisterschrein</string>
 	<string key="Windsward_Settlement_01">Korinth</string>
 	<string key="Windsward_Settlement_01_Inn">Südhauch</string>
 	<string key="Everfall_Settlement_01">Oxboro</string>
@@ -2072,6 +2080,20 @@
 	<string key="MonarchsBluffs_Settlement_01_Inn">Fürstenaufgang</string>
 	<string key="BrimstoneSands_Settlement_01" rel_version="Territory_Brimstone_Sands">Neukorsika</string>
 	<string key="BrimstoneSands_Settlement_01_Inn" rel_version="Territory_Brimstone_Sands">Therme</string>
+	<string key="Brightwood_Settlement_01" rel_version="Quest_MSQ2_Brightwood">Calvary</string>
+	<string key="Brightwood_Settlement_01_Inn" rel_version="Quest_MSQ2_Brightwood">Vigils Ruh</string>
+	<string key="WeaversFen_Settlement_01" rel_version="Quest_MSQ2_WeaversFen">Twillen</string>
+	<string key="WeaversFen_Settlement_01_Inn" rel_version="Quest_MSQ2_WeaversFen">Fadenende</string>
+	<string key="CutlassKeys_Settlement_01" rel_version="Season_1_Perm">Fernglaskamm</string>
+	<string key="CutlassKeys_Settlement_01_Inn" rel_version="Season_1_Perm">Büchsendonner</string>
+	<string key="Reekwater_Settlement_01" rel_version="Season_1_Perm">Fernhafen</string>
+	<string key="Reekwater_Settlement_01_Inn" rel_version="Season_1_Perm">Zum Matschstiefel</string>
+	<string key="EbonscaleReach_Settlement_01" rel_version="Season_1_Perm">Schicksalskreuzung</string>
+	<string key="EbonscaleReach_Settlement_01_Inn" rel_version="Season_1_Perm">Dreigestirn</string>
+	<string key="RestlessShores_Settlement_01" rel_version="Season_1_Perm">Mondbucht</string>
+	<string key="RestlessShores_Settlement_01_Inn" rel_version="Season_1_Perm">Versunkener Kompass</string>
+	<string key="Mourningdale_Settlement_01" rel_version="Season_1_Perm">Grautal</string>
+	<string key="Mourningdale_Settlement_01_Inn" rel_version="Season_1_Perm">Zum Weinenden Kissen</string>
 	<string key="ui_area_ebonscalereach_1_inn">Finstere Nacht</string>
 	<string key="ui_area_windswardshores_1_inn">Zur treuen Waffe</string>
 	<string key="ui_area_firstlight_2_inn">Ewige Fackel</string>
@@ -2082,10 +2104,10 @@
 	<string key="ui_area_brightwood_6_inn">Hütte der müden Knochen</string>
 	<string key="ui_poi_outpost_33_1_30326_inn">Karawanserei</string>
 	<string key="ui_poi_outpost_24_1_20426_inn">Mansio Mercatus</string>
-	<string key="ui_poi_crater_corruptedsettlement_50410_inn">Archies Pension</string>
-	<string key="ui_poi_outpost_53_1_50334_inn">Zur Heldenruh</string>
-	<string key="ui_poi_outpost_43_2_40325_inn">Licht des Morgengrauens</string>
-	<string key="ui_poi_outpost_54_1_50401_inn">Bergrand</string>
+	<string key="ui_poi_crater_corruptedsettlement_50410_inn">Zum schmutzigen Taler</string>
+	<string key="ui_poi_outpost_53_1_50334_inn">Zur Wanderrose</string>
+	<string key="ui_poi_outpost_43_2_40325_inn">Versprechen der Dämmerung</string>
+	<string key="ui_poi_outpost_54_1_50401_inn">Zum gespaltenen Schild</string>
 	<string key="ui_poi_outpost_43_1_40324_inn">Hund und Hammer</string>
 	<string key="ui_poi_outpost_44_1_40406_inn">Letztes Leuchtfeuer</string>
 	<string key="hotspot_broad_1">Coopers Gewöhnliche Angelstelle</string>
@@ -2100,9 +2122,9 @@
 	<string key="hotspot_broad_10">Gewöhnliche Angelstelle des Barbiers</string>
 	<string key="hotspot_broad_11">Gewöhnliche Angelstelle am Strand</string>
 	<string key="hotspot_broad_12">Gewöhnliche Angelstelle in den Auen</string>
-	<string key="hotspot_broad_13">Gewöhnliche Eintagsfliegen-Angelstelle</string>
-	<string key="hotspot_broad_14">Herbstliche Gewöhnliche Angelstelle</string>
-	<string key="hotspot_broad_15">Moosige Gewöhnliche Angelstelle</string>
+	<string key="hotspot_broad_13">Gewöhnliche Angelstelle in Oberwald</string>
+	<string key="hotspot_broad_14">Gewöhnliche Angelstelle in Sodden</string>
+	<string key="hotspot_broad_15">Gewöhnliche Angelstelle in Randwasser</string>
 	<string key="hotspot_broad_16">Faulige Gewöhnliche Angelstelle</string>
 	<string key="hotspot_broad_17">Schläfrige Gewöhnliche Angelstelle</string>
 	<string key="hotspot_broad_18">Gewöhnliche Köderfisch-Angelstelle</string>
@@ -2120,9 +2142,9 @@
 	<string key="hotspot_rare_30">Seltene Rabenklippen-Angelstelle</string>
 	<string key="hotspot_rare_31">Seltene Aurora-Angelstelle</string>
 	<string key="hotspot_rare_32">Seltene Azur-Angelstelle</string>
-	<string key="hotspot_rare_33">Schäumende Seltene Angelstelle</string>
-	<string key="hotspot_rare_34">Moorige Seltene Angelstelle</string>
-	<string key="hotspot_rare_35">Felsige Seltene Angelstelle</string>
+	<string key="hotspot_rare_33">Seltene Vega-Angelstelle</string>
+	<string key="hotspot_rare_34">Seltene grausige Angelstelle</string>
+	<string key="hotspot_rare_35">Seltene Herbst-Angelstelle</string>
 	<string key="hotspot_rare_36">Himmlische Seltene Angelstelle</string>
 	<string key="hotspot_rare_37">Tychos Seltene Angelstelle</string>
 	<string key="hotspot_rare_38">Seltene Stillwasser-Angelstelle</string>
@@ -2143,8 +2165,8 @@
 	<string key="hotspot_secret_53">Geheime Angelstelle am Bach</string>
 	<string key="hotspot_secret_54">Schauerliche Geheime Angelstelle</string>
 	<string key="hotspot_secret_55">Geheime Leuchtfeuer-Angelstelle</string>
-	<string key="hotspot_secret_56">Spritzende Geheime Angelstelle</string>
-	<string key="hotspot_secret_57">Dampfende Geheime Angelstelle</string>
+	<string key="hotspot_secret_56">Geheime Katarakt-Angelstelle</string>
+	<string key="hotspot_secret_57">Geheime verschleierte Angelstelle</string>
 	<string key="hotspot_secret_58">Geheime Angelstelle am Schiffswrack</string>
 	<string key="hotspot_secret_59">Gurgelnde Geheime Angelstelle</string>
 	<string key="hotspot_secret_60">Träge Geheime Angelstelle</string>
@@ -2176,14 +2198,37 @@
 	<string key="hotspot_secret_86" rel_version="Territory_Brimstone_Sands">Geheime Krokodil-Angelstelle</string>
 	<string key="hotspot_summermedley_1">Sommer-Medley-Angelstelle</string>
 	<string key="ui_poi_spiritshrine_05_40296">Einsiedler-Schrein</string>
-	<string key="ui_poi_spiritshrine_05_40296_description">Einsiedler-Geisterschrein</string>
 	<string key="ui_poi_spiritshrine_06_40297">Staubebenen-Schrein</string>
-	<string key="ui_poi_spiritshrine_06_40297_description">Staubebenen-Geisterschrein</string>
 	<string key="ui_poi_factionarea_30328" rel_version="Territory_Brimstone_Sands">Nokraji-Brücke</string>
 	<string key="ui_poi_factionarea_30328_description" rel_version="Territory_Brimstone_Sands">Umkämpftes Gebiet</string>
 	<string key="ui_poi_factionarea_30329" rel_version="Territory_Brimstone_Sands">Ufer des Osiris</string>
 	<string key="ui_poi_factionarea_30329_description" rel_version="Territory_Brimstone_Sands">Umkämpftes Gebiet</string>
 	<string key="ui_poi_factionarea_30330" rel_version="Territory_Brimstone_Sands">Cleopatras Versprechen</string>
 	<string key="ui_poi_factionarea_30330_description" rel_version="Territory_Brimstone_Sands">Umkämpftes Gebiet</string>
+	<string key="ui_poi_spiritshrine_07_42000" rel_version="Quest_MSQ2_Brightwood">Seeufer-Schrein</string>
+	<string key="ui_poi_spiritshrine_08_42001" rel_version="Quest_MSQ2_Brightwood">Penniner Schrein</string>
+	<string key="ui_poi_spiritshrine_09_42002" rel_version="Quest_MSQ2_Brightwood">Wolfsegg-Schrein</string>
+	<string key="ui_poi_spiritshrine_02_50253" rel_version="Quest_MSQ2_WeaversFen">Bockbrücken-Schrein</string>
+	<string key="ui_poi_spiritshrine_03_50254" rel_version="Quest_MSQ2_WeaversFen">Periheim-Schrein</string>
+	<string key="ui_poi_spiritshrine_04_50255" rel_version="Quest_MSQ2_WeaversFen">Polder-Schrein</string>
+	<string key="ui_poi_dungeon_forge_40351" rel_version="Expedition_GreatCleave_01">Empyreum-Schmiede</string>
+	<string key="ui_poi_dungeon_forge_40351_description" rel_version="Expedition_GreatCleave_01">Expedition\n\nLegendäre Gießerei, in der die Ahnen verheerende Kriegsmaschinen geschmiedet haben. Wer auf Macht aus ist, hat es auf die uralte Magie dieser gewaltigen Ruinen abgesehen.</string>
+	<string key="ui_poi_Varangian_Convoy_53001" rel_version="Season_1_Temp">Varangianische Karawane</string>
+	<string key="ui_poi_Varangian_Convoy_53001_description" rel_version="Season_1_Temp">Warten auf eine Nachricht, die nie kommen wird.</string>
+	<string key="ui_poi_CrowsNest_40431" rel_version="Season_1_Perm">Krähennest</string>
+	<string key="ui_poi_CrowsNest_40431_description" rel_version="Season_1_Perm">Heimat der Silberkrähen</string>
+	<string key="ui_poi_CrowsNest_30334" rel_version="Season_1_Perm">Krähennest</string>
+	<string key="ui_poi_CrowsNest_30334_description" rel_version="Season_1_Perm">Heimat der Silberkrähen</string>
+	<string key="ui_poi_CrowsNest_50426" rel_version="Season_1_Perm">Krähennest</string>
+	<string key="ui_poi_CrowsNest_50426_description" rel_version="Season_1_Perm">Heimat der Silberkrähen</string>
+	<string key="ui_poi_varangian_elite_30335" rel_version="AI_Evil_Knights_P3">Attalus' Gießerei</string>
+	<string key="ui_poi_varangian_elite_30335_description" rel_version="AI_Evil_Knights_P3">Elite-Bollwerk\n\nSchwarzer Qualm steigt aus den lodernden Schmieden, in denen unablässig Belagerungsmaschinen für den bösartigen Oberbefehlshaber der Varangianer angefertigt werden.</string>
+	<string key="ui_poi_Varangian_Keep_53002" rel_version="AI_Evil_Knights_P3">Bergfried Acadia</string>
+	<string key="ui_poi_Varangian_Keep_53002_description" rel_version="AI_Evil_Knights_P3">Eine Festung der Varikulaki, brutalen Vasallen des varangianischen Kriegsfürsten, der fest entschlossen ist, ganz Aeternum zu erobern.</string>
+	<string key="ui_poi_Crystal_Cave_53003" rel_version="AI_Evil_Knights_P3">Die Kristallhöhle</string>
+	<string key="ui_poi_Crystal_Cave_53003_description" rel_version="AI_Evil_Knights_P3">Myrddins verborgenes Heiligtum, in dem der weise Zauberer die Mysterien der Ahnen studierte, bevor er tragischerweise der Verderbnis anheimfiel.</string>
+	<string key="ui_poi_spiritshrine_03_40353" rel_version="Season_1_Perm">Empyreum-Schrein</string>
+	<string key="ui_poi_spiritshrine_03_53004">Profaner Schrein</string>
+	<string key="ui_poi_spiritshrine_05_50258" rel_version="Quest_MSQ2_WeaversFen">Fettsumpfschrein</string>
 </resources>
 

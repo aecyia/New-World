@@ -18,7 +18,7 @@
 	<string key="ui_deleterankwithmembersconfirm">Möchtest du den Rang "{rankName}" löschen? \n\nMitglieder mit diesem Rang erhalten dann den Rang "{newRankName}".</string>
 	<string key="ui_demote">Degradieren</string>
 	<string key="ui_enterrankname">Rangnamen eingeben</string>
-	<string key="ui_currentrank">Aktueller Rang: {rankName}</string>
+	<string key="ui_currentrank">{rankName}</string>
 	<string key="ui_friendjoinedmessage">&lt;font color="#9e947e"&gt;{playerName}&lt;/font&gt; ist dem Spiel beigetreten!</string>
 	<string key="ui_friendleftmessage">&lt;font color="#9e947e"&gt;{playerName}&lt;/font&gt; hat das Spiel verlassen!</string>
 	<string key="ui_friendremovedmessage">Du bist nicht mehr mit {playerName} befreundet.</string>
@@ -36,14 +36,14 @@
 	<string key="ui_guilderrortitle">Kompaniefehler</string>
 	<string key="ui_enter_guild_name">Kompanienamen eingeben</string>
 	<string key="ui_create_company_with_faction">Muss zum Gründen in einer Fraktion sein.</string>
-	<string key="guild_create_title">KOMPANIEN DER NEUEN WELT</string>
-	<string key="guild_create_desc">Kompanien sind Gruppen von Spielern, denen du dich anschließen kannst, um noch tiefer in das Onlinespiel einzutauchen. Kämpfe an der Seite deiner Freunde gegen die Verderbten und belagere die Gebiete der gegnerischen Fraktion. Schließe dich an oder gründe deine eigene!</string>
-	<string key="guild_create_info1">FRAKTIONSZUGEHÖRIGKEIT</string>
-	<string key="guild_create_info1_desc">Die von dir gegründete Kompanie wird der von dir ausgewählten Fraktion angehören. Du kannst andere Spieler derselben Fraktion in deine Kompanie einladen.</string>
-	<string key="guild_create_info2">GEBIETSREGIERUNG UND KRIEG</string>
-	<string key="guild_create_info2_desc">Nur Kompanien können Krieg erklären und Gebiete belagern. Als Gouverneur eines Gebiets erhält deine Kompanie über Steuern Taler, bekommt einen hohen Rabatt auf Schnellreisen und steuert ihren Teil zum Erfolg deiner gesamten Fraktion bei.</string>
-	<string key="guild_create_info3">ANDERE KOMPANIEVORTEILE</string>
-	<string key="guild_create_info3_desc">Tausche dich ganz einfach mit Kompaniemitgliedern aus und finde schneller eine Gruppe. Dir wird außerdem angezeigt, wann ein Mitglied zuletzt online war und du erhältst Zugriff auf Taler aus der gemeinsamen Kompanie-Schatzkammer.</string>
+	<string key="guild_create_title">KOMPANIEN</string>
+	<string key="guild_create_desc">Auf Aeternum sind Kompanien Gruppen von Spielern, die gemeinsam gegen die Verderbten kämpfen und Gebiete der gegnerischen Fraktion belagern. Schließe dich an oder gründe deine eigene!</string>
+	<string key="guild_create_info1">FRAKTIONEN</string>
+	<string key="guild_create_info1_desc">Die von dir gegründete Kompanie wird der deiner Fraktion angehören. Du kannst andere Spieler derselben Fraktion in deine Kompanie einladen.</string>
+	<string key="guild_create_info2">GEBIETE UND KRIEG</string>
+	<string key="guild_create_info2_desc">Nur Kompanien können Krieg erklären und Gebiete belagern. Als Gouverneur eines Gebiets erhält deine Kompanie Taler durch Steuern, bekommt einen hohen Rabatt auf Schnellreisen und steuert ihren Teil zum Gesamterfolg deiner Fraktion bei.</string>
+	<string key="guild_create_info3">ANDERE VORTEILE</string>
+	<string key="guild_create_info3_desc">Tausche dich ganz einfach mit Kompaniemitgliedern aus und finde schneller eine Gruppe. Dir wird außerdem angezeigt, wann ein Mitglied zuletzt online war, und du erhältst Zugriff auf Taler aus der Kompanie-Schatzkammer.</string>
 	<string key="ui_faction_label">Fraktion:</string>
 	<string key="ui_create_company">Kompanie gründen</string>
 	<string key="ui_create_company_invalid_name">Ungültiger Name</string>
@@ -79,9 +79,9 @@
 	<string key="ui_guildmemberjoinedmessage">{playerName} hat sich der Kompanie angeschlossen.</string>
 	<string key="ui_guildmemberleftmessage">{playerName} hat die Kompanie verlassen.</string>
 	<string key="ui_guildmemberremovedmessage">{playerName} wurde aus der Kompanie geworfen.</string>
-	<string key="ui_guildmembersonline">{onlineMembers} jetzt online</string>
-	<string key="ui_guildmemberstotal">Insgesamt {members} Mitglieder</string>
-	<string key="ui_factionalignment">FRAKTIONSBÜNDNIS</string>
+	<string key="ui_guildmembersonline">{onlineMembers} online</string>
+	<string key="ui_guildmemberstotal">{members} Mitglieder</string>
+	<string key="ui_factionalignment">FRAKTION</string>
 	<string key="ui_guildname">Kompaniename</string>
 	<string key="ui_guildnamechangemessage">Der Kompaniename wurde zu &lt;font color="#9e947e"&gt;{guildName}&lt;/font&gt; geändert.</string>
 	<string key="ui_guildnamechangetitle">Kompaniename geändert</string>
@@ -107,14 +107,14 @@
 	<string key="ui_guildsiegetab">Belagerungszeitfenster</string>
 	<string key="ui_guildtreasurytab">Schatzkammer</string>
 	<string key="ui_guildtreasurytab_balance">{balance} {coinImage}</string>
-	<string key="ui_treasury_totalbalance">Gesamtguthaben</string>
+	<string key="ui_treasury_totalbalance">Balance</string>
 	<string key="ui_treasury_dailywithdrawallimit">Tägliches Abhebungslimit</string>
 	<string key="ui_treasury_dailywithdrawallimitsmall">Tägliches Abhebungslimit:</string>
 	<string key="ui_treasury_availablewithdrawallimit">Verfügbares Abhebungslimit</string>
 	<string key="ui_treasury_deposit">Einzahlen</string>
 	<string key="ui_treasury_withdraw">Abheben</string>
 	<string key="ui_treasury_withdrawal">Abheben</string>
-	<string key="ui_treasury_changedailywithdrawallimit">Tägliches Abhebungslimit ändern</string>
+	<string key="ui_treasury_changedailywithdrawallimit">Limit ändern</string>
 	<string key="ui_treasury_recenttransactions">Kürzliche Transaktionen (bald verfügbar)</string>
 	<string key="ui_treasury_popup_tocompanytreasury">An Kompanie-Schatzkammer</string>
 	<string key="ui_treasury_popup_fromcompanytreasury">Von Kompanie-Schatzkammer</string>
@@ -122,8 +122,8 @@
 	<string key="ui_treasury_popup_availablelimit">Verfügbares Abhebungslimit:</string>
 	<string key="ui_treasury_popup_newtreasurybalance">Neuer Kontostand der Kompanie-Schatzkammer</string>
 	<string key="ui_treasury_popup_setdailylimit_title">Tägliches Abhebungslimit</string>
-	<string key="ui_treasury_popup_setdailylimit_current">Aktuelles tägliches Abhebungslimit</string>
-	<string key="ui_treasury_popup_setdailylimit_new">Neues tägliches Abhebungslimit</string>
+	<string key="ui_treasury_popup_setdailylimit_current">Aktuelles Limit</string>
+	<string key="ui_treasury_popup_setdailylimit_new">Neues Limit</string>
 	<string key="ui_treasury_popup_setdailylimit_nolimit">Kein Limit</string>
 	<string key="ui_treasury_popup_invalidamount">Gib einen gültigen Wert an.</string>
 	<string key="ui_treasury_tooltip_deposit_nopermissons">Du hast nicht die Berechtigung dazu, etwas einzuzahlen.</string>
@@ -140,13 +140,13 @@
 	<string key="ui_treasury_notification_setdailylimitsuccessinfinite">Das tägliche Abhebungslimit wurde festgelegt auf {infinityImage}.</string>
 	<string key="ui_treasury_notification_cointransferaldisabled">Du musst mindestens Stufe {minLevel} erreicht haben, um die Kompanie-Schatzkammer nutzen zu dürfen.</string>
 	<string key="ui_treasury_notification_error_generic">Interaktion mit Schatzkammer fehlgeschlagen. Versuche es bitte erneut.</string>
-	<string key="ui_setSiegeWindow">Belagerungszeitfenster festlegen</string>
-	<string key="ui_forDefending">Zum Verteidigen deiner Gebiete</string>
-	<string key="ui_guildsiegetabdescription">&lt;font color="#ffffff"&gt;Wenn deine Kompanie ein Gebiet besitzt&lt;/font&gt; und jemand einen Krieg erklärt, wird der Schutz deines Gebietsanspruches innerhalb dieses Zeitraums automatisch reduziert.\n\nDu solltest deine Gebietsansprüche also auf jeden Fall gegen die Angreifer verteidigen.</string>
+	<string key="ui_setSiegeWindow">Belagerungszeitfenster</string>
+	<string key="ui_forDefending">Verteidigung deiner Gebiete</string>
+	<string key="ui_guildsiegetabdescription">Wenn deine Kompanie ein Gebiet besitzt und jemand einen Krieg erklärt, wird der Schutz deines Gebietsanspruches innerhalb dieses Zeitraums automatisch reduziert. Du solltest deine Gebietsansprüche also auf jeden Fall gegen die Angreifer verteidigen.</string>
 	<string key="ui_guildsiegetimezonewarninganddisclaimer">{timezone}</string>
 	<string key="ui_guildsiegetimezonewarning">{timezone}</string>
-	<string key="ui_mycompanysiegewindow">Aktuelles Belagerungszeitfenster</string>
-	<string key="ui_setsiegebutton_canchange">Belagerungszeitfenster ändern</string>
+	<string key="ui_mycompanysiegewindow">Aktuell</string>
+	<string key="ui_setsiegebutton_canchange">Anwenden</string>
 	<string key="ui_setsiegebutton_nopermission">Keine Berechtigung zum Ändern</string>
 	<string key="ui_setsiegebutton_atwar">Kann im Krieg nicht geändert werden</string>
 	<string key="ui_setsiegebutton_changein">Kann in &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{timeRemaining}&lt;/font&gt;&lt;/font&gt; geändert werden</string>
@@ -156,9 +156,9 @@
 	<string key="ui_siegewindow_tooltip_atwar">Während eines aktiven Krieges kann das Belagerungszeitfenster nicht geändert werden.</string>
 	<string key="ui_siegewindow_tooltip_disabled">Du kannst das Belagerungszeitfenster für weitere {timeRemaining} nicht ändern.</string>
 	<string key="ui_siegewindowtime">{beginHour}:{minutes}–{endHour}:{minutes} ({timeZone})</string>
-	<string key="ui_siegeclaimsowned">Gebietsansprüche: {numClaims}</string>
-	<string key="ui_siegenoclaimsowned">Es muss kein Belagerungszeitfenster festgelegt werden.</string>
-	<string key="ui_setsiegeswindowpopup_title">Zeitfenster ändern?</string>
+	<string key="ui_siegeclaimsowned">Ansprüche: {numClaims}</string>
+	<string key="ui_siegenoclaimsowned">Belagerungszeitfenster nicht erforderlich.</string>
+	<string key="ui_setsiegeswindowpopup_title">Änderung bestätigen</string>
 	<string key="ui_setsiegeswindowpopup_message">Möchtest du das Belagerungszeitfenster wirklich zu &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{siegeWindow}&lt;/font&gt;&lt;/font&gt; ändern?\nDanach kannst du es für &lt;font color="#cf0000"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{cooldownTime}&lt;/font&gt;&lt;/font&gt; nicht mehr ändern.</string>
 	<string key="ui_flyoutsiegewindow">Belagerungszeitraum: {siegeWindow}</string>
 	<string key="ui_flyout_viewwardetail">Kriegsdetails ansehen</string>
@@ -167,7 +167,7 @@
 	<string key="ui_flyout_nolongeratwar">Die Kompanie befindet sich nicht mehr im Krieg.</string>
 	<string key="ui_guildscreenclosetooltip">Dieses Fenster schließen.</string>
 	<string key="ui_guildscreentitle">Kompanie</string>
-	<string key="ui_guildui">Kompanie-UI</string>
+	<string key="ui_guildui">Kompanie</string>
 	<string key="ui_guildclaimtitle">Kompaniegebietsanspruch</string>
 	<string key="ui_guildclaimmessage">Deine Kompanie hat &lt;font color="#9e947e"&gt;{territoryName}&lt;/font&gt; beansprucht.</string>
 	<string key="ui_guildrequestthrottledmessage">Anfrage wurde abgebrochen. Versuche es später erneut.</string>
@@ -213,10 +213,10 @@
 	<string key="ui_guild_influence_cooldown_body">Du hast vor kurzem eine Kompanie verlassen und bist noch in der Abklingzeit, um den Vorhutbeitrag und Einfluss für deine Fraktion zu verdienen.\nDein Einfluss hilft deiner Fraktion, trägt aber nicht dazu bei, dass deine Kompanie als Vorhut ausgewählt wird, wenn du den Krieg erklärst. \n Diese Abklingzeit endet in: {cooldownTime}</string>
 	<string key="ui_cannot_leaveguild_ownwarsignup">Du kannst nicht gehen, während du für einen Krieg für deine Kompanie angemeldet bist. Bitte brich zuerst deine Kriegsanmeldung(en) ab.</string>
 	<string key="ui_leftguildmessage">Die Kompanie wurde verlassen.</string>
-	<string key="ui_modifycrest">Wappen bearbeiten</string>
-	<string key="ui_guildcrestsaved">Neues Wappen gespeichert</string>
-	<string key="ui_modifyguildname">Namen bearbeiten</string>
-	<string key="ui_modifymessageoftheday">Nachricht des Tages bearbeiten</string>
+	<string key="ui_modifycrest">Kompaniewappen bearbeiten</string>
+	<string key="ui_guildcrestsaved">Kompaniewappen gespeichert</string>
+	<string key="ui_modifyguildname">Kompanienamen bearbeiten</string>
+	<string key="ui_modifymessageoftheday">Nachricht bearbeiten</string>
 	<string key="ui_myguildtab">Meine Kompanie</string>
 	<string key="ui_myguildtabtooltip">Sieh dir deine Kompanie an oder bearbeite bestimmte Einstellungen.</string>
 	<string key="ui_noneinthisrank">Niemand bekleidet diesen Rang.</string>
@@ -254,10 +254,10 @@
 	<string key="ui_permission_demolish_structures">{allowed} Kompaniegebäude abbauen.</string>
 	<string key="ui_permission_demolish_territories">{allowed} Kompaniegebiete aufheben.</string>
 	<string key="ui_permission_declare_war">{allowed} Kriegserklärungen und das Belagerungszeitfenster einrichten.</string>
-	<string key="ui_permission_treasury_deposit">{allowed} in Kompanie-Schatzkammer einzahlen.</string>
-	<string key="ui_permission_treasury_withdraw">{allowed} bis zum Tageshöchstbetrag aus der Kompanie-Schatzkammer abheben.</string>
-	<string key="ui_permission_treasury_withdraw_unlimited">{allowed} beliebigen Betrag aus der Kompanie-Schatzkammer abheben.</string>
-	<string key="ui_permission_treasury_set_daily_limit">{allowed} tägliches Abhebungslimit der Schatzkammer festlegen.</string>
+	<string key="ui_permission_treasury_deposit">{allowed} Einzahlungen.</string>
+	<string key="ui_permission_treasury_withdraw">{allowed} bis zum Tageshöchstbetrag abheben.</string>
+	<string key="ui_permission_treasury_withdraw_unlimited">{allowed} beliebigen Betrag abheben.</string>
+	<string key="ui_permission_treasury_set_daily_limit">{allowed} tägliches Abhebungslimit festlegen.</string>
 	<string key="ui_permission_territory_project_management">{allowed} Gebietsaufrüstungen beginnen oder abbrechen.</string>
 	<string key="ui_permission_territory_taxation">{allowed} Gebietssteuern festlegen.</string>
 	<string key="ui_permission_war_raid_manage">{allowed} Armeegruppen und Eintragungen verwalten.</string>
@@ -377,8 +377,8 @@
 	<string key="ui_warframe_marker_warend">KRIEGSENDE</string>
 	<string key="ui_warframe_siegeinfo_label">NÄCHSTES VERFÜGBARES BELAGERUNGSZEITFENSTER</string>
 	<string key="ui_myguildtitle">Meine Kompanie</string>
-	<string key="ui_otherguildstitlewithworld">Alle Kompanien von {worldName}</string>
-	<string key="ui_otherguildstitle">Alle Kompanien</string>
+	<string key="ui_otherguildstitlewithworld">{worldName} Kompanien</string>
+	<string key="ui_otherguildstitle">Welt</string>
 	<string key="ui_otherguildssubtitle">In {worldName}</string>
 	<string key="ui_guildsinworld">{number} in {worldName}</string>
 	<string key="ui_warstitle">Kriege</string>
@@ -400,7 +400,7 @@
 	<string key="ui_otherguilds_pagenumber">Seite {number}</string>
 	<string key="ui_otherguilds_previousbutton">Vorher</string>
 	<string key="ui_otherguilds_nextbutton">Weiter</string>
-	<string key="ui_nowarsmessage">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Deine Kompanie befindet sich nicht im Krieg.&lt;/font&gt; \n\nUm einem Gebiet den Krieg zu erklären, öffne die Karte und klicke auf sein Siedlungssymbol.</string>
+	<string key="ui_nowarsmessage">Deine Kompanie befindet sich nicht im Krieg.\n\nUm den Krieg zu erklären, wähle auf der Karte die Siedlung eines Gebiets aus.</string>
 	<string key="ui_warnotification_title">Bevorstehende Kriege</string>
 	<string key="ui_warnotification_scouting_phase_warning">Vorbereitungsphase endet in {{timeRemaining}}!</string>
 	<string key="ui_warnotification_resolution_phase_warning">Krieg endet in</string>
@@ -442,7 +442,7 @@
 	<string key="ui_cycle_permission_interaction">{interactionName}: {ownershipPermissionType}</string>
 	<string key="ui_permission_deposit_in_structure">{allowed} Gegenstände in Lagergebäuden ablegen.</string>
 	<string key="ui_permission_withdraw_from_structure">{allowed} Gegenstände aus Lagergebäuden entfernen.</string>
-	<string key="ui_permissioncategory_members">Mitgliederverwaltung</string>
+	<string key="ui_permissioncategory_members">Verwaltung</string>
 	<string key="ui_permissioncategory_communications">Kommunikation</string>
 	<string key="ui_permissioncategory_structures">Gebäude</string>
 	<string key="ui_permissioncategory_treasury">Schatzkammer</string>
@@ -455,8 +455,8 @@
 	<string key="ui_trade_failure_global_storage_wrong_faction">Zum Abheben müssen beide Gebiete zu deiner Fraktion gehören und deren Gebietsunterhaltungskosten müssen beglichen worden sein.</string>
 	<string key="ui_trade_failure_global_storage_invalid_deposit">Gegenstände kannst du nur in dem Lagerschuppen an deinem derzeitigen Standort deponieren.</string>
 	<string key="ui_trade_failure_global_storage_invalid_deposit_rfi">Du kannst Gegenstände nur zum Lagerschuppen in bereits besuchten Siedlungen übertragen.</string>
-	<string key="ui_guildclaimsowned">Gebiete beansprucht</string>
-	<string key="ui_guildoneclaimowned">Gebiet beansprucht</string>
+	<string key="ui_guildclaimsowned">Ansprüche</string>
+	<string key="ui_guildoneclaimowned">Beanspruchen</string>
 	<string key="ui_acceptguildinvitepopuptitle">Neuer Kompanie beitreten?</string>
 	<string key="ui_acceptguildinvitepopupmessage_noguild">Möchtest du dich wirklich einer neuen Kompanie anschließen?</string>
 	<string key="ui_acceptguildinvitepopupmessage_in_guild">Möchtest du die Kompanie wirklich verlassen und dich einer neuen Kompanie anschließen?</string>
@@ -484,7 +484,7 @@
 	<string key="ui_guildnamewithrank">{guildName} ({rankName})</string>
 	<string key="ui_guildnamewithrankandtitle">{guildName} ({rankName}) | "{playerTitle}"</string>
 	<string key="ui_noguildonlytitle">"{playerTitle}"</string>
-	<string key="ui_refreshpage">Seite aktualisieren</string>
+	<string key="ui_refreshpage">Aktualisieren</string>
 	<string key="ui_setconquest">Belagerungszeitfenster festlegen</string>
 	<string key="ui_setconquestwindowtitle">Zeitfenster für Belagerung vorschlagen</string>
 	<string key="ui_setconquestwindowsubtitle">Die gegnerische Partei wird diesen Vorschlag nach der Kriegserklärung auf einen Zeitraum von {hour} Stunde(n) einengen.</string>
@@ -520,7 +520,7 @@
 	<string key="ui_siege_hud_siege_parts">Belagerungsteile</string>
 	<string key="ui_siege_hud_inventory">Inventar</string>
 	<string key="ui_siege_hud_camp">Zeltlager</string>
-	<string key="ui_siege_changeto">Ändern zu</string>
+	<string key="ui_siege_changeto">Neu</string>
 	<string key="ui_siege_signup">Trage dich ein</string>
 	<string key="ui_siege_signup_as_attacker">Als Angreifer registrieren</string>
 	<string key="ui_siege_signup_as_defender">Als Verteidiger registrieren</string>
@@ -571,8 +571,8 @@
 	<string key="ui_siege_signup_failed_territory_not_unlocked_yet">Du hast noch keinen Zugriff auf dieses Gebiet.</string>
 	<string key="ui_siege_signup_failed_warinprogress">Es sind keine weiteren Eintragungen möglich. Der Krieg oder die Invasion hat bereits begonnen.</string>
 	<string key="ui_siege_signup_failed">Bei deinem Eintragungsversuch für einen Krieg gab es ein Problem.</string>
-	<string key="ui_siege_signup_dailywarlimit_attacker_refreshlabel">Angreifer-Kriegslimit wird aktualisiert in:</string>
-	<string key="ui_siege_signup_dailywarlimit_defender_refreshlabel">Verteidiger-Kriegslimit wird aktualisiert in:</string>
+	<string key="ui_siege_signup_dailywarlimit_attacker_refreshlabel">Aktualisierung in:</string>
+	<string key="ui_siege_signup_dailywarlimit_defender_refreshlabel">Aktualisierung in:</string>
 	<string key="ui_siege_signup_dailywarlimit_attacker_available">Du kannst dich als Angreifer für Kriege registrieren.</string>
 	<string key="ui_siege_signup_dailywarlimit_attacker_limitreached">Du hast dein tägliches Angreifer-Kriegslimit erreicht und kannst dich nicht mehr als Angreifer für Kriege registrieren.</string>
 	<string key="ui_siege_signup_dailywarlimit_defender_available">Du kannst dich als Verteidiger für Kriege registrieren.</string>

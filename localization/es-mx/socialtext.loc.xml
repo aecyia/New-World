@@ -27,7 +27,7 @@
 	<string key="ui_chat_name_faction_upper_3" comment="Covenant">FACCIÓN (PACTO)</string>
 	<string key="ui_chat_name_whisper">Mensaje directo</string>
 	<string key="ui_chat_name_whisper_upper">DIRECTO</string>
-	<string key="ui_chat_name_whisperto">Mensaje directo a</string>
+	<string key="ui_chat_name_whisperto">Mensaje directo</string>
 	<string key="ui_chat_name_officer">Cónsul</string>
 	<string key="ui_chat_name_officer_upper">CÓNSUL</string>
 	<string key="ui_chat_name_recruitment">Reclutamiento</string>
@@ -176,10 +176,10 @@
 	<string key="ui_p2ptrading_failmessage_playersoutofrange">El jugador ya no está al alcance.</string>
 	<string key="ui_p2ptrading_failmessage_somethingwentwrong">Se produjo un error.</string>
 	<string key="ui_p2ptrading_failmessage_atmaxcurrency">Uno o más jugadores excederán el límite de monedas.</string>
-	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_level">Debes ser de nivel {level} para poder intercambiar bienes.</string>
-	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_probation">Debes tener una cuenta con una antigüedad superior a {time} para poder intercambiar bienes.</string>
-	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_free">Adquiere New World para poder intercambiar bienes.</string>
-	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_generic">No puedes intercambiar bienes.</string>
+	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_level">Tienes que llegar al nivel {level} para intercambiar objetos.</string>
+	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_probation">Tienes que tener una cuenta con una antigüedad de más de {time} para intercambiar objetos.</string>
+	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_free">Compra New World para intercambiar objetos.</string>
+	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_generic">No puedes intercambiar objetos.</string>
 	<string key="ui_p2ptrading_trade_completed">Intercambio completado.</string>
 	<string key="ui_p2ptrading_overflow_title">Inventario lleno</string>
 	<string key="ui_p2ptrading_overflow_message">Algunos de los objetos que has recibido no cabían en tu inventario y se han dejado en el suelo.</string>
@@ -212,7 +212,7 @@
 	<string key="ui_conquest_in">La conquista se inicia en</string>
 	<string key="ui_online_num">{Num} en línea</string>
 	<string key="ui_noFriend_header">La lista de amigos está vacía.</string>
-	<string key="ui_noFriend_body">Agrega a un amigo con su nombre de jugador.</string>
+	<string key="ui_noFriend_body">Agrega a tus amigos buscando su nombre de jugador.</string>
 	<string key="ui_noOnline_group_header">No tienes amigos en línea para invitar al grupo.</string>
 	<string key="ui_noOnline_group_body">Puedes buscar a un jugador por su nombre de jugador.</string>
 	<string key="ui_noOnline_guild_header">No tienes amigos para invitar a la compañía.</string>
@@ -330,15 +330,15 @@
 	<string key="ui_waypoint_set_to_ping">Se configuró el marcador para marcar</string>
 	<string key="ui_chat_name_raid">Ejército</string>
 	<string key="ui_chat_name_raid_upper">EJÉRCITO</string>
-	<string key="ui_error_raidchat" comment="An error when you try to talk in raid chat">No estás en un ejército</string>
-	<string key="ui_error_guildchat" comment="An error when you try to talk in guild chat">No formas parte de ninguna compañía</string>
-	<string key="ui_notification_pvp_enabled">PVP HABILITADO</string>
-	<string key="ui_notification_pvp_flagged">MARCADO PARA PVP</string>
-	<string key="ui_notification_pvp_disabled">PVP INHABILITADO</string>
-	<string key="ui_notification_pvp_countdown">COMENZÓ LA CUENTA REGRESIVA DE PROTECCIÓN PARA EL MODO PVP</string>
-	<string key="ui_notification_pvp_flagging_title">MARCANDO PARA PVP</string>
+	<string key="ui_error_raidchat" comment="An error when you try to talk in raid chat">No estás en un ejército.</string>
+	<string key="ui_error_guildchat" comment="An error when you try to talk in guild chat">No formas parte de ninguna compañía.</string>
+	<string key="ui_notification_pvp_enabled">La marca de PvP está activada.</string>
+	<string key="ui_notification_pvp_flagged">Marcado para PvP.</string>
+	<string key="ui_notification_pvp_disabled">La marca de PvP está desactivada.</string>
+	<string key="ui_notification_pvp_countdown">Tiempo de protección de PvP iniciado.</string>
+	<string key="ui_notification_pvp_flagging_title">Activando PvP.</string>
 	<string key="ui_notification_pvp_flagging_message">Mientras estés marcado para PvP, podrás atacar a otros jugadores marcados para PvP, pero otros jugadores marcados pueden hacerte lo mismo a ti. Recibes un &lt;font color="#ff9900"&gt;10 % de EXP de bonificación&lt;/font&gt; cuando esté activado. \n\nCuando salgas del santuario, dispondrás de &lt;font color="#ff9900"&gt;30 segundos de protección&lt;/font&gt;.</string>
-	<string key="ui_notification_pvp_track_flagging_message">Mientras estés marcado para PvP, puedes atacar y ser atacado por otros jugadores marcados para PvP. &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Las muertes que provoques pueden darte sal de azoth y EXP de PvP.&lt;/font&gt; Recibes una &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;bonificación de EXP del 10 %&lt;/font&gt; mientras estés marcado. \n\nAl salir del santuario, tendrás &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;30 segundos de protección&lt;/font&gt;.</string>
+	<string key="ui_notification_pvp_track_flagging_message">Mientras estés marcado para PvP, puedes atacar y ser atacado por otros jugadores marcados para PvP. &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Las muertes que provoques pueden darte sal de azoth y EXP de PvP.&lt;/font&gt; \nTambién recibes las siguientes bonificaciones: &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;+10 % de EXP, +3 % de suerte de la recolección y +1 % de suerte global&lt;/font&gt; al abrir cofres grandes y de élite. \n\nAl salir del santuario, tendrás &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;30 segundos de protección&lt;/font&gt;.</string>
 	<string key="ui_notification_pvp_checkpoint_unlocked">Punto de control desbloqueado</string>
 	<string key="ui_notification_pvp_reward_options">Ver opciones de recompensas</string>
 	<string key="ui_pvp_rank_name_0">Reclutar</string>
@@ -351,16 +351,23 @@
 	<string key="ui_signup_selected">Seleccionado</string>
 	<string key="ui_signup_standby">En espera</string>
 	<string key="ui_signup_not_signed_up">Sin registrarse</string>
+	<string key="ui_signup_cannot_pvpinactive" rel_version="Feature_Alt_Character_Protection">No puedes registrarte a esta guerra con el modo PvP desactivado.</string>
 	<string key="ui_signup_attacker" comment="You are on the Attacking Team">Atacante</string>
 	<string key="ui_signup_defender" comment="You are on the Defending Team">Defensor</string>
 	<string key="ui_signup_siege_window">Período de asedio</string>
 	<string key="ui_signup_starts_in" comment="Time until the siege starts">Comienza en</string>
 	<string key="ui_signup_your_status">Tu estado</string>
 	<string key="ui_signup_restriction_cooldown">Debido al tiempo de reutilización de guerra, si eres elegido se te contará como mercenario.\nPodrás participar con otro rol en las guerras luego de: {cooldownTime}.</string>
+	<string key="ui_signup_restriction_pvpinactive_tooltip" rel_version="Feature_Alt_Character_Protection" comment="">No puedes registrarte a esta guerra en este momento porque el modo PvP está desactivado.</string>
+	<string key="ui_signup_restriction_pvpinactive_title" rel_version="Feature_Alt_Character_Protection" comment="">No puedes registrarte</string>
+	<string key="ui_signup_restriction_pvpinactive" rel_version="Feature_Alt_Character_Protection" comment="">No puedes registrarte a esta guerra en este momento porque el modo PvP está desactivado. Podrás activar el modo PvP en: {cooldownTime}.</string>
+	<string key="ui_signup_restriction_pvpinactive_canswitch" rel_version="Feature_Alt_Character_Protection" comment="">No puedes registrarte a esta guerra en este momento porque el modo PvP está desactivado. Si activas el modo PvP en esta cuenta, desactivarás el modo PvP de cualquier otro personaje que tengas en este servidor. \n ¿Quieres activar el modo PvP?</string>
+	<string key="ui_made_pvp_inactive_title" rel_version="Feature_Alt_Character_Protection">PvP inactivo</string>
+	<string key="ui_made_pvp_inactive_body" rel_version="Feature_Alt_Character_Protection">Este personaje ahora está inactivo para PvP en este mundo. Se han abandonado todas las guerras y misiones de PvP en las que estaba inscrito.</string>
 	<string key="ui_no_permission_alert">No tienes permiso para enviar una alerta.</string>
 	<string key="ui_title_alpha">Platija</string>
 	<string key="ui_title_preorder">Primera expedición</string>
-	<string key="ui_player_levelup_chat">{playerName} ha llegado al &lt;font color="#ff9900"&gt;nivel {param0}&lt;/font&gt;</string>
+	<string key="ui_player_levelup_chat">{playerName} ha llegado al &lt;font color="#ff9900"&gt;nivel {param0}&lt;/font&gt;.</string>
 	<string key="ui_transcribed_audio_message">(Voz a texto) {transcribedMessage}</string>
 	<string key="ui_company_upkeep_due">Las bonificaciones de la compañía y la facción se han deshabilitado porque la compañía gobernante de {territoryName} no ha pagado el mantenimiento.</string>
 	<string key="ui_territory_bonus_active_buffs">Potenciaciones activas</string>
@@ -407,8 +414,8 @@
 	<string key="ui_social">Social</string>
 	<string key="ui_social_friends">AMIGOS</string>
 	<string key="ui_social_twitch">TWITCH</string>
-	<string key="ui_streamermode_enabled">El modo no molestar está activado</string>
-	<string key="ui_streamermode_disabled">El modo no molestar está desactivado</string>
+	<string key="ui_streamermode_enabled">El modo no molestar está activado.</string>
+	<string key="ui_streamermode_disabled">El modo no molestar está desactivado.</string>
 	<string key="ui_moderation">Moderación</string>
 	<string key="ui_group_moderation">Moderación del grupo</string>
 	<string key="ui_subarmy_join_tooltip">Envía una solicitud al streamer para unirte a su ejército de suscriptores.</string>
@@ -629,7 +636,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_chat_lobby_created">{playerName} creó la sala de espera.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_chat_lobby_joined">{playerName} se unió a la sala de espera.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_chat_lobby_left">{playerName} abandonó la sala de espera.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_error_group_finder_group_chat" comment="An error when you try to talk in group finder group chat">No estás en ninguna sala de espera</string>
+	<string rel_version="Feature_Group_Finder" key="ui_error_group_finder_group_chat" comment="An error when you try to talk in group finder group chat">No estás en ninguna sala de espera.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_create_limit_title">No se puede crear sala de espera</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_create_limit_desc_regular">Los siguientes miembros del grupo alcanzaron su límite diario de expediciones regulares y no pueden unirse a esta sala de espera.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Se pueden unir el {date})&lt;/font&gt;</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_create_limit_desc_mutated">Los siguientes miembros del grupo alcanzaron su límite semanal de expediciones mutadas y no pueden unirse a esta sala de espera.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Se pueden unir el {date})&lt;/font&gt;</string>

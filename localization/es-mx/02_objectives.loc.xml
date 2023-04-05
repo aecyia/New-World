@@ -333,10 +333,10 @@
 	<string key="0222_0001_goto" speaker="UI - Tracker Text">Busca los envíos interceptados del puesto de avanzada en Malicia de la grieta.</string>
 	<string key="0222_0001_loot_mementos" speaker="UI - Tracker Text">Consigue {itemName} y vuelve al puesto de avanzada de Eastburn.</string>
 	<string key="98_M_0001_RankUp_title" speaker="UI - Quest Title">Promoción de los saqueadores: Gladiador</string>
-	<string key="98_M_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;MISIÓN DE PROMOCIÓN DE FACCIÓN&lt;/font&gt;\nConsigue la suficiente reputación de facción para llegar a gladiador y, luego, habla con el representante de tu facción en Llaves de alfanje para empezar la prueba del gladiador.</string>
+	<string key="98_M_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;MISIÓN DE PROGRESO DE FACCIÓN&lt;/font&gt;\nConsigue la suficiente reputación de facción para llegar a gladiador y, luego, ve al enclave para empezar la misión La prueba del gladiador.</string>
 	<string key="98_M_0001_RankUp_factionhandoff" speaker="UI - Tracker Text">Completa misiones del tablero de la facción y luego repórtate ante el magistrado local</string>
 	<string key="98_M_Reach_NextMarauderRank" speaker="UI - Tracker Text">Gana reputación en la facción para enfrentar la prueba y alcanzar el siguiente rango</string>
-	<string key="98_M_0001_CompleteTrial_Gladiator" speaker="UI - Tracker Text">Ve a Llaves de alfanje y completa la prueba del gladiador\n(Nivel recomendado: 25)</string>
+	<string key="98_M_0001_CompleteTrial_Gladiator" speaker="UI - Tracker Text">Ve al Enclave y completa La prueba del gladiador\n(Nivel recomendado: 25)</string>
 	<string key="98_M_0102_RankUp_title" speaker="UI - Quest Title">Promoción de los saqueadores: Destructor</string>
 	<string key="98_M_0102_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;MISIÓN DE PROMOCIÓN DE FACCIÓN&lt;/font&gt;\nConsigue la suficiente reputación de facción para llegar a destructor y, luego, habla con el representante de tu facción en el Pantano del tejedor para empezar la prueba del destructor.</string>
 	<string key="98_M_0102_CompleteTrial_Ravager" speaker="UI - Tracker Text">Viaja a Pantano del tejedor y completa la prueba del destructor\n(Nivel recomendado: 35)</string>
@@ -347,14 +347,14 @@
 	<string key="98_M_0304_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;MISIÓN DE PROMOCIÓN DE FACCIÓN&lt;/font&gt;\nConsigue la suficiente reputación de facción para llegar a comandante y, luego, habla con el representante de tu facción en Ebonscale Reach para empezar la prueba del comandante.</string>
 	<string key="98_M_0304_CompleteTrial_Commander" speaker="UI - Tracker Text">Viaja a Ebonscale Reach y completa la prueba del comandante\n(Nivel recomendado: 60)</string>
 	<string key="98_M_01_combatprowess_title" speaker="UI - Quest Title">Saqueador: Prueba del gladiador</string>
-	<string key="98_M_01_combatprowess_description" speaker="UI - Quest Description">Derrota a Hamidou, el pirata perdido, para demostrar que mereces ascender al rango de gladiador. Habla con Silas, la destructora, en Llaves de alfanje cuando la tarea esté finalizada.</string>
+	<string key="98_M_01_combatprowess_description" speaker="UI - Quest Description">Derrota al pirata perdido Lawrence de Sombralarga para demostrar tu valía y ascender al rango de Gladiador. Cuando termines esta tarea, habla con Silas, la destructora, en el enclave.</string>
 	<string key="98_M_01_combatprowess_start_prompt" speaker="UI - Player Prompt">"No puede ser tan difícil. Tú lo lograste".</string>
 	<string key="98_M_01_combatprowess_proposal" speaker="Ravager Silas - Cutlass Keys" name="CommanderSilas" gender="F" VO="Commander_98_M_01_combatprowess_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_M_01_combatprowess_proposal_next">Ah, conque te haces el listillo. Lástima que no tengo tiempo de darte una lección.\n\nDe todos modos, este desafío será demasiado, apuesto mi carrera a que fallas.</string>
 	<string key="98_M_01_combatprowess_proposal_prompt" speaker="UI - Player Prompt">"Solo dime lo que debo hacer".</string>
-	<string key="98_M_01_combatprowess_proposal_next" speaker="Ravager Silas - Cutlass Keys" name="CommanderSilas" gender="F" VO="Commander_98_M_01_combatprowess_CompleteNext" VO_Status="Recorded" dialogue-prompt="@98_M_01_combatprowess_proposal_prompt">Parece que estás ansioso por sufrir una dolorosa muerte. Muy bien.\n\nEl legendario guerrero Hamidou, que ahora es un pirata perdido, tendrás que derrotarlo en combate… no tienes ninguna oportunidad.</string>
-	<string key="98_M_01_combatprowess_incomplete" speaker="Ravager Silas - Cutlass Keys" gender="F">Inteligente. Deberías evitar enfrentarte a Hamidou el mayor tiempo posible.\n\nTal vez incluso para siempre.</string>
-	<string key="98_M_01_combatprowess_complete" speaker="Ravager Silas - Cutlass Keys" name="CommanderSilas" gender="F" VO="Commander_98_M_01_combatprowess_AvailResponse" VO_Status="Recorded">¿Derrotaste a Hamidou? ¿Tú? ¿Una… rata como tú? Me hiciste perder una pila de azoth en esa apuesta.\n\nMuy bien, eres un gladiador. Ahora vete antes de que te rompa la cara.</string>
-	<string key="98_M_01_combatprowess_goto_POI" speaker="UI">Derrota a Hamidou, el pirata perdido, en {POITags} para alcanzar el rango de gladiador</string>
+	<string key="98_M_01_combatprowess_proposal_next" speaker="Ravager Silas - Cutlass Keys" name="CommanderSilas" gender="F" VO="Commander_98_M_01_combatprowess_CompleteNext" VO_Status="Recorded" dialogue-prompt="@98_M_01_combatprowess_proposal_prompt">Parece que estás ansioso por sufrir una dolorosa muerte. Vale.\n\nLawrence de Sombralarga fue un guerrero legendario que se convirtió en un pirata perdido. Tendrás que derrotarlo, pero no tienes ninguna posibilidad.</string>
+	<string key="98_M_01_combatprowess_incomplete" speaker="Ravager Silas - Cutlass Keys" gender="F">Inteligente. Deberías evitar enfrentarte a Lawrence el mayor tiempo posible.\n\nTal vez incluso para siempre.</string>
+	<string key="98_M_01_combatprowess_complete" speaker="Ravager Silas - Cutlass Keys" name="CommanderSilas" gender="F" VO_Status="Needs Recording">¿Derrotaste a Lawrence? ¿Tú? ¿Una… rata como tú? Me hiciste perder una pila de azoth en esa apuesta.\n\nMuy bien, eres un gladiador. Ahora vete antes de que te rompa la cara.</string>
+	<string key="98_M_01_combatprowess_goto_POI" speaker="UI">Derrota al pirata perdido Lawrence en {POITags} para ascender al rango de Gladiador</string>
 	<string key="98_M_01_combatprowess_defeat_named_target" speaker="UI">Derrota a {targetName}</string>
 	<string key="98_M_01b_fenravager_title" speaker="UI - Quest Title">Saqueador: Prueba del destructor</string>
 	<string key="98_M_01b_fenravager_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;MISIÓN DE PRUEBA DE FACCIÓN&lt;/font&gt;\nDerrota a los enemigos a lo largo de Pantano del tejedor para ascender al rango de destructor. Habla con Bergeron, la comandante, en Pantano del tejedor cuando la tarea esté finalizada.</string>
@@ -365,7 +365,7 @@
 	<string key="98_M_01b_fenravager_complete_prompt" speaker="UI - Player Prompt">"¿Por qué no está complacida Silas?"</string>
 	<string key="98_M_01b_fenravager_complete_next" speaker="Commander Bergeron - Weaver's Fen" name="CommanderBergeron" gender="F" VO="98_M_01b_fenravager_complete_next" VO_Status="Recorded" dialogue-prompt="@98_M_01b_fenravager_complete_prompt">Dejó bien claro entre las filas que no pensaba que fueras digno de una promoción.\n\nDebes estar orgulloso de haberle demostrado lo contrario.</string>
 	<string key="98_MSC_01b_POI_FentonHamlet" speaker="UI">En el Caserío Fenton:</string>
-	<string key="98_MSC_01b_POI_Swampwater" speaker="UI">En la Pescadería Swampwater:</string>
+	<string key="98_MSC_01b_POI_Swampwater" speaker="UI">En Periville:</string>
 	<string key="98_MSC_01b_POI_AnglersDoom" speaker="UI">En La condena del pescador:</string>
 	<string key="98_M_01b_fenravager_killtarget_cut_down_AI" speaker="UI">Liquida a los perdidos de {targetName}</string>
 	<string key="98_M_01b_fenravager_killtarget_defeat_AI" speaker="UI">Derrota a los perdidos de {targetName}</string>
@@ -397,10 +397,10 @@
 	<string key="98_M_03_darkvengeance_goto_POI" speaker="UI">Derrota a Silas, la destructora corrompida, en {POITags} para alcanzar el rango de comandante</string>
 	<string key="98_M_03_darkvengeance_killtarget_defeat_AI" speaker="UI">Derrota a {targetName}</string>
 	<string key="98_S_0001_RankUp_title" speaker="UI - Quest Title">Promoción del sindicato: Escriba</string>
-	<string key="98_S_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;MISIÓN DE PROMOCIÓN DE FACCIÓN&lt;/font&gt;\nConsigue la suficiente reputación de facción para llegar a escriba y, luego, habla con el representante de tu facción en Brightwood para empezar la prueba del escriba.</string>
+	<string key="98_S_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;MISIÓN DE PROGRESO DE FACCIÓN&lt;/font&gt;\nConsigue la suficiente reputación de facción para llegar a escriba y, luego, ve al enclave para empezar la misión La prueba del escriba.</string>
 	<string key="98_S_0001_RankUp_factionhandoff" speaker="UI - Tracker Text">Completa misiones del tablero de la facción y luego repórtate ante el magistrado local</string>
 	<string key="98_S_Reach_NextSyndicateRank" speaker="UI - Tracker Text">Gana reputación en la facción para enfrentar la prueba y alcanzar el siguiente rango</string>
-	<string key="98_S_0001_CompleteTrial_Scrivener" speaker="UI - Tracker Text">Ve a Brightwood y completa la prueba del escriba\n(Nivel recomendado: 25)</string>
+	<string key="98_S_0001_CompleteTrial_Scrivener" speaker="UI - Tracker Text">Ve al enclave y completa La prueba del escriba\n(Nivel recomendado: 25)</string>
 	<string key="98_S_0102_RankUp_title" speaker="UI - Quest Title">Promoción del sindicato: Cronista</string>
 	<string key="98_S_0102_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;MISIÓN DE PROMOCIÓN DE FACCIÓN&lt;/font&gt;\nConsigue la suficiente reputación de facción para llegar a cronista y, luego, habla con el representante de tu facción en el Pantano del tejedor para empezar la prueba del cronista.</string>
 	<string key="98_S_0102_CompleteTrial_Chronicler" speaker="UI - Tracker Text">Viaja a Pantano del tejedor y completa la prueba del cronista\n(Nivel recomendado: 35)</string>
@@ -432,7 +432,7 @@
 	<string key="98_S_01b_fenscholar_complete_next" speaker="Alchemist Rubis -Weaver's Fen" name="AlchemistRubis" gender="F" VO="98_S_01b_fenscholar_complete_next" VO_Status="Recorded" dialogue-prompt="@98_S_01b_fenscholar_complete_prompt">Creo que es una locura tratar siquiera de emular a Krockes, pero ya veremos.\n\nDe todos modos, alcanzaste un nuevo rango. Felicitaciones, cronista {playerName}.</string>
 	<string key="98_S_01b_fenscholar_harvest_item_from_target" speaker="UI">Cosecha {itemName} de los perdidos de {targetName}</string>
 	<string key="98_S_02_necromanticchemistry_title" speaker="UI - Quest Title">Sindicato: Prueba del cabalista</string>
-	<string key="98_S_02_necromanticchemistry_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;MISIÓN DE PRUEBA DE FACCIÓN&lt;/font&gt;\nUbica los absorbentes telequinéticos en puntos estratégicos en Mourningdale para alcanzar el rango de cabalista. Habla con Crawford, la cabalista, en Mourningdale cuando la tarea esté terminada.</string>
+	<string key="98_S_02_necromanticchemistry_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;MISIÓN DE PRUEBA DE FACCIÓN&lt;/font&gt;\nUbica los absorbentes telequinéticos en puntos estratégicos en Mourningdale para alcanzar el rango de cabalista. Cuando termines esta tarea, habla con Crawford, la alquimista, en Mourningdale.</string>
 	<string key="98_S_02_necromanticchemistry_start_prompt" speaker="UI - Player Prompt">"Sí, ¿cuál es la prueba?"</string>
 	<string key="98_S_02_necromanticchemistry_proposal" speaker="Cabalist Crawford - Mourningdale" name="CabalistCrawford" gender="F" VO="Alchemist_98_S_02_necromanticchemistry_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_S_02_necromanticchemistry_proposal_next">Para ti, hemos preparado una extensión de nuestro trabajo anterior con rastros de almas.\n\nHas usado un absorbente telequinético antes, ¡prácticamente los hiciste famosos!</string>
 	<string key="98_S_02_necromanticchemistry_proposal_prompt" speaker="UI - Player Prompt">"¿Y qué hay con Krockes?"</string>
@@ -449,7 +449,7 @@
 	<string key="98_S_03_lostnotlost_title" speaker="UI - Quest Title">Sindicato: Prueba del alquimista</string>
 	<string key="98_S_03_lostnotlost_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;MISIÓN DE PRUEBA DE FACCIÓN&lt;/font&gt;\nDerrota a Krockes, el alquimista, y absorbe su alma en el absorbente telequinético. Luego, llévasela a las dríades en Reekwater para destruirla y alcanzar el rango de alquimista. Habla con Santos, el alquimista, en Reekwater cuando la tarea esté terminada.</string>
 	<string key="98_S_03_lostnotlost_start_prompt" speaker="UI - Player Prompt">"¿Cómo sucedió?"</string>
-	<string key="98_S_03_lostnotlost_proposal" speaker="Alchemist Santos - Reekwater" name="AlchemistSantos" gender="M" VO="Alchemist_98_S_03_lostnotlost_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_S_03_lostnotlost_proposal_next">De la misma forma en que siempre sucede con los indisciplinados, demasiado obsesionados con su investigación y su reputación.\n\nKrockes no era lo suficientemente decidida, a diferencia de ti. Estás listo para enfrentarte a la prueba final, ¿no es así?</string>
+	<string key="98_S_03_lostnotlost_proposal" speaker="Alchemist Santos - Reekwater" name="AlchemistSantos" gender="M" VO="Alchemist_98_S_03_lostnotlost_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_S_03_lostnotlost_proposal_next">De la misma forma en que siempre sucede con los indisciplinados, estaba demasiado obsesionado con su investigación y su reputación.\n\nKrockes no era lo suficientemente decidido, a diferencia de ti. Estás listo para enfrentarte a la prueba final, ¿no es así?</string>
 	<string key="98_S_03_lostnotlost_proposal_prompt" speaker="UI - Player Prompt">"Así es. ¿Qué debo hacer?"</string>
 	<string key="98_S_03_lostnotlost_proposal_next" speaker="Alchemist Santos - Reekwater" name="AlchemistSantos" gender="M" VO="Alchemist_98_S_03_lostnotlost_CompleteNext" VO_Status="Recorded" dialogue-prompt="@98_S_03_lostnotlost_proposal_prompt">Debes aprender la lección final: limpiar los desastres que dejas.\n\nKrockes no es solo un perdido, está canalizando el poder del alma. Hay que destruirlo. De inmediato. No lo eches a perder justo antes del final.</string>
 	<string key="98_S_03_lostnotlost_incomplete" speaker="Alchemist Santos - Reekwater" gender="M">Cuando encuentres a Krockes, no dudes. Sospecho que se ha vuelto bastante… inestable.</string>
@@ -460,10 +460,10 @@
 	<string key="98_S_03_lostnotlost_collect_IO" speaker="UI">Recupera el absorbente telequinético</string>
 	<string key="98_S_03_lostnotlost_destroy_item" speaker="UI">Destruye el absorbente telequinético con la ayuda de las dríades</string>
 	<string key="98_C_0001_RankUp_title" speaker="UI - Quest Title">Promoción del pacto: Caballero templario</string>
-	<string key="98_C_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;MISIÓN DE PROMOCIÓN DE FACCIÓN&lt;/font&gt;\nConsigue la suficiente reputación de facción para llegar a caballero templario y, luego, habla con el representante de tu facción en Brightwood para empezar la prueba del caballero templario.</string>
+	<string key="98_C_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;MISIÓN DE PROGRESO DE FACCIÓN&lt;/font&gt;\nConsigue la suficiente reputación de facción para llegar a caballero templario y, luego, habla con Beatris Roose en el enclave de la alianza para empezar la misión La prueba del caballero templario.</string>
 	<string key="98_C_0001_RankUp_factionhandoff" speaker="UI - Tracker Text">Completa misiones del tablero de la facción y luego repórtate ante el magistrado local</string>
 	<string key="98_C_Reach_NextCovenantRank" speaker="UI - Tracker Text">Gana reputación en la facción para enfrentar la prueba y alcanzar el siguiente rango</string>
-	<string key="98_C_0001_CompleteTrial_Templar" speaker="UI - Tracker Text">Ve a Brightwood y completa la prueba del caballero templario\n(Nivel recomendado: 25)</string>
+	<string key="98_C_0001_CompleteTrial_Templar" speaker="UI - Tracker Text">Ve al Enclave y completa La prueba del caballero templario\n(Nivel recomendado: 25)</string>
 	<string key="98_C_0102_RankUp_title" speaker="UI - Quest Title">Promoción del pacto: Excubitor</string>
 	<string key="98_C_0102_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;MISIÓN DE PROMOCIÓN DE FACCIÓN&lt;/font&gt;\nConsigue la suficiente reputación de facción para llegar a excubitor y, luego, habla con el representante de tu facción en el Pantano del tejedor para empezar la prueba del excubitor.</string>
 	<string key="98_C_0102_CompleteTrial_Excubitor" speaker="UI - Tracker Text">Viaja a Pantano del tejedor y completa la prueba del excubitor\n(Nivel recomendado: 35)</string>
@@ -474,15 +474,15 @@
 	<string key="98_C_0304_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;MISIÓN DE PROMOCIÓN DE FACCIÓN&lt;/font&gt;\nConsigue la suficiente reputación de facción para llegar a mediador y, luego, habla con el representante de tu facción en Montaña destruida para empezar la prueba del mediador.</string>
 	<string key="98_C_0304_CompleteTrial_Adjudicator" speaker="UI - Tracker Text">Viaja a Montaña destruida y completa la prueba del mediador\n(Nivel recomendado: 60)</string>
 	<string key="98_C_01_theapostate_title" speaker="UI - Quest Title">Pacto: Prueba del caballero templario</string>
-	<string key="98_C_01_theapostate_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;MISIÓN DE PRUEBA DE FACCIÓN&lt;/font&gt;\nRastrea a Bremen Luca, el iniciado del pacto desaparecido, e intenta descubrir lo que le sucedió para ascender al rango de caballero templario. Habla con Roose, la dama templaria, en Brightwood cuando la tarea esté finalizada.</string>
+	<string key="98_C_01_theapostate_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;MISIÓN DE PRUEBA DE FACCIÓN&lt;/font&gt;\nRastrea a Bremen Luca, el iniciado del pacto desaparecido, e intenta descubrir lo que le sucedió para ascender al rango de caballero templario. Cuando termines esta tarea, habla con la dama templaria Roose.</string>
 	<string key="98_C_01_theapostate_start_prompt" speaker="UI - Player Prompt">"Estoy listo. ¿Qué hago?"</string>
-	<string key="98_C_01_theapostate_proposal" speaker="Templar Roose - Brightwood" gender="F" VO="Adjudicator_98_C_01_theapostate_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_C_01_theapostate_proposal_next">Uno de nuestro grupo, un iniciado como tú, se obsesionó con algunas… ideas poco ortodoxas.\n\nAtrajo seguidores, y ahora hay que regresarlos a todos al rebaño.</string>
+	<string key="98_C_01_theapostate_proposal" speaker="Templar Roose - Everfall" gender="F" VO="Adjudicator_98_C_01_theapostate_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_C_01_theapostate_proposal_next">Uno de nuestro grupo, un iniciado como tú, se obsesionó con algunas… ideas poco ortodoxas.\n\nAtrajo seguidores, y ahora hay que regresarlos a todos al rebaño.</string>
 	<string key="98_C_01_theapostate_proposal_prompt" speaker="UI - Player Prompt">"¿Qué tipo de ideas?"</string>
-	<string key="98_C_01_theapostate_proposal_next" speaker="Templar Roose - Brightwood" gender="F" VO="Adjudicator_98_C_01_theapostate_CompleteNext" VO_Status="Recorded" dialogue-prompt="@98_C_01_theapostate_proposal_prompt">El tipo que no vale la pena compartir. El iniciado es un apóstata ahora, Bremen Luca, y está aquí en Brightwood.\n\nA modo de prueba, debes encontrarlo y traerlo de vuelta, sea como sea.</string>
-	<string key="98_C_01_theapostate_incomplete" speaker="Templar Roose - Brightwood" gender="F">Encuentra al apóstata y tráelo de vuelta aquí.\n\nPurificaremos su mente de esas ideas, de una forma u otra.</string>
-	<string key="98_C_01_theapostate_complete" speaker="Templar Roose - Brightwood" gender="F" VO="Adjudicator_98_C_01_theapostate_AvailResponse" VO_Status="Recorded" dialogue-next="@98_C_01_theapostate_complete_next">Oh, tienes malas noticias… por desgracia, es el destino que nos espera a quienes nos desviemos del camino.\n\nFue piadoso de tu parte sacrificarlo. ¿Encontraste algo más?</string>
+	<string key="98_C_01_theapostate_proposal_next" speaker="Templar Roose - Everfall" gender="F" VO="Adjudicator_98_C_01_theapostate_CompleteNext" VO_Status="Recorded" dialogue-prompt="@98_C_01_theapostate_proposal_prompt">El tipo que no vale la pena compartir. El iniciado es un apóstata ahora, Bremen Luca, y está aquí en Brightwood.\n\nA modo de prueba, debes encontrarlo y traerlo de vuelta, sea como sea.</string>
+	<string key="98_C_01_theapostate_incomplete" speaker="Templar Roose - Everfall" gender="F">Encuentra al apóstata y tráelo de vuelta aquí.\n\nPurificaremos su mente de esas ideas, de una forma u otra.</string>
+	<string key="98_C_01_theapostate_complete" speaker="Templar Roose - Everfall" gender="F" VO="Adjudicator_98_C_01_theapostate_AvailResponse" VO_Status="Recorded" dialogue-next="@98_C_01_theapostate_complete_next">Oh, tienes malas noticias… por desgracia, es el destino que nos espera a quienes nos desviemos del camino.\n\nFue piadoso de tu parte sacrificarlo. ¿Encontraste algo más?</string>
 	<string key="98_C_01_theapostate_complete_prompt" speaker="UI - Player Prompt">"Estas páginas de un diario".</string>
-	<string key="98_C_01_theapostate_complete_next" speaker="Templar Roose - Brightwood" gender="F" VO="Adjudicator_98_C_01_theapostate_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@98_C_01_theapostate_complete_prompt">Excelente. Me las llevaré y se las enviaré a Maras, la mediadora.\n\nLo has hecho muy bien hoy, y has ganado tu promoción, caballero templario. ¡Que la chispa ilumine tu camino!</string>
+	<string key="98_C_01_theapostate_complete_next" speaker="Templar Roose - Everfall" gender="F" VO="Adjudicator_98_C_01_theapostate_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@98_C_01_theapostate_complete_prompt">Excelente. Me las llevaré y se las enviaré a Maras, la mediadora.\n\nLo has hecho muy bien hoy, y has ganado tu promoción, caballero templario. ¡Que la chispa ilumine tu camino!</string>
 	<string key="98_C_01_theapostate_goto_POI" speaker="UI">Encuentra a Luca, el iniciado del pacto, en {POITags} para alcanzar el rango de caballero templario</string>
 	<string key="98_C_01_theapostate_purge_AI" speaker="UI">Purifica a {targetName}</string>
 	<string key="98_C_01_theapostate_get_lore_page" speaker="UI">Recupera el diario de Luca, el apóstata</string>
@@ -519,137 +519,6 @@
 	<string key="98_C_03_thepathtodarkness_complete" speaker="Adjudicator Maras - Shattered Mtn" gender="F" VO="Adjudicator_98_C_03_thepathtodarkness_AvailResponse" VO_Status="Recorded">Entonces, ¿está hecho? La chispa ilumina su camino hacia un lugar más tranquilo.\n\nHemos limpiado nuestras filas de la corrupción. Felicitaciones, me enorgullece nombrarte mediador. Ahora eres uno de nosotros.</string>
 	<string key="98_C_03_thepathtodarkness_goto_POI" speaker="UI">Desciende a {POITags} y enfréntate a Luca, la excubitora, para alcanzar el rango de mediador.</string>
 	<string key="98_C_03_thepathtodarkness_killtarget_eliminate_AI" speaker="UI">Elimina a {targetName}</string>
-	<string key="0205_0102_Battles_Embrace_Gear_title" speaker="UI - Quest Title">Abrazo de la batalla</string>
-	<string key="0205_0102_Battles_Embrace_Gear_description" speaker="UI - Quest Description" gender="F">Recupera los patrones y componentes necesarios para fabricar la armadura Abrazo de la batalla. Habla con Sobol, la justiciar, en Brightwood cuando la tarea esté finalizada.</string>
-	<string key="0205_0102_Battles_Embrace_Gear_start_prompt" speaker="UI - Player Prompt">"Nada que valga la pena es fácil".</string>
-	<string key="0205_0102_Battles_Embrace_Gear_proposal" speaker="Justiciar Sobol - Brightwood" name="JusticiarSobol" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_ProposalResponse" VO_Status="Recorded" dialogue-next="@0205_0102_Battles_Embrace_Gear_proposal_next">Eso es muy cierto. Pero me enteré de algo que podría ayudar con los problemas.\n\n¡Una armadura legendaria que convierte a quien la usa en una verdadera fortaleza!</string>
-	<string key="0205_0102_Battles_Embrace_Gear_proposal_prompt" speaker="UI - Player Prompt">"¿Qué es?"</string>
-	<string key="0205_0102_Battles_Embrace_Gear_proposal_next" speaker="Justiciar Sobol - Brightwood" name="JusticiarSobol" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_CompleteNext" VO_Status="Recorded" dialogue-next="@0205_0102_Battles_Embrace_Gear_proposal_next2" dialogue-prompt="@0205_0102_Battles_Embrace_Gear_proposal_prompt">Abrazo de la batalla. Solía usarla un poderoso comandante que marchó contra los corrompidos y los obligó a retroceder a Montaña destruida.\n\nPero luego el comandante desapareció, junto con la armadura.</string>
-	<string key="0205_0102_Battles_Embrace_Gear_proposal_prompt2" speaker="UI - Player Prompt">"¿Nadie sabe dónde está?"</string>
-	<string key="0205_0102_Battles_Embrace_Gear_proposal_next2" speaker="Justiciar Sobol - Brightwood" name="JusticiarSobol" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@0205_0102_Battles_Embrace_Gear_proposal_prompt2">No, las leyendas sobre lo que pasó después de que el comandante llegó a Montaña destruida son vagas.\n\nLo único que queda son los patrones que se utilizaron para fabricar la armadura. Con ellos, y algunos materiales, se podría volver a forjar la armadura.</string>
-	<string key="0205_0102_Battles_Embrace_Gear_incomplete" speaker="Justiciar Sobol - Brightwood" gender="F">Estate atento a los materiales necesarios para fabricar Abrazo de la batalla.\n\nUsar esa armadura sin duda inspirará a toda una generación de nuevos guerreros a luchar contra la corrupción.</string>
-	<string key="0205_0102_Battles_Embrace_Gear_complete" speaker="Justiciar Sobol - Brightwood" name="JusticiarSobol" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_AvailResponse" VO_Status="Recorded" dialogue-next="@0205_0102_Battles_Embrace_Gear_complete_next">¿Me engañan mis ojos? ¿Encontraste todos los materiales para fabricar Abrazo de la batalla?\n\n¡Sí, sí! ¡No puedo creer que veré a esta legendaria armadura en acción!</string>
-	<string key="0205_0102_Battles_Embrace_Gear_complete_prompt" speaker="UI - Player Prompt">"¿Se ve como lo cuentan las leyendas?"</string>
-	<string key="0205_0102_Battles_Embrace_Gear_complete_next" speaker="Justiciar Sobol - Brightwood" name="JusticiarSobol" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_CompleteNext3" VO_Status="Recorded" dialogue-prompt="@0205_0102_Battles_Embrace_Gear_complete_prompt">¡Sí! ¡Es todo lo que esperaba! Espero que te reciba con los brazos abiertos y te proteja en las batallas que sin duda nos esperan.\n\nTendré una buena historia para contar esta noche: ¡Abrazo de la batalla ha regresado!</string>
-	<string key="0205_0102_01_container_Battles_Embrace_questComplete_1" speaker="UI - Tracker Text">Completa la misión: Empezar con el pie derecho</string>
-	<string key="0205_0102_02_container_Battles_Embrace_questComplete_2" speaker="UI - Tracker Text">Completa la misión: Poner el pecho</string>
-	<string key="0205_0102_03_container_Battles_Embrace_questComplete_3" speaker="UI - Tracker Text">Completa la misión: Golpes duros</string>
-	<string key="0205_0102_04_container_Battles_Embrace_questComplete_4" speaker="UI - Tracker Text">Completa la misión: Mano firme</string>
-	<string key="0205_0102_05_container_Battles_Embrace_questComplete_5" speaker="UI - Tracker Text">Completa la misión: A la cabeza del resto</string>
-	<string key="0205_0102_01_Boots_title" speaker="UI - Quest Title">Empezar con el pie derecho</string>
-	<string key="0205_0102_01_Boots_description">Consigue pieles fornidas de Fenton del caserío de Fenton, clavos tratados de Cayo de la Muerte y bandas de metal incansables de Restos putrefactos. Luego, visita una forja de nivel 3 para fabricar las botas de abrazo de la batalla.</string>
-	<string key="0205_0102_01_Boots_task_01" speaker="UI - Tracker Text">Receta entregada.</string>
-	<string key="0205_0102_01_Boots_task_02" comment="Fenton Hamlet" speaker="UI - Tracker Text">Viaja a {POITags} en Pantano del tejedor para conseguir pieles fornidas de Fenton</string>
-	<string key="0205_0102_01_Boots_task_03" comment="Stout Fenton Hides" speaker="UI - Tracker Text">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="0205_0102_01_Boots_task_04" comment="Cayo de la Muerte" speaker="UI - Tracker Text">Viaja a {POITags} en Llaves de alfanje para conseguir clavos tratados</string>
-	<string key="0205_0102_01_Boots_task_05" comment="Treated Hobnails" speaker="UI - Tracker Text">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="0205_0102_01_Boots_task_06" comment="Festering Flotsam" speaker="UI - Tracker Text">Viaja a {POITags} en Costa agitada para conseguir bandas de metal incansables</string>
-	<string key="0205_0102_01_Boots_task_07" comment="Restless Metal Bands" speaker="UI - Tracker Text">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="0205_0102_01_Boots_task_08" speaker="UI - Tracker Text">Visita una forja</string>
-	<string key="0205_0102_01_Boots_task_09" speaker="UI - Tracker Text">Fabrica {itemName}</string>
-	<string key="0205_0102_02_Breastplate_title" speaker="UI - Quest Title">Poner el pecho</string>
-	<string key="0205_0102_02_Breastplate_description" speaker="UI - Tracker Text">Consigue remaches inquebrantables de La princesa dorada, laca para un brillo eterno de Pilares de Gelida y metal martillado de Bastión Acedia. Luego, visita una forja de nivel 3 para fabricar el protector de pecho de abrazo de la batalla.</string>
-	<string key="0205_0102_02_Breastplate_task_01" speaker="UI - Tracker Text">Receta entregada.</string>
-	<string key="0205_0102_02_Breastplate_task_02" comment="The Golden Princess" speaker="UI - Tracker Text">Viaja a {POITags} en Costa agitada para conseguir remaches inquebrantables</string>
-	<string key="0205_0102_02_Breastplate_task_03" comment="Stalwart Rivets" speaker="UI - Tracker Text">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="0205_0102_02_Breastplate_task_04" comment="Gelida Pillars" speaker="UI - Tracker Text">Viaja a {POITags} en Gran surco para conseguir laca para un brillo eterno</string>
-	<string key="0205_0102_02_Breastplate_task_05" comment="Evershine Polish" speaker="UI - Tracker Text">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="0205_0102_02_Breastplate_task_06" comment="Acedia Bastion" speaker="UI - Tracker Text">Viaja a {POITags} en Gran surco para conseguir metal martillado</string>
-	<string key="0205_0102_02_Breastplate_task_07" comment="Hammered Metal" speaker="UI - Tracker Text">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="0205_0102_02_Breastplate_task_08" speaker="UI - Tracker Text">Visita una forja</string>
-	<string key="0205_0102_02_Breastplate_task_09" speaker="UI - Tracker Text">Fabrica {itemName}</string>
-	<string key="0205_0102_03_Greaves_title" speaker="UI - Quest Title">Golpes duros</string>
-	<string key="0205_0102_03_Greaves_description">Consigue aceite de semillas del tormento del Fuerte Condenación, metal de estrellas en sintonía de Propus y revestimiento reforjado de Olimpo. Luego, visita una forja de nivel 3 para fabricar las grebas de abrazo de la batalla.</string>
-	<string key="0205_0102_03_Greaves_task_01" speaker="UI - Tracker Text">Receta entregada.</string>
-	<string key="0205_0102_03_Greaves_task_02" comment="Fort Damnation" speaker="UI - Tracker Text">Viaja a {POITags} en Costa agitada para conseguir aceite de semillas del tormento</string>
-	<string key="0205_0102_03_Greaves_task_03" comment="Baneseed Oil" speaker="UI - Tracker Text">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="0205_0102_03_Greaves_task_04" comment="Propus" speaker="UI - Tracker Text">Viaja a {POITags} en Mourningdale para conseguir metal de estrellas en sintonía</string>
-	<string key="0205_0102_03_Greaves_task_05" comment="Attuned Starmetal" speaker="UI - Tracker Text">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="0205_0102_03_Greaves_task_06" comment="Olympus" speaker="UI - Tracker Text">Viaja a {POITags} en Mourningdale para conseguir revestimiento reforjado</string>
-	<string key="0205_0102_03_Greaves_task_07" comment="Reforged Plating" speaker="UI - Tracker Text">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="0205_0102_03_Greaves_task_08" speaker="UI - Tracker Text">Visita una forja</string>
-	<string key="0205_0102_03_Greaves_task_09" speaker="UI - Tracker Text">Fabrica {itemName}</string>
-	<string key="0205_0102_04_Gauntlets_title" speaker="UI - Quest Title">Mano firme</string>
-	<string key="0205_0102_04_Gauntlets_description" speaker="UI - Quest Description">Consigue hoguera refinada de Defensa de los svikin, malla flexible de Vela y esencia de poder de Litheltop. Luego, visita una forja de nivel 3 para fabricar las manoplas de abrazo de la batalla.</string>
-	<string key="0205_0102_04_Gauntlets_task_01" speaker="UI - Tracker Text">Receta entregada.</string>
-	<string key="0205_0102_04_Gauntlets_task_02" comment="Svikin's Stand" speaker="UI - Tracker Text">Viaja a {POITags} en Gran surco para conseguir hoguera refinada</string>
-	<string key="0205_0102_04_Gauntlets_task_03" comment="Refined Balefire" speaker="UI - Tracker Text">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="0205_0102_04_Gauntlets_task_04" comment="Vela" speaker="UI - Tracker Text">Viaja a {POITags} en Edengrove para conseguir malla flexible</string>
-	<string key="0205_0102_04_Gauntlets_task_05" comment="Flexible Mesh" speaker="UI - Tracker Text">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="0205_0102_04_Gauntlets_task_06" comment="Litheltop" speaker="UI - Tracker Text">Viaja a {POITags} en Mourningdale para conseguir esencia de poder</string>
-	<string key="0205_0102_04_Gauntlets_task_07" comment="Essence of Power" speaker="UI - Tracker Text">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="0205_0102_04_Gauntlets_task_08" speaker="UI - Tracker Text">Visita una forja</string>
-	<string key="0205_0102_04_Gauntlets_task_09" speaker="UI - Tracker Text">Fabrica {itemName}</string>
-	<string key="0205_0102_05_Helm_title" speaker="UI - Quest Title">A la cabeza del resto</string>
-	<string key="0205_0102_05_Helm_description" speaker="UI - Quest Description">Consigue barniz resistente de Nettlevex, fragmentos de la batalla de la mina de escoria inferior y relleno pesado de la mina de escoria superior. Luego, visita una forja de nivel 3 para fabricar el casco de abrazo de la batalla.</string>
-	<string key="0205_0102_05_Helm_task_01" speaker="UI - Tracker Text">Receta entregada.</string>
-	<string key="0205_0102_05_Helm_task_02" comment="Nettlevex" speaker="UI - Tracker Text">Viaja a {POITags} en Edengrove para conseguir barniz resistente</string>
-	<string key="0205_0102_05_Helm_task_03" comment="Rugged Varnish" speaker="UI - Tracker Text">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="0205_0102_05_Helm_task_04" comment="Lower Slag Mine" speaker="UI - Tracker Text">Viaja a {POITags} en Edengrove para conseguir fragmentos de la batalla</string>
-	<string key="0205_0102_05_Helm_task_05" comment="Shards of Battle" speaker="UI - Tracker Text">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="0205_0102_05_Helm_task_06" comment="Upper Slag Mine" speaker="UI - Tracker Text">Viaja a {POITags} en Edengrove para conseguir relleno pesado</string>
-	<string key="0205_0102_05_Helm_task_07" comment="Heavy Padding" speaker="UI - Tracker Text">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="0205_0102_05_Helm_task_08" speaker="UI - Tracker Text">Visita una forja</string>
-	<string key="0205_0102_05_Helm_task_09" speaker="UI - Tracker Text">Fabrica {itemName}</string>
-	<string key="0204_0104_Executioner_title" speaker="UI - Quest Title">Ejecutora</string>
-	<string key="0204_0104_Executioner_description" speaker="UI - Quest Description">Adquiere tablón de los bucaneros de Fuerte Cráneo de piedra, cuerdas del verdugo de Colinas impredecibles, espadas de los brutos de Tiburón saqueador y coagulante infernal de Grus para fabricar "Ejecutora", la infame hacha. Habla con Pennyfather, el clérigo jefe, en el asentamiento de Brightwood cuando la tarea esté finalizada.</string>
-	<string key="0204_0104_Executioner_start_prompt" speaker="UI - Player Prompt">"Me interesaría un hacha legendaria".</string>
-	<string key="0204_0104_Executioner_proposal" speaker="Head Cleric Pennyfather" gender="M" VO="Overseer_0204_0104_Executioner_Proposal" VO_Status="Recorded">Ah, sí. A mí también me interesa… Espera, ¿de qué hablábamos? Ah, sí, la Ejecutora.\n\nTe daré una lista de los elementos necesarios para volver a forjarla. Tal vez sea difícil encontrarlos, pero creo que vale la pena.</string>
-	<string key="0204_0104_Executioner_incomplete" speaker="Head Cleric Pennyfather" gender="M">¡Oh! Es… aún no recuerdo tu nombre, pero recuerdo algo sobre ti… Ah, sí, el hacha, Ejecutora.\n\nBuena suerte para encontrar todo lo que necesitas.</string>
-	<string key="0204_0104_Executioner_complete" speaker="Head Cleric Pennyfather" gender="M" VO="Overseer_0204_0104_Executioner_Complete" VO_Status="Recorded">Espera un momento… Esto es… ¿Encontraste todo lo necesario para volver a forjar a la Ejecutora?\n\nImpresionante, muy impresionante. Es un arma muy eficaz si se usa… correctamente. Empúñala con maestría.</string>
-	<string key="0203_0103_Hope_Manifest_title" speaker="UI - Quest Title">Manifiesto de esperanza</string>
-	<string key="0203_0103_Hope_Manifest_description" speaker="UI - Quest Description">Adquiere tela de los curanderos del poste de Seele, ungüento de los adivinos de Cataratas de Catara, aliento de piedad de Eridanus y catalizador de esperanza de Vela para fabricar "Manifiesto de esperanza", el legendario bastón vital. Habla con Bankole, el embalsamador, en Brightwood cuando la tarea esté finalizada.</string>
-	<string key="0203_0103_Hope_Manifest_start_prompt" speaker="UI - Player Prompt">"¿Dónde puedo encontrar este bastón?"</string>
-	<string key="0203_0103_Hope_Manifest_proposal" speaker="Embalmer Bankole - Brightwood" gender="M" VO="Survivalist_0203_0103_Hope_Manifest_Proposal" VO_Status="Recorded">Oh, no lo encontrarás, no se ha visto en muchos siglos. Pero puedo enseñarte a fabricarla.\n\nToma esta lista de los elementos necesarios, y luego podrás fabricar el bastón "Manifiesto de esperanza".</string>
-	<string key="0203_0103_Hope_Manifest_incomplete" speaker="Embalmer Bankole - Brightwood" gender="M">¿Aún buscas los elementos para el bastón?\n\nLos encontrarás si lo sigues intentando.</string>
-	<string key="0203_0103_Hope_Manifest_complete" speaker="Embalmer Bankole - Brightwood" gender="M" VO="Survivalist_0203_0103_Hope_Manifest_Complete" VO_Status="Recorded">Allí está la nueva luz de Brightwood, encontraste todo lo que necesitabas, ¿no?\n\nCon ese bastón en la mano, eres justo lo que necesitamos, un "Manifiesto de esperanza". Te seguirá un brillo adondequiera que vayas.</string>
-	<string key="0204_0104_BucaneersPlank_Quest_objective_title" speaker="UI - Tracker Text">Consigue los elementos utilizados para fabricar a la Ejecutora</string>
-	<string key="0204_0104_HangmansBinding_Quest_objective_title" speaker="UI - Tracker Text">Consigue los elementos utilizados para fabricar a la Ejecutora</string>
-	<string key="0204_0104_BladeBrute_Quest_objective_title" speaker="UI - Tracker Text">Consigue los elementos utilizados para fabricar a la Ejecutora</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_objective_title" speaker="UI - Tracker Text">Consigue los elementos y luego fabrica a la Ejecutora</string>
-	<string key="0204_0104_BucaneersPlank_Quest_description" speaker="UI - Quest Description">Los piratas más traicioneros solo conocen una clase de amor: el abrazo del mar.</string>
-	<string key="0204_0104_HangmansBinding_Quest_description" speaker="UI - Quest Description">Quienes están ligados a un destino en la horca no pueden escapar de ellos. Solo tú puedes entregarlos.</string>
-	<string key="0204_0104_BladeBrute_Quest_description" speaker="UI - Quest Description">Los más brutales de nosotros deben ceder su piedad, porque no tienen nada para mostrarles a sus enemigos.</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_description" speaker="UI - Quest Description">Hasta la sangre más caliente que recorre las venas muchas veces se convierte en una fétida oscuridad.</string>
-	<string key="0203_0103_MendersCloth_Quest_objective_title" speaker="UI - Tracker Text">Consigue los elementos utilizados para fabricar Manifiesto de esperanza</string>
-	<string key="0203_0103_SoothsayerSalve_Quest_objective_title" speaker="UI - Tracker Text">Consigue los elementos utilizados para fabricar Manifiesto de esperanza</string>
-	<string key="0203_0103_MercysBreath_Quest_objective_title" speaker="UI - Tracker Text">Consigue los elementos utilizados para fabricar Manifiesto de esperanza</string>
-	<string key="0203_0103_HopeCatalyst_Quest_objective_title" speaker="UI - Tracker Text">Consigue los elementos y luego fabrica Manifiesto de esperanza</string>
-	<string key="0203_0103_MendersCloth_Quest_description" speaker="UI - Quest Description">La sanación radica en la tela del reparador, que venda las heridas con cuidado, como una égida.</string>
-	<string key="0203_0103_SoothsayerSalve_Quest_description" speaker="UI - Quest Description">La sanación radica en el ungüento del adivino, un toque tranquilizador para calmar el dolor.</string>
-	<string key="0203_0103_MercysBreath_Quest_description" speaker="UI - Quest Description">La sanación radica en Aliento de misericordia, un regalo del destino que sigue entretejiéndose.</string>
-	<string key="0203_0103_HopeCatalyst_Quest_description" speaker="UI - Quest Description">La sanación radica en la esperanza, la esperanza de vivir, y en quienes catalizan esa esperanza.</string>
-	<string key="0204_0104_BucaneersPlank_Quest_task_01" comment="Stone Skull Fort" speaker="UI - Tracker Text">Viaja a {POITags} en Llaves de alfanje para conseguir tablón de los bucaneros</string>
-	<string key="0204_0104_BucaneersPlank_Quest_task_02" comment="Bucaneer's Plank" speaker="UI - Tracker Text">Obtén {itemName} de los enemigos {targetName}</string>
-	<string key="0204_0104_HangmansBinding_Quest_task_01" comment="Wayward Mounds" speaker="UI - Tracker Text">Viaja a {POITags} en Gran surco para conseguir cuerdas del verdugo</string>
-	<string key="0204_0104_HangmansBinding_Quest_task_02" comment="Hangman's Binding" speaker="UI - Tracker Text">Consigue {itemName} de los demonios, fantasmas y espíritus enemigos</string>
-	<string key="0204_0104_HangmansBinding_Quest_task_03" comment="Hangman's Binding" speaker="UI - Tracker Text">Obtén {itemName} de los enemigos {targetName}</string>
-	<string key="0204_0104_BladeBrute_Quest_task_01" comment="Plundering Shark" speaker="UI - Tracker Text">Viaja a {POITags} en Costa agitada para conseguir espadas de los brutos</string>
-	<string key="0204_0104_BladeBrute_Quest_task_02" comment="Blade of the Brutes" speaker="UI - Tracker Text">Obtén {itemName} de los enemigos {targetName}</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_task_01" comment="Grus" speaker="UI - Tracker Text">Viaja a {POITags} en Mourningdale para conseguir coagulante infernal</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_task_02" comment="Infernal Coagulant" speaker="UI - Tracker Text">Recolecta {itemName} de {targetName}</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_task_03" speaker="UI - Tracker Text">Receta entregada.</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_task_04" speaker="UI - Tracker Text">Visita una forja</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_task_05" speaker="UI - Tracker Text">Crea {itemName}</string>
-	<string key="0203_0103_MendersCloth_Quest_task_01" comment="Seele's Stake" speaker="UI - Tracker Text">Viaja a {POITags} en Costa agitada para conseguir tela de los curanderos</string>
-	<string key="0203_0103_MendersCloth_Quest_task_02" comment="Mender's Cloth" speaker="UI - Tracker Text">Obtén {itemName} de los enemigos {targetName}</string>
-	<string key="0203_0103_SoothsayerSalve_Quest_task_01" comment="Catara Falls" speaker="UI - Tracker Text">Viaja a {POITags} en Gran surco para conseguir ungüento de los adivinos</string>
-	<string key="0203_0103_SoothsayerSalve_Quest_task_02" comment="Soothsayer's Salve" speaker="UI - Tracker Text">Obtén {itemName} de los enemigos {targetName}</string>
-	<string key="0203_0103_MercysBreath_Quest_task_01" comment="Eridanus" speaker="UI - Tracker Text">Viaja a {POITags} en Costa agitada para conseguir aliento de piedad</string>
-	<string key="0203_0103_MercysBreath_Quest_task_02" comment="Mercy's Breath" speaker="UI - Tracker Text">Obtén {itemName} de los enemigos {targetName}</string>
-	<string key="0203_0103_HopeCatalyst_Quest_task_01" comment="Vela" speaker="UI - Tracker Text">Viaja a {POITags} en Mourningdale para conseguir catalizador de esperanza</string>
-	<string key="0203_0103_HopeCatalyst_Quest_task_02" comment="Hope Catalyst" speaker="UI - Tracker Text">Recolecta {itemName} de {targetName}</string>
-	<string key="0203_0103_HopeCatalyst_Quest_task_03" speaker="UI - Tracker Text">Receta entregada.</string>
-	<string key="0203_0103_HopeCatalyst_Quest_task_04" speaker="UI - Tracker Text">Visita una estación arcana</string>
-	<string key="0203_0103_HopeCatalyst_Quest_task_05" speaker="UI - Tracker Text">Crea {itemName}</string>
-	<string key="0203_0103_01_container_Weapon_Hope_Manifest_questComplete_1" speaker="UI - Tracker Text">Completa la misión: Cortado de la misma tela</string>
-	<string key="0203_0103_02_container_Weapon_Hope_Manifest_questComplete_2" speaker="UI - Tracker Text">Completa la misión: Rescatar el ungüento</string>
-	<string key="0203_0103_03_container_Weapon_Hope_Manifest_questComplete_3" speaker="UI - Tracker Text">Completa la misión: Destinos piadosos</string>
-	<string key="0203_0103_04_container_Weapon_Hope_Manifest_questComplete_4" speaker="UI - Tracker Text">Completa la misión: Fuente de esperanza</string>
-	<string key="0204_0104_01_container_Weapon_Executioner_questComplete_1" speaker="UI - Tracker Text">Completa la misión: Caminar por la plancha</string>
-	<string key="0204_0104_02_container_Weapon_Executioner_questComplete_2" speaker="UI - Tracker Text">Completa la misión: Los lazos que unen</string>
-	<string key="0204_0104_03_container_Weapon_Executioner_questComplete_3" speaker="UI - Tracker Text">Completa la misión: Brutalidad shakesperiana</string>
-	<string key="0204_0104_04_container_Weapon_Executioner_questComplete_4" speaker="UI - Tracker Text">Completa la misión: Más espeso que el agua</string>
 	<string key="0240_0101_Curiosity_title" speaker="UI - Quest Title" quest_id="0240_0101_Curiosity">Curiosidad corrompida</string>
 	<string key="0240_0101_Curiosity_description" speaker="UI - Quest Description" quest_id="0240_0101_Curiosity">Usa una manopla de hielo para derrotar al corrompido en Granja de Harplass e investiga por qué se quemó el pueblo para Quíone Kaszynski.</string>
 	<string key="0240_0101_Curiosity_start_prompt" speaker="UI - Player Prompt" quest_id="0240_0101_Curiosity">"Me gustan los misterios. ¿Puedo ayudar?"</string>

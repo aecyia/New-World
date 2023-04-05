@@ -22,7 +22,7 @@
 	<string key="ui_territory_claimed_title">Territorio conquistado</string>
 	<string key="ui_territory_current">Territorio actual:</string>
 	<string key="ui_territory_controlling_faction">Facción al control:</string>
-	<string key="ui_territory_not_claimed_desc">Cuando conquistes este territorio, podrás completar misiones JcJ para conseguir influencia, lo que permitirá a tu facción declarar la guerra. Pero, por ahora, ayuda a tu facción a conquistar este territorio.</string>
+	<string key="ui_territory_not_claimed_desc">Conquista este territorio para completar misiones JcJ y ganar influencia, lo que permite a tu facción declarar la guerra.</string>
 	<string key="ui_territory_upgrade_cancelled">Se ha cancelado una mejora en {territoryName}.</string>
 	<string key="ui_territory_upgraded">Territorio mejorado</string>
 	<string key="ui_territory_standinglabel">Estatus en: {territoryName}</string>
@@ -90,8 +90,8 @@
 	<string key="ui_open_map">Abrir mapa</string>
 	<string key="ui_counterattack_message_attack">¡Ahora tu compañía podrá atacar la conquista del enemigo\ndurante el periodo de asedio!</string>
 	<string key="ui_counterattack_message_defend">El enemigo ha contraatacado.\n¡Defiende tus conquistas del enemigo!</string>
-	<string key="ui_town_project_started_chat">El proyecto de pueblo «{name}» se ha iniciado en el territorio {territory}.</string>
-	<string key="ui_town_project_expired_chat">El proyecto de pueblo «{title}» ha caducado en el territorio {territory}.</string>
+	<string key="ui_town_project_started_chat">El proyecto de pueblo «{name}» se ha iniciado en {territory}.</string>
+	<string key="ui_town_project_expired_chat">El proyecto de pueblo «{title}» ha caducado en {territory}.</string>
 	<string key="ui_town_project_cancelled_chat">El proyecto de pueblo «{title}» se ha cancelado en {territory}.</string>
 	<string key="ui_town_project_completed_chat">El proyecto de pueblo «{title}» se ha completado en {territory}.</string>
 	<string key="ui_territory_downgraded_chat">Bajada de categoría de {structure} en {territoryName}.</string>
@@ -101,11 +101,11 @@
 	<string key="ui_attribute_and_mastery_points_available">Tienes {attributePoints} puntos de atributo y {masteryPoints} puntos de maestría por gastar</string>
 	<string key="ui_attribute_points_available">Tienes {attributePoints} puntos de atributo por gastar</string>
 	<string key="ui_mastery_points_available">Tienes {masteryPoints} puntos de maestría por gastar</string>
-	<string key="ui_standing_tokens_available">Tienes {standingTokens} puntos de estatus de territorio por gastar</string>
+	<string key="ui_standing_tokens_available">Tienes {standingTokens} puntos de estatus de territorio por gastar.</string>
 	<string key="ui_points_available">MEJORA DISPONIBLE</string>
-	<string key="ui_mastery_point">Punto de maestría</string>
-	<string key="ui_attribute_point">Punto de atributo</string>
-	<string key="ui_standing_point">Punto de estatus de territorio</string>
+	<string key="ui_mastery_point">Puntos de maestría</string>
+	<string key="ui_attribute_point">Puntos de atributo</string>
+	<string key="ui_standing_point">Puntos de estatus de territorio</string>
 	<string key="ui_cinematics_banner_msq_actone_title_label">ACTO I</string>
 	<string key="ui_cinematics_banner_msq_actone_chapterone_title_text">Capítulo 1</string>
 	<string key="ui_cinematics_banner_msq_actone_chapterone_title_description">Tormenta demoníaca</string>

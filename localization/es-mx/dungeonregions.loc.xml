@@ -172,9 +172,30 @@
 	<string key="ui_area_brimstone_GuardiansOfEnnead" rel_version="Expedition_BrimstoneSands_00">La cúspide</string>
 	<string key="ui_icon_brimstone_title_scarab" rel_version="Expedition_BrimstoneSands_00">Khepri celestial divino</string>
 	<string key="ui_icon_brimstone_description_scarab" rel_version="Expedition_BrimstoneSands_00">Guardián del templo</string>
-	<string key="ui_icon_brimstone_title_crassus" rel_version="Expedition_BrimstoneSands_00">General Crassus</string>
+	<string key="ui_icon_brimstone_title_crassus" rel_version="Expedition_BrimstoneSands_00">General Craso</string>
 	<string key="ui_icon_brimstone_description_crassus" rel_version="Expedition_BrimstoneSands_00">Líder de la decimonovena legión</string>
 	<string key="ui_icon_brimstone_title_goliaths" rel_version="Expedition_BrimstoneSands_00">Anpu y Heru</string>
 	<string key="ui_icon_brimstone_description_goliaths" rel_version="Expedition_BrimstoneSands_00">Ídolos antiguos</string>
+	<string key="ui_area_greatcleave01_LostEntrance" rel_version="Expedition_GreatCleave_01">Entrada perdida</string>
+	<string key="ui_area_greatcleave01_Vestibule" rel_version="Expedition_GreatCleave_01">Vestíbulo</string>
+	<string key="ui_area_greatcleave01_ForgeGate" rel_version="Expedition_GreatCleave_01">Puerta de la forja</string>
+	<string key="ui_area_greatcleave01_Shrine" rel_version="Expedition_GreatCleave_01">Santuario</string>
+	<string key="ui_area_greatcleave01_HiddenChamber" rel_version="Expedition_GreatCleave_01">Cámara oculta</string>
+	<string key="ui_area_greatcleave01_Reliquary" rel_version="Expedition_GreatCleave_01">Relicario</string>
+	<string key="ui_area_greatcleave01_Foundry" rel_version="Expedition_GreatCleave_01">Fundición</string>
+	<string key="ui_area_greatcleave01_ForgeWest" rel_version="Expedition_GreatCleave_01">Zona oeste de la forja</string>
+	<string key="ui_area_greatcleave01_Bellows" rel_version="Expedition_GreatCleave_01">Fuelles</string>
+	<string key="ui_area_greatcleave01_Ascent" rel_version="Expedition_GreatCleave_01">Loma</string>
+	<string key="ui_area_greatcleave01_ControlRoom" rel_version="Expedition_GreatCleave_01">Sala de control</string>
+	<string key="ui_area_greatcleave01_ForgeSouth" rel_version="Expedition_GreatCleave_01">Zona sur de la forja</string>
+	<string key="ui_area_greatcleave01_Berths" rel_version="Expedition_GreatCleave_01">Camarotes</string>
+	<string key="ui_area_greatcleave01_Ifrit" rel_version="Expedition_GreatCleave_01">Presencia primordial olvidada</string>
+	<string key="ui_area_greatcleave01_Commander" rel_version="Expedition_GreatCleave_01">Comandante fortalecido de Sir Loth</string>
+	<string key="ui_area_greatcleave01_Mechanism" rel_version="Expedition_GreatCleave_01">Mecanismo antiguo</string>
+	<string key="ui_area_greatcleave01_Nora" rel_version="Expedition_GreatCleave_01">Nora</string>
+	<string key="ui_area_greatcleave01_AncientSeal" rel_version="Expedition_GreatCleave_01">Sello de azoth</string>
+	<string key="ui_area_greatcleave01_FireSeal" rel_version="Expedition_GreatCleave_01">Sello de fuego</string>
+	<string key="ui_area_greatcleave01_Desecrated" rel_version="Expedition_GreatCleave_01">Mecanismo antiguo envilecido</string>
+	<string key="ui_area_greatcleave01_Heel" rel_version="Expedition_GreatCleave_01">El talón</string>
 </resources>
 

@@ -3,10 +3,10 @@
 	<string key="dungeon_amrine_description">¡El sitio de excavación debe ser desenterrado!</string>
 	<string key="dungeon_amrine_required_equipment">1 bastón de azoth</string>
 	<string key="dungeon_amrine_task_explore">Explora la excavación.</string>
-	<string key="dungeon_amrine_task_sealed_gate">Usa el bastón de azoth para romper el sello de azoth y desbloquear la puerta</string>
+	<string key="dungeon_amrine_task_sealed_gate">Usa el bastón de azoth para romper el sello de azoth y desbloquear la puerta.</string>
 	<string key="dungeon_amrine_find_simons_investigation">Encuentra la investigación de Simon Grey sobre la tecnología de los antiguos.</string>
 	<string key="dungeon_amrine_task_restore_bridge">Restaura el mecanismo del puente.</string>
-	<string key="dungeon_amrine_task_restore_bridge_scripts">Usa el bastón de azoth para traducir las escrituras de azoth en las cavernas excavadas Hay una pista oculta en las inscripciones de azoth para desbloquear el mecanismo del puente.</string>
+	<string key="dungeon_amrine_task_restore_bridge_scripts">Usa el bastón de azoth para traducir las escrituras de azoth en las cavernas excavadas. Hay una pista oculta en las inscripciones de azoth para desbloquear el mecanismo del puente.</string>
 	<string key="dungeon_amrine_task_find_vestibule">Encuentra el Vestíbulo quebrado. La inscripción de azoth indica que hay una fuente de poder ubicada en la cámara.</string>
 	<string key="dungeon_amrine_task_restore_bridge_glyphs">Activa el sello de azoth del vestíbulo para restaurar el mecanismo del puente.</string>
 	<string key="dungeon_amrine_task_defeat_vestibule_guardians">Derrota a los guardianes de la cámara del vestíbulo.</string>
@@ -187,6 +187,30 @@
 	<string key="dungeon_ebonscale00_task_find_empress">Encuentra a la emperatriz Zhou en el palacio.</string>
 	<string key="dungeon_ebonscale00_task_defeat_empress">¡Destruye a la emperatriz Zhou!</string>
 	<string key="dungeon_ebonscale00_task_leave_dungeon">Sal del astillero.</string>
+	<string key="dungeon_greatcleave01_title" rel_version="Expedition_GreatCleave_01">Forja empírea</string>
+	<string key="dungeon_greatcleave01_required_equipment" rel_version="Expedition_GreatCleave_01">1 bastón de azoth</string>
+	<string key="dungeon_greatcleave01_description" rel_version="Expedition_GreatCleave_01">Persigue a sir Loth y elimina la presencia varega en la forja.</string>
+	<string key="dungeon_greatcleave01_task_explore" rel_version="Expedition_GreatCleave_01">Adéntrate en la forja empírea.</string>
+	<string key="dungeon_greatcleave01_task_solveforgeentry" rel_version="Expedition_GreatCleave_01">Encuentra una manera de cruzar la puerta principal.</string>
+	<string key="dungeon_greatcleave01_task_gain_access_forge" rel_version="Expedition_GreatCleave_01">Usa el sello de azoth antiguo.</string>
+	<string key="dungeon_greatcleave01_task_unlock_dial" rel_version="Expedition_GreatCleave_01">Encuentra una manera de desbloquear el mecanismo antiguo.</string>
+	<string key="dungeon_greatcleave01_task_talk_to_nora" rel_version="Expedition_GreatCleave_01">Habla con Nora Roggeveen.</string>
+	<string key="dungeon_greatcleave01_task_power_the_forge" rel_version="Expedition_GreatCleave_01">Activa el mecanismo antiguo.</string>
+	<string key="dungeon_greatcleave01_task_primordial" rel_version="Expedition_GreatCleave_01">Investiga el interior de la forja.</string>
+	<string key="dungeon_greatcleave01_task_solve_the_mechanism" rel_version="Expedition_GreatCleave_01">Descifra el mecanismo antiguo</string>
+	<string key="dungeon_greatcleave01_task_pursue_corrupted" rel_version="Expedition_GreatCleave_01">Elimina la presencia primordial.</string>
+	<string key="dungeon_greatcleave01_task_theheel" rel_version="Expedition_GreatCleave_01">Elimina el Talón para despejar un camino.</string>
+	<string key="dungeon_greatcleave01_task_forge" rel_version="Expedition_GreatCleave_01">Explora más la forja.</string>
+	<string key="dungeon_greatcleave01_task_ifrit" rel_version="Expedition_GreatCleave_01">Destruye a Ifrit.</string>
+	<string key="dungeon_greatcleave01_task_wayforward" rel_version="Expedition_GreatCleave_01">Usa el sello de fuego.</string>
+	<string key="dungeon_greatcleave01_task_investigate" rel_version="Expedition_GreatCleave_01">Persigue a sir Loth y a sus comandantes.</string>
+	<string key="dungeon_greatcleave01_task_findawayup" rel_version="Expedition_GreatCleave_01">Encuentra una manera de atravesar el bloqueo.</string>
+	<string key="dungeon_greatcleave01_task_defeat" rel_version="Expedition_GreatCleave_01">Derrota a los guardias varegos restantes.</string>
+	<string key="dungeon_greatcleave01_task_varangians" rel_version="Expedition_GreatCleave_01">Descifra el mecanismo antiguo.</string>
+	<string key="dungeon_greatcleave01_task_commanders" rel_version="Expedition_GreatCleave_01">Persigue a Loth y a sus comandantes.</string>
+	<string key="dungeon_greatcleave01_task_defeattheknight" rel_version="Expedition_GreatCleave_01">Elimina al comandante Marius.</string>
+	<string key="dungeon_greatcleave01_victory_cutscene" rel_version="Expedition_GreatCleave_01">Vuelve para informar de la derrota del comandante Marius.</string>
+	<string key="dungeon_greatcleave01_task_exit_dungeon" rel_version="Expedition_GreatCleave_01">Vuelve para informar de la derrota del comandante Marius.</string>
 	<string key="dungeon_brimstone_title" rel_version="Expedition_BrimstoneSands_00">La Enéada</string>
 	<string key="dungeon_brimstonesands00_title" rel_version="Expedition_BrimstoneSands_00">La Enéada</string>
 	<string key="dungeon_brimstone_description" rel_version="Expedition_BrimstoneSands_00">Investiga La Enéada y descubre qué secretos ocultaron los antiguos en este lugar atemporal</string>
@@ -197,7 +221,7 @@
 	<string key="dungeon_brimstone_task_defeat_scarab_boss" rel_version="Expedition_BrimstoneSands_00">Derrota a Khepri celestial divino.</string>
 	<string key="dungeon_brimstone_task_open_corrupted_gate" rel_version="Expedition_BrimstoneSands_00">Usa el poder de 3 bastones de Azoth para destruir la corrupción que bloquea el camino</string>
 	<string key="dungeon_brimstone_task_battle_through_legion" rel_version="Expedition_BrimstoneSands_00">Combate a los restos de la XIX Legión</string>
-	<string key="dungeon_brimstone_task_defeat_crassus" rel_version="Expedition_BrimstoneSands_00">Derrota al general Crassus.</string>
+	<string key="dungeon_brimstone_task_defeat_crassus" rel_version="Expedition_BrimstoneSands_00">Derrota al general Craso.</string>
 	<string key="dungeon_brimstone_task_reach_apex_of_ennead" rel_version="Expedition_BrimstoneSands_00">Llega a la cúspide de La Enéada</string>
 	<string key="dungeon_brimstone_task_defeat_goliaths" rel_version="Expedition_BrimstoneSands_00">Derrota a Anpu y a Heru.</string>
 	<string key="dungeon_brimstone_task_victory_celebration" rel_version="Expedition_BrimstoneSands_00">Sal de La Enéada.</string>
@@ -254,5 +278,14 @@
 	<string key="ui_solo_arena_leave_desc_time" rel_version="Territory_Brimstone_Sands">¿Confirmas que quieres salir de la prueba de alma?\nNo podrás volver a hacer cola para entrar durante &lt;font color="#ffdb7a"&gt;[{time}]&lt;/font&gt;.</string>
 	<string key="ui_solo_arena_leave_title" rel_version="Territory_Brimstone_Sands">¿Salir de prueba de alma?</string>
 	<string key="ui_cannot_travel_solo_arena" rel_version="Territory_Brimstone_Sands">No puedes viajar rápido mientras estás en la prueba de alma.</string>
+	<string key="Quest_CaerDun_title" rel_version="Quest_MSQ2_Brightwood">La maldición de Caer Dun</string>
+	<string key="Quest_CaerDun_description" rel_version="Quest_MSQ2_Brightwood">Entra en la cripta, donde el acero místico y los actos profanos se unen. Destruye la gema con forma de corazón imperfecta y libera la maldición de Caer Dun.</string>
+	<string key="quest_CaerDun_task_approach" rel_version="Quest_MSQ2_Brightwood">Acércate al altar maldito en el corazón de Caer Dun.</string>
+	<string key="quest_CaerDun_task_place" rel_version="Quest_MSQ2_Brightwood">Coloca la gema con forma de corazón imperfecta en el altar maldito.</string>
+	<string key="quest_CaerDun_task_smash" rel_version="Quest_MSQ2_Brightwood">Destroza la gema con forma de corazón imperfecta y libera la maldición de Caer Dun.</string>
+	<string key="quest_CaerDun_task_destroy_boss" rel_version="Quest_MSQ2_Brightwood">Derrota al espíritu maldito de Umberto.</string>
+	<string key="quest_CaerDun_task_purify" rel_version="Quest_MSQ2_Brightwood">Usa el bastón de azoth para disipar la maldición de Caer Dun.</string>
+	<string key="quest_CaerDun_task_leave" rel_version="Quest_MSQ2_Brightwood">Explora la cripta y sal de la prueba de alma.</string>
+	<string key="Quest_CaerDun_required_equipment" rel_version="Quest_MSQ2_Brightwood">1 bastón de azoth, 1 pico de minería</string>
 </resources>
 

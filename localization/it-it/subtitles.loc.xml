@@ -232,5 +232,16 @@
 	<string key="Apophis_CombatTaunt_D" comment="Sand_Elemental_QuestBoss.slice" speaker="Apophis" rel_version="Territory_Brimstone_Sands">Soddisfa la tua sconfinata fame!</string>
 	<string key="Apophis_Intro" comment="Sand_Elemental_QuestBoss.slice" speaker="Apophis" rel_version="Territory_Brimstone_Sands">Vermi insignificanti!</string>
 	<string key="Apophis_Death" comment="Sand_Elemental_QuestBoss.slice" speaker="Apophis" rel_version="Territory_Brimstone_Sands">Sei il nulla!</string>
+	<string key="Flamekeeper_CombatBark_01" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">PH TEXT: battuta Bomba vivente!</string>
+	<string key="Flamekeeper_CombatBark_02" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">PH TEXT: battuta Pioggia di meteoriti!</string>
+	<string key="Flamekeeper_CombatBark_03" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">PH TEXT: battuta Flusso di lava!</string>
+	<string key="Flamekeeper_CombatBark_04" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">PH TEXT: battuta Entità fiammeggianti!</string>
+	<string key="Flamekeeper_CombatBark_05" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">PH TEXT: battuta Frammenti ardenti!</string>
+	<string key="Flamekeeper_CombatBark_06" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">PH TEXT: battuta Fermati, cadi e rotola!</string>
+	<string key="Flamekeeper_CombatBark_07" comment="Evil_Knight_Flamekeeper.slice" speaker="Báulfr the Flame Eater" rel_version="Season_1_Perm">PH TEXT: battuta Risucchio di fiamme!</string>
+	<string key="BrotherUmberto_Intro_Human" comment="brother_umberto_human.slice" speaker="Brother Umberto" rel_version="Quest_MSQ2_Brightwood">Non mi pentirò! Né cadrò. Sarai tu a perdere l'anima!</string>
+	<string key="BrotherUmberto_Death_Human" comment="brother_umberto_human.slice" speaker="Brother Umberto" rel_version="Quest_MSQ2_Brightwood">I giusti faranno sempre ritorno!</string>
+	<string key="BrotherUmberto_Intro_Dark_Alt" comment="brother_umberto.slice" speaker="Brother Umberto" rel_version="Quest_MSQ2_Brightwood">La mia anima non cadrà facilmente...</string>
+	<string key="BrotherUmberto_Death_Dark" comment="io_caerdun_99b_msq_10_finalseal.slice" speaker="Brother Umberto" rel_version="Quest_MSQ2_Brightwood">Sono libero...</string>
 </resources>
 

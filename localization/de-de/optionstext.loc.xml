@@ -24,7 +24,7 @@
 	<string key="ui_section_preferences">Einstellungen</string>
 	<string key="ui_section_volume">Lautstärke</string>
 	<string key="ui_section_audio">Ton</string>
-	<string key="ui_section_voicechat">Sprachchat</string>
+	<string key="ui_section_voicechat">Sprach-Chat</string>
 	<string key="ui_section_chat">Chat</string>
 	<string key="ui_section_twitch">Twitch</string>
 	<string key="ui_section_display">Anzeige</string>
@@ -124,7 +124,7 @@
 	<string key="ui_voicechatinputmode_desc">Eingabemodus für Sprachchat festlegen.</string>
 	<string key="ui_voicechatinputmode_alwayson">Ständig aktiv</string>
 	<string key="ui_voicechatinputmode_pushtotalk">Push-to-Talk (Halten)</string>
-	<string key="ui_voicechatinputmode_pushtotalk_toggle">Push-to-Talk (Ein-/ausschalten)</string>
+	<string key="ui_voicechatinputmode_pushtotalk_toggle">Push-to-Talk (ein/aus)</string>
 	<string key="ui_options_settings">Optionen</string>
 	<string key="ui_graphics_settings" comment="Graphics quality settings">Grafikqualität</string>
 	<string key="ui_graphics_settings_desc">Grafikvoreinstellungen. Niedrigere Einstellungen ermöglichen bessere Leistung, höhere bessere Effekte.</string>
@@ -175,9 +175,9 @@
 	<string key="ui_profanity_filter">Sprachfilter</string>
 	<string key="ui_profanity_filter_desc">Filtert Schimpfwörter aus dem Chat.</string>
 	<string key="ui_subtitles">Untertitel</string>
-	<string key="ui_subtitles_desc">Anzeige von Untertiteln für Dialoge aktivieren.</string>
-	<string key="ui_metaachievementpopups">Erfolgsbenachrichtigung aktivieren</string>
-	<string key="ui_metaachievementpopups_desc">HUD-Benachrichtigungen für Erfolge, die erreicht oder beinahe erreicht wurden, aktivieren.</string>
+	<string key="ui_subtitles_desc">Untertitel für Dialoge einblenden</string>
+	<string key="ui_metaachievementpopups">Erfolgsbenachrichtigungen</string>
+	<string key="ui_metaachievementpopups_desc">HUD-Benachrichtigungen für Erfolge, die erreicht oder beinahe erreicht wurden, anzeigen.</string>
 	<string key="ui_colorBlindness">Farbenblindheitsmodus</string>
 	<string key="ui_colorBlindness_desc">Einen Filter für Farbenblindheit anwenden.</string>
 	<string key="ui_options_ColorBlindness_NoFilter">Kein Filter</string>
@@ -193,16 +193,23 @@
 	<string key="ui_options_TwitchLogin">Mit Twitch verbinden</string>
 	<string key="ui_options_TwitchLogin_desc">Melde dich bei Twitch an, um Twitch-Funktionen zu aktivieren.</string>
 	<string key="ui_options_TwitchStreamerSpotlight">Twitch-Streamer-Spotlight</string>
-	<string key="ui_options_TwitchStreamerSpotlight_desc">Twitch-Streamer-Spotlight aktivieren. Ermöglicht anderen Spielern, zu sehen, dass du gerade auf Twitch streamst (funktioniert nur beim Streamen).</string>
+	<string key="ui_options_TwitchStreamerSpotlight_desc">Ermöglicht anderen Spielern, zu sehen, dass du gerade auf Twitch streamst (funktioniert nur beim Streamen).</string>
 	<string key="ui_options_TwitchHideOtherStreamers">Andere Streamer verbergen</string>
-	<string key="ui_options_TwitchHideOtherStreamers_desc">Aktivieren, um den "Streamer Spotlight"-Status eines anderen Spielers auszublenden, wenn du streamst und Streamer Spotlight aktiviert hast.</string>
+	<string key="ui_options_TwitchHideOtherStreamers_desc">"Streamer Spotlight"-Status eines anderen Spielers ausblenden, wenn du streamst und Streamer Spotlight aktiviert hast.</string>
 	<string key="ui_options_TwitchSubArmy">Twitch-Abonnentenarmee</string>
 	<string key="ui_options_TwitchSubArmy_desc">Ermöglicht dir, Streamern beizutreten oder deine Abonnenten und Follower auf Twitch in deiner Gruppe oder Kompanie aufzunehmen.</string>
 	<string key="ui_textSize">Textgröße</string>
 	<string key="ui_textSize_desc">Vergrößert die Schriftgröße von Namensschildern und Interaktionstipps.</string>
+	<string key="ui_diegeticPinSize">Pin-Größe für Aufgabenhelfer</string>
+	<string key="ui_diegeticPinSize_desc">Passt die Größe der Pins für den Aufgabenhelfer im Spiel an</string>
+	<string key="ui_diegeticPinOpacity">Pin-Transparenz für Aufgabenhelfer</string>
+	<string key="ui_diegeticPinOpacity_desc">Passt die Transparenz der Pins für den Aufgabenhelfer im Spiel an</string>
+	<string key="ui_section_map">Karte</string>
+	<string key="ui_options_map">Autom. Zoom</string>
+	<string key="ui_options_map_desc">Zoomt automatisch auf die Position, wenn du die Karte in einer Siedlung oder einem Außenposten öffnest</string>
 	<string key="ui_options_textSize_regular">Normal</string>
 	<string key="ui_options_textSize_bigger">Größer</string>
-	<string key="ui_cameraShake">Kamerawackeln aktivieren</string>
+	<string key="ui_cameraShake">Kamerawackeln</string>
 	<string key="ui_cameraShake_desc">Kamerawackeln kann manche Spieler desorientieren.</string>
 	<string key="ui_strafeCamera">Immer seitwärts bewegen</string>
 	<string key="ui_strafeCamera_desc">Charakter blickt immer in Kamerablickrichtung.</string>
@@ -226,13 +233,15 @@
 	<string key="ui_outputconfiguration">Ausgabekonfiguration</string>
 	<string key="ui_outputconfiguration_desc">Wechsle zwischen 360-Grad-Surround-Sound fürs Heimkino und 180-Grad-Sound für Kopfhörer.</string>
 	<string key="ui_texttospeech">Text-to-Speech</string>
-	<string key="ui_texttospeech_desc">Aktiviert Text-to-Speech (Vorlesefunktion) für eingehende Chat-Nachrichten.</string>
+	<string key="ui_texttospeech_desc">Text-to-Speech (Vorlesefunktion) für eingehende Chat-Nachrichten</string>
 	<string key="ui_tts_rate">Text-to-Speech-Geschwindigkeit</string>
 	<string key="ui_tts_rate_desc">Geschwindigkeit der Wiedergabe von Text-to-Speech-Nachrichten.</string>
 	<string key="ui_tts_volume">Text-to-Speech-Lautstärke</string>
 	<string key="ui_tts_volume_desc">Lautstärke der Wiedergabe von Text-to-Speech-Nachrichten.</string>
 	<string key="ui_speechtotext">Speech-to-Text</string>
-	<string key="ui_speechtotext_desc">Speech-to-Text für Sprachchat aktivieren.</string>
+	<string key="ui_speechtotext_desc">Speech-to-Text für Sprachchat</string>
+	<string key="ui_spell_alignment_vfx">Gegnerzauber-Anzeigen</string>
+	<string key="ui_spell_alignment_vfx_desc">Aktiviert Anzeigen für dauerhafte Flächenangriffe von gegnerischen Spielern.</string>
 	<string key="ui_enable_hudShowVitalsValues">Vitalwerte anzeigen</string>
 	<string key="ui_enable_hudShowVitalsValues_decstription">Die Werte für Gesundheit und andere Vitalwerte werden in entsprechenden Balken angezeigt.</string>
 	<string key="ui_enable_hudAlwaysFade">Kontextuelles Fading</string>
@@ -262,7 +271,7 @@
 	<string key="ui_gena_escape" rel_version="Feature_GameEntryNarrationAssistance">ESC-Taste</string>
 	<string key="ui_gena" rel_version="Feature_GameEntryNarrationAssistance">Erzählhilfe zum Spielbeginn</string>
 	<string key="ui_gena_title" rel_version="Feature_GameEntryNarrationAssistance">Erzählhilfe zum Spielbeginn</string>
-	<string key="ui_gena_desc" rel_version="Feature_GameEntryNarrationAssistance">Erzählhilfe aktivieren, um bestmöglich ins Spiel hineinzufinden.</string>
+	<string key="ui_gena_desc" rel_version="Feature_GameEntryNarrationAssistance">Erzählhilfe, um bestmöglich ins Spiel hineinzufinden</string>
 	<string key="ui_gena_restricted" rel_version="Feature_GameEntryNarrationAssistance">Sprachchat mit Spielern in der Umgebung deaktiviert. Dein Konto ist zu neu oder gesperrt</string>
 	<string key="ui_gena_instruction" rel_version="Feature_GameEntryNarrationAssistance">New World bietet blinden Spielern oder Spielern mit eingeschränkter Sicht Erzählhilfen an, um bestmöglich ins Spiel hineinfinden zu können (nur auf Englisch). Du kannst diese Funktion jederzeit in den Optionen aktivieren oder deaktivieren.</string>
 	<string key="ui_genaprompt_genaison" rel_version="Feature_GameEntryNarrationAssistance">Erzählhilfe zum Spielbeginn ist aktiviert. Drücke {toggleGENA} zur Deaktivierung. Drücke {frontEndContinue} zum Fortfahren.</string>
@@ -292,5 +301,19 @@
 	<string key="ui_genaprompt_popupyesno" rel_version="Feature_GameEntryNarrationAssistance">{title}. {message} Für "Nein" {toggleMenuComponent} drücken. Für "Ja" {frontEndContinue} drücken.</string>
 	<string key="ui_genaprompt_popupok" rel_version="Feature_GameEntryNarrationAssistance">{title}. {message} Drücke {frontEndContinue} zum Schließen.</string>
 	<string key="ui_genaprompt_popupokcancel" rel_version="Feature_GameEntryNarrationAssistance">{title}. {message} Zum Bestätigen {frontEndContinue} drücken. Zum Abbrechen {toggleMenuComponent} drücken.</string>
+	<string key="ui_loadouts" rel_version="Feature_Gear_Set_Storage">Ausrüstungsset</string>
+	<string key="ui_showloadouts" rel_version="Feature_Gear_Set_Storage">Ausrüstungssets anzeigen</string>
+	<string key="ui_hideloadouts" rel_version="Feature_Gear_Set_Storage">Ausrüstungssets ausblenden</string>
+	<string key="ui_toggle_selectloadout" rel_version="Feature_Gear_Set_Storage">Ausrüstungssetauswahl ein/aus</string>
+	<string key="ui_equip_loadout1" rel_version="Feature_Gear_Set_Storage">Ausrüstungsset 1 ausrüsten</string>
+	<string key="ui_equip_loadout2" rel_version="Feature_Gear_Set_Storage">Ausrüstungsset 2 ausrüsten</string>
+	<string key="ui_equip_loadout3" rel_version="Feature_Gear_Set_Storage">Ausrüstungsset 3 ausrüsten</string>
+	<string key="ui_equip_loadout4" rel_version="Feature_Gear_Set_Storage">Ausrüstungsset 4 ausrüsten</string>
+	<string key="ui_equip_loadout5" rel_version="Feature_Gear_Set_Storage">Ausrüstungsset 5 ausrüsten</string>
+	<string key="ui_equip_loadout6" rel_version="Feature_Gear_Set_Storage">Ausrüstungsset 6 ausrüsten</string>
+	<string key="ui_equip_loadout7" rel_version="Feature_Gear_Set_Storage">Ausrüstungsset 7 ausrüsten</string>
+	<string key="ui_equip_loadout8" rel_version="Feature_Gear_Set_Storage">Ausrüstungsset 8 ausrüsten</string>
+	<string key="ui_equip_loadout9" rel_version="Feature_Gear_Set_Storage">Ausrüstungsset 9 ausrüsten</string>
+	<string key="ui_equip_loadout10" rel_version="Feature_Gear_Set_Storage">Ausrüstungsset 10 ausrüsten</string>
 </resources>
 

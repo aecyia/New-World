@@ -5,7 +5,7 @@
 	<string key="ui_calendar_event_button_go">Los geht’s!</string>
 	<string key="ui_calendar_event_button_view_details">Details ansehen</string>
 	<string key="ui_rewardtype_event_progress">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{displayName}&lt;/font&gt;</string>
-	<string key="ui_news_button">Neues</string>
+	<string key="ui_news_button">Nachrichten und Ereignisse</string>
 	<string key="ui_news_button_no_news">Keine neuen Geschichten verfügbar.</string>
 	<string key="ui_event_progress_name">Ereignis-Ansehen</string>
 	<string key="ui_event">Ereignis</string>
@@ -16,24 +16,24 @@
 	<string key="ui_pvp_rewards_panel1_bullet1_title" rel_version="PvP_Rewards_Track">PVP-EP</string>
 	<string key="ui_pvp_rewards_panel1_bullet1_text" rel_version="PvP_Rewards_Track">Erziele Fortschritte in der Belohnungsserie, indem du PvP-Missionen abschließt, dich am Außenpostensturm, an Kriegen oder der Eroberung von Festungen beteiligst, andere Spieler besiegst, oder 3-gegen-3-Arenen absolvierst.</string>
 	<string key="ui_pvp_rewards_panel1_bullet2_title" rel_version="PvP_Rewards_Track">AZOTH-SALZ</string>
-	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Das Azoth-Salz ist eine Währung, mit der du Belohnungen in der PvP-Serie erhältst. Du erhältst Azoth-Salz, indem du dich an Kriegen, am Außenpostensturm, in 3-gg-3-Arenen und an PvP-Missionen beteiligst oder in der offenen Welt Spieler tötest und EP dazugewinnst, während du markiert bist.</string>
+	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Azoth-Salz ist die Währung, mit der du aus der PvP-Serie Belohnungen erhältst. Du erhältst Azoth-Salz, indem du dich an Kriegen, am Außenpostensturm, in 3-gegen-3-Arenen oder an PvP-Missionen beteiligst oder in der offenen Welt Spieler im PvP besiegst und EP dazugewinnst, während du markiert bist.</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">BELOHNUNGEN</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Wähle aus einzigartigen Belohnungen aus, darunter prestigeträchtige Rüstungen und Waffen, Emotes, Währung und Verbrauchsgegenstände.</string>
-	<string key="ui_event_weapon_xp_tabname">Waffen-EP-Boost</string>
-	<string key="ui_event_weapon_xp_title">DIESE WOCHE: WAFFEN-EP-BONUS</string>
-	<string key="ui_event_weapon_xp_desc">Der Bonus ist aktiv für:</string>
-	<string key="ui_event_gathering_xp_tabname">Sammel-EP-Boost</string>
-	<string key="ui_event_gathering_xp_title">DIESE WOCHE: SAMMEL-EP-BONUS</string>
-	<string key="ui_event_gathering_xp_desc">Der Bonus ist aktiv für:</string>
-	<string key="ui_event_character_xp_tabname">Stufen-EP-Boost</string>
-	<string key="ui_event_character_xp_title">EVENT: CHARAKTER-EP-BONUS</string>
-	<string key="ui_event_character_xp_desc">Der Bonus ist aktiv für:</string>
-	<string key="ui_event_refining_xp_tabname">Veredelungs-EP-Boost</string>
-	<string key="ui_event_refining_xp_title">DIESE WOCHE: VEREDELUNG-EP-BONUS</string>
-	<string key="ui_event_refining_xp_desc">Der Bonus ist aktiv für:</string>
-	<string key="ui_event_extravaganza_tabname">EP-Bonus-Extravaganza</string>
-	<string key="ui_event_extravaganza_title">EP-BONUS EXTRAVAGANZA!</string>
-	<string key="ui_event_extravaganza_desc">Der Bonus ist aktiv für:</string>
+	<string key="ui_event_weapon_xp_tabname">EP-Event</string>
+	<string key="ui_event_weapon_xp_title">EVENT: WAFFEN-EP-BONUS</string>
+	<string key="ui_event_weapon_xp_desc">Aktive Boni:</string>
+	<string key="ui_event_gathering_xp_tabname">EP-Event</string>
+	<string key="ui_event_gathering_xp_title">EVENT: SAMMEL-EP-BONUS</string>
+	<string key="ui_event_gathering_xp_desc">Aktive Boni:</string>
+	<string key="ui_event_character_xp_tabname">EP-Event</string>
+	<string key="ui_event_character_xp_title">EVENT: STUFEN-EP-BONUS</string>
+	<string key="ui_event_character_xp_desc">Aktive Boni:</string>
+	<string key="ui_event_refining_xp_tabname">EP-Event</string>
+	<string key="ui_event_refining_xp_title">EVENT: VEREDELUNGS-EP-BONUS</string>
+	<string key="ui_event_refining_xp_desc">Aktive Boni:</string>
+	<string key="ui_event_extravaganza_tabname">EP-Event</string>
+	<string key="ui_event_extravaganza_title">EP-EXTRAVAGANZA</string>
+	<string key="ui_event_extravaganza_desc">Aktive Boni:</string>
 	<string key="ui_news_end_game_tabname">Endgame</string>
 	<string key="ui_news_end_game_description">Auf Stufe 60 kannst du jetzt&lt;font color="#ffdb7a"&gt; deine Ausrüstung aufwerten&lt;/font&gt;, um noch höhere Rüstwerte zu erreichen. Dafür musst du in verschiedenen Aktivitäten und Orten der Stufe 60 Gips sammeln. Besuche einen &lt;font color="#ffdb7a"&gt;Gips-Ofen&lt;/font&gt;, um mehr zu erfahren.</string>
 	<string key="ui_end_game_panel1_title">ENDGAME-AKTIVITÄTEN</string>
@@ -84,7 +84,7 @@
 	<string key="ui_news_modal_display_end_datetime">Endet um {endTime} am {endDate}</string>
 	<string key="ui_event_free_weekend_event_message_title" rel_version="Feature_FreeWeekend">Gratis-Wochenende</string>
 	<string key="ui_event_free_weekend_event_message_description" rel_version="Feature_FreeWeekend">Das Gratis-Wochenende läuft.</string>
-	<string key="ui_event_free_weekend_description" rel_version="Feature_FreeWeekend">Während dieses zeitlich begrenzten Ereignisses kannst du die neue Schwefelsandwüstenzone, die neue Haupthandlungsaufgabe und die aktuellsten Updates für New World kostenlos erleben!\n\nUm mit Freunden spielen zu können, müssen sich eure Charaktere auf der gleichen Welt befinden. Gratisspieler erhalten unbegrenzte Sitzungszeiten, vorausgesetzt es gibt eine Warteschlange für die Welt (nach Ablauf einer Sitzung müssen Gratisspieler sich neu in der Warteschlange für den Server einreihen).\n\nNeue Spieler können außerdem bei der Standard und der Deluxe Edition von New World 50 % sparen, wenn sie sie zwischen dem 15. Dezember, 19 Uhr und dem 26. Dezember, 19 Uhr kaufen.</string>
+	<string key="ui_event_free_weekend_description" rel_version="Feature_FreeWeekend">Während dieses zeitlich begrenzten Ereignisses kannst du die neue Schwefelsandwüstenzone, die neue Haupthandlungsaufgabe und die aktuellsten Updates für New World kostenlos erleben!\n\nUm mit Freunden spielen zu können, müssen sich eure Charaktere auf der gleichen Welt befinden. Während dieses zeitlich begrenzten Ereignisses kannst du die neue Schwefelsandwüstenzone, die neue Haupthandlungsaufgabe und die aktuellsten Updates für New World kostenlos erleben!\n\nUm mit Freunden spielen zu können, müssen sich eure Charaktere auf der gleichen Welt befinden. Gratisspieler erhalten unbegrenzte Sitzungszeiten, vorausgesetzt es gibt keine Warteschlange für die Welt (nach Ablauf einer Sitzung müssen Gratisspieler sich neu in der Warteschlange für den Server einreihen).\n\nNeue Spieler können außerdem bei der Standard und der Deluxe Edition von New World 50 % sparen, wenn sie sie zwischen dem 15. Dezember, 19 Uhr und dem 26. Dezember, 19 Uhr kaufen.</string>
 	<string key="ui_event_free_weekend" rel_version="Feature_FreeWeekend">Gratis-Wochenende</string>
 	<string key="ui_event_free_weekend_in_progress_panel1_bullet1_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 1 Title</string>
 	<string key="ui_event_free_weekend_in_progress_panel1_bullet1_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 1 Text</string>
@@ -118,9 +118,9 @@
 	<string key="ui_event_leaderboards_bullet1_title" rel_version="Feature_Leaderboards">Belohnungen</string>
 	<string key="ui_event_leaderboards_button_about" rel_version="Feature_Leaderboards">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Über Bestenlisten</string>
 	<string key="ui_event_dec_mtx_tabname" rel_version="Entitlements_WinterConvergence_MTX">Shop</string>
-	<string key="ui_event_dec_mtx_title" rel_version="Entitlements_WinterConvergence_MTX">Winterkonvergenz</string>
-	<string key="ui_event_dec_mtx_description" rel_version="Entitlements_WinterConvergence_MTX">Schütze dich mit neuen im Shop erhältlichen kosmetischen Gegenständen vor den Verheerungen des Ewigen Winters! Wenn die Tage kürzer werden und lange Nächte des Schreckens bevorstehen, solltest du dich mit den neuesten Winterwaffen und der neuesten Winterkleidung ausrüsten. Schaue im Dezember regelmäßig im Shop nach Gratisgeschenken und nutze unsere Winterangebote! Dich erwarten besondere Inhalte ab dem 13.12. und die Winterkonvergenz-Ausrüstung vom letzten Jahr trifft zusätzlich am 20.12. ein!</string>
-	<string key="ui_event_dec_mtx_button_about" rel_version="Entitlements_WinterConvergence_MTX">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Winterkonvergenz</string>
+	<string key="ui_event_dec_mtx_title" rel_version="Entitlements_WinterConvergence_MTX">Winter-Zusammenkunft</string>
+	<string key="ui_event_dec_mtx_description" rel_version="Entitlements_WinterConvergence_MTX">Schütze dich mit neuen im Shop erhältlichen kosmetischen Gegenständen vor den Verheerungen des Ewigen Winters! Wenn die Tage kürzer werden und lange Nächte des Schreckens bevorstehen, solltest du dich mit den neuesten Winterwaffen und der neuesten Winterkleidung ausrüsten. Schaue im Dezember regelmäßig im Shop nach Gratisgeschenken und nutze unsere Winterangebote! Dich erwarten besondere Inhalte ab dem 13.12. und die Winter-Zusammenkunft-Ausrüstung vom letzten Jahr trifft zusätzlich am 20.12. ein!</string>
+	<string key="ui_event_dec_mtx_button_about" rel_version="Entitlements_WinterConvergence_MTX">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Über die Winter-Zusammenkunft</string>
 	<string key="ui_news_store_tabname">Shop</string>
 	<string key="ui_event_jan_mtx_title" rel_version="Entitlements_WinterDragon">Winterdrache</string>
 	<string key="ui_event_jan_mtx_description" rel_version="Entitlements_WinterDragon">Wenn es Schneemenschen gibt, gibt es dann auch Schneedrachen? Schau jetzt im Shop vorbei und entdecke neue kosmetische Gegenstände, die von frostigem Drachenatem geküsst wurden. Zieh dich warm an, denn die friedliche Zeit währt nicht ewig! Hol dir das Emote "Schlagabtausch" oder schleich dich mit "Auf Zehenspitzen" heimlich an einer ausartenden Keilerei vorbei.</string>
@@ -131,11 +131,21 @@
 	<string key="ui_event_feb_mtx_bullet1" rel_version="Entitlements_OmensOfWinter">Skins</string>
 	<string key="ui_event_feb_mtx_bullet2" rel_version="Entitlements_OmensOfWinter">Emotes</string>
 	<string key="ui_event_feb_mtx_button_about" rel_version="Entitlements_OmensOfWinter">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Über Winteromen</string>
-	<string key="ui_event_legacy_of_crassus_tabname" rel_version="Event_February_Temp">Crassus' Vermächtnis</string>
-	<string key="ui_event_legacy_of_crassus_title" rel_version="Event_February_Temp">Crassus' Vermächtnis</string>
-	<string key="ui_event_legacy_of_crassus_description" rel_version="Event_February_Temp">Die Macht Roms bedroht Aeternum! Bringe Crassus' monströse Hauptmänner Decimus und Lucanus zur Strecke und banne den drohenden Schatten der römischen Tyrannei. Sammle neben den Belohnungen für den Sieg über diese Barbaren in Lichtholz, Webermoor, Klagental, Ebenmaß und Edenhain tägliche Belohnungen.</string>
-	<string key="ui_event_legacy_of_crassus_about" rel_version="Event_February_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Über Crassus' Vermächtnis</string>
-	<string key="ui_event_legacy_of_crassus_bullet1" rel_version="Event_February_Temp">Tägliche Waffen</string>
-	<string key="ui_event_legacy_of_crassus_bullet2" rel_version="Event_February_Temp">Tägliche Rüstungsteile</string>
+	<string key="ui_event_empyrean_forge_tabname" rel_version="Expedition_GreatCleave_01">Empyreum-Schmiede</string>
+	<string key="ui_event_empyrean_forge_title" rel_version="Expedition_GreatCleave_01">Empyreum-Schmiede</string>
+	<string key="ui_event_empyrean_forge_description" rel_version="Expedition_GreatCleave_01">Legendäre Gießerei, in der die Ahnen verheerende Kriegsmaschinen geschmiedet haben. Wer auf Macht aus ist, hat es auf die uralte Magie dieser gewaltigen Ruinen abgesehen.</string>
+	<string key="ui_event_empyrean_forge_about" rel_version="Expedition_GreatCleave_01">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Über die Empyreum-Schmiede</string>
+	<string key="ui_event_season_one_tabname" rel_version="Season_1_Perm">Saisons</string>
+	<string key="ui_event_season_one_title" rel_version="Season_1_Perm">Saisons</string>
+	<string key="ui_event_season_one_description" rel_version="Season_1_Perm">Begib dich mit Grace O'Malley auf eine neue Reise, auf der sie Aeternums neueste Söldnerkompanie, die Silberkrähen, gründet.</string>
+	<string key="ui_event_season_one_about" rel_version="Season_1_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Über Saisons</string>
+	<string key="ui_event_season_one_bullet1" rel_version="Season_1_Perm">Saisonpass</string>
+	<string key="ui_event_season_one_bullet2" rel_version="Season_1_Perm">Die Silberkrähen</string>
+	<string key="ui_event_mar_mtx_title" rel_version="Entitlements_FirelightSeason">Firelight</string>
+	<string key="ui_event_mar_mtx_description" rel_version="Entitlements_FirelightSeason">Das Schmiedefeuer lodert hell in den neuen Shop-Gegenständen dieses Monats! Spüre das Feuer mit brandneuen Skins und Dekorationsgegenständen. Erwecke den Kampfgeist mit neuen Emotes, die deinen Triumph ausdrücken oder deine armen, gedemütigten Gegner beschwichtigen können! Hol sie dir, solange sie heiß sind!</string>
+	<string key="ui_event_mar_mtx_about" rel_version="Entitlements_FirelightSeason">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Über Feuerschein</string>
+	<string key="ui_event_mar_mtx_bullet1" rel_version="Entitlements_FirelightSeason">Rüstungen</string>
+	<string key="ui_event_mar_mtx_bullet2" rel_version="Entitlements_FirelightSeason">Waffen</string>
+	<string key="ui_event_mar_mtx_bullet3" rel_version="Entitlements_FirelightSeason">Emotes</string>
 </resources>
 

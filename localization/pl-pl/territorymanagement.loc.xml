@@ -46,11 +46,11 @@
 	<string key="ui_protection_available_in">Dostępne za {time}</string>
 	<string key="ui_protection_fail_resources">Za mało surowców i pieniędzy</string>
 	<string key="ui_protection_price">Cena za {protectionDuration}</string>
-	<string key="ui_projects_will_refresh_in">Wszystkie misje odnowią się za </string>
+	<string key="ui_projects_will_refresh_in">Misje odnowią się za </string>
 	<string key="ui_daily_bonuses_faction_mission">Pierwsze trzy zrealizowane misje frakcyjne otrzymają dzienną premię.</string>
 	<string key="ui_daily_bonuses_available">Dostępne premie codzienne </string>
 	<string key="ui_daily_mission_bonus_awarded">Otrzymujesz premię za codzienne misje!</string>
-	<string key="ui_no_active_projects">Brak aktywnych projektów w tej kategorii</string>
+	<string key="ui_no_active_projects">Brak aktywnych projektów</string>
 	<string key="ui_territory_manage_header">Zarządzanie osadą</string>
 	<string key="ui_territory_manage_settlement_name">Nazwa osady</string>
 	<string key="ui_territory_manage_change_name">Już wkrótce</string>
@@ -114,7 +114,7 @@
 	<string key="ui_town_project_started">Projekt rozpoczęty!</string>
 	<string key="ui_project_started_info">Nad tym projektem miasteczka mogą od teraz pracować wszyscy w mieście.\nZapoznaj się ze szczegółami przy &lt;font color='#e1ae3f'&gt;tablicy projektów miasteczka&lt;/font&gt; w centrum miasteczka!</string>
 	<string key="ui_territory_planning_board">Tablica planowania terytorialnego</string>
-	<string key="ui_territory_planning_board_desc">Stanowiska do wytwarzania i przetwarzania, wieżyczki oraz bramy fortu można zaktualizować przy tej tablicy.</string>
+	<string key="ui_territory_planning_board_desc">Możesz tu ulepszyć stanowiska rzemieślnicze i stanowiska przetwarzania, wieżyczki oraz bramy fortu.</string>
 	<string key="ui_trading_tax">Podatek\nhandlowy</string>
 	<string key="ui_crafting_fee">Opłata za\nwytwarzanie</string>
 	<string key="ui_refining_fee">Opłata za\nprzetwarzanie</string>
@@ -126,13 +126,14 @@
 	<string key="ui_taxes_extreme">&lt;font color='#ea5a5a'&gt;Skrajnie wys.&lt;/font&gt;</string>
 	<string key="ui_housing_units">{units} domów</string>
 	<string key="ui_transactions">Transakcje: {units}</string>
-	<string key="ui_current_period">Obecny okres (aktualizowane co godzinę)</string>
+	<string key="ui_current_period">Obecny okres</string>
+	<string key="ui_updated_hourly">Aktualizowane co godzinę</string>
 	<string key="ui_paycheck_adjustment">Ustawienia wypłat</string>
 	<string key="ui_resources_refined">{units} przetworzonych surowców</string>
 	<string key="ui_items_crafted">{units} wytworzonych przedmiotów</string>
 	<string key="ui_start_date_to_current">Zarabia od: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{start}&lt;/font&gt;</string>
 	<string key="ui_statement_period">{start} – obecnie</string>
-	<string key="ui_pay_territory_upkeep">ZAPŁAĆ ZA UTRZYMANIE\nTERYTORIUM</string>
+	<string key="ui_pay_territory_upkeep">Zapłać podatek</string>
 	<string key="ui_upkeep_penalty_description">Jeśli opłata nie zostanie uiszczona na czas,\nlosowa część terytorium zostanie zdegradowana.</string>
 	<string key="ui_select_payment_option">Wybierz metodę płatności</string>
 	<string key="ui_payment_options">Metody płatności</string>
@@ -212,7 +213,7 @@
 	<string key="ui_project_territory_not_claimed">W forcie trzeba przejąć terytorium!</string>
 	<string key="ui_inprogress">W trakcie</string>
 	<string key="ui_fortressinfo_name">Fort {name}</string>
-	<string key="ui_fortressinfo_description">Forteca kontrolująca terytorium: {name} Mają tu miejsce wojny i inwazje skażonych.</string>
+	<string key="ui_fortressinfo_description">Forteca kontrolująca terytorium: {name} Toczą się tu wojny i inwazje skażonych.</string>
 	<string key="ui_fortressinfo_siegewindow">Okres oblężenia</string>
 	<string key="ui_fortressinfo_governedby">Zarządca</string>
 	<string key="ui_fortressinfo_controlledby">Pod kontrolą</string>
@@ -259,7 +260,7 @@
 	<string key="ui_outpost_header">Posterunek {name}</string>
 	<string key="ui_governing_company">Zarządca &lt;font color='#e1ddd4'&gt;{name}&lt;/font&gt;</string>
 	<string key="ui_controlling_faction">Pod kontrolą &lt;font color='#e1ddd4'&gt;{name}&lt;/font&gt;</string>
-	<string key="ui_territory_ownership_benefits">Korzyści z posiadania terytorium</string>
+	<string key="ui_territory_ownership_benefits">Premie za terytorium</string>
 	<string key="ui_how_to_run_a_town">Jak prowadzić miasteczko?</string>
 	<string key="ui_community_points">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;+ {amount}&lt;/font&gt;</string>
 	<string key="ui_community_points_detail">&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Punkty projektu:&lt;/font&gt; {amount}</string>
@@ -269,7 +270,7 @@
 	<string key="ui_upgradebutton_tooltip_settlement">Ulepsz stanowiska rzemieślnicze i do przetwarzania w miasteczku.</string>
 	<string key="ui_upgradebutton_label_fort">Ulepsz fort</string>
 	<string key="ui_upgradebutton_tooltip_fort">Ulepsz bramy, broń i miejsca na stanowiska w forcie.</string>
-	<string key="ui_upgradebutton_label_lifestyle">Popraw jakość życia</string>
+	<string key="ui_upgradebutton_label_lifestyle">Ulepszenia jakości życia</string>
 	<string key="ui_upgradebutton_tooltip_lifestyle">Popraw jakość życia na terytorium, aktywując rozmaite premie.</string>
 	<string key="ui_upgradebutton_label_weakeninvasions">Osłab inwazje</string>
 	<string key="ui_upgradebutton_tooltip_weakeninvasions">Aktywuj premie pomocne podczas inwazji.</string>
@@ -469,9 +470,9 @@
 	<string key="ui_upgrade_desc_HornProjectId2">Ulepsz rogi bojowe do klasy 3. Po ulepszeniu wszystkie rogi bojowe (rozmieszczone lub nie) również zostaną ulepszone.</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId">Ulepsz materiały wybuchowe do klasy 2. Po ulepszeniu wszystkie materiały wybuchowe (rozmieszczone lub nie) również zostaną ulepszone.</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId2">Ulepsz materiały wybuchowe do klasy 3. Po ulepszeniu wszystkie materiały wybuchowe (rozmieszczone lub nie) również zostaną ulepszone.</string>
-	<string key="ui_event_project_endless" rel_version="Event_Summer_Temp">Nieskończone</string>
+	<string key="ui_event_project_endless">Nieskończone</string>
 	<string key="ui_territory_level">Poziom terytorium: {level}</string>
-	<string key="ui_enter_house">Otwórz menu domu</string>
+	<string key="ui_enter_house">Zobacz dom</string>
 	<string key="ui_purchase_house">Kup dom</string>
 	<string key="ui_housing">Domy</string>
 	<string key="ui_trading_post">Faktoria</string>
@@ -539,14 +540,14 @@
 	<string key="ui_medium">&lt;font color="#e47f35"&gt;Średni&lt;/font&gt;</string>
 	<string key="ui_hard">&lt;font color="#eb5050"&gt;Trudny&lt;/font&gt;</string>
 	<string key="ui_project_townprojectboard">Tablica obecnego projektu miasteczka</string>
-	<string key="ui_view_statement">Wyświetl raport</string>
+	<string key="ui_view_statement">Zobacz</string>
 	<string key="ui_items_posted_for_sale">Przedmioty są wystawiane na sprzedaż</string>
 	<string key="ui_no_project_active">Brak aktywnego projektu miasteczka.\n&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Kompania zarządzająca terytorium musi rozpocząć nowy projekt!&lt;/font&gt;</string>
 	<string key="ui_view_current_goal">Sprawdź obecny cel</string>
 	<string key="ui_governorsdesk">Biurko zarządcy</string>
-	<string key="ui_governorsdesk_desc">Kompania zarządzająca terytorium może tutaj ustalać wysokość podatków naliczanych na tym terytorium i uiszczać opłatę za jego utrzymanie.</string>
+	<string key="ui_governorsdesk_desc">Kompania zarządzająca ustala wysokość podatków naliczanych na tym terytorium i uiszcza opłatę za jego utrzymanie.</string>
 	<string key="ui_upkeep_tooltip">Jeśli kompania zarządzająca terytorium nie uiści opłaty za utrzymanie na czas, &lt;font color="#e8a015"&gt;losowa część tego terytorium ulegnie degradacji.&lt;/font&gt;</string>
-	<string key="ui_payroll_title">Zestawienie płac</string>
+	<string key="ui_payroll_title">Wypłaty kompanii</string>
 	<string key="ui_payroll_tooltip">Kompania zarządzająca zarabia pieniądze na opłatach i podatkach.</string>
 	<string key="ui_firstdayofcycle">Pierwszy dzień cyklu</string>
 	<string key="ui_nextupkeepdue">Następna opłata za utrzymanie terytorium:</string>
@@ -562,9 +563,9 @@
 	<string key="ui_territory_downgrade_title">Terytorium zdegradowane</string>
 	<string key="ui_territory_board_faction_mission">Tablica misji frakcyjnych</string>
 	<string key="ui_territory_board_town_project">Tablica projektów miasteczka</string>
-	<string key="ui_territory_board_town_project_desc">Misje związane z projektami miasteczka są dostępne na tej tablicy.</string>
+	<string key="ui_territory_board_town_project_desc">Są tu dostępne misje związane z projektami miasteczka.</string>
 	<string key="ui_territory_board_war">Tablica wojenna</string>
-	<string key="ui_territory_board_war_desc">Gracze mogą się zapisywać na tym terytorium na wojnę, gdy jakaś jest aktywna.</string>
+	<string key="ui_territory_board_war_desc">Zapisz się na wojnę trwającą na tym terytorium.</string>
 	<string key="ui_territory_war_camp">Obóz wojenny</string>
 	<string key="ui_territory_war_camp_desc">Obszar, na którym można przygotowywać działania wojenne.</string>
 	<string key="ui_active_project">Obecny projekt</string>
@@ -585,24 +586,25 @@
 	<string key="ui_town_project_allCompleted">&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Ukończono&lt;/font&gt; w 100%</string>
 	<string key="ui_territory_standing_no_bonuses">Nie masz żadnych premii na terytorium: {territory}.</string>
 	<string key="ui_territory_standing_upgrade_description_generic">Zdobądź UMIEJĘTNOŚCI na terytorium: {territory}.</string>
-	<string key="ui_territory_standing_upgrade_description_increase_stat">Zwiększa: &lt;font color='#e1ddd4'&gt;{stat}&lt;/font&gt; na terytorium: {territory}.</string>
-	<string key="ui_territory_standing_upgrade_description_increase_rate">Zyskujesz więcej: &lt;font color='#e1ddd4'&gt;{stat}&lt;/font&gt;, przebywając na terytorium: {territory}.</string>
-	<string key="ui_territory_standing_upgrade_description_increase_stat_no_territory">Zwiększa: &lt;font color='#e1ddd4'&gt;{stat}&lt;/font&gt;.</string>
-	<string key="ui_territory_standing_upgrade_description_decrease_stat">Zmniejsza: &lt;font color='#e1ddd4'&gt;{stat}&lt;/font&gt; na terytorium: {territory}.</string>
+	<string key="ui_territory_standing_upgrade_description_increase_stat">Zwiększa: &lt;font color={color}&gt;{stat}&lt;/font&gt; na terytorium: {territory}.</string>
+	<string key="ui_territory_standing_upgrade_description_increase_rate">Zyskujesz więcej: &lt;font color={color}&gt;{stat}&lt;/font&gt;, przebywając na terytorium: {territory}.</string>
+	<string key="ui_territory_standing_upgrade_description_increase_stat_no_territory">Zwiększa: &lt;font color={color}&gt;{stat}&lt;/font&gt;.</string>
+	<string key="ui_territory_standing_upgrade_description_decrease_stat">Zmniejsza: &lt;font color={color}&gt;{stat}&lt;/font&gt; na terytorium: {territory}.</string>
 	<string key="ui_territory_standing_upgrade_description_own_house">Możesz kupić dom na terytorium: {territory}.</string>
 	<string key="ui_territory_standing_upgrade_value">&lt;font color='#e1ddd4'&gt; ({current}&lt;/font&gt;&lt;img src="lyshineui/images/icons/misc/arrow_right" xPadding="8" scale="0.8" yOffset="-0.4"&gt;&lt;/img&gt;&lt;font color='#e1ddd4'&gt;{value})&lt;/font&gt;</string>
-	<string key="ui_territory_standing_upgrade_category_generic">Kategoria</string>
-	<string key="ui_territory_standing_upgrade_category_reputation">Reputacja frakcyjna</string>
-	<string key="ui_territory_standing_upgrade_category_housepoint">Przedmioty do domu</string>
-	<string key="ui_territory_standing_upgrade_category_trading_tax">Podatek handlowy</string>
-	<string key="ui_territory_standing_upgrade_category_crafting_fee">Opłata za stanowiska</string>
-	<string key="ui_territory_standing_upgrade_category_property_tax">Podatek od nieruchomości</string>
-	<string key="ui_territory_standing_upgrade_category_xp_gain">Przyrost PD</string>
-	<string key="ui_territory_standing_upgrade_category_standing_gain">Przyrost rangi</string>
-	<string key="ui_territory_standing_upgrade_category_gather">Zbieraj</string>
-	<string key="ui_territory_standing_upgrade_category_house_ownership">Prawa własności domu</string>
-	<string key="ui_territory_standing_upgrade_category_storage">Magazyn</string>
-	<string key="ui_territory_standing_upgrade_category_darkness_hunt">Skażone łowy</string>
+	<string key="ui_territory_standing_upgrade_category_generic">Kategoria{info}</string>
+	<string key="ui_territory_standing_upgrade_category_reputation">Reputacja frakcyjna{info}</string>
+	<string key="ui_territory_standing_upgrade_category_housepoint">Przedmioty do domu{info}</string>
+	<string key="ui_territory_standing_upgrade_category_trading_tax">Podatek handlowy{info}</string>
+	<string key="ui_territory_standing_upgrade_category_crafting_fee">Opłata za stanowiska{info}</string>
+	<string key="ui_territory_standing_upgrade_category_property_tax">Podatek od nieruchomości{info}</string>
+	<string key="ui_territory_standing_upgrade_category_xp_gain">Przyrost PD{info}</string>
+	<string key="ui_territory_standing_upgrade_category_standing_gain">Przyrost rangi{info}</string>
+	<string key="ui_territory_standing_upgrade_category_gather">Zdobądź{info}</string>
+	<string key="ui_territory_standing_upgrade_category_house_ownership">Prawa własności domu{info}</string>
+	<string key="ui_territory_standing_upgrade_category_storage">Magazynowanie{info}</string>
+	<string key="ui_territory_standing_upgrade_category_darkness_hunt">Skażone łowy{info}</string>
+	<string key="ui_territory_standing_upgrade_bonus">: &lt;font color={color}&gt;{operator}{bonus}&lt;/font&gt;</string>
 	<string key="ui_territory_standing_upgrade_stat_xp_gain">Przyrost PD</string>
 	<string key="ui_territory_standing_upgrade_stat_storage">Magazyn</string>
 	<string key="ui_territory_standing_upgrade_stat_house_point">Maksymalna liczba przedmiotów domowych, jakie można rozmieścić</string>
@@ -629,10 +631,10 @@
 	<string key="ui_project_detail">SZCZEGÓŁY PROJEKTU</string>
 	<string key="ui_reward_FortHardPointsProjectId">+6 miejsc na stanowisko</string>
 	<string key="ui_reward_FortHardPointsProjectId2">+8 miejsc na stanowisko</string>
-	<string key="ui_standing_title_display">{standing} &lt;font color="#959595"&gt;z: {territory}&lt;/font&gt;</string>
+	<string key="ui_standing_title_display">{standing} &lt;font color="#959595"&gt;na terytorium: {territory}&lt;/font&gt;</string>
 	<string key="ui_standing_title_of">{standing} w:</string>
-	<string key="ui_redeem_token">Kup nagrodę terytorialną</string>
-	<string key="ui_require_standing_level">Terytorium: {territory} potrzebuje rangi: {level}, aby móc odblokować tę premię.</string>
+	<string key="ui_redeem_token">Odblokuj premię terytorium</string>
+	<string key="ui_require_standing_level">Aby móc odblokować tę premię na terytorium: {territory}, potrzeba rangi: {level}.</string>
 	<string key="ui_territory_standing_blank">{territory}\nRanga</string>
 	<string key="ui_territory_bonus_redeemed">&lt;font color="#ffffff"&gt;{territory}:&lt;/font&gt; Premia terytorialna dodana</string>
 	<string key="ui_start_mission">Rozpocznij misję</string>

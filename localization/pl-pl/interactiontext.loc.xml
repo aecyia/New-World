@@ -46,17 +46,17 @@
 	<string key="ui_attachments_interact">Konfiguracja budynku</string>
 	<string key="ui_generator_interact">Zarządzanie zawartością</string>
 	<string key="ui_territory_interact">Zarządzanie osadą</string>
-	<string key="ui_storage_interact">Przeglądanie zawartości</string>
+	<string key="ui_storage_interact">Otwórz</string>
 	<string key="ui_paint_interact">Malowanie</string>
 	<string key="ui_prefab_refinery_interact">Przetwarzanie</string>
 	<string key="ui_rest">Odpoczynek</string>
 	<string key="ui_add_to_journal">Dodaj do dziennika</string>
-	<string key="ui_journal_notification_title">Znaleziono nową stronę</string>
-	<string key="ui_journal_notification_body">Do dziennika dodano stronę: {loreTitle}.</string>
-	<string key="ui_journal_notification_info">Rozdział {chapterTitle}, strona {currentPage} z {totalPages}</string>
+	<string key="ui_journal_notification_title">Znaleziono dokument</string>
+	<string key="ui_journal_notification_body">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{loreTitle}&lt;/font&gt; – dodano do dziennika.</string>
+	<string key="ui_journal_notification_info">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{chapterTitle}&lt;/font&gt;, {currentPage}/{totalPages}</string>
 	<string key="ui_chapter_discovered_title">ZNALEZIONO NOWY ROZDZIAŁ</string>
 	<string key="ui_chapter_complete_title">ROZDZIAŁ KOMPLETNY</string>
-	<string key="ui_view_mission_board">Wyświetl tablicę misji</string>
+	<string key="ui_view_mission_board">Zobacz misje</string>
 	<string key="ui_view_armory">Zobacz zbrojownię</string>
 	<string key="ui_view_territory_progression">Wyświetl postęp terytorium</string>
 	<string key="ui_view_town_projects">Wyświetl projekty miasteczka</string>
@@ -102,5 +102,6 @@
 	<string key="ui_reset_available_in">Dostępne za {time}</string>
 	<string key="ui_emote_gather">[{keybind}] Użyj gestu {tagName}, by zebrać</string>
 	<string key="ui_emotetag_dance">Tańcz</string>
+	<string key="ui_use_item">Użyj</string>
 </resources>
 

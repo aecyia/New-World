@@ -11,12 +11,16 @@
 	<string key="ui_game_mode_disabled">Der Spielmodus ist derzeit deaktiviert.</string>
 	<string key="ui_dungeon_enter_info">&lt;font color={color}&gt;Mindestens eine Person&lt;/font&gt; muss die Expedition betreten, damit sie offen bleibt. Jetzt hineinteleportieren?</string>
 	<string key="ui_dungeon_enter_info_solo">&lt;font color={color}&gt;Seelenprüfung ist bereit&lt;/font&gt; Jetzt hineinteleportieren?</string>
+	<string key="ui_dungeon_enter_info_raidtrial">&lt;font color={color}&gt;Mindestens eine Person&lt;/font&gt; muss die Eliteprüfung betreten, damit sie offen bleibt. Jetzt hineinteleportieren?</string>
 	<string key="ui_dungeon_enter_info_entered">Die Expedition ist jetzt geöffnet!\n&lt;font color={color}&gt;Jetzt hineinteleportieren?&lt;/font&gt;</string>
+	<string key="ui_dungeon_enter_info_entered_solo">&lt;font color={color}&gt;Seelenprüfung ist bereit&lt;/font&gt;. Jetzt hineinteleportieren?</string>
+	<string key="ui_dungeon_enter_info_entered_raidtrial">Die Eliteprüfung ist jetzt geöffnet!\n&lt;font color={color}&gt;Jetzt hineinteleportieren?&lt;/font&gt;</string>
 	<string key="ui_duel_player">Zum Duell herausfordern</string>
 	<string key="ui_duel_failmessage_invalidname">{playerName} ist kein gültiger Spielername.</string>
 	<string key="ui_duel_failmessage_outofrange">Du kannst dich nicht mit einem Spieler duellieren, der weiter als {distance} Meter entfernt ist.</string>
 	<string key="ui_duel_failmessage_alreadyinduel">Du befindest dich bereits in einem Duell.</string>
 	<string key="ui_duel_failmessage_in_dungeon">Du kannst in einer Expedition kein Duell austragen.</string>
+	<string key="ui_duel_failmessage_in_dungeon_raidtrial">Du kannst in einer Eliteprüfung kein Duell austragen.</string>
 	<string key="ui_duel_failmessage_in_other_gamemode">Du kannst dich gerade nicht duellieren.</string>
 	<string key="ui_duel_failmessage_pendinginvite">Du hast bereits eine ausstehende Duelleinladung.</string>
 	<string key="ui_duel_failmessage_deathsdoor">Du kannst dich nicht duellieren, wenn du an der Schwelle des Todes stehst.</string>
@@ -85,11 +89,11 @@
 	<string key="ui_outpost_rush_title">Außenpostensturm</string>
 	<string key="ui_outpost_rush_invite_status">Akzeptiere, um dem Kampf beizutreten!</string>
 	<string key="ui_outpost_rush_signup_title">AUSSENPOSTENSTURM</string>
-	<string key="ui_outpost_rush_signup_desc">&lt;font color="#ffe940"&gt;Außenpostensturm&lt;/font&gt; ist ein Spiel, in dem Spieler in 2 Teams à 20 Spieler auf einer großen Insel mit drei Außenposten gegeneinander antreten.\nDie Teams müssen die Außenposten erobern und halten, um Punkte für ihr Team zu erringen.</string>
-	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#ffe940"&gt;Außenpostensturm&lt;/font&gt; ist ein Spiel, in dem Spieler in 2 Teams à 20 Spieler auf einer großen Insel mit drei Außenposten gegeneinander antreten.\nDie Teams müssen die Außenposten erobern und halten, um Punkte für ihr Team zu erringen.\nIn diesem Modus tritt die &lt;font color="#ffe940"&gt;Rüstwertskalierung&lt;/font&gt; in Kraft, wodurch Ausrüstung mit einem Rüstwert von weniger als 600 auf 600 hochgestuft wird.</string>
-	<string key="ui_outpost_rush_signup_goal1">Werden Außenposten erobert und gehalten, erhält dein Team Punkte.</string>
+	<string key="ui_outpost_rush_signup_desc">&lt;font color="#ffe940"&gt;Außenpostensturm&lt;/font&gt; ist ein Spiel, in dem Spieler in 2 Teams à 20 Spieler auf einer großen Insel mit drei Außenposten gegeneinander antreten. Die Teams müssen die Außenposten erobern und halten.</string>
+	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#ffe940"&gt;Außenpostensturm&lt;/font&gt; ist ein Spiel, in dem Spieler in 2 Teams à 20 Spieler auf einer großen Insel mit drei Außenposten gegeneinander antreten. Die Teams müssen die Außenposten erobern und halten.\nIn diesem Modus tritt die &lt;font color="#ffe940"&gt;Rüstwertskalierung&lt;/font&gt; in Kraft, wodurch Ausrüstung mit einem Rüstwert von weniger als 600 auf 600 hochgestuft wird.</string>
+	<string key="ui_outpost_rush_signup_goal1">Erobere und halte Außenposten, um Punkte zu erhalten.</string>
 	<string key="ui_outpost_rush_signup_goal2">Es gewinnt das Team, das zuerst 1.000 Punkte erreicht.</string>
-	<string key="ui_outpost_rush_signup_goal3">Nutze die besonderen Rohstoffe der Insel zum Angriff und zur Verteidigung.</string>
+	<string key="ui_outpost_rush_signup_goal3">Nutze die besonderen Rohstoffe zum Angriff und zur Verteidigung.</string>
 	<string key="ui_outpost_rush_signup_points_number">1.000</string>
 	<string key="ui_outpost_rush_signup_points_text">PUNKTE</string>
 	<string key="ui_outpost_rush_signup_joinsolo">Solo</string>
@@ -98,11 +102,11 @@
 	<string key="ui_outpost_rush_signup_playercount">{playerCount} Spieler</string>
 	<string key="ui_outpost_rush_signup_failsolo">Du bist aktuell in einer Gruppe und kannst nicht als Einzelspieler beitreten.</string>
 	<string key="ui_outpost_rush_signup_failgroup">Du bist aktuell nicht in einer Gruppe.</string>
-	<string key="ui_outpost_rush_signup_failgroupinvite">Du hast eine offene Einladung in die Expeditions-Lobby.</string>
+	<string key="ui_outpost_rush_signup_failgroupinvite">Du hast eine offene Einladung in die Expeditions- oder Eliteprüfungslobby.</string>
 	<string key="ui_outpost_rush_signup_faillevel">Spielerstufe {levelRequirement} &lt;font color="#f10000"&gt;ist erforderlich.&lt;/font&gt;</string>
 	<string key="ui_outpost_rush_signup_failwar">Du kannst dich nicht anmelden, weil du bereits für den bevorstehenden Krieg angemeldet bist, der in der nächsten Stunde beginnt.</string>
 	<string key="ui_outpost_rush_signup_failqueue">Du kannst dich nicht anmelden, weil du momentan schon für {matchname} angemeldet bist.</string>
-	<string key="ui_outpost_rush_signup_faildungeon">Du kannst dich nicht anmelden, weil du in einer Warteschlange für eine Expedition bist.</string>
+	<string key="ui_outpost_rush_signup_faildungeon">Du kannst dich nicht anmelden, weil du in einer Warteschlange für eine Expedition oder Eliteprüfung bist.</string>
 	<string key="ui_outpost_rush_signup_failevent">Du kannst dich nicht anmelden, weil du an einem Ereignis teilnimmst.</string>
 	<string key="ui_outpost_rush_signup_failgeneric">Du kannst dich momentan nicht anmelden.</string>
 	<string key="ui_outpost_rush_signup_failgrouptitle">Beitritt nicht möglich</string>
@@ -174,12 +178,15 @@
 	<string key="ui_or_outpost_b">AUSSENPOSTEN SOL</string>
 	<string key="ui_or_outpost_c">AUSSENPOSTEN ASTRA</string>
 	<string key="ui_or_kills">TÖTUNGEN</string>
+	<string key="ui_outpost_rush_storage_message">Du kannst hier nur Gegenstände für den Außenpostensturm lagern.</string>
 	<string key="ui_outpost_rush_summoning_circle">Beschwörungszirkel</string>
 	<string key="ui_outpost_rush_summoning_circle_desc">Setze an diesem Obelisken einen Beschwörungsstein ein, um für eine gewisse Zeit ein verbündetes Monster für dein Team zu rufen.</string>
 	<string key="ui_outpost_rush_portal">PORTAL</string>
 	<string key="ui_outpost_rush_portal_score">{current}/{total} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="-3" scale="1.4" yOffset="1"&gt;&lt;/img&gt;</string>
 	<string key="ui_pinning_disabled_while_in_or">Das An-/Abheften von Zielen ist im Außenpostensturm deaktiviert.</string>
 	<string key="ui_pinning_disabled_expeditions">Das An-/Abheften ist für Expeditionsziele deaktiviert.</string>
+	<string key="ui_pinning_disabled_expeditions_solo">Das An-/Abheften ist für Seelenprüfungsziele deaktiviert.</string>
+	<string key="ui_pinning_disabled_expeditions_raidtrial">Das An-/Abheften ist für Eliteprüfungsziele deaktiviert.</string>
 	<string key="ui_or_commandpost_buff_on">Das Gebäude verleiht Teamboni.</string>
 	<string key="ui_or_commandpost_buff_off">Bauen, um Teamboni zu erhalten</string>
 	<string key="or_azoth_portal">Azoth-Portal</string>
@@ -225,8 +232,10 @@
 	<string key="emote_unable_to_use_emote">In dem Spielmodus kannst du keine Emotes einsetzen.</string>
 	<string key="ui_durability_loss_outpost_rush">Du befindest dich in einem Außenpostensturm, deine Ausrüstung wurde nach dem Tod nicht beschädigt.</string>
 	<string key="ui_durability_loss_war">Du befindest dich in einem Krieg (oder einer Invasion), deine Ausrüstung wurde nach dem Tod nicht beschädigt.</string>
-	<string key="ui_item_durability_loss">Ihre Ausrüstung hat beim Tod Schaden genommen.</string>
+	<string key="ui_item_durability_loss">Deine Ausrüstung hat beim Tod Schaden genommen.</string>
 	<string key="ui_item_durability_dungeon">Du befindest dich auf einer Expedition, deine Ausrüstung wurde nach dem Tod nicht beschädigt.</string>
+	<string key="ui_item_durability_dungeon_solo">Du befindest dich in einer Seelenprüfung, deine Ausrüstung wurde nach dem Tod nicht beschädigt.</string>
+	<string key="ui_item_durability_dungeon_raidtrial">Du befindest dich in einer Eliteprüfung, deine Ausrüstung wurde nach dem Tod nicht beschädigt.</string>
 	<string key="ui_item_durability_arena" rel_version="Feature_PVP_Arenas">Du befindest dich in einer Arena, deine Ausrüstung wurde nach dem Tod nicht beschädigt.</string>
 	<string key="ui_item_durability_loss_pvp">Du wurdest von einem anderen Spieler getötet, deine Ausrüstung hat reduzierten Schaden genommen.</string>
 	<string key="ui_in_spectators_box">Im Zuschauerbereich</string>
@@ -239,7 +248,7 @@
 	<string key="ui_arena_gas_releases_in" comment="gas was replaced with ring of fire in implementation">Ring des Feuers kommt näher:</string>
 	<string key="ui_arena_gas_released">Ring des Feuers kommt näher</string>
 	<string key="ui_pvp_arena_invite_status">Akzeptiere, um dem Kampf beizutreten!</string>
-	<string key="ui_pvp_arena_title">3-gg-3-Arena</string>
+	<string key="ui_pvp_arena_title">3-gegen-3-Arena</string>
 	<string key="ui_fight">Kämpft!</string>
 	<string key="ui_round_won">Runde gewonnen</string>
 	<string key="ui_round_lost">Runde verloren</string>
@@ -247,5 +256,7 @@
 	<string key="ui_rounds_won">Gewonnene Runden</string>
 	<string key="ui_see_through_label">Einsichtsmodus</string>
 	<string key="ui_invasion_leave">Invasion verlassen</string>
+	<string key="ui_matchmaking_ready_title">Partie spielbereit</string>
+	<string key="ui_matchmaking_ready_text">Die Partie, auf die du gewartet hast, &lt;font color={color}&gt;ist spielbereit&lt;/font&gt;. Jetzt hineinteleportieren?</string>
 </resources>
 

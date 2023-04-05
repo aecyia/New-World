@@ -187,6 +187,30 @@
 	<string key="dungeon_ebonscale00_task_find_empress">Finde Kaiserin Zhou im Palast.</string>
 	<string key="dungeon_ebonscale00_task_defeat_empress">Besiege Kaiserin Zhou!</string>
 	<string key="dungeon_ebonscale00_task_leave_dungeon">Verlasse die Schiffswerft.</string>
+	<string key="dungeon_greatcleave01_title" rel_version="Expedition_GreatCleave_01">Empyreum-Schmiede</string>
+	<string key="dungeon_greatcleave01_required_equipment" rel_version="Expedition_GreatCleave_01">1 Azoth-Stab</string>
+	<string key="dungeon_greatcleave01_description" rel_version="Expedition_GreatCleave_01">Verfolge Ser Loth und vertreibe die Varangianer aus der Schmiede.</string>
+	<string key="dungeon_greatcleave01_task_explore" rel_version="Expedition_GreatCleave_01">Dringe in die Empyreum-Schmiede vor.</string>
+	<string key="dungeon_greatcleave01_task_solveforgeentry" rel_version="Expedition_GreatCleave_01">Finde einen Weg durch das Haupttor.</string>
+	<string key="dungeon_greatcleave01_task_gain_access_forge" rel_version="Expedition_GreatCleave_01">Benutze das Azoth-Siegel der Ahnen.</string>
+	<string key="dungeon_greatcleave01_task_unlock_dial" rel_version="Expedition_GreatCleave_01">Finde einen Weg, den uralten Mechanismus zu entsperren.</string>
+	<string key="dungeon_greatcleave01_task_talk_to_nora" rel_version="Expedition_GreatCleave_01">Sprich mit Nora Roggeveen.</string>
+	<string key="dungeon_greatcleave01_task_power_the_forge" rel_version="Expedition_GreatCleave_01">Aktiviere den uralten Mechanismus.</string>
+	<string key="dungeon_greatcleave01_task_primordial" rel_version="Expedition_GreatCleave_01">Untersuche das Innere der Schmiede.</string>
+	<string key="dungeon_greatcleave01_task_solve_the_mechanism" rel_version="Expedition_GreatCleave_01">Löse den uralten Mechanismus.</string>
+	<string key="dungeon_greatcleave01_task_pursue_corrupted" rel_version="Expedition_GreatCleave_01">Läutere die urzeitliche Präsenz.</string>
+	<string key="dungeon_greatcleave01_task_theheel" rel_version="Expedition_GreatCleave_01">Töte den Schuft, um den Weg freizumachen.</string>
+	<string key="dungeon_greatcleave01_task_forge" rel_version="Expedition_GreatCleave_01">Dringe tiefer in die Schmiede vor.</string>
+	<string key="dungeon_greatcleave01_task_ifrit" rel_version="Expedition_GreatCleave_01">Vernichte Ifrit.</string>
+	<string key="dungeon_greatcleave01_task_wayforward" rel_version="Expedition_GreatCleave_01">Benutze das Feuersiegel.</string>
+	<string key="dungeon_greatcleave01_task_investigate" rel_version="Expedition_GreatCleave_01">Verfolge Ser Loth und seine Kommandanten.</string>
+	<string key="dungeon_greatcleave01_task_findawayup" rel_version="Expedition_GreatCleave_01">Finden einen Weg durch die Blockade.</string>
+	<string key="dungeon_greatcleave01_task_defeat" rel_version="Expedition_GreatCleave_01">Besiege die restliche varangianische Wache.</string>
+	<string key="dungeon_greatcleave01_task_varangians" rel_version="Expedition_GreatCleave_01">Löse den uralten Mechanismus.</string>
+	<string key="dungeon_greatcleave01_task_commanders" rel_version="Expedition_GreatCleave_01">Verfolge Loth und seine Kommandanten.</string>
+	<string key="dungeon_greatcleave01_task_defeattheknight" rel_version="Expedition_GreatCleave_01">Besiege Kommandant Marius.</string>
+	<string key="dungeon_greatcleave01_victory_cutscene" rel_version="Expedition_GreatCleave_01">Kehre zurück, um Bericht über die Niederlage von Kommandant Marius zu erstatten.</string>
+	<string key="dungeon_greatcleave01_task_exit_dungeon" rel_version="Expedition_GreatCleave_01">Kehre zurück, um Bericht über die Niederlage von Kommandant Marius zu erstatten.</string>
 	<string key="dungeon_brimstone_title" rel_version="Expedition_BrimstoneSands_00">Die Enneade</string>
 	<string key="dungeon_brimstonesands00_title" rel_version="Expedition_BrimstoneSands_00">Die Enneade</string>
 	<string key="dungeon_brimstone_description" rel_version="Expedition_BrimstoneSands_00">Untersuche die Enneade und finde heraus, welche Geheimnisse die Ahnen an diesem zeitlosen Ort verborgen haben.</string>
@@ -254,5 +278,14 @@
 	<string key="ui_solo_arena_leave_desc_time" rel_version="Territory_Brimstone_Sands">Willst du die Seelenprüfung wirklich verlassen?\nDu kannst dich &lt;font color="#ffdb7a"&gt;[{time}]&lt;/font&gt; lang nicht mehr in die Warteschlange für eine Seelenprüfung einreihen.</string>
 	<string key="ui_solo_arena_leave_title" rel_version="Territory_Brimstone_Sands">Seelenprüfung verlassen?</string>
 	<string key="ui_cannot_travel_solo_arena" rel_version="Territory_Brimstone_Sands">Schnellreise nicht möglich, während du in einer Seelenprüfung bist.</string>
+	<string key="Quest_CaerDun_title" rel_version="Quest_MSQ2_Brightwood">Der Fluch von Caer Dun</string>
+	<string key="Quest_CaerDun_description" rel_version="Quest_MSQ2_Brightwood">Betritt die Krypta, in der sich mystischer Stahl und weltliche Tat verflechten. Zerstöre das beschädigte Herzjuwel und befreie Caer Dun vom Fluch.</string>
+	<string key="quest_CaerDun_task_approach" rel_version="Quest_MSQ2_Brightwood">Gehe zum verfluchten Altar im Herzen Caer Duns.</string>
+	<string key="quest_CaerDun_task_place" rel_version="Quest_MSQ2_Brightwood">Lege das beschädigte Herzjuwel auf den verfluchten Altar.</string>
+	<string key="quest_CaerDun_task_smash" rel_version="Quest_MSQ2_Brightwood">Zertrümmere das beschädigte Herzjuwel und banne den Fluch von Caer Dun!</string>
+	<string key="quest_CaerDun_task_destroy_boss" rel_version="Quest_MSQ2_Brightwood">Besiege Umbertos verfluchten Geist.</string>
+	<string key="quest_CaerDun_task_purify" rel_version="Quest_MSQ2_Brightwood">Banne mit deinem Azoth-Stab den Fluch von Caer Dun.</string>
+	<string key="quest_CaerDun_task_leave" rel_version="Quest_MSQ2_Brightwood">Erkunde die Krypta und verlasse die Seelenprüfung.</string>
+	<string key="Quest_CaerDun_required_equipment" rel_version="Quest_MSQ2_Brightwood">1 Azoth-Stab, 1 Bergbauspitzhacke</string>
 </resources>
 

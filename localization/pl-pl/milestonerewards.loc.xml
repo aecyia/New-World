@@ -1,7 +1,7 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="ui_milestone_rewards">Nagrody za awans</string>
-	<string key="ui_milestone_currently">Obecnie</string>
-	<string key="ui_milestone_current_level">Poziom &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{level}&lt;/font&gt;</string>
+	<string key="ui_milestone_currently">Obecny poziom</string>
+	<string key="ui_milestone_current_level">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{level}&lt;/font&gt;</string>
 	<string key="WeaponSlot2_Name">Miejsce na broń dodatkową</string>
 	<string key="WeaponSlot2_Tooltip">Odblokowuje miejsce na broń dodatkową.</string>
 	<string key="QuickSlot3_Name">Trzecie miejsce na przedmiot użytkowy</string>
@@ -50,11 +50,11 @@
 	<string key="CampingT2_Name">Biwakowanie klasy 2 (zadanie z wątku głównego)</string>
 	<string key="CampingT2_Tooltip">Ukończ zadanie z wątku głównego "Mądry człowiek z dziczy” w Urwiskach Monarchy lub „Ziarno nadziei” w Wiatrochronie, aby ulepszyć profity dla swoich obozów.\n\nUwaga: Musisz ukończyć wcześniejsze zadania z wątku głównego, by móc wykonać to zadanie.</string>
 	<string key="CampingT3_Name">Ulepszenie klasy biwakowania (zadanie traperskie)</string>
-	<string key="CampingT3_Tooltip">Odblokowuje zadanie "Zwierzęce instynkty". Ukończ je, by nauczyć się budować obozy wyższej klasy.</string>
+	<string key="CampingT3_Tooltip">Odblokowuje zadanie "Zwierzęce instynkty". Ukończ je, by nauczyć się budować obozy o jedną klasę wyższe.</string>
 	<string key="CampingT4_Name">Ulepszenie klasy biwakowania (zadanie traperskie)</string>
-	<string key="CampingT4_Tooltip">Odblokowuje zadanie "Traper: Wilcze obserwacje". Ukończ je, by nauczyć się budować obozy wyższej klasy.</string>
+	<string key="CampingT4_Tooltip">Odblokowuje zadanie "Traper: Wilcze obserwacje". Ukończ je, by nauczyć się budować obozy o jedną klasę wyższe.</string>
 	<string key="CampingT5_Name">Ulepszenie klasy biwakowania (zadanie traperskie)</string>
-	<string key="CampingT5_Tooltip">Odblokowuje zadanie "Traper: Gasnące światła". Ukończ je, by nauczyć się budować obozy wyższej klasy.</string>
+	<string key="CampingT5_Tooltip">Odblokowuje zadanie "Traper: Gasnące światła". Ukończ je, by nauczyć się budować obozy o jedną klasę wyższe.</string>
 	<string key="TerritoryRecommendation_1">Urwiska Monarchy, Wiatrochron</string>
 	<string key="TerritoryRecommendation_1a">Jesieniowiecznia</string>
 	<string key="TerritoryRecommendation_2">Lśniąca Knieja, Wyspy Kordelasowe</string>
@@ -64,5 +64,11 @@
 	<string key="TerritoryRecommendation_6">Rajski Gaj, Czarna Łuska</string>
 	<string key="TerritoryRecommendation_7">Cuchnąca Woda, Strzaskana Góra, Piaskobrzegi</string>
 	<string key="ui_new_recommended_territory">Nowe zalecane terytorium</string>
+	<string key="LoadoutSlots_Name" rel_version="Feature_Gear_Set_Storage">Dwa miejsca na zestaw wyposażenia</string>
+	<string key="LoadoutSlots_Tooltip" rel_version="Feature_Gear_Set_Storage">Odblokowuje dwa miejsca na zestaw wyposażenia.</string>
+	<string key="SeasonsRewards_Name" rel_version="Feature_Seasons_Rewards">Ścieżka nagród sezonowych</string>
+	<string key="SeasonsRewards_Tooltip" rel_version="Feature_Seasons_Rewards">Odblokowuje ścieżkę nagród sezonowych.</string>
+	<string key="SeasonsJourney_Name" rel_version="Feature_Seasons_Rewards">Sezonowa przygoda</string>
+	<string key="SeasonsJourney_Tooltip" rel_version="Feature_Seasons_Rewards">Odblokowuje sezonową przygodę.</string>
 </resources>
 

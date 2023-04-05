@@ -187,6 +187,30 @@
 	<string key="dungeon_ebonscale00_task_find_empress">Znajdź Cesarzową Zhou w pałacu</string>
 	<string key="dungeon_ebonscale00_task_defeat_empress">Pokonaj Cesarzową Zhou!</string>
 	<string key="dungeon_ebonscale00_task_leave_dungeon">Opuść Stocznię</string>
+	<string key="dungeon_greatcleave01_title" rel_version="Expedition_GreatCleave_01">Empirejska Kuźnia</string>
+	<string key="dungeon_greatcleave01_required_equipment" rel_version="Expedition_GreatCleave_01">1 azothowa laska</string>
+	<string key="dungeon_greatcleave01_description" rel_version="Expedition_GreatCleave_01">Ścigaj sir Lotha i pozbądź się Waregów z Kuźni</string>
+	<string key="dungeon_greatcleave01_task_explore" rel_version="Expedition_GreatCleave_01">Eksploruj Empirejską Kuźnię</string>
+	<string key="dungeon_greatcleave01_task_solveforgeentry" rel_version="Expedition_GreatCleave_01">Znajdź drogę przez główną bramę</string>
+	<string key="dungeon_greatcleave01_task_gain_access_forge" rel_version="Expedition_GreatCleave_01">Użyj pradawnej azothowej pieczęci</string>
+	<string key="dungeon_greatcleave01_task_unlock_dial" rel_version="Expedition_GreatCleave_01">Znajdź sposób na odblokowanie starożytnego mechanizmu</string>
+	<string key="dungeon_greatcleave01_task_talk_to_nora" rel_version="Expedition_GreatCleave_01">Porozmawiaj z Norą Roggeveen</string>
+	<string key="dungeon_greatcleave01_task_power_the_forge" rel_version="Expedition_GreatCleave_01">Aktywuj starożytny mechanizm</string>
+	<string key="dungeon_greatcleave01_task_primordial" rel_version="Expedition_GreatCleave_01">Zbadaj wnętrze Kuźni</string>
+	<string key="dungeon_greatcleave01_task_solve_the_mechanism" rel_version="Expedition_GreatCleave_01">Rozwikłaj starożytny mechanizm</string>
+	<string key="dungeon_greatcleave01_task_pursue_corrupted" rel_version="Expedition_GreatCleave_01">Pozbądź się pierwotnych stworzeń</string>
+	<string key="dungeon_greatcleave01_task_theheel" rel_version="Expedition_GreatCleave_01">Zlikwiduj Drania, by oczyścić drogę</string>
+	<string key="dungeon_greatcleave01_task_forge" rel_version="Expedition_GreatCleave_01">Kontynuuj eksplorację Kuźni</string>
+	<string key="dungeon_greatcleave01_task_ifrit" rel_version="Expedition_GreatCleave_01">Zlikwiduj ifryta</string>
+	<string key="dungeon_greatcleave01_task_wayforward" rel_version="Expedition_GreatCleave_01">Użyj ognistej pieczęci</string>
+	<string key="dungeon_greatcleave01_task_investigate" rel_version="Expedition_GreatCleave_01">Ścigaj sir Lotha i jego dowódców</string>
+	<string key="dungeon_greatcleave01_task_findawayup" rel_version="Expedition_GreatCleave_01">Znajdź sposób na sforsowanie blokady</string>
+	<string key="dungeon_greatcleave01_task_defeat" rel_version="Expedition_GreatCleave_01">Pokonaj pozostałych wareskich strażników</string>
+	<string key="dungeon_greatcleave01_task_varangians" rel_version="Expedition_GreatCleave_01">Rozwikłaj starożytny mechanizm</string>
+	<string key="dungeon_greatcleave01_task_commanders" rel_version="Expedition_GreatCleave_01">Ścigaj Lotha i jego dowódców</string>
+	<string key="dungeon_greatcleave01_task_defeattheknight" rel_version="Expedition_GreatCleave_01">Zlikwiduj dowódcę Mariusa</string>
+	<string key="dungeon_greatcleave01_victory_cutscene" rel_version="Expedition_GreatCleave_01">Wróć z wieściami o pokonaniu dowódcy Mariusa</string>
+	<string key="dungeon_greatcleave01_task_exit_dungeon" rel_version="Expedition_GreatCleave_01">Wróć z wieściami o pokonaniu dowódcy Mariusa</string>
 	<string key="dungeon_brimstone_title" rel_version="Expedition_BrimstoneSands_00">Enneada</string>
 	<string key="dungeon_brimstonesands00_title" rel_version="Expedition_BrimstoneSands_00">Enneada</string>
 	<string key="dungeon_brimstone_description" rel_version="Expedition_BrimstoneSands_00">Zbadaj Enneadę i odkryj sekrety pogrzebane przez pradawnych w tym miejscu poza czasem.</string>
@@ -254,5 +278,14 @@
 	<string key="ui_solo_arena_leave_desc_time" rel_version="Territory_Brimstone_Sands">Czy na pewno chcesz opuścić Próbę Duszy?\nKolejka Próby Duszy będzie niedostępna przez &lt;font color="#ffdb7a"&gt;[{time}]&lt;/font&gt;.</string>
 	<string key="ui_solo_arena_leave_title" rel_version="Territory_Brimstone_Sands">Opuścić Próbę Duszy?</string>
 	<string key="ui_cannot_travel_solo_arena" rel_version="Territory_Brimstone_Sands">Nie możesz korzystać z szybkiej podróży, przebywając na terenie Próby Duszy</string>
+	<string key="Quest_CaerDun_title" rel_version="Quest_MSQ2_Brightwood">Klątwa Caer Dun</string>
+	<string key="Quest_CaerDun_description" rel_version="Quest_MSQ2_Brightwood">Wejdź do krypty, gdzie splatają się ze sobą mistyczna stal i bluźnierczy czyn. Zniszcz klejnot serca ze skazą i zdejmij klątwę ciążącą na Caer Dun.</string>
+	<string key="quest_CaerDun_task_approach" rel_version="Quest_MSQ2_Brightwood">Podejdź do przeklętego ołtarza w sercu Caer Dun</string>
+	<string key="quest_CaerDun_task_place" rel_version="Quest_MSQ2_Brightwood">Umieść klejnot serca ze skazą na przeklętym ołtarzu</string>
+	<string key="quest_CaerDun_task_smash" rel_version="Quest_MSQ2_Brightwood">Zniszcz klejnot serca ze skazą i zdejmij klątwę z Caer Dun!</string>
+	<string key="quest_CaerDun_task_destroy_boss" rel_version="Quest_MSQ2_Brightwood">Pokonaj przeklętego ducha Umberta</string>
+	<string key="quest_CaerDun_task_purify" rel_version="Quest_MSQ2_Brightwood">Użyj azothowej laski, by zdjąć klątwę z Caer Dun</string>
+	<string key="quest_CaerDun_task_leave" rel_version="Quest_MSQ2_Brightwood">Zbadaj kryptę i opuść Próbę Duszy</string>
+	<string key="Quest_CaerDun_required_equipment" rel_version="Quest_MSQ2_Brightwood">1 azothowa laska, 1 kilof górniczy</string>
 </resources>
 

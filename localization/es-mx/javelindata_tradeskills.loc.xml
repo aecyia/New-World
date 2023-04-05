@@ -255,7 +255,7 @@
 	<string key="ui_twohanded_weapons">A dos manos</string>
 	<string key="ui_ranged_weapons">A distancia</string>
 	<string key="ui_magic_skills">Habilidades mágicas</string>
-	<string key="ui_weaponmastery_description">Las habilidades de armas se mejoran usando armas de ese tipo. Cada nivel otorga un punto para gastar en el desbloqueo de mejoras específicas de esa arma.</string>
+	<string key="ui_weaponmastery_description">Los niveles de maestría de armas mejoran usando armas del tipo apropiado. Cada nivel otorga un punto para gastar en el desbloqueo de una habilidad exclusiva de esa arma.</string>
 	<string key="ui_weaponmastery_in_progress" comment="this is a temporary message to explain the limited number of weapon mastery trees available">Árboles de dominio de armas aún en desarrollo. Próximamente se incluirán más.</string>
 	<string key="ui_farmplants">Plantas de granja</string>
 	<string key="ui_hemp">Cáñamo</string>

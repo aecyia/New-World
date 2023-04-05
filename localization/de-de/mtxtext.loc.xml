@@ -8,11 +8,11 @@
 	<string key="ui_credit_purchase_suggest" rel_version="Feature_MTX">Du benötigst &lt;font color="#ffae00"&gt;{amount} Glücksmarken&lt;/font&gt;, um &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{product}&lt;/font&gt; zu kaufen.</string>
 	<string key="ui_featureddeals" rel_version="Feature_MTX">Derzeitige Angebote</string>
 	<string key="ui_consumables" rel_version="Feature_MTX">Verbrauchsgegenstände</string>
-	<string key="ui_armorskins" rel_version="Feature_MTX">Rüstungs-Skins</string>
+	<string key="ui_armorskins" rel_version="Feature_MTX">Kleidungs-Skins</string>
 	<string key="ui_weaponskins" rel_version="Feature_MTX">Waffen-Skins</string>
 	<string key="ui_toolskins" rel_version="Feature_MTX">Werkzeug-Skins</string>
 	<string key="ui_housingitems" rel_version="Feature_MTX">Behausungsgegenstände</string>
-	<string key="ui_world_transfer_mtx" rel_version="Feature_MTX">Charaktertransfer</string>
+	<string key="ui_world_transfer_mtx" rel_version="Feature_MTX">Charaktertransfers</string>
 	<string key="ui_guildcrestcolors" rel_version="Feature_MTX">Kompaniewappen</string>
 	<string key="ui_bundles" rel_version="Feature_MTX">Pakete</string>
 	<string key="ui_orderhistory" rel_version="Feature_MTX">Freigeschaltete Gegenstände</string>
@@ -46,8 +46,12 @@
 	<string key="ui_get_credits" rel_version="Feature_MTX">Glücksmarken kaufen</string>
 	<string key="reward_type_emote" rel_version="Feature_MTX">Emote</string>
 	<string key="reward_type_itemskin" rel_version="Feature_MTX">Skin</string>
+	<string key="ui_apply_skin" rel_version="Feature_MTX">Skin anwenden</string>
+	<string key="ui_apply_skins" rel_version="Feature_MTX">Skins anwenden</string>
 	<string key="reward_type_itemdye" rel_version="Feature_MTX">Farbstoff</string>
-	<string key="reward_type_armorskin" rel_version="Feature_MTX">Rüstungs-Skin</string>
+	<string key="reward_type_statuseffect" rel_version="Feature_Seasons_Consumable_Tokens">Booster</string>
+	<string key="exceeds_max_balance" rel_version="Feature_Seasons_Consumable_Tokens">Kauf überschreitet die Obergrenze von {cap}</string>
+	<string key="reward_type_armorskin" rel_version="Feature_MTX">Kleidungs-Skin</string>
 	<string key="reward_type_toolskin" rel_version="Feature_MTX">Werkzeug-Skin</string>
 	<string key="url_worldtransfer">https://www.newworld.com/forward-link?id=server-transfer-details</string>
 	<string key="reward_type_weaponskin" rel_version="Feature_MTX">Waffen-Skin</string>
@@ -61,6 +65,7 @@
 	<string key="reward_type_entitlement" rel_version="Feature_MTX">ANRECHT</string>
 	<string key="reward_type_marks_of_fortune" rel_version="Feature_MTX">Glücksmarken</string>
 	<string key="reward_type_service" rel_version="Feature_MTX">Welt- oder Regionstransfer (einmalige Nutzung)</string>
+	<string key="reward_type_loadout" rel_version="Feature_Gear_Set_Storage">Ausrüstungsset</string>
 	<string key="entitlement_included" rel_version="Feature_MTX">Enthalten</string>
 	<string key="ui_account_bound" rel_version="Feature_MTX">Alle Gegenstände sind kontogebunden (nicht handelbar) und vom Umtausch ausgeschlossen.</string>
 	<string key="ui_account_bound_tooltip" rel_version="Feature_MTX">Die Gegenstände sind kontogebunden (können von allen Charakteren verwendet werden) und können weder weggeworfen, gehandelt noch im Handelsposten verkauft werden. Alle Gegenstände sind vom Umtausch ausgeschlossen.\n\n&lt;font face="lyshineui/fonts/Nimbus_Bold.font" &gt;Verbrauchsgegenstände: &lt;/font&gt; Diese Gegenstände haben eine begrenzte Verwendungsdauer. Die Verwendung eines Verbrauchsgegenstandes für einen bestimmten Charakter verringert die Anzahl dieses Gegenstandes für das gesamte Konto. Beispiel: Du hast fünf Farbstoffe. Verwendest du einen davon für einen Charakter, hast du nun vier Farbstoffe, wenn du dich mit einem anderen Charakter im selben Konto einloggst.</string>
@@ -83,19 +88,20 @@
 	<string key="ui_fixed_appearance" rel_version="Feature_MTX">Festgelegtes Aussehen</string>
 	<string key="ui_fixed_appearance_tooltip" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; werden auf deinen Charakter bzw. den Gegenstand im entsprechenden Ausrüstungsplatz angewendet, bis du das Aussehen änderst oder deaktivierst.\n\n&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; können nicht gefärbt werden.</string>
 	<string key="ui_transfer_requirement" rel_version="Feature_MTX">Transfervoraussetzungen</string>
-	<string key="ui_transfer_requirement_tooltip_world_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Für den Transfer in eine neue Welt oder Region:&lt;/font&gt;</string>
-	<string key="ui_transfer_requirement_tooltip_region_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Regionstransfervoraussetzungen:&lt;/font&gt;</string>
-	<string key="ui_transfer_requirement_sanctuary" rel_version="Feature_MTX">Musst du dich in einer Zufluchtsstätte (Siedlung, Außenposten, Geisterschrein oder Wachturm) befinden.</string>
-	<string key="ui_transfer_requirement_not_in_company" rel_version="Feature_MTX">Darfst du keiner Kompanie angehören.</string>
-	<string key="ui_transfer_requirement_not_have_active_orders" rel_version="Feature_MTX">Darfst du keine aktiven Kauf- oder Verkaufsaufträge im Handelsposten haben.</string>
-	<string key="ui_transfer_requirement_fresh_start" rel_version="Feature_FreshStart">Charaktere können nicht in neue Startwelten übertragen werden.</string>
-	<string key="ui_transfer_requirement_minimum_level" rel_version="Feature_MTX">Musst du mindestens Stufe {level} erreicht haben.</string>
-	<string key="ui_transfer_requirement_no_houses" rel_version="Feature_MTX">Du darfst vor dem Transfer kein Haus besitzen.</string>
+	<string key="ui_transfer_requirement_tooltip_world_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Welttransfervoraussetzungen&lt;/font&gt;</string>
+	<string key="ui_transfer_requirement_tooltip_region_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Zusätzliche Voraussetzungen für Regionstransfers&lt;/font&gt;</string>
+	<string key="ui_transfer_requirement_sanctuary" rel_version="Feature_MTX">Du musst dich in einer Zufluchtsstätte (Siedlung, Außenposten, Geisterschrein oder Wachturm) befinden.</string>
+	<string key="ui_transfer_requirement_not_in_company" rel_version="Feature_MTX">Du darfst keiner Kompanie angehören.</string>
+	<string key="ui_transfer_requirement_not_have_active_orders" rel_version="Feature_MTX">Du darfst keine aktiven Aufträge im Handelsposten haben.</string>
+	<string key="ui_transfer_requirement_fresh_start" rel_version="Feature_FreshStart">Die Welt ist keine Neuanfang-Welt.</string>
+	<string key="ui_transfer_requirement_minimum_level" rel_version="Feature_MTX">Du musst mindestens Stufe {level} sein.</string>
+	<string key="ui_transfer_requirement_no_houses" rel_version="Feature_MTX">Du darfst kein Haus besitzen.</string>
 	<string key="ui_transfer_requirement_cooldown" rel_version="Feature_MTX">Du musst die Abklingzeit abwarten, bis du dich wieder in eine andere Welt oder Region transferieren kannst.</string>
 	<string key="ui_transfer_requirement_cooldown_prefix" rel_version="Feature_MTX">&lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_yellow.png" xPadding="0" scale="1.1" yOffset="1"&gt;&lt;/img&gt;</string>
+	<string key="ui_transfer_requirement_makegood" rel_version="Feature_Make_Good">Du darfst keine ausstehenden Entschädigungen haben.</string>
 	<string key="ui_transfer_no_transfer_tooltip" rel_version="Feature_MTX">Charaktere können derzeit nicht aus dieser Welt heraus übertragen werden.</string>
 	<string key="ui_transfer_no_transfer_tooltip_freshstart" rel_version="Feature_MTX">Charaktere können nicht von Neuanfang-Welten übertragen werden.</string>
-	<string key="ui_item_restrictions" rel_version="Feature_MTX">Gegenstandseinschränkungen</string>
+	<string key="ui_item_restrictions" rel_version="Feature_MTX">Weitere Infos</string>
 	<string key="ui_item_restrictions_item_skins" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; werden nur angezeigt, wenn der Standard-Gegenstand ausgerüstet ist. &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; können nicht gefärbt werden.</string>
 	<string key="ui_item_restrictions_crests" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Kompaniewappen&lt;/font&gt; kannst du nur verwenden, wenn du der Gouverneur (Gründer) einer Kompanie bist.</string>
 	<string key="ui_item_restrictions_housing_items" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Behausungsgegenstände&lt;/font&gt; kannst du nur verwenden, wenn du Behausung freigeschaltet hast und ein Haus besitzt.\n\nEine begrenzte Anzahl an &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Animierten und Blitzgegenständen&lt;/font&gt; kann in Häusern jederzeit dargestellt werden.</string>
@@ -113,6 +119,7 @@
 	<string key="reward_type_tooltip_itemskin" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;GEGENSTANDS-SKINS&lt;/font&gt;: Um einen Skin anzuwenden, klicke erst auf die Rüstungen, Werkzeuge und Waffen in deinem Inventar und dann auf "Skin ändern".</string>
 	<string key="reward_type_tooltip_campskin" rel_version="Feature_Camp_Skins">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;ZELTLAGER-SKINS&lt;/font&gt;: Du kannst den Skin anwenden, indem du in deinem Zeltlager „Skin ändern“ wählst.</string>
 	<string key="reward_type_tooltip_itemdye" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;FARBSTOFFE&lt;/font&gt;: Um einen Farbstoff anzuwenden, klicke erst auf die Rüstung in deinem Inventar und dann auf "Rüstung färben".</string>
+	<string key="reward_type_tooltip_token" rel_version="Feature_Seasons_Consumable_Tokens">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;BOOSTER&lt;/font&gt;: Um einen Booster anzuwenden, öffne das Booster-Menü im Inventar.</string>
 	<string key="reward_type_tooltip_guildcrest" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;WAPPEN&lt;/font&gt;: Im Kompaniebildschirm kannst du Wappen zuweisen.</string>
 	<string key="reward_type_tooltip_housing_item" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;BEHAUSUNGSGEGENSTÄNDE&lt;/font&gt;: Behausungsgegenstände kannst du im Behausungsdekorierungsmodus verwenden, wenn du dich in deinem Haus befindest.</string>
 	<string key="reward_type_tooltip_player_title" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;TITEL&lt;/font&gt;: Du kannst im Reiter "Biografie" des Charaktermenüs einen Titel anwenden und dann den "Titel ändern".</string>
@@ -120,7 +127,8 @@
 	<string key="reward_type_tooltip_extra" rel_version="Feature_MTX">Dieses Produkt ist ein Bonus.</string>
 	<string key="reward_type_tooltip_entitlement" rel_version="Feature_MTX">Dieses Produkt ist ein Anrecht.</string>
 	<string key="reward_type_tooltip_marks_of_fortune" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;GLÜCKSMARKEN&lt;/font&gt;: Mit dieser Währung kannst du im Shop Artikel erwerben.</string>
-	<string key="reward_type_tooltip_service" rel_version="Feature_MTX">Diesen Dienst kannst du im Shop-Menü benutzen. Wähle im Shop das Produkt "Welttransfer" aus.</string>
+	<string key="reward_type_tooltip_service" rel_version="Feature_MTX">Wenn der Charakter alle Transfervoraussetzungen erfüllt, wähle einfach die Welt und/oder Region aus, in die du ihn transferieren möchtest.</string>
+	<string key="reward_type_tooltip_loadout" rel_version="Feature_Gear_Set_Storage">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;AUSRÜSTUNGSSET&lt;/font&gt;: Du kannst einem neuen Ausrüstungssetplatz aus deinem Inventar Gegenstände zuweisen.</string>
 	<string key="ui_crest_disclaimer" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Hinweis:&lt;/font&gt; Kompaniewappen kannst du nur verwenden, wenn du der Gouverneur (Gründer) der Kompanie bist.</string>
 	<string key="ui_disabled_default_title" rel_version="Feature_MTX">Inhalt nicht verfügbar</string>
 	<string key="ui_disabled_default_description" rel_version="Feature_MTX">Dieser Inhalt ist zurzeit nicht verfügbar.</string>
@@ -160,8 +168,8 @@
 	<string key="ui_transaction_failed">Transaktion fehlgeschlagen.</string>
 	<string key="ui_transaction_timed_out">Zeitüberschreitung bei der Transaktion. Erneut versuchen?</string>
 	<string key="ui_transaction_timeout_overlay">Zeitüberschreitung bei der Transaktion.\nBitte stelle sicher, dass Steam-Overlay aktiviert ist.</string>
-	<string key="ui_bonus_marks">(+{bonus} Marken)</string>
-	<string key="ui_bonus_percent">{bonusPct} % Bonus</string>
+	<string key="ui_bonus_marks">{base} + {bonus} Bonus =</string>
+	<string key="ui_bonus_percent">{bonusPct} % Bonus!</string>
 	<string key="ui_how_to_use">Verwendung</string>
 	<string key="ui_notification_unlock_desc">Deinem Konto wurden Gegenstände hinzugefügt.</string>
 	<string key="ui_notification_unlock_title">Freigeschaltet!</string>
@@ -200,7 +208,7 @@
 	<string key="hiddenstream_dye_description" rel_version="Entitlements_November">Farbstoff-Paket (Verbrauchsgegenstand)</string>
 	<string key="Icon_Crest_Pack_Smugglers_description" rel_version="New_World_Launch">"Dunkelheit umhüllt unsere lukrativsten Unternehmungen."</string>
 	<string key="butterflywing_dye_description" rel_version="Entitlements_February_2022">Farbstoff-Paket (Verbrauchsgegenstand)</string>
-	<string key="ui_store_unavailable">Es tut uns leid, der Shop ist im Moment wegen Wartungsarbeiten außer Betrieb. Versuche es später erneut.</string>
+	<string key="ui_store_unavailable">Es tut uns leid, der Shop ist im Moment wegen \nWartungsarbeiten außer Betrieb. Versuche es später erneut.</string>
 	<string key="fenrirsfury_name" rel_version="New_World_Launch">Fenrirs Zorn</string>
 	<string key="fenrirsfury_description" rel_version="New_World_Launch">"Ein passender Tribut an die Bestie des Schlachtens."</string>
 	<string key="ageless_bronze_dye_name" rel_version="Entitlements_January_2022">Zeitlose Bronze</string>
@@ -334,11 +342,11 @@
 	<string key="Bundle_Emote_Launch_description" rel_version="Bundle_LaunchSet_Emote">"Grundlegende Gesten, die in allen Sprachen verstanden werden."</string>
 	<string key="ui_no_featured_deal">Derzeit gibt es kein spezielles Angebot.\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;&lt;font color="#ffffff"&gt;I M S H O P S T Ö B E R N&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_no_featured_deal_store">Derzeit gibt es kein spezielles Angebot.\nStöbere im Shop über die Registerkarten links!</string>
-	<string key="Marks_Of_Fortune_5000_name" rel_version="New_World_Launch">Tasche voller Glücksmarken</string>
-	<string key="Marks_Of_Fortune_11000_name" rel_version="New_World_Launch">Stapel voller Glücksmarken</string>
-	<string key="Marks_Of_Fortune_23000_name" rel_version="New_World_Launch">Haufen voller Glücksmarken</string>
-	<string key="Marks_Of_Fortune_40250_name" rel_version="New_World_Launch">Geldbeutel voller Glücksmarken</string>
-	<string key="Marks_Of_Fortune_60000_name" rel_version="New_World_Launch">Truhe voller Glücksmarken</string>
+	<string key="Marks_Of_Fortune_5000_name" rel_version="New_World_Launch">Markenbeutel</string>
+	<string key="Marks_Of_Fortune_11000_name" rel_version="New_World_Launch">Markenpaket</string>
+	<string key="Marks_Of_Fortune_23000_name" rel_version="New_World_Launch">Markenberg</string>
+	<string key="Marks_Of_Fortune_40250_name" rel_version="New_World_Launch">Markenbörse</string>
+	<string key="Marks_Of_Fortune_60000_name" rel_version="New_World_Launch">Markentruhe</string>
 	<string key="Marks_Of_Fortune_5000_description" rel_version="New_World_Launch">Währungspaket: Glücksmarken</string>
 	<string key="Marks_Of_Fortune_11000_description" rel_version="New_World_Launch">Währungspaket: Glücksmarken</string>
 	<string key="Marks_Of_Fortune_23000_description" rel_version="New_World_Launch">Währungspaket: Glücksmarken</string>
@@ -442,8 +450,8 @@
 	<string key="Armor_Deaths_Coronation_name" rel_version="RoyalCourtSkins">Todeskrönung</string>
 	<string key="Armor_Deaths_Coronation_description" rel_version="RoyalCourtSkins">"Der König der Toten ist trotzdem noch immer ein König."</string>
 	<string key="server_transfer_name" rel_version="Feature_Server_Transfer">Charaktertransfer</string>
-	<string key="character_rename" rel_version="MTX_October_Skins">Charakter-Umbenennung (einmalig)</string>
-	<string key="character_rename_description" rel_version="MTX_October_Skins">Damit kannst du den Charakternamen ändern.\nNur einmal möglich.</string>
+	<string key="character_rename" rel_version="MTX_October_Skins">Charakter-Umbenennung (einmalige Nutzung)</string>
+	<string key="character_rename_description" rel_version="MTX_October_Skins">Damit kannst du den Charakternamen ändern.\nEinmalige Anwendung.</string>
 	<string key="ui_character_world_transfer" rel_version="Feature_Server_Transfer">Charakter-Welttransfer</string>
 	<string key="ui_character_region_transfer" rel_version="Feature_Server_Transfer">Charakter-Regionstransfer</string>
 	<string key="server_transfer_description" rel_version="Feature_Server_Transfer">Ermöglicht den Transfer dieses Charakters auf eine andere Welt oder Region deiner Wahl.</string>
@@ -454,14 +462,16 @@
 	<string key="server_transfer_not_transfer" rel_version="Feature_Server_Transfer">WAS NICHT TRANSFERIERT WIRD</string>
 	<string key="server_transfer_refund_policy" rel_version="Feature_Server_Transfer">RÜCKERSTATTUNGSBESTIMMUNGEN</string>
 	<string key="server_transfer_cooldown" rel_version="Feature_Server_Transfer">ABKLINGZEIT</string>
-	<string key="server_transfer_requirements_detail1" rel_version="Feature_Server_Transfer">Vor dem Transfer darfst du keiner Kompanie angehören.</string>
-	<string key="server_transfer_requirements_detail2" rel_version="Feature_Server_Transfer">Vor dem Transfer darfst du keine aktiven Kauf- oder Verkaufsaufträge im Handelsposten haben.</string>
-	<string key="server_transfer_requirements_detail3" rel_version="Feature_Server_Transfer">Vor dem Transfer musst du dich in einer Zufluchtsstätte (Siedlung, Außenposten, Geisterschrein oder Wachturm) befinden.</string>
-	<string key="server_transfer_requirements_detail_player_level" rel_version="Feature_Server_Transfer">Du musst für den Transfer in eine andere Region mindestens Stufe {level} erreicht haben.</string>
-	<string key="server_transfer_requirements_detail_housing" rel_version="Feature_Server_Transfer">Für den Transfer in einer andere Region darfst du kein Haus besitzen.</string>
+	<string key="server_transfer_requirements_detail1" rel_version="Feature_Server_Transfer">Du darfst keiner Kompanie angehören.</string>
+	<string key="server_transfer_requirements_detail2" rel_version="Feature_Server_Transfer">Du darfst keine aktiven Aufträge im Handelsposten haben.</string>
+	<string key="server_transfer_requirements_detail3" rel_version="Feature_Server_Transfer">Du musst dich in einer Zufluchtsstätte (Siedlung, Außenposten, Geisterschrein oder Wachturm) befinden.</string>
+	<string key="server_transfer_requirements_detail_player_level" rel_version="Feature_Server_Transfer">Du musst mindestens Stufe {level} sein.</string>
+	<string key="server_transfer_requirements_detail_housing" rel_version="Feature_Server_Transfer">Du darfst kein Haus besitzen.</string>
 	<string key="server_transfer_not_transfer_detail1" rel_version="Feature_Server_Transfer">Deine Freundesliste wird gelöscht und nicht mit übertragen.</string>
 	<string key="server_transfer_not_transfer_detail2" rel_version="Feature_Server_Transfer">Aktive Stadtprojektmissionen werden nicht übertragen.</string>
 	<string key="server_transfer_not_transfer_detail3" rel_version="Feature_Server_Transfer">Aktive Fraktionsmissionen werden nicht übertragen.</string>
+	<string key="server_transfer_not_transfer_detail4" rel_version="Feature_Seasons_Rewards">Fortschritt für den Saisonpass</string>
+	<string key="server_transfer_not_transfer_detail4_tooltip" rel_version="Feature_Seasons_Rewards">Der Fortschritt für den Saisonpass wird für jede Spielregion separat gewertet. Der Fortschritt, den du für deinen Charakter angezeigt bekommst, stellt den Fortschritt deines Kontos in deiner Spielregion dar. Wenn du deinen Charakter auf eine Welt in einer anderen Spielregion transferierst, wird der Fortschritt für den Saisonpass nicht mitübertragen.\n\nDie Belohnungen für den Saisonpass sind regionsabhängig, aber einige Belohnungen gelten für das gesamte Konto und können nicht erneut abgeholt werden, wenn du einen Charakter transferierst oder einen neuen Charakter erstellst.\n\nDer Premium-Saisonpass gilt für das gesamte Konto.</string>
 	<string key="server_tranfer_refund_policy_not_refundable" rel_version="Feature_Server_Transfer">Dieses Produkt ist nicht erstattungsfähig.</string>
 	<string key="server_tranfer_cooldown_detail" rel_version="Feature_Server_Transfer">Abklingzeit zwischen Regionstransfers liegt bei {cooldownDuration}.</string>
 	<string key="server_transfer_unavailable_raidid" rel_version="Feature_Server_Transfer">Du kannst die Welt nicht wechseln, während du dich im Krieg befindest.</string>
@@ -484,9 +494,10 @@
 	<string key="server_transfer_select_region" rel_version="Feature_Server_Transfer">Region auswählen</string>
 	<string key="server_transfer_change_world_tooltip" rel_version="Feature_Server_Transfer">Um die Welt zu wechseln, logge dich mit deinem Charakter ein und greife im Spiel über den Shop auf den Reiter "Welttransfer" zu.</string>
 	<string key="server_transfer_maintenance" rel_version="Feature_Server_Transfer">Während der Wartung einer Welt, kann kein Transfer dorthin stattfinden.</string>
-	<string key="server_transfer_requirements_company" rel_version="Feature_Server_Transfer">Vor dem Transfer darfst du keiner Kompanie angehören oder offene Kompanieeinladungen haben.</string>
-	<string key="server_transfer_requirements_tradingPost" rel_version="Feature_Server_Transfer">Vor dem Transfer darfst du keine aktiven Kauf- oder Verkaufsaufträge im Handelsposten haben.</string>
-	<string key="server_transfer_requirements_sanctuary" rel_version="Feature_Server_Transfer">Vor dem Transfer musst du dich in einer Zufluchtsstätte (Siedlung, Außenposten, Geisterschrein oder Wachturm) befinden.</string>
+	<string key="server_transfer_requirements_company" rel_version="Feature_Server_Transfer">Du darfst keiner Kompanie angehören und keine ausstehenden Kompanieeinladungen haben.</string>
+	<string key="server_transfer_requirements_tradingPost" rel_version="Feature_Server_Transfer">Du darfst keine aktiven Kauf- oder Verkaufsaufträge im Handelsposten haben.</string>
+	<string key="server_transfer_requirements_makeGoods" rel_version="Feature_Make_Good">Du darfst keine ausstehenden Entschädigungen haben.</string>
+	<string key="server_transfer_requirements_sanctuary" rel_version="Feature_Server_Transfer">Du musst dich in einer Zufluchtsstätte (Siedlung, Außenposten, Geisterschrein oder Wachturm) befinden.</string>
 	<string key="server_transfer_requirements_tradingPost_unknown" rel_version="Feature_Server_Transfer">Handelsposten-Status wird überprüft ...</string>
 	<string key="server_transfer_requirements_player_level" rel_version="Feature_Server_Transfer">Du musst für den Transfer in eine andere Region mindestens Stufe {level} erreicht haben.</string>
 	<string key="server_transfer_requirements_housing" rel_version="Feature_Server_Transfer">Für den Transfer in einer andere Region darfst du kein Haus besitzen.</string>
@@ -936,20 +947,22 @@
 	<string key="Bundle_Tool_DarkFae_description" rel_version="ToolSkins_DarkFae_MTX">Die mystischen Feen, die dieses Land beschützen, haben diese Werkzeug mit ihrem Wissen über das Sammeln seiner Ressourcen gesegnet.</string>
 	<string key="Apparel_WinterConv2022_1_name" rel_version="Apparel_Winter_Conv_MTX_1">Winterfell</string>
 	<string key="Apparel_WinterConv2022_1_description" rel_version="Apparel_Winter_Conv_MTX_1">Du fühlst eine ganz spezielle Winterwärme in dir aufsteigen.</string>
-	<string key="Apparel_WinterConv2022_Deluxe_name" rel_version="Apparel_Winter_Conv_MTX_3">Konvergenz-Festkleidung</string>
-	<string key="Apparel_WinterConv2022_Deluxe_description" rel_version="Apparel_Winter_Conv_MTX_3">Zur Feier der Konvergenz tragen die Menschen schon seit Jahrhunderten ihre festlichste Kleidung.</string>
+	<string key="Apparel_WinterConv2022_Deluxe_name" rel_version="Apparel_Winter_Conv_MTX_3">Zusammenkunft-Festkleidung</string>
+	<string key="Apparel_WinterConv2022_Deluxe_description" rel_version="Apparel_Winter_Conv_MTX_3">Zur Feier der Zusammenkunft tragen die Menschen schon seit Jahrhunderten ihre festlichste Kleidung.</string>
 	<string key="Apparel_WinterConv2022_Prime_name" rel_version="Apparel_Winter_Conv_Prime_1">Ritter der Wintersonnenwende</string>
 	<string key="Apparel_WinterConv2022_Prime_description" rel_version="Apparel_Winter_Conv_Prime_1">Die wahre Bedeutung dieser rituellen Kleidung ist schon längst vergessen, doch diese festliche Ritterrobe wird noch immer von den Wächtern des Fests getragen.</string>
-	<string key="ui_crestforeground_225" rel_version="Crest_Pack_Winter_Conv">Konvergenz-Geweih</string>
-	<string key="ui_crestforeground_226" rel_version="Crest_Pack_Winter_Conv">Konvergenz-Flocke</string>
-	<string key="ui_crestforeground_227" rel_version="Crest_Pack_Winter_Conv">Konvergenz-Yeti</string>
-	<string key="Bundle_Crest_WinterConv2022_name" rel_version="Crest_Pack_Winter_Conv">Wappenpaket: Winterkonvergenz</string>
+	<string key="ui_crestforeground_225" rel_version="Crest_Pack_Winter_Conv">Zusammenkunft-Geweih</string>
+	<string key="ui_crestforeground_226" rel_version="Crest_Pack_Winter_Conv">Zusammenkunft-Flocke</string>
+	<string key="ui_crestforeground_227" rel_version="Crest_Pack_Winter_Conv">Zusammenkunft-Yeti</string>
+	<string key="Bundle_Crest_WinterConv2022_name" rel_version="Crest_Pack_Winter_Conv">Wappenpaket: Winter-Zusammenkunft</string>
 	<string key="Bundle_Crest_WinterConv2022_description" rel_version="Crest_Pack_Winter_Conv">Trage den Geist der Feiertage und deine Traditionsverbundenheit zur Schau.</string>
 	<string key="Bundle_PR_DarkFae_Apparel_name" rel_version="Entitlements_DarkFae_MTX">Kleidungspaket: Dämmerungsgeist</string>
 	<string key="Bundle_PR_DarkFae_Apparel_description" rel_version="Entitlements_DarkFae_MTX">In Aeternum wimmelt es nur vor düsteren Gestalten, doch auch zarte, magische Wesen haben hier unter seinen Geistern ihre Heimat gefunden.</string>
 	<string key="Bundle_PR_DarkFae_Weapon_name" rel_version="Entitlements_DarkFae_MTX">Waffenpaket: Dämmerungsgeist</string>
 	<string key="Bundle_PR_DarkFae_Weapon_description" rel_version="Entitlements_DarkFae_MTX">Man weiß nie, was alles passieren kann, wenn man die Werkzeuge der Waldgeister einsetzt, aber es wird auf jeden Fall bezaubernd aussehen.</string>
-	<string key="Bundle_PR_WinterConv2022_Apparel_name" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Winterkonvergenz-Kleidung-Paket</string>
+	<string key="Additional_Loadout_name" rel_version="Feature_Gear_Set_Storage">Zusätzlicher Ausrüstungssetplatz</string>
+	<string key="Additional_Loadout_description" rel_version="Feature_Gear_Set_Storage">Ein Platz für ein Ausrüstungsset für eine Aktivität deiner Wahl. Es können maximal 6 Plätze gekauft werden.\nAusrüstungssets sind erst ab Stufe 25 verfügbar.</string>
+	<string key="Bundle_PR_WinterConv2022_Apparel_name" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Kleidungspaket: Winter-Zusammenkunft</string>
 	<string key="Bundle_PR_WinterConv2022_Apparel_description" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Trotze dem Ewigen Winter mit Feiertagsstimmung und diesen passenden Outfits!</string>
 	<string key="Bundle_PR_WinterConv2022_Weapons_name" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Waffenpaket: Winter-Zusammenkunft</string>
 	<string key="Bundle_PR_WinterConv2022_Weapons_description" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Die Winter-Zusammenkunft ist die beste Zeit, um mit Freunden und Familie zu feiern und bei der kleinsten Unstimmigkeit eine tödliche Waffe parat zu haben!</string>
@@ -965,6 +978,17 @@
 	<string key="Bundle_PR_WinterDragon_Apparel_description" rel_version="Apparel_WinterDragon_1">Was ist kälter? Das eisige Herz des Winters oder das frostige Herz des Drachen?</string>
 	<string key="Bundle_PR_WinterDragon_Weapons_name" rel_version="Weapon_Winter_Greatsword">Waffenpaket: Winterdrache</string>
 	<string key="Bundle_PR_WinterDragon_Weapons_description" rel_version="Weapon_Winter_Greatsword">Bahne dir den Weg durch den tiefsten Winterschnee.</string>
+	<string key="reward_type_token" rel_version="Entitlements_FirelightSeason">Boosterpaket</string>
+	<string key="Token_Proficiency_Boost_name" rel_version="Entitlements_FirelightSeason">Fertigkeitsstärkung</string>
+	<string key="Token_Proficiency_Boost_description" rel_version="Entitlements_FirelightSeason">90 Minuten lang 10 % mehr Ertrag für Holzfällerei, Bergbau, Erntearbeit und Häuten eines Charakters.\n\nAnwendung wird während Instanzen-Modi pausiert.</string>
+	<string key="Token_WeaponXP_Boost_name" rel_version="Entitlements_FirelightSeason">Waffen-EP-Booster</string>
+	<string key="Token_WeaponXP_Boost_description" rel_version="Entitlements_FirelightSeason">Zwei Stunden lang doppelte Waffen-EP für einen Charakter.\n\nAnwendung wird während PvP-Instanzen-Modi pausiert.</string>
+	<string key="Token_TerritoryStanding_Boost_name" rel_version="Entitlements_FirelightSeason">Gebietsruf-Booster</string>
+	<string key="Token_TerritoryStanding_Boost_description" rel_version="Entitlements_FirelightSeason">Zwei Stunden lang doppelter Gebietsruf für einen Charakter.\n\nAnwendung wird während Instanzen-Modi pausiert.</string>
+	<string key="Token_SeasonXP_Boost_name" rel_version="Entitlements_FirelightSeason">Saison-EP-Booster</string>
+	<string key="Token_SeasonXP_Boost_description" rel_version="Entitlements_FirelightSeason">Zwei Stunden lang um 100 % erhöhte passive Generierung von Saison-EP für einen Charakter.</string>
+	<string key="Token_GatheringXP_Boost_name" rel_version="Entitlements_FirelightSeason">Sammel-EP-Booster</string>
+	<string key="Token_GatheringXP_Boost_description" rel_version="Entitlements_FirelightSeason">Zwei Stunden lang doppelte EP für Holzfällerei, Bergbau, Erntearbeit und Häuten eines Charakters. Gilt nicht für Begabungsstufen.\n\nAnwendung wird während Instanzen-Modi pausiert.</string>
 	<string key="Apparel_OmensOfWinter_Owl_name" rel_version="Apparel_OmensWinter_1">Cailleach-Eule</string>
 	<string key="Apparel_OmensOfWinter_Cat_name" rel_version="Apparel_OmensWinter_2">Imbolg-Luchs</string>
 	<string key="Bundle_PR_OmensOfWinter_Apparel_name" rel_version="Bundle_OmensWinter_Apparel">Kleidungspaket: Winteromen</string>
@@ -973,5 +997,44 @@
 	<string key="Bundle_PR_OmensOfWinter_Weapon_description" rel_version="Bundle_OmensWinter_Weapons">Nur mittels Einbildung kann man sich im eisigen Winter angeblich wärmen.</string>
 	<string key="Bundle_Decor_OmensOfWinter_name" rel_version="Housing_OmensWinter_MTX_Pack_2023">Dekorpaket: Winteromen</string>
 	<string key="Bundle_Decor_OmensOfWinter_description" rel_version="Housing_OmensWinter_MTX_Pack_2023">Der Vorbote des Winters ist der Tod.</string>
+	<string key="ui_crestforeground_228" rel_version="Crest_Pack_Firelight">Scheiterhaufen</string>
+	<string key="ui_crestforeground_229" rel_version="Crest_Pack_Firelight">Strahlende Laterne</string>
+	<string key="ui_crestforeground_230" rel_version="Crest_Pack_Firelight">Teufelsschädel</string>
+	<string key="Apparel_Firelight_Deluxe_name" rel_version="Apparel_Firelight_Deluxe">Dämmerungskardinal</string>
+	<string key="Apparel_Firelight_1_name" rel_version="Apparel_Firelight_1">Höllenofen</string>
+	<string key="Apparel_Firelight_2_name" rel_version="Apparel_Firelight_2">Tanzende Glut</string>
+	<string key="Apparel_Firelight_3_name" rel_version="Apparel_Firelight_3">Schmiedenwache</string>
+	<string key="Bundle_Tool_Firelight_name" rel_version="ToolSkins_Firelight">Das Handwerk des Teufels</string>
+	<string key="Bundle_Tool_Firelight_description" rel_version="ToolSkins_Firelight">Die Arbeit in der Hitze des Feuers zeitigt höllische Belohnungen.</string>
+	<string key="Bundle_Decor_Firelight_name" rel_version="Housing_Firelight_MTX_Pack_2023">Dekorpaket: Feuerschein</string>
+	<string key="Bundle_Decor_Firelight_description" rel_version="Housing_Firelight_MTX_Pack_2023">Bade dich in der heimeligen Wärme der Flammen.</string>
+	<string key="Bundle_PR_Firelight_Apparel_name" rel_version="Entitlements_FirelightSeason">Kleidungspaket: Feuerschein</string>
+	<string key="Bundle_PR_Firelight_Apparel_description" rel_version="Entitlements_FirelightSeason">Mode an sich ist ein krankes Brandmal.</string>
+	<string key="Bundle_PR_Firelight_Weapon_name" rel_version="Entitlements_FirelightSeason">Waffenpaket: Feuerschein</string>
+	<string key="Bundle_PR_Firelight_Weapon_description" rel_version="Entitlements_FirelightSeason">Im Feuer geschmiedet und in Flammen gelöscht, lodern diese Waffen heißer als die Wut in deinem Herzen.</string>
+	<string key="SeasonPass_Premium_Season_1_name" rel_version="Season_1_Perm">Premium-Saisonpass</string>
+	<string key="SeasonPass_Premium_Season_1_description" rel_version="Season_1_Perm">Bietet Zugang zu großartigen Belohnungen! Alle vorherigen Rangbelohnungen werden freigeschaltet.</string>
+	<string key="@SeasonPass_TierSkip_X1_Season_1_name" rel_version="Season_1_Perm">Saisonpass-Rangüberspringung</string>
+	<string key="@SeasonPass_TierSkip_X1_Season_1_description" rel_version="Season_1_Perm">Du gelangst sofort auf den nächsten Saisonpass-Rang.</string>
+	<string key="SeasonPass_TierSkip_X10_Season_1_name" rel_version="Season_1_Perm">Saisonpass-Rangüberspringung x10</string>
+	<string key="SeasonPass_TierSkip_X10_Season_1_description" rel_version="Season_1_Perm">Du steigst sofort zehn Saisonpass-Ränge auf.</string>
+	<string key="SeasonPass_HeadStart_Season_1_name" rel_version="Season_1_Perm">Saisonpass-Startvorteil</string>
+	<string key="SeasonPass_HeadStart_Season_1_description" rel_version="Season_1_Perm">Bietet Zugang zum Premium-Pass und überspringt 20 Ränge.</string>
+	<string key="@SeasonPass_TierSkip_X5_Season_1_name" rel_version="Season_1_Perm">Saisonpass-Rangüberspringung x5</string>
+	<string key="@SeasonPass_TierSkip_X5_Season_1_description" rel_version="Season_1_Perm">Du steigst sofort fünf Saisonpass-Ränge auf.</string>
+	<string key="reward_type_Weaponskin_roundshield">Rundschild-Skin</string>
+	<string key="reward_type_Weaponskin_kiteshield">Langspitzschild-Skin</string>
+	<string key="reward_type_Weaponskin_towershield">Turmschild-Skin</string>
+	<string key="reward_type_Apparelskin_head_slot">Kopfbedeckungs-Skin</string>
+	<string key="reward_type_Apparelskin_chest_slot">Brustpanzerungs-Skin</string>
+	<string key="reward_type_Apparelskin_hands_slot">Handschuh-Skin</string>
+	<string key="reward_type_Apparelskin_legs_slot">Beinkleid-Skin</string>
+	<string key="reward_type_Apparelskin_feet_slot">Schuhwerk-Skin</string>
+	<string key="reward_type_Toolskin_miningpick">Bergbauhacken-Skin</string>
+	<string key="reward_type_Toolskin_fishingpole">Angel-Skin</string>
+	<string key="reward_type_Toolskin_loggingaxe">Holzfälleraxt-Skin</string>
+	<string key="reward_type_Toolskin_skinningknife">Häutemesser-Skin</string>
+	<string key="reward_type_Toolskin_harvestingsickle">Erntesichel-Skin</string>
+	<string key="reward_type_Toolskin_azothstaff">Azoth-Stab-Skin</string>
 </resources>
 

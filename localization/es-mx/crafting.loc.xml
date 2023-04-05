@@ -4,7 +4,7 @@
 	<string key="cooking_desc">Cocinar varias comidas.</string>
 	<string key="engineering">Taller</string>
 	<string key="outfitting">Estación de equipamiento</string>
-	<string key="outfitting_desc">Fabrica armaduras ligeras y medianas, además de joyas.</string>
+	<string key="outfitting_desc">Fabrica joyas y armaduras ligeras y medianas aquí.</string>
 	<string key="alchemy">Depósito arcano</string>
 	<string key="camp">Campamento</string>
 	<string key="masonry">Mesa de cantería</string>
@@ -53,7 +53,7 @@
 	<string key="cr_add_inventory">Se agregó al &lt;font color="#c0c0c0"&gt;Inventario&lt;/font&gt;</string>
 	<string key="cr_add_quickslot">Se agregó a la &lt;font color="#c0c0c0"&gt;Ranura rápida&lt;/font&gt;</string>
 	<string key="cr_add_equipment">Se agregó al &lt;font color="#c0c0c0"&gt;Equipamiento&lt;/font&gt;</string>
-	<string key="cr_cantcraft">No se puede fabricar</string>
+	<string key="cr_cantcraft">Fabricar</string>
 	<string key="cr_itemdisabled">Objeto deshabilitado temporalmente</string>
 	<string key="cr_alreadycrafted" rel_version="Feature_Camp_Skins">Ya fue fabricado.</string>
 	<string key="cr_unlockrecipe_info" rel_version="Feature_Camp_Skins">Este diseño se puede fabricar una vez y está vinculado a tu personaje. Una vez fabricado, el diseño estará disponible en el menú de diseños de campamento.</string>
@@ -82,8 +82,8 @@
 	<string key="cr_equipment_bonus_tooltip">Tienes un objeto que mejora tus oportunidades de crear un objeto con un rango de artesanía mayor.</string>
 	<string key="cr_skill_bonus_tooltip">Tu habilidad del oficio para crear este tipo de objeto mejora tus oportunidades de crear un objeto con un rango de artesanía mayor.</string>
 	<string key="cr_material_bonus_tooltip">Si usas materiales más raros, mejoran tus oportunidades de crear un objeto con un rango de artesanía mayor. La rareza del material principal determina la rareza del objeto creado.</string>
-	<string key="cr_tooltip_primary">La clase del ingrediente principal determina la clase del objeto fabricado.</string>
-	<string key="cr_tooltip_secondary_gear">La clase y la rareza de los ingredientes secundarios influyen en la puntuación de equipo del objeto fabricado.</string>
+	<string key="cr_tooltip_primary">El nivel del material principal determina el nivel del objeto fabricado.</string>
+	<string key="cr_tooltip_secondary_gear">El nivel y la rareza de los materiales secundarios influyen en la puntuación de equipo del objeto fabricado.</string>
 	<string key="cr_tooltip_secondary_non_gear">Obtendrás el mismo resultado con cualquier objeto de la lista.</string>
 	<string key="cr_tooltip_cooldown_one">Si fabricas 1 unidad de este objeto, tendrás que esperar {time} para fabricarlo de nuevo.</string>
 	<string key="cr_tooltip_cooldown_many">Si fabricas {amount} unidades de este objeto, tendrás que esperar {time} para fabricarlo de nuevo.</string>
@@ -104,15 +104,15 @@
 	<string key="crafting_show_summary">Mostrar resumen</string>
 	<string key="crafting_tree_unlocked">Desbloqueado</string>
 	<string key="crafting_tree_locked">Bloqueado</string>
-	<string key="crafting_no_bonus">No se puede agregar ninguna bonificación a este objeto.</string>
+	<string key="crafting_no_bonus">No se puede agregar ningún modificador de fabricación a este objeto.</string>
 	<string key="crafting_tree_learned">Aprendido</string>
 	<string key="crafting_tree_unlearned">No aprendido</string>
 	<string key="crafting_quality_fixed">Esta barra indica el rango de puntuación de equipo que el objeto creado puede tener.</string>
-	<string key="crafting_quality_desc">Esta barra indica el rango de puntuación de equipo que el objeto creado puede tener. La base la establece tu nivel de habilidad. Puedes usar objetos de distintas clases y rarezas para ajustar este rango.</string>
+	<string key="crafting_quality_desc">Esta barra indica el rango de puntuación de equipo que el objeto creado puede tener. La base la establece tu nivel de habilidad. Puedes usar materiales de distintos niveles y rarezas para ajustar este rango.</string>
 	<string key="crafting_quality_expertise">Esta barra indica el rango de puntuación del equipo que el objeto creado puede tener. La puntuación del equipo para este objeto se calculará según tu pericia de {expertiseName} y nivel de jugador.\n(Pericia de {expertiseName} actual: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
 	<string key="crafting_recipe_expertise">La puntuación del equipo para este objeto se calculará según tu pericia de {expertiseName} y nivel de jugador.\n(Pericia de {expertiseName} actual: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
 	<string key="crafting_quest_recipes">Recetas de misiones</string>
-	<string key="crafting_select_resources">Seleccionar recursos</string>
+	<string key="crafting_select_resources">Seleccionar materiales</string>
 	<string key="new_recipe_unlocked">NUEVA RECETA DESBLOQUEADA</string>
 	<string key="dyeing_equipped_armor_title">Teñir armadura equipada</string>
 	<string key="dyeing_unequipped_armor_title_inventory">Teñir armadura</string>
@@ -122,20 +122,20 @@
 	<string key="dyeing_secondary">Secundario</string>
 	<string key="dyeing_accent">Detalle</string>
 	<string key="dyeing_tint">Tono</string>
-	<string key="dyeing_recently_used">Se usó recientemente</string>
-	<string key="dyeing_available">Colores disponibles</string>
+	<string key="dyeing_recently_used">Reciente</string>
+	<string key="dyeing_available">Disponible</string>
 	<string key="dyeing_confirm">Confirmar</string>
 	<string key="dyeing_cancel">Cancelar</string>
 	<string key="dyeing_error_not_enough_dyes">No tienes suficientes tinturas</string>
 	<string key="dyeing_none_available">No tienes tinturas en el inventario</string>
 	<string key="dye_crafting_title">Fabricación de tintura</string>
 	<string key="dye_crafting_recipes_title">Recetas</string>
-	<string key="dye_crafting_resources_title">Recursos</string>
+	<string key="dye_crafting_resources_title">Materiales</string>
 	<string key="dye_crafting_discovery_title">Descubrimiento</string>
 	<string key="dye_crafting_craft_button">Fabricar</string>
 	<string key="dye_crafting_invalid">Combinación no válida</string>
 	<string key="dye_crafting_not_at_station">Tienes que estar en un depósito arcano.</string>
-	<string key="cooldown_threshold">&lt;img src="lyshineui/images/icons/misc/icon_question_orange.dds" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; Tiempo de reutilización: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{time}&lt;/font&gt; | Umbral de tiempo de reutilización: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{count}&lt;/font&gt;</string>
+	<string key="cooldown_threshold">&lt;img src="lyshineui/images/icons/misc/icon_question_orange.dds" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; Tiempo de reutilización de fabricación: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{time}&lt;/font&gt; por &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{count}&lt;/font&gt; objetos.</string>
 	<string key="cooldown_threshold_tooltip">Si fabricas {count} unidades de este objeto, tendrás que esperar {time} para fabricarlo de nuevo.</string>
 	<string key="cooldown_cancraftin">Se puede fabricar en {time} &lt;img src="lyshineui/images/icons/misc/icon_hourglass" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="crafting_always_available">Siempre disponible</string>
@@ -148,20 +148,20 @@
 	<string key="crafting_craftagain_fee">CREAR DE NUEVO {fee}&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="crafting_gemhint">Agrega &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{itemName}&lt;/font&gt; para aumentar las probabilidades de obtener una &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;ranura para gemas&lt;/font&gt;</string>
 	<string key="crafting_perkhint">Agrega &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{itemName}&lt;/font&gt; para aumentar las probabilidades de obtener un &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;beneficio&lt;/font&gt;</string>
-	<string key="crafting_gemtitle">Agregar un recurso principal</string>
+	<string key="crafting_gemtitle">Agregar material principal</string>
 	<string key="crafting_gemdesc">Aumenta las probabilidades de obtener una ranura para gemas</string>
 	<string key="crafting_perktitle">Agregar azoth</string>
 	<string key="crafting_perkdesc">Aumenta la probabilidad de obtener una bonificación adicional</string>
-	<string key="crafting_specialtitle">Agregar un recurso especial</string>
+	<string key="crafting_specialtitle">Agregar modificador de fabricación</string>
 	<string key="crafting_specialdesc">Determina el beneficio</string>
-	<string key="crafting_specialadded">Objeto especial agregado</string>
-	<string key="crafting_azothadded">Azoth agregado</string>
+	<string key="crafting_specialadded">Modificador de fabricación</string>
+	<string key="crafting_azothadded">Azoth</string>
 	<string key="crafting_carried">Tienes</string>
 	<string key="crafting_noitem">Ningún objeto</string>
-	<string key="crafting_showowned">Posees</string>
+	<string key="crafting_showowned">En propiedad</string>
 	<string key="crafting_primary_ingredient">(PRINCIPAL)</string>
-	<string key="crafting_perkselectiontitle">SELECCIONAR UN RECURSO ESPECIAL</string>
-	<string key="crafting_perkselectiondesc">Si agregas un recurso especial, el objeto recibe un beneficio específico. Solo se puede agregar un recurso especial.</string>
+	<string key="crafting_perkselectiontitle">SELECCIONAR MODIFICADOR DE FABRICACIÓN</string>
+	<string key="crafting_perkselectiondesc">Los modificadores de fabricación agregan un tipo de beneficio concreto al objeto fabricado.</string>
 	<string key="crafting_perk_item_available">1 objeto disponible</string>
 	<string key="crafting_perk_items_available">Objetos disponibles: {amount}</string>
 	<string key="crafting_azothselectiontitle">&lt;img src="lyshineui/images/crafting/itemIconAzoth" xPadding="0" scale="2.6" yOffset="20"&gt;&lt;/img&gt; agrega azoth</string>
@@ -169,7 +169,7 @@
 	<string key="crafting_azothbonus_max">Por encima del azoth máximo del objeto</string>
 	<string key="crafting_azothbonus_tooltip">El azoth aumenta las probabilidades de obtener atributos, beneficios y ranuras de gemas. Aumentar la puntuación de equipo potencial con materiales mejores te permite agregar más azoth.</string>
 	<string key="crafting_azothbonus_tooltip_disabled">Aumenta la puntuación de equipo potencial con materiales mejores para agregar azoth y tener más probabilidades de obtener atributos, beneficios y ranuras de gemas.</string>
-	<string key="crafting_azothbonus_0">El azoth aumenta las probabilidades de obtener atributos, beneficios y ranuras de gemas</string>
+	<string key="crafting_azothbonus_0">El azoth aumenta las probabilidades de obtener atributos, beneficios y ranuras de gemas.</string>
 	<string key="crafting_azothbonus_1">Aumenta la probabilidad de obtener {perk1}</string>
 	<string key="crafting_azothbonus_2">Aumenta la probabilidad de obtener {perk1} y {perk2}</string>
 	<string key="crafting_azothbonus_3">Aumenta la probabilidad de obtener {perk1}, {perk2} y {perk3}</string>
@@ -220,18 +220,18 @@
 	<string key="crafting_sort_gear_score">Ordenar por Puntuación del equipo:</string>
 	<string key="crafting_sort_xp">Ordenar por EXP</string>
 	<string key="crafting_filter_materials">Tienes los materiales</string>
-	<string key="crafting_filter_skill">Puedes fabricar con tus habilidades</string>
-	<string key="crafting_filter_station">Puedes fabricar con el nivel de este taller</string>
+	<string key="crafting_filter_skill">Nivel de habilidad</string>
+	<string key="crafting_filter_station">Nivel de la estación</string>
 	<string key="crafting_filter_clear">QUITAR FILTROS</string>
 	<string key="crafting_filter_clear_all">Quitar todo</string>
-	<string key="crafting_filter_placeholder">Filtrar por nombre...</string>
-	<string key="crafting_category_select_title">SELECCIONAR {type}</string>
+	<string key="crafting_filter_placeholder">Buscar</string>
+	<string key="crafting_category_select_title">SELECCIONAR MATERIAL</string>
 	<string key="crafting_discount_base">Tarifa básica</string>
-	<string key="ui_crafting_resource_origin_message">Nota: Los recursos utilizados se toman primero de tu inventario, y luego del almacenamiento de tu asentamiento.</string>
-	<string key="cr_firstcraft_bonusavailable">Bonif. de 1.ª fabricación disponible</string>
-	<string key="cr_firstcraft_bonus">Bonificación de primera fabricación</string>
-	<string key="cr_tradeskillbonus_title">Bonificación de EXP de habilidad de oficio</string>
-	<string key="cr_tradeskillbonus_basecraft">Bonificación de EXP de habilidad de oficio</string>
+	<string key="ui_crafting_resource_origin_message">Se usarán los materiales de fabricación de tu inventario antes que de tu espacio de almacenamiento.</string>
+	<string key="cr_firstcraft_bonusavailable">Bonificación de primera fabricación</string>
+	<string key="cr_firstcraft_bonus">Primera fabricación</string>
+	<string key="cr_tradeskillbonus_title">EXP de habilidad de oficio</string>
+	<string key="cr_tradeskillbonus_basecraft">Base</string>
 	<string key="cr_tradeskillbonus_description">Obtienes una bonificación adicional de EXP de habilidad de oficio por fabricar con una receta por primera vez.</string>
 </resources>
 

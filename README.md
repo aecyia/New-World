@@ -1,7 +1,7 @@
 # New-World
 
 + Extracted files for New World MMO
-+ Last Update -- v1.8.3
++ Last Update -- [v1.9.0](https://www.newworld.com/en-us/game/releases/season-one-fellowship-and-fire)
 
 ## localization
 

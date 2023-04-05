@@ -82,7 +82,14 @@
 	<string key="ui_holdout_chamber_Obj_Task_01" rel_version="Quest_MSQ2_Revamp">Inizia la prova</string>
 	<string key="ui_holdout_chamber_Obj_Task_01_desc" rel_version="Quest_MSQ2_Revamp">Interagisci con il glifo per iniziare la prova</string>
 	<string key="ui_holdout_chamber_Obj_Task_02" rel_version="Quest_MSQ2_Revamp">Sopravvivi alla prova</string>
-	<string key="ui_holdout_chamber_Obj_Task_02_desc" rel_version="Quest_MSQ2_Revamp">Tempo rimanente: </string>
+	<string key="ui_holdout_chamber_Obj_Task_02_desc" rel_version="Quest_MSQ2_Revamp">Tempo rimanente:</string>
+	<string key="objective_lostattack_swampwaterfishery_title">Congegno antico</string>
+	<string key="objective_lostattack_swampwaterfishery_desc">Esamina il congegno antico sulla riva del fiume.</string>
+	<string key="objective_lostattack_swampwaterfishery_wave_01">Difendi il congegno antico: {remainingCount}/1 \nTempo rimanente:</string>
+	<string key="objective_lostattack_piscarianfishery_title">Congegno antico:</string>
+	<string key="objective_lostattack_piscarianfishery_desc">Esamina il congegno antico sulla passerella.</string>
+	<string key="objective_lostattack_piscarianfishery_wave_01">Difendi il congegno antico: {remainingCount}/1 \nTempo rimanente:</string>
+	<string key="ui_boatencounter_scallywag_description" rel_version="Quest_MSQ2_Revamp">Il brutale Capitano Esteban e il suo equipaggio stanno attaccando la costa. Rispedisci quei ratti scorbutici in mare!</string>
 	<string key="event_completed">Evento completato</string>
 	<string key="ui_legion_outpost_attack" rel_version="Territory_Brimstone_Sands">Zolfo sotto assedio</string>
 	<string key="ui_legion_outpost_attack_description" rel_version="Territory_Brimstone_Sands">La legione avanza! Fermala prima che raggiunga l'avamposto di Wikala al-Waha!</string>
@@ -146,13 +153,29 @@
 	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_setup_desc" rel_version="Quest_MSQ2_Revamp">Affronta il Supervisore Zane</string>
 	<string key="ui_turkeyterror_worldboss_Turkulon">Terrore di Turkulon</string>
 	<string key="ui_turkeyterror_worldboss_Turkulon_description">Turkulon è tornato per vendicare i suoi fratelli caduti</string>
-	<string key="ui_worldboss_defeated" rel_version="Event_February_Temp">Sconfitto: {objective}</string>
-	<string key="ui_worldboss_daily_reset" rel_version="Event_February_Temp">Azzeramento ricompensa giornaliera alle ore {time}</string>
-	<string key="ui_worldboss_legacyofcrassus" rel_version="Event_February_Temp">Lascito di Crasso</string>
-	<string key="ui_worldboss_legacyofcrassus_description" rel_version="Event_February_Temp">La potenza di Roma minaccia Aeternum! Dai la caccia ai mostruosi capitani di Crasso, Decimus e Lucanus, ed evita che la tirannia romana abbia il sopravvento. Ottieni ricompense giornaliere oltre a quelle per la sconfitta di questi feroci nemici a Boscobrillante, Palude del tessitore, Valle del cordoglio, Scaglia d'ebano e Frutteto dell'Eden.\n\nContiene &lt;font color="#ffe940"&gt;1&lt;/font&gt; ricompensa giornaliera disponibile. Azzeramento alle ore {time}</string>
-	<string key="objective_worldboss_task_legacyofcrassus_wave1_title" rel_version="Event_February_Temp">Lascito di Crasso: Fase 1/2</string>
-	<string key="objective_worldboss_task_legacyofcrassus_wave1_desc" rel_version="Event_February_Temp">Sconfiggi gli invasori rimasti: {remainingCount}</string>
-	<string key="objective_worldboss_task_legacyofcrassus_wave2_title" rel_version="Event_February_Temp">Lascito di Crasso: Fase 2/2</string>
-	<string key="objective_worldboss_task_legacyofcrassus_wave2_desc" rel_version="Event_February_Temp">Sconfiggi Decimus, Lucanus e gli invasori rimasti.</string>
+	<string key="ui_worldboss_defeated" rel_version="Event_February_Perm">Sconfitto: {objective}</string>
+	<string key="ui_worldboss_daily_reset" rel_version="Event_February_Perm">Azzeramento ricompensa giornaliera alle ore {time}</string>
+	<string key="ui_worldboss_season_01_event" rel_version="Season_1_Temp">Furia dello Spriggan</string>
+	<string key="ui_worldboss_season_01_event_description" rel_version="Season_1_Temp">La terra si solleva contro di noi: sottometti le driadi e neutralizza l'arma che cercano di evocare.\n\nContiene &lt;font color="#ffe940"&gt;3&lt;/font&gt; ricompense giornaliere. Azzeramento alle ore {time}</string>
+	<string key="objective_worldboss_task_season_01_event_wave0_title" rel_version="Season_1_Temp">Costruisci i bracieri fiammeggianti per potenziare le tue armi e sconfiggere le driadi.</string>
+	<string key="objective_worldboss_task_season_01_event_wave0_desc" rel_version="Season_1_Temp">Bracieri fiammeggianti rimasti: {remainingCount}</string>
+	<string key="objective_worldboss_task_season_01_event_wave1_title" rel_version="Season_1_Temp">Potenzia le tue armi ai bracieri e resisti alle driadi</string>
+	<string key="objective_worldboss_task_season_01_event_wave1_desc" rel_version="Season_1_Temp">Tempo rimanente:</string>
+	<string key="objective_worldboss_task_season_01_event_wave2_title" rel_version="Season_1_Temp">Interrompi il rituale.</string>
+	<string key="objective_worldboss_task_season_01_event_wave2_desc" rel_version="Season_1_Temp">Sciamani rimasti: {remainingCount}</string>
+	<string key="objective_worldboss_task_season_01_event_wave3_title" rel_version="Season_1_Temp">Il rituale è stato completato! Difenditi dallo Spriggan!</string>
+	<string key="objective_worldboss_task_season_01_event_wave3_desc" rel_version="Season_1_Temp">Sconfiggi lo Spriggan.</string>
+	<string key="objective_S01_Aidyn" rel_version="Season_1_Temp">Caccia senza tregua</string>
+	<string key="objective_S01_Aidyn_description" rel_version="Season_1_Temp">Aidyn è stata corrotta da Senza volto e ha bisogno del tuo aiuto.</string>
+	<string key="objective_S01_Aidyn_task_approach_title" rel_version="Season_1_Temp">Aidyn è stata corrotta da Senza volto e ha bisogno del tuo aiuto.</string>
+	<string key="objective_S01_Aidyn_task_approach_desc" rel_version="Season_1_Temp">Vai da Aidyn</string>
+	<string key="objective_S01_Aidyn_task_defeat_title" rel_version="Season_1_Temp">Aidyn è stata corrotta da Senza volto e ha bisogno del tuo aiuto.</string>
+	<string key="objective_S01_Aidyn_task_defeat_desc" rel_version="Season_1_Temp">Sconfiggi Aidyn</string>
+	<string key="objective_S01_Faceless" rel_version="Season_1_Temp">Lo stregone oscuro</string>
+	<string key="objective_S01_Faceless_description" rel_version="Season_1_Temp">Metti fine ai malvagi piani di Senza volto.</string>
+	<string key="objective_S01_Faceless_task_approach_title" rel_version="Season_1_Temp">Metti fine ai malvagi piani di Senza volto.</string>
+	<string key="objective_S01_Faceless_task_approach_desc" rel_version="Season_1_Temp">Vai da Senza volto</string>
+	<string key="objective_S01_Faceless_task_defeat_title" rel_version="Season_1_Temp">Metti fine ai malvagi piani di Senza volto.</string>
+	<string key="objective_S01_Faceless_task_defeat_desc" rel_version="Season_1_Temp">Sconfiggi Senza volto</string>
 </resources>
 

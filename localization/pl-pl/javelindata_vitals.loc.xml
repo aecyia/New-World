@@ -109,6 +109,7 @@
 	<string key="Ancient_Mage_VitalsName" comment="BASE" speaker="Vitals Sheet">Czarodziejka pradawnych strażników</string>
 	<string key="AncientGuardian_Heavy_Boss_BoneThrow_Spawner_VitalsName" comment="BASE" speaker="Vitals Sheet">Kość Greundgul</string>
 	<string key="AncientGuardian_Heavy_Boss_Named_DG_Everfall_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Regentka Greundgul</string>
+	<string key="AncientGuardian_Heavy_Boss_Named_DG_GreatCleave_01_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Perfidny Savaric</string>
 	<string key="AncientGuardian_Heavy_Boss_VitalsName" comment="BASE" speaker="Vitals Sheet">Regentka Greundgul</string>
 	<string key="AncientGuardian_Heavy_Named_00_VitalsName" comment="BASE" speaker="Vitals Sheet">Mistrz Kuźni Ezra</string>
 	<string key="AncientGuardian_Javelineer_05WC02_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Pozszywany regent</string>
@@ -170,6 +171,7 @@
 	<string key="AncientGuardian_Javelineer_63_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Oszczepnik pradawnych strażników</string>
 	<string key="AncientGuardian_Javelineer_64_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Oszczepnik pradawnych strażników</string>
 	<string key="AncientGuardian_Javelineer_DG_Everfall_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Oszczepnik strażników z Gwiezdnego Kurhanu</string>
+	<string key="AncientGuardian_Javelineer_DG_GreatCleave_01_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Zamarznięty oszczepnik</string>
 	<string key="AncientGuardian_Javelineer_DG_Reekwater_00_Spawn_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Łazarzowy oszczepnik</string>
 	<string key="AncientGuardian_Javelineer_DG_Reekwater_00_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Łazarzowy oszczepnik</string>
 	<string key="AncientGuardian_Javelineer_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Elitarny pradawny oszczepnik</string>
@@ -207,6 +209,7 @@
 	<string key="AncientGuardian_Mage_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Czarodziejka pradawnych strażników</string>
 	<string key="AncientGuardian_Mage_67_ELITE_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Czarodziejka pradawnych strażników</string>
 	<string key="AncientGuardian_Mage_DG_Everfall_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Mag strażników z Gwiezdnego Kurhanu</string>
+	<string key="AncientGuardian_Mage_DG_GreatCleave_01_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Zamarznięty mag</string>
 	<string key="AncientGuardian_Mage_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Elitarny pradawny mag</string>
 	<string key="AncientGuardian_Mage_Minion_22_VitalsName" comment="Generic Mage Minion Level Variant" speaker="Vitals Sheet">Sługa Kar-Ela</string>
 	<string key="AncientGuardian_Mage_Minion_36_VitalsName" comment="Generic Mage Minion Level Variant" speaker="Vitals Sheet">Szkieletowy sługa</string>
@@ -279,6 +282,7 @@
 	<string key="AncientGuardian_Reaver_63_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Łupieżca pradawnych strażników</string>
 	<string key="AncientGuardian_Reaver_64_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Łupieżca pradawnych strażników</string>
 	<string key="AncientGuardian_Reaver_DG_Everfall_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Łupieżca strażników z Gwiezdnego Kurhanu</string>
+	<string key="AncientGuardian_Reaver_DG_GreatCleave_01_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Zamarznięty łupieżca</string>
 	<string key="AncientGuardian_Reaver_DG_Reekwater_00_Spawn_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Łazarzowy łupieżca</string>
 	<string key="AncientGuardian_Reaver_DG_Reekwater_00_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Łazarzowy łupieżca</string>
 	<string key="AncientGuardian_Reaver_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Elitarny pradawny łupieżca</string>
@@ -336,6 +340,7 @@
 	<string key="AncientGuardian_Spearman_63_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Nadzorca pradawnych strażników</string>
 	<string key="AncientGuardian_Spearman_64_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Nadzorca pradawnych strażników</string>
 	<string key="AncientGuardian_Spearman_DG_Everfall_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Tarczownik strażników z Gwiezdnego Kurhanu</string>
+	<string key="AncientGuardian_Spearman_DG_GreatCleave_01_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Zamarznięty nadzorca</string>
 	<string key="AncientGuardian_Spearman_DG_Reekwater_00_Spawn_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Łazarzowy nadzorca</string>
 	<string key="AncientGuardian_Spearman_DG_Reekwater_00_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Łazarzowy nadzorca</string>
 	<string key="AncientGuardian_Spearman_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Elitarny pradawny włócznik</string>
@@ -548,6 +553,8 @@
 	<string key="Bear_Black_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Łapserdak</string>
 	<string key="bear_black_named_08qp06_vitalsname" comment="Named Variant" speaker="Vitals Sheet">Zgrzytacz</string>
 	<string key="Bear_Black_VitalsName" comment="BASE" speaker="Vitals Sheet">Niedźwiedź czarny</string>
+	\
+	
 	<string key="Bear_Corrupted_DT1_VitalsName" comment="Darkness" speaker="Vitals Sheet">Skażony niedźwiedź</string>
 	<string key="Bear_Corrupted_DT2_VitalsName" comment="Darkness" speaker="Vitals Sheet">Skażony niedźwiedź</string>
 	<string key="Bear_Corrupted_DT3_VitalsName" comment="Darkness" speaker="Vitals Sheet">Skażony niedźwiedź</string>
@@ -930,6 +937,11 @@
 	<string key="Broken_Laborer_Knife_VitalsName" comment="BASE" speaker="Vitals Sheet">Skażony robotnik</string>
 	<string key="Broken_Laborer_Pickaxe_VitalsName" comment="BASE" speaker="Vitals Sheet">Skażony robotnik</string>
 	<string key="Broken_Laborer_Prong_VitalsName" comment="BASE" speaker="Vitals Sheet">Skażony robotnik</string>
+	<string key="Brother_Umberto_VitalsName" comment="BASE" speaker="Vitals Sheet">Przeklęty duch Umberta</string>
+	<string key="Brother_Umberto_Melee_VitalsName" comment="BASE" speaker="Vitals Sheet">Gniew Umberta</string>
+	<string key="Brother_Umberto_Ranged_VitalsName" comment="BASE" speaker="Vitals Sheet">Ból Umberta</string>
+	<string key="Brother_Umberto_Caster_VitalsName" comment="BASE" speaker="Vitals Sheet">Wstyd Umberta</string>
+	<string key="Brother_Umberto_Human_VitalsName" comment="BASE" speaker="Vitals Sheet">Brat Umberto z bractwa Czujnych</string>
 	<string key="Churro_VitalsName" comment="BASE" speaker="Vitals Sheet">Owca Churro</string>
 	<string key="Corbenic_Altar_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Corbeński ołtarz</string>
 	<string key="Corbenic_Idol_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Corbeński bożek</string>
@@ -1018,8 +1030,6 @@
 	<string key="CorruptedLegion_Cyclops_DG_BrimstoneSands_Crassus_Minion_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Skażony cyklop</string>
 	<string key="CorruptedLegion_Cyclops_DG_BrimstoneSands_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Pluton</string>
 	<string key="CorruptedLegion_Cyclops_ELITE_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Elitarny krwawostopy</string>
-	<string key="CorruptedLegion_Cyclops_LOC_BOSS_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Event_February_Temp">Lukan</string>
-	<string key="CorruptedLegion_Cyclops_LOC_BOSS_01_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Event_February_Temp">Decimus</string>
 	<string key="CorruptedLegion_Cyclops_Named_00_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Tytaniczny Saturninus</string>
 	<string key="CorruptedLegion_Cyclops_Named_01_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Łamacz z Arty</string>
 	<string key="CorruptedLegion_Cyclops_Named_02_ELITE_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Potworny Polifem</string>
@@ -1064,7 +1074,7 @@
 	<string key="Corruption_Heavy_Named_07SM05b_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Pan głębin Daehi</string>
 	<string key="Corruption_Heavy_Named_DG_Restless_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Guldar</string>
 	<string key="Corruption_Heavy_Named_DG_Restless_01_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Despar</string>
-	<string key="Corruption_Heavy_Named_MSQ_Ballards_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Generał Carvalho</string>
+	<string key="Corruption_Heavy_Named_MSQ_Ballards_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Dowódca czujnych Esteban</string>
 	<string key="Corruption_Heavy_VitalsName" comment="BASE" speaker="Vitals Sheet">Skażony ciężkozbrojny</string>
 	<string key="Corruption_Impaler_08QP08_ELITE_VitalsName" comment="BASE" speaker="Vitals Sheet">Skażony palownik</string>
 	<string key="Corruption_Impaler_08QP08_VitalsName" comment="BASE" speaker="Vitals Sheet">Skażony palownik</string>
@@ -1109,6 +1119,7 @@
 	<string key="Corruption_Swarmer_Minion_RestlessShores_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Szkierowy rojownik</string>
 	<string key="Corruption_Swarmer_VitalsName" comment="BASE" speaker="Vitals Sheet">Skażony rojownik</string>
 	<string key="Corruption_Swarmer_Chaplain_Minion_VitalsName" comment="Starter Beach Corrupted Chaplain Minion Swarmer" speaker="Vitals Sheet">Kapłański rojownik</string>
+	<string key="Corruption_Swarmer_Minion_VitalsName" comment="Minion Variant" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Brightwood">Skażony rojownik</string>
 	<string key="Cow_12_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Krowa</string>
 	<string key="Cow_19_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Krowa</string>
 	<string key="Cow_20_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Krowa</string>
@@ -1212,6 +1223,7 @@
 	<string key="Damned_1H_Swordsman_M-F_DG_Restless_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Szkierowy najemnik</string>
 	<string key="Damned_1H_Swordsman_M-F_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgardzki wojownik</string>
 	<string key="Damned_1H_Swordsman_M-F_MSQ_35_VitalsName" comment="MSQ Fighting Pit Variant" speaker="Vitals Sheet">Skażony mieczownik</string>
+	<string key="Damned_1H_Swordsman_M-F_Minion_VitalsName" comment="Minion Variant" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Brightwood">Skażony mieczownik</string>
 	<string key="Damned_2H_Spearman_M-F_07SM02b_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Ognistożyły egzekutor</string>
 	<string key="Damned_2H_Spearman_M-F_07SM06a_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Myrkgardzki włócznik</string>
 	<string key="Damned_2H_Spearman_M-F_07SM06b_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Myrkgardzki włócznik</string>
@@ -1276,6 +1288,7 @@
 	<string key="Damned_Acolyte_Named_01_03GC09_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Kartograf Decimus</string>
 	<string key="Damned_Acolyte_Named_02_03GC09_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Rytualista Varios</string>
 	<string key="Damned_Acolyte_Named_03GC06_MSQ_vitalsname" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Quest_MSQ_Update_4">Porucznik Alvius</string>
+	<string key="Damned_Acolyte_Named_03GC07_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Quest_MSQ2_WeaversFen">Prometeusz Vane</string>
 	<string key="Damned_Acolyte_Named_03GC08_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Strażniczka dusz Sauquillo</string>
 	<string key="Damned_Acolyte_Named_08QP07_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Skażony emisariusz</string>
 	<string key="Damned_Acolyte_Named_FR_Cov_01_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Skażona ekskubitorka Luca</string>
@@ -1420,6 +1433,7 @@
 	<string key="Damned_Cultist_GC_1132_Named_Coy_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Stonefirth Coy</string>
 	<string key="Damned_Cultist_Isabella_Basilica_Summon_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgardzki kultysta</string>
 	<string key="Damned_Cultist_Minion_RestlessShores_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Sługa Azameli</string>
+	<string key="Damned_Cultist_Minion_VitalsName" comment="Minion Variant" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Brightwood">Skażony kultysta</string>
 	<string key="Damned_Cultist_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Vitrioulsor</string>
 	<string key="Damned_Cultist_Named_01_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Żółtownik</string>
 	<string key="Damned_Cultist_Named_02_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Pluwacz</string>
@@ -1520,6 +1534,7 @@
 	<string key="Damned_Hound_Named_02_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Tyzyfone, szczenię Cerbera</string>
 	<string key="Damned_Hound_Named_03GC09_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Mały Cesarz Rufus</string>
 	<string key="Damned_Hound_Named_DG_Ebonscale_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Figa</string>
+	<string key="Damned_Hound_Minion_VitalsName" comment="Minion Variant" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Brightwood">Skażony ogar</string>
 	<string key="Damned_LongSwordsman_Commander_07SM06_DARKNESS_VitalsName" comment="Darkness" speaker="Vitals Sheet">Myrkgardzki władca bram</string>
 	<string key="Damned_LongSwordsman_Commander_07SM06a_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Myrkgardzki dowódca</string>
 	<string key="Damned_LongSwordsman_Commander_07SM06b_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Myrkgardzki dowódca</string>
@@ -2309,11 +2324,7 @@
 	<string key="Desert_Scorpion_ELITE_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Pustynny skorpion</string>
 	<string key="Desert_Scorpion_Impaler_ELITE_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Elitarny pustynny skorpion palownik</string>
 	<string key="Desert_Scorpion_Impaler_Medium_ELITE_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Elitarny pustynny skorpion palownik</string>
-	<string key="Desert_Scorpion_Impaler_Medium_Sandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Siarkownik Szach-Neszena</string>
 	<string key="Desert_Scorpion_Impaler_Medium_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Pustynny skorpion palownik</string>
-	<string key="Desert_Scorpion_Impaler_Sandworm_Intro_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Pustynny skorpion palownik</string>
-	<string key="Desert_Scorpion_Impaler_Sandworm_S_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Pustynny skorpion palownik</string>
-	<string key="Desert_Scorpion_Impaler_Sandworm_XS_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Pustynny skorpion palownik</string>
 	<string key="Desert_Scorpion_Impaler_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Pustynny skorpion palownik</string>
 	<string key="Desert_Scorpion_Medium_60_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Pustynny skorpion</string>
 	<string key="Desert_Scorpion_Medium_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Pustynny skorpion</string>
@@ -2335,7 +2346,6 @@
 	<string key="Desert_Scorpion_Slinger_ELITE_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Elitarny pustynny skorpion procarz</string>
 	<string key="Desert_Scorpion_Slinger_Medium_ELITE_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Elitarny pustynny skorpion procarz</string>
 	<string key="Desert_Scorpion_Slinger_Medium_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Pustynny skorpion procarz</string>
-	<string key="Desert_Scorpion_Slinger_Sandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Pustynny skorpion procarz</string>
 	<string key="Desert_Scorpion_Slinger_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Pustynny skorpion procarz</string>
 	<string key="Desert_Scorpion_Small_VitalsName" comment="BASE" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Młody skorpion</string>
 	<string key="Desert_Scorpion_Sulfur_Named_00_VitalsName" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Pools04</string>
@@ -2698,6 +2708,10 @@
 	<string key="Dryad_Archer_Named_02_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Ceran</string>
 	<string key="Dryad_Archer_VitalsName" comment="BASE" speaker="Vitals Sheet">Łucznik driad</string>
 	<string key="Dryad_Beast_50_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Bestia driad</string>
+	<string key="Dryad_Fulgoris_VitalsName" comment="BASE" speaker="Vitals Sheet">Fulgoris</string>
+	<string key="Dryad_Fulgoris_Unstable_Tissue_VitalsName" comment="BASE" speaker="Vitals Sheet">Niestabilna tkanka</string>
+	<string key="Dryad_Fulgoris_Active_Tissue_VitalsName" comment="BASE" speaker="Vitals Sheet">Aktywna tkanka</string>
+	<string key="VC_Dryad_Fulgoris" comment="Mission Target Display Name" speaker="Vitals Category">Fulgoris</string>
 	<string key="Dryad_Beast_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Baines</string>
 	<string key="Dryad_Beast_Named_01_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Wrogość</string>
 	<string key="Dryad_Beast_Named_02_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Strażnik studni</string>
@@ -2949,8 +2963,8 @@
 	<string key="Dynasty_Summoner_Named_08QP07_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Zaklinacz z dynastii</string>
 	<string key="Dynasty_Summoner_Named_08QP08_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Zaklinacz z dynastii</string>
 	<string key="Dynasty_Summoner_Named_16BS02_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Cesarski ambasador Li Bai</string>
-	<string key="Dynasty_Summoner_Named_DG_Ebonscale_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zaklinacz Yau</string>
-	<string key="Dynasty_Summoner_Named_DG_Ebonscale_01_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zaklinacz Guang</string>
+	<string key="Dynasty_Summoner_Named_DG_Ebonscale_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Przywoływacz Yau</string>
+	<string key="Dynasty_Summoner_Named_DG_Ebonscale_01_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Przywoływacz Guang</string>
 	<string key="Dynasty_Summoner_VitalsName" comment="BASE" speaker="Vitals Sheet">Skażony zaklinacz z dynastii</string>
 	<string key="Dynasty_Trainee_08QP08_VitalsName" comment="BASE" speaker="Vitals Sheet">Gwardzista dynastii</string>
 	<string key="Dynasty_Trainee_DG_Ebonscale_00_VitalsName" comment="BASE" speaker="Vitals Sheet">Skażony praktykant z dynastii</string>
@@ -3142,22 +3156,82 @@
 	<string key="Elk_Strange_Named_08QP04_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Kirin paskowany</string>
 	<string key="Elk_Strange_VitalsName" comment="BASE" speaker="Vitals Sheet">Dziwny jeleń</string>
 	<string key="Elk_VitalsName" comment="BASE" speaker="Vitals Sheet">Jeleń wapiti</string>
+	<string key="Evil_Knight_Bow_Elite_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Elitarny łucznik</string>
+	<string key="Evil_Knight_Bow_Elite_08QP02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Drakongardzki łucznik</string>
 	<string key="Evil_Knight_Bow_Named_09FL07_Vitalsname" comment="Named Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P1">Sir Frelav Płomień</string>
+	<string key="Evil_Knight_Bow_Named_DG_GreatCleave_01_Vitalsname" comment="Named Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Sir Skarin</string>
 	<string key="Evil_Knight_Bow_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P1">Wareski łucznik</string>
+	<string key="Evil_Knight_Bow_FireVariant_VitalsName" comment="S1 Flame Variant" speaker="Vitals Sheet" rel_version="Season_1_Perm">Wykuty wareski łucznik</string>
+	<string key="Evil_Knight_Caster_Elite_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Elitarny mag</string>
+	<string key="Evil_Knight_Caster_Elite_08QP02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Drakongardzki mag</string>
 	<string key="Evil_Knight_Caster_Named_04NW04_Vitalsname" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P2">Sonieczka Bladolicy</string>
+	<string key="Evil_Knight_Caster_Named_14AC06_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Kari Subtelny</string>
+	<string key="Evil_Knight_Caster_Named_DG_GreatCleave_01_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Sir Bishop</string>
+	<string key="Evil_Knight_Caster_DG_GreatCleave01_00_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Wykuty mag</string>
+	<string key="Evil_Knight_Caster_DG_GreatCleave01_01_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Wykuty mag</string>
 	<string key="Evil_Knight_Caster_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P2">Wareski mag</string>
+	<string key="Evil_Knight_Caster_FireVariant_VitalsName" comment="S1 Flame Variant" speaker="Vitals Sheet" rel_version="Season_1_Perm">Wykuty wareski mag</string>
+	<string key="Evil_Knight_VoidGauntlet_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Perm">Wareski czarownik</string>
+	<string key="Evil_Knight_Faceless_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Perm">Bez twarzy</string>
+	<string key="Season_01_Aidyn_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Perm">Aidyn</string>
+	<string key="Evil_Knight_LifeStaff_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Perm">Wareski uzdrowiciel</string>
+	<string key="Evil_Knight_LifeStaff_FireVariant_VitalsName" comment="S1 Flame Variant" speaker="Vitals Sheet" rel_version="Season_1_Perm">Wykuty wareski uzdrowiciel</string>
+	<string key="Evil_Knight_LifeStaff_DG_GreatCleave01_00_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Kleryk Szpitalników</string>
+	<string key="Evil_Knight_LifeStaff_Elite_08QP02_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Drakongardzki uzdrowiciel</string>
+	<string key="Evil_Knight_LifeStaff_Named_DG_GreatCleave_01_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Lady Bridget</string>
+	<string key="Evil_Knight_Commander_Named_08QP02_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Lord dowódca Attalos</string>
+	<string key="Evil_Knight_Commander_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Wareski dowódca</string>
+	<string key="Evil_Knight_Commander_Named_DG_GreatCleave_01_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Sir Ducas</string>
+	<string key="Evil_Knight_Commander_FireVariant_VitalsName" comment="S1 Flame Variant" speaker="Vitals Sheet" rel_version="Season_1_Perm">Wykuty wareski dowódca</string>
+	<string key="Evil_Knight_Flame_Grunt_Reforged_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Perm">Przekuty trep płomienia</string>
+	<string key="Evil_Knight_Flame_Grunt_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Perm">Trep płomienia</string>
+	<string key="Evil_Knight_Flamekeeper_Boss_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Perm">Pożeracz Płomieni Báulfr</string>
+	<string key="Evil_Knight_Flamekeeper_Boss_Living_Bomb_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Perm">Wybuchowy rdzeń płomienia</string>
+	<string key="Evil_Knight_Fire_Champion_DG_GreatCleave_01_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Dowódca Marius</string>
+	<string key="Evil_Knight_Fire_Champion_Eruption_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Erupcja</string>
+	<string key="Evil_Knight_Fire_Champion_MagmaBall_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Magmokula</string>
+	<string key="Evil_Knight_Fire_Champion_FloorIsLava_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Lawa</string>
+	<string key="Evil_Knight_Greataxe_Elite_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Elitarny mistrz bitewny</string>
+	<string key="Evil_Knight_Greataxe_Elite_08QP02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Drakongardzki mistrz bitewny</string>
 	<string key="Evil_Knight_Greataxe_Named_12MB01_Vitalsname" comment="Named Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P1">Sir Rulav Jowialny</string>
 	<string key="Evil_Knight_Greataxe_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P1">Wareski mistrz bitewny</string>
+	<string key="Evil_Knight_Greataxe_FireVariant_VitalsName" comment="S1 Flame Variant" speaker="Vitals Sheet" rel_version="Season_1_Perm">Wykuty wareski mistrz bitewny</string>
+	<string key="Evil_Knight_Gruntmaster_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Perm">Władca Hordy Njal</string>
+	<string key="Evil_Knight_Heavy_Elite_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Elitarny ciężkozbrojny</string>
+	<string key="Evil_Knight_Heavy_Elite_08QP02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Drakongardzki ciężkozbrojny</string>
+	<string key="Evil_Knight_Heavy_Named_08QP02_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Sir Juni Strateg</string>
+	<string key="Evil_Knight_Heavy_Named_14AC13_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Sir Olga Rębaczka</string>
+	<string key="Evil_Knight_Heavy_Named_DG_GreatCleave_01_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Sir Eld</string>
+	<string key="Evil_Knight_Heavy_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Wareski goliat</string>
+	<string key="Evil_Knight_Heavy_FireVariant_VitalsName" comment="S1 Flame Variant" speaker="Vitals Sheet" rel_version="Season_1_Perm">Wykuty wareski goliat</string>
+	<string key="Evil_Knight_Hound_Elite_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Elitarny ogar</string>
+	<string key="Evil_Knight_Hound_Elite_08QP02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Drakongardzki ogar</string>
+	<string key="Evil_Knight_Hound_Named_14AC06_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Freki</string>
 	<string key="Evil_Knight_Hound_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P2">Wareski ogar</string>
+	<string key="Evil_Knight_Longsword_Elite_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Elitarny zwiadowca</string>
+	<string key="Evil_Knight_Longsword_Elite_08QP02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Drakongardzki zwiadowca</string>
 	<string key="Evil_Knight_Longsword_Named_02BW02_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Quest_MSQ_Update_4">Torbjorn</string>
+	<string key="Evil_Knight_Longsword_Named_DG_GreatCleave_01_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Sir Newlon</string>
 	<string key="Evil_Knight_Longsword_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P1">Wareski zwiadowca</string>
+	<string key="Evil_Knight_Longsword_FireVariant_VitalsName" comment="S1 Flame Variant" speaker="Vitals Sheet" rel_version="Season_1_Perm">Wykuty wareski zwiadowca</string>
+	<string key="Evil_Knight_Mace_Elite_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Elitarny rycerz</string>
+	<string key="Evil_Knight_Mace_Elite_08QP02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Rycerz Atticu'</string>
 	<string key="Evil_Knight_Mace_Named_04NW02_Vitalsname" comment="Named Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P1">Sir Ulfar Mur</string>
+	<string key="Evil_Knight_Mace_Named_08QP02_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Sir Halfdan Kowal</string>
 	<string key="Evil_Knight_Mace_Named_10WS04_Vitalsname" comment="Named Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P2">Sir Anton Ponury</string>
 	<string key="Evil_Knight_Mace_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P1">Wareski strażnik</string>
+	<string key="Evil_Knight_Mace_FireVariant_VitalsName" comment="S1 Flame Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P1">Wykuty wareski strażnik</string>
+	<string key="Evil_Knight_Spear_Elite_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Elitarny włócznik</string>
+	<string key="Evil_Knight_Spear_Elite_08QP02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Drakongardzki włócznik</string>
 	<string key="Evil_Knight_Spear_Named_02BW07_Vitalsname" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P2">Sir Inegeld Skorpion</string>
 	<string key="Evil_Knight_Spear_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P2">Wareski włócznik</string>
+	<string key="Evil_Knight_Spear_FireVariant_VitalsName" comment="S1 Flame Variant" speaker="Vitals Sheet" rel_version="Season_1_Perm">Wykuty wareski włócznik</string>
+	<string key="Evil_Knight_Warhammer_Elite_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Elitarny miażdżyciel</string>
+	<string key="Evil_Knight_Warhammer_Elite_08QP02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Drakongardzki miażdżyciel</string>
 	<string key="Evil_Knight_Warhammer_Named_10WS04_Vitalsname" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P2">Sir Vladislav Kowal</string>
+	<string key="Evil_Knight_Warhammer_Named_DG_GreatCleave_01_Vitalsname" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Kat Freyr</string>
 	<string key="Evil_Knight_Warhammer_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P2">Wareski miażdżyciel</string>
+	<string key="Evil_Knight_Warhammer_FireVariant_VitalsName" comment="S1 Flame Variant" speaker="Vitals Sheet" rel_version="Season_1_Perm">Wykuty wareski miażdżyciel</string>
 	<string key="Explosive_Barrel_10_12MB06_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Materiały wybuchowe</string>
 	<string key="Explosive_Barrel_6_12MB01_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Beczka wybuchowa</string>
 	<string key="FireMine_VitalsName" comment="BASE" speaker="Vitals Sheet">Ognista mina</string>
@@ -3199,12 +3273,15 @@
 	<string key="Ghost_Charred_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Duch pogorzelca</string>
 	<string key="Ghost_Charred_63_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Duch pogorzelca</string>
 	<string key="Ghost_Charred_64_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Duch pogorzelca</string>
-	<string key="Ghost_Charred_65_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Prymarne wyładowanie</string>
+	<string key="Ghost_Charred_65_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Pierwotny szerzyciel</string>
+	<string key="Ghost_Charred_66_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Pierwotny szerzyciel</string>
 	<string key="Ghost_Charred_Named_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Sofista Romulus</string>
 	<string key="Ghost_Charred_16BS03b_Minion_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Jowiszowa kremacja</string>
 	<string key="Ghost_Charred_Named_01_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Spalony słońcem duch</string>
 	<string key="Ghost_Charred_Named_DG_Cutlass_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_CutlassKeys_00">Zbuntowany kapitan</string>
 	<string key="Ghost_Charred_Named_DG_Windsward_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Spalona Becca</string>
+	<string key="Ghost_Charred_Named_DG_GreatCleave_01_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Drań</string>
+	<string key="Ghost_Charred_Named_DG_GreatCleave_02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Drań</string>
 	<string key="Ghost_Charred_VitalsName" comment="BASE" speaker="Vitals Sheet">Widmo pogorzelca</string>
 	<string key="Ghost_Frozen_03GC01_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Mglisty duch mrozu</string>
 	<string key="Ghost_Frozen_08QP07_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Duch mrozu Niebiańskiej Pieśni</string>
@@ -3430,6 +3507,7 @@
 	<string key="Ghost_Starved_38_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zagłodzony duch</string>
 	<string key="Ghost_Starved_39_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zagłodzony duch</string>
 	<string key="Ghost_Starved_40_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zagłodzony duch</string>
+	<string key="Ghost_Starved_40_ELITE_Minion_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Zagłodzony duch</string>
 	<string key="Ghost_Starved_41_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zagłodzony duch</string>
 	<string key="Ghost_Starved_42_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zagłodzony duch</string>
 	<string key="Ghost_Starved_43_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zagłodzony duch</string>
@@ -3588,18 +3666,15 @@
 	<string key="Legion_Legionnaire_DG_BrimstoneSands_Minion_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Skażony legionista</string>
 	<string key="Legion_Legionnaire_DG_BrimstoneSands_Crassus_Minion_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Skażony legionista</string>
 	<string key="Legion_Legionnaire_DG_BrimstoneSands_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Scypion</string>
-	<string key="Legion_Legionnaire_Ethereal_LOC_BOSS_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Event_February_Temp">Widmowy centurion Krassusa</string>
 	<string key="Legion_Legionnaire_Ethereal_ELITE_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Elitarny widmowy centurion</string>
 	<string key="Legion_Legionnaire_Ethereal_Named_05_ELITE_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Jowiszowe bóstwo</string>
 	<string key="Legion_Legionnaire_Ethereal_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Widmowy centurion</string>
-	<string key="Legion_Legionnaire_LOC_BOSS_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_February_Temp">Legionista Krassusa</string>
 	<string key="Legion_Legionnaire_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Centurion Magnus</string>
 	<string key="Legion_Legionnaire_Named_01_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Trybunka Ursula, gladiatorka</string>
 	<string key="Legion_Legionnaire_Named_02_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Prymus Wespazjan</string>
 	<string key="Legion_Legionnaire_Named_03_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Prymus Galba</string>
 	<string key="Legion_Legionnaire_Named_04_16BS06c_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Aquilifer Scala</string>
 	<string key="Legion_Legionnaire_NoShield_ELITE_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Elitarny prefekt</string>
-	<string key="Legion_Legionnaire_NoShield_LOC_BOSS_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Event_February_Temp">Legionowy prefekt Krassusa</string>
 	<string key="Legion_Legionnaire_NoShield_DG_BrimstoneSands_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Legionowy prefekt</string>
 	<string key="Legion_Legionnaire_NoShield_DG_BrimstoneSands_Crassus_Minion_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Legionowy prefekt</string>
 	<string key="Legion_Legionnaire_NoShield_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Legionowy prefekt</string>
@@ -3616,7 +3691,6 @@
 	<string key="Legion_Sagittarii_65_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Skażony łucznik z legionu</string>
 	<string key="Legion_Sagittarii_66_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Skażony łucznik z legionu</string>
 	<string key="Legion_Sagittarii_67_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Skażony łucznik z legionu</string>
-	<string key="Legion_Sagittarii_LOC_BOSS_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Event_February_Temp">Łucznik Krassusa</string>
 	<string key="Legion_Sagittarii_DG_BrimstoneSands_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Skażony łucznik z legionu</string>
 	<string key="Legion_Sagittarii_DG_BrimstoneSands_Minion_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Skażony łucznik z legionu</string>
 	<string key="Legion_Sagittarii_ELITE_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Elitarny łucznik</string>
@@ -3638,7 +3712,6 @@
 	<string key="Legion_Signifer_DG_BrimstoneSands_Crassus_Minion_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Legionowy chorąży</string>
 	<string key="Legion_Signifer_DG_BrimstoneSands_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Lucjusz</string>
 	<string key="Legion_Signifer_ELITE_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Elitarny legionowy chorąży</string>
-	<string key="Legion_Signifer_LOC_BOSS_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_February_Temp">Chorąży Nerva</string>
 	<string key="Legion_Signifer_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Alchemik Ignacjusz</string>
 	<string key="Legion_Signifer_Named_01_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Trybun Elias, władca ogarów</string>
 	<string key="Legion_Signifer_Named_02_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Trybun Kastor, władca ogarów</string>
@@ -3735,7 +3808,6 @@
 	<string key="Lost_Pikeman_Named_12MB05_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Kowal Baldwyne</string>
 	<string key="Lost_Pikeman_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Zagubiony pikinier</string>
 	<string key="Medea_Caster_VitalsName" comment="Quest Medea - Windsward" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Medea</string>
-	<string key="Armored_Dragon_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Armored Dragon</string>
 	<string key="Lost_Totem_60_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zagubiony totem</string>
 	<string key="Lost_Totem_VitalsName" comment="BASE" speaker="Vitals Sheet">Zagubiony totem</string>
 	<string key="Lynx_03GC10_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Ryś śnieżny</string>
@@ -3789,9 +3861,9 @@
 	<string key="MegaTurkey_VitalsName" comment="BASE" speaker="Vitals Sheet">Turkulon, Pierzasty Mściciel Śmierci</string>
 	<string key="Mountain_Lion_03GC05_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Śnieżny kuguar</string>
 	<string key="Mountain_Lion_10_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Puma</string>
-	<string key="Mountain_Lion_10WS05_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Wyspiarska pantera</string>
-	<string key="Mountain_Lion_10WS06_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Wyspiarska pantera</string>
-	<string key="Mountain_Lion_10WS08_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Wyspiarska pantera</string>
+	<string key="Mountain_Lion_10WS05_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Wyspiarska puma</string>
+	<string key="Mountain_Lion_10WS06_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Wyspiarska puma</string>
+	<string key="Mountain_Lion_10WS08_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Wyspiarska puma</string>
 	<string key="Mountain_Lion_11_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Puma</string>
 	<string key="Mountain_Lion_12_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Puma</string>
 	<string key="Mountain_Lion_13_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Puma</string>
@@ -3848,6 +3920,8 @@
 	<string key="Naga_Corrupted_CorruptionCore_VitalsName" comment="Naga_Corrupted_CorruptionCore_VitalsName" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Rdzeń skażenia</string>
 	<string key="Naga_Corrupted_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Neishatun</string>
 	<string key="Naga_VitalsName" comment="BASE" speaker="Vitals Sheet">Naga</string>
+	<string key="Naga_Fire_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Ifryt</string>
+	<string key="Naga_Fire_Clone_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Projekcja</string>
 	<string key="OR_Bear_VitalsName" comment="Outpost Rush" speaker="Vitals Sheet">Przyzwany niedźwiedź</string>
 	<string key="OR_Boss_TBD_VitalsName" comment="Outpost Rush" speaker="Vitals Sheet">Baronowa Hain</string>
 	<string key="OR_Corrupted_Acolyte_VitalsName" comment="Outpost Rush" speaker="Vitals Sheet">Skażony akolita</string>
@@ -4285,9 +4359,10 @@
 	<string key="Sand_Elemental_Soldier_Spawn_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Lądowy pachołek</string>
 	<string key="Sand_Elemental_Soldier_RockPile_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Poległy żołnierz</string>
 	<string key="Sand_Elemental_Soldier_RockPile_Spawn_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Poległy żołnierz</string>
-	<string key="Sandworm_Acidball_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Kula kwasu</string>
-	<string key="Sandworm_AcidSpew_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Kwasowy spluwacz</string>
-	<string key="Sandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Szach-Neszen Pożeracz</string>
+	<string key="Season_01_Event_Dryad_Archer_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Temp">Jeżynowy łucznik</string>
+	<string key="Season_01_Event_Dryad_Soldier_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Temp">Jeżynowy żołnierz</string>
+	<string key="Season_01_Event_Dryad_Shaman_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Temp">Jeżynowy szaman</string>
+	<string key="Season_01_Event_Dryad_Prowler_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Temp">Jeżynowy czatownik</string>
 	<string key="Sheep_Churro_13_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Owca Churro</string>
 	<string key="Sheep_Churro_15_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Owca Churro</string>
 	<string key="Sheep_Churro_18_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Owca Churro</string>
@@ -4379,6 +4454,7 @@
 	<string key="Skeleton_1H_Sword_64_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Szkieletowy wartownik</string>
 	<string key="Skeleton_1H_Sword_AGHeavy_Minion_VitalsName" comment="Generic Minion Variant" speaker="Vitals Sheet">Wartownik pradawnych strażników</string>
 	<string key="Skeleton_1H_Sword_DG_Everfall_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Wojownik z Gwiezdnego Kurhanu</string>
+	<string key="Skeleton_1H_Sword_DG_GreatCleave_01_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Zamarznięty żołnierz</string>
 	<string key="Skeleton_1H_Sword_MSQ_13_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Bezlitosny konserwator</string>
 	<string key="Skeleton_1H_Sword_MSQ_39_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Nieustępliwy instruktor</string>
 	<string key="Skeleton_1H_Sword_VitalsName" comment="BASE" speaker="Vitals Sheet">Wartownik pradawnych strażników</string>
@@ -4431,6 +4507,7 @@
 	<string key="Skeleton_2H_Sword_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Mściciel pradawnych strażników</string>
 	<string key="Skeleton_2H_Sword_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Mściciel pradawnych strażników</string>
 	<string key="Skeleton_2H_Sword_DG_Everfall_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Wartownik strażników z Gwiezdnego Kurhanu</string>
+	<string key="Skeleton_2H_Sword_DG_GreatCleave_01_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Zamarznięty mściciel</string>
 	<string key="Skeleton_2H_Sword_DG_Reekwater_00_Spawn_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Łazarzowy mściciel</string>
 	<string key="Skeleton_2H_Sword_DG_Reekwater_00_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Łazarzowy mściciel</string>
 	<string key="Skeleton_2H_Sword_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Elitarny pradawny mściciel</string>
@@ -4481,6 +4558,7 @@
 	<string key="Skeleton_Archer_61_ELITE_VitalsName" comment="Elite Level Variant" speaker="Vitals Sheet">Szkieletowy łucznik</string>
 	<string key="Skeleton_Archer_AGHeavy_Minion_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Łucznik pradawnych strażników</string>
 	<string key="Skeleton_Archer_DG_Everfall_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Łucznik z Gwiezdnego Kurhanu</string>
+	<string key="Skeleton_Archer_DG_GreatCleave_01_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Zamarznięty łucznik</string>
 	<string key="Skeleton_Archer_DG_Reekwater_00_Spawn_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Łazarzowy łucznik</string>
 	<string key="Skeleton_Archer_DG_Reekwater_00_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Łazarzowy łucznik</string>
 	<string key="Skeleton_Archer_Elite_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Elitarny pradawny łucznik</string>
@@ -4605,6 +4683,7 @@
 	<string key="Skeleton_Crawler_9_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Pełzacz pradawnych strażników</string>
 	<string key="Skeleton_Crawler_AGHeavy_Minion_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Pełzacz pradawnych strażników</string>
 	<string key="Skeleton_Crawler_DG_Everfall_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Człapacz z Gwiezdnego Kurhanu</string>
+	<string key="Skeleton_Crawler_DG_GreatCleave_01_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Zamarznięty pełzacz</string>
 	<string key="Skeleton_Crawler_DG_Reekwater_00_Spawn_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Łazarzowy obrońca</string>
 	<string key="Skeleton_Crawler_DG_Reekwater_00_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Łazarzowy obrońca</string>
 	<string key="Skeleton_Crawler_Elite_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Elitarny pradawny pełzacz</string>
@@ -4654,10 +4733,12 @@
 	<string key="Skeleton_Spear_63_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Szkieletowy włócznik</string>
 	<string key="Skeleton_Spear_64_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Szkieletowy włócznik</string>
 	<string key="Skeleton_Spear_DG_Everfall_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Włócznik z Gwiezdnego Kurhanu</string>
+	<string key="Skeleton_Spear_DG_GreatCleave_01_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Zamarznięty włócznik</string>
 	<string key="SpellBot_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Ostateczne błogosławieństwo</string>
 	<string key="Spriggan_Corrupted_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgardzki spriggan</string>
 	<string key="Spriggan_Corrupted_VitalsName" comment="BASE" speaker="Vitals Sheet">Skażony spriggan</string>
 	<string key="Spriggan_Forest_VitalsName" comment="BASE" speaker="Vitals Sheet">Zygoramet</string>
+	<string key="Spriggan_Season_1_Event_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Temp">Wściekły jeżynowy spriggan</string>
 	<string key="Spriggan_Heal_Shield_VitalsName" comment="BASE" speaker="Vitals Sheet">Leśna tarcza spriggana</string>
 	<string key="Starved_Bandit_1H_Club_60_VitalsName" comment="BASE" speaker="Vitals Sheet">Zagłodzony bandyta</string>
 	<string key="Starved_Bandit_1H_Club_61_VitalsName" comment="BASE" speaker="Vitals Sheet">Zagłodzony bandyta</string>
@@ -4670,6 +4751,7 @@
 	<string key="Starved_Mercenary_2H_Axe_63_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zagłodzony najemnik</string>
 	<string key="Starved_Mercenary_2H_Axe_64_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zagłodzony najemnik</string>
 	<string key="Structure_LaserBeam_VitalsName" comment="Dungeon" speaker="Vitals Sheet">Magiczna bariera</string>
+	<string key="Structure_Piston_VitalsName" comment="Dungeon" speaker="Vitals Sheet">Azothowy tłok</string>
 	<string key="Structure_VitalsName" comment="BASE" speaker="Vitals Sheet">Konstrukcja</string>
 	<string key="Sulfur_Dragon_ELITE_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Elitarny siarkowy smok</string>
 	<string key="Sulfur_Dragon_Named_00_VitalsName" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Khelone Khelydorea</string>
@@ -4860,9 +4942,9 @@
 	<string key="Totem_Withered_Nest_25_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Uschnięte gniazdo</string>
 	<string key="Totem_Withered_Nest_DG_Windsward_00_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Gniazdo z gwieździstych wykopalisk</string>
 	<string key="Totem_Withered_Nest_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Uschnięte gniazdo</string>
-	<string key="Totem_LOC_BOSS_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Event_February_Temp">Sztandar legionu Krassusa</string>
 	<string key="Training_Dummy_VitalsName" comment="BASE" speaker="Vitals Sheet">Manekin ćwiczebny</string>
 	<string key="Trap_VitalsName" comment="BASE" speaker="Vitals Sheet">Pułapka</string>
+	<string key="Trap_Bear_VitalsName" comment="BASE" speaker="Vitals Sheet">Pułapka na niedźwiedzie</string>
 	<string key="Turkey_03GC05_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Zimowy ptak</string>
 	<string key="Turkey_10WS01_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Ptak ze Sierry</string>
 	<string key="Turkey_10WS02_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Ptak ze sierry</string>
@@ -5049,7 +5131,7 @@
 	<string key="Undead_GraveDigger_64_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zagubiony grabarz</string>
 	<string key="Undead_GraveDigger_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Grabarz Clift</string>
 	<string key="Undead_GraveDigger_Named_01_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Kapelan Nuñez</string>
-	<string key="Undead_GraveDigger_Named_02_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Inkwizytor Matthias</string>
+	<string key="Undead_GraveDigger_Named_02_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Czujny Kimball</string>
 	<string key="Undead_GraveDigger_Named_03_08QP07_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Grabarz Mordici</string>
 	<string key="Undead_GraveDigger_Named_04_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Mamiący grabarz</string>
 	<string key="Undead_GraveDigger_RE1_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Lamentujący ojciec</string>
@@ -5229,7 +5311,7 @@
 	<string key="Undead_Hunter_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zagubiony łowca</string>
 	<string key="Undead_Hunter_63_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zagubiony łowca</string>
 	<string key="Undead_Hunter_64_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zagubiony łowca</string>
-	<string key="Undead_Hunter_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Inkwizytorka Lucia</string>
+	<string key="Undead_Hunter_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Zwolenniczka czujnych Lucia</string>
 	<string key="Undead_Hunter_Named_01_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Joan Wiarołomna</string>
 	<string key="Undead_Hunter_Named_02_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Łowca duchów Adams</string>
 	<string key="Undead_Hunter_Named_03_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Pogromczyni Cieni Erika</string>
@@ -5285,7 +5367,7 @@
 	<string key="Undead_Javelineer_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zagubiony palownik</string>
 	<string key="Undead_Javelineer_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Rybak Edmand</string>
 	<string key="Undead_Javelineer_Named_01_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Apostata Bremen Luca</string>
-	<string key="Undead_Javelineer_Named_02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Moira Niepogrzebana</string>
+	<string key="Undead_Javelineer_Named_02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Moira, kapitan Czujnych</string>
 	<string key="Undead_Javelineer_VitalsName" comment="BASE" speaker="Vitals Sheet">Zagubiony palownik</string>
 	<string key="Undead_Navigator_08QP05a_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Strzelec Stormcourtów</string>
 	<string key="Undead_Navigator_08QP05b_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Strzelec Stormcourtów</string>
@@ -5297,10 +5379,12 @@
 	<string key="Undead_Navigator_12_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zagubiony nawigator</string>
 	<string key="Undead_Navigator_12MB01b_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Bryseddowy strzelec</string>
 	<string key="Undead_Navigator_12MB01c_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Strzelec Fiodora</string>
+	<string key="Undead_Navigator_12MB01c_Boat_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Strzelec Fiodora</string>
 	<string key="Undead_Navigator_12MB06c_Named_ELITE_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Kikazaru</string>
 	<string key="Undead_Navigator_12MB06c_Named_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Kikazaru</string>
 	<string key="Undead_Navigator_12MB06c_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Kosowy misjonarz</string>
 	<string key="Undead_Navigator_12MB06d_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Strzelec Estebana</string>
+	<string key="Undead_Navigator_12MB06d_Boat_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Strzelec Estebana</string>
 	<string key="Undead_Navigator_13_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zagubiony nawigator</string>
 	<string key="Undead_Navigator_14_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zagubiony nawigator</string>
 	<string key="Undead_Navigator_15_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zagubiony nawigator</string>
@@ -5379,6 +5463,7 @@
 	<string key="Undead_Officer_12MB06C_Named_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Mizaru</string>
 	<string key="Undead_Officer_12MB06C_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Kosowy oficer pokładowy</string>
 	<string key="Undead_Officer_12MB06d_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Pokładowiec Estebana</string>
+	<string key="Undead_Officer_12MB06d_Boat_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Pokładowiec Estebana</string>
 	<string key="Undead_Officer_12MB10_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Bryseddowy pokładowy</string>
 	<string key="Undead_Officer_13_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zagubiony oficer</string>
 	<string key="Undead_Officer_16_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zagubiony oficer</string>
@@ -5429,9 +5514,11 @@
 	<string key="Undead_Officer_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Miklos Dauti</string>
 	<string key="Undead_Officer_Named_00_old_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Emilio Rose</string>
 	<string key="Undead_Officer_Named_01_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Marceline</string>
-	<string key="Undead_Officer_Named_02_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Mistrz Henry</string>
+	<string key="Undead_Officer_Named_02_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Admirał Arias</string>
 	<string key="Undead_Officer_Named_03_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Parszywobrody</string>
 	<string key="Undead_Officer_Named_04_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Rekin Ching Shih</string>
+	<string key="Undead_Officer_Named_04NW11c_VItalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Quest_MSQ2_WeaversFen">Lawrence z Długiego Cienia</string>
+	<string key="VC_Undead_Officer_Named_04NW11c" comment="Named Variant" speaker="VitalsCatagorySheet" rel_version="Quest_MSQ2_WeaversFen">Lawrence z Długiego Cienia</string>
 	<string key="Undead_Officer_Named_05_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Admirał Reis</string>
 	<string key="Undead_Officer_Named_05WC11_VitalsName" comment="ELITE Named Variant" speaker="Vitals Sheet">Pies Syreny</string>
 	<string key="Undead_Officer_Named_06_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Małżobrody</string>
@@ -5471,6 +5558,7 @@
 	<string key="Undead_Pistoleer_Named_12MB06_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Fatima</string>
 	<string key="Undead_Pistoleer_12MB01b_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Bryseddowy wartownik</string>
 	<string key="Undead_Pistoleer_12MB01c_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Porucznik Fiodora</string>
+	<string key="Undead_Pistoleer_12MB01c_Boat_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Porucznik Fiodora</string>
 	<string key="Undead_Pistoleer_12MB06C_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Kosowy nocny wartownik</string>
 	<string key="Undead_Pistoleer_12MB10_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Bryseddowy wartownik</string>
 	<string key="Undead_Pistoleer_13_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Zagubiony strzelec</string>
@@ -5769,6 +5857,7 @@
 	<string key="VC_Ancient_Javelineer" comment="BASE" speaker="VitalsCategory Sheet">Regent pradawnych strażników</string>
 	<string key="VC_Ancient_Mage" comment="BASE" speaker="VitalsCategory Sheet">Czarodziejka pradawnych strażników</string>
 	<string key="VC_AncientGuardian_Heavy_Boss_Named_DG_Everfall_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Regentka Greundgul</string>
+	<string key="VC_AncientGuardian_Heavy_Boss_Named_DG_GreatCleave_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Perfidny Savaric</string>
 	<string key="VC_AncientGuardian_Heavy_Named_00" comment="BASE" speaker="VitalsCategory Sheet">Mistrz Kuźni Ezra</string>
 	<string key="VC_AncientGuardian_Javelin_13WF02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Ślubowany gwiazdom regent</string>
 	<string key="VC_AncientGuardian_Javelin_13WF05" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Zaprzysiężony niebiosom regent</string>
@@ -5841,6 +5930,7 @@
 	<string key="VC_AncientGuardian_Javelineer_63" comment="Generic Level Variant" speaker="Vitals Sheet">Oszczepnik pradawnych strażników</string>
 	<string key="VC_AncientGuardian_Javelineer_64" comment="Generic Level Variant" speaker="Vitals Sheet">Oszczepnik pradawnych strażników</string>
 	<string key="VC_AncientGuardian_Javelineer_DG_Everfall_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Oszczepnik strażników z Gwiezdnego Kurhanu</string>
+	<string key="VC_AncientGuardian_Javelineer_DG_GreatCleave_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Zamarznięty oszczepnik</string>
 	<string key="VC_AncientGuardian_Javelineer_DG_Reekwater_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Łazarzowy oszczepnik</string>
 	<string key="VC_AncientGuardian_Javelineer_ELITE" comment="Mission Target Display Name" speaker="Vitals Category">Elitarny pradawny oszczepnik</string>
 	<string key="VC_AncientGuardian_Javelineer_Named_00" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Nadzorca Kisare</string>
@@ -5901,6 +5991,7 @@
 	<string key="VC_AncientGuardian_Mage_62" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Pradawna czarodziejka</string>
 	<string key="VC_AncientGuardian_Mage_67_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Pradawna czarodziejka</string>
 	<string key="VC_AncientGuardian_Mage_DG_Everfall_00" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Mag strażników z Gwiezdnego Kurhanu</string>
+	<string key="VC_AncientGuardian_Mage_DG_GreatCleave_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Zamarznięty mag</string>
 	<string key="VC_AncientGuardian_Mage_ELITE" comment="Mission Target Display Name" speaker="Vitals Category">Elitarny pradawny mag</string>
 	<string key="VC_AncientGuardian_Mage_MSQ_Named" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Niezgłębiony sylogista</string>
 	<string key="VC_AncientGuardian_Mage_MSQ_Named_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Guwerner Laokoon</string>
@@ -5963,6 +6054,7 @@
 	<string key="VC_AncientGuardian_Reaver_63" comment="Generic Level Variant" speaker="Vitals Sheet">Łupieżca pradawnych strażników</string>
 	<string key="VC_AncientGuardian_Reaver_64" comment="Generic Level Variant" speaker="Vitals Sheet">Łupieżca pradawnych strażników</string>
 	<string key="VC_AncientGuardian_Reaver_DG_Everfall_00" comment="Generic Level Variant" speaker="Vitals Sheet">Łupieżca strażników z Gwiezdnego Kurhanu</string>
+	<string key="VC_AncientGuardian_Reaver_DG_GreatCleave_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Zamarznięty łupieżca</string>
 	<string key="VC_AncientGuardian_Reaver_DG_Reekwater_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Łazarzowy łupieżca</string>
 	<string key="VC_AncientGuardian_Reaver_ELITE" comment="Mission Target Display Name" speaker="Vitals Category">Elitarny pradawny łupieżca</string>
 	<string key="VC_AncientGuardian_Reaver_Named_00" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Strażnik mostu</string>
@@ -6032,6 +6124,7 @@
 	<string key="VC_AncientGuardian_Spearman_63" comment="Generic Level Variant" speaker="Vitals Sheet">Nadzorca pradawnych strażników</string>
 	<string key="VC_AncientGuardian_Spearman_64" comment="Generic Level Variant" speaker="Vitals Sheet">Nadzorca pradawnych strażników</string>
 	<string key="VC_AncientGuardian_Spearman_DG_Everfall_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Tarczownik strażników z Gwiezdnego Kurhanu</string>
+	<string key="VC_AncientGuardian_Spearman_DG_GreatCleave_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Zamarznięty nadzorca</string>
 	<string key="VC_AncientGuardian_Spearman_DG_Reekwater_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Łazarzowy nadzorca</string>
 	<string key="VC_AncientGuardian_Spearman_ELITE" comment="Mission Target Display Name" speaker="Vitals Category">Elitarny pradawny włócznik</string>
 	<string key="VC_AncientGuardian_Spearman_Named_00" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Świetlisty nadzorca</string>
@@ -6789,6 +6882,8 @@
 	<string key="VC_broken_laborer_knife" comment="Mission Target Display Name" speaker="VitalsCategory">Skażony wieśniak</string>
 	<string key="VC_Broken_Laborer_Pickaxe" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Legionowy górnik</string>
 	<string key="VC_broken_laborer_prong" comment="Mission Target Display Name" speaker="VitalsCategory">Skażony kucharz</string>
+	<string key="VC_Brother_Umberto" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Przeklęty duch Umberta</string>
+	<string key="VC_Brother_Umberto_Human" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Brat Umberto, Wielki Czujny</string>
 	<string key="VC_Bronzeroot" comment="BASE" speaker="VitalsCategory Sheet">Brązowopnączy</string>
 	<string key="VC_Campanilean" comment="BASE" speaker="VitalsCategory Sheet">Kampanilowy</string>
 	<string key="VC_Canary" comment="BASE" speaker="VitalsCategory Sheet">Kanarkowy</string>
@@ -6866,8 +6961,6 @@
 	<string key="VC_CorruptedLegion_Cyclops_67" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Krwawostopy cyklop</string>
 	<string key="VC_CorruptedLegion_Cyclops_DG_BrimstoneSands_00" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Skażony cyklop</string>
 	<string key="VC_CorruptedLegion_Cyclops_DG_BrimstoneSands_Named_00" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Pluton</string>
-	<string key="VC_CorruptedLegion_Cyclops_LOC_BOSS_00" comment="Mission Target Display Name" speaker="VitalsCategory" rel_version="Event_February_Temp">Centurion Lukan</string>
-	<string key="VC_CorruptedLegion_Cyclops_LOC_BOSS_01" comment="Mission Target Display Name" speaker="VitalsCategory" rel_version="Event_February_Temp">Centurion Decimus</string>
 	<string key="VC_CorruptedLegion_Cyclops_Named_00" comment="Mission Target Display Name" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Tytaniczny Saturninus</string>
 	<string key="VC_CorruptedLegion_Cyclops_Named_01" comment="Mission Target Display Name" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Łamacz z Arty</string>
 	<string key="VC_CorruptedLegion_Cyclops_Named_02_ELITE" comment="ELITE Named Variant - Mission Target Display Name" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Potworny Polifem</string>
@@ -6910,7 +7003,7 @@
 	<string key="VC_Corruption_Heavy_Named_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Guldar</string>
 	<string key="VC_Corruption_Heavy_Named_DG_Restless_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Despar</string>
 	<string key="VC_Corruption_Heavy_Named_DG_ShatterMtn_00" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Expedition_ShatterMtn_00">Uzret</string>
-	<string key="VC_Corruption_Heavy_Named_MSQ_Ballards" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Generał Carvalho</string>
+	<string key="VC_Corruption_Heavy_Named_MSQ_Ballards" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Sir Ballard</string>
 	<string key="VC_Corruption_Impaler" comment="BASE" speaker="VitalsCategory Sheet">Skażony palownik</string>
 	<string key="VC_Corruption_Impaler_06SW09" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Rozmazany palownik</string>
 	<string key="VC_Corruption_Impaler_08QP04" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Bladowichry palownik</string>
@@ -7005,7 +7098,7 @@
 	<string key="VC_Damned_1H_Swordsman_M_Named_04" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">SIEPACZ KRWI</string>
 	<string key="VC_Damned_1H_Swordsman_M_Named_06" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Szef kuchni Navarro</string>
 	<string key="VC_Damned_1H_Swordsman_M_Named_07" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Nadzorca Zane</string>
-	<string key="VC_Damned_1H_Swordsman_M-F_02BW01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skażony wicearbiter templariuszy</string>
+	<string key="VC_Damned_1H_Swordsman_M-F_02BW01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skażony porucznik Czujnych</string>
 	<string key="VC_Damned_1H_Swordsman_M-F_02BW02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Piłowy najemnik</string>
 	<string key="VC_Damned_1H_Swordsman_M-F_02BW05" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Rdzawy najemnik</string>
 	<string key="VC_Damned_1H_Swordsman_M-F_03GC03_ELITE" comment="ELITE Level Variant" speaker="Vitals Sheet">Bezbożny mieczownik</string>
@@ -7104,6 +7197,7 @@
 	<string key="VC_Damned_Acolyte_Named_00" comment="ELITE Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">S'ylanx Niewidziany</string>
 	<string key="VC_Damned_Acolyte_Named_02_ELITE" comment="ELITE Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Rytualista Varios</string>
 	<string key="VC_Damned_Acolyte_Named_03GC06_MSQ" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Quest_MSQ_Update_4">Porucznik Alvius</string>
+	<string key="VC_Damned_Acolyte_Named_03GC07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Quest_MSQ2_WeaversFen">Prometeusz Vane</string>
 	<string key="VC_Damned_Acolyte_Named_03GC08" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Archeolog Sauquillo</string>
 	<string key="VC_Damned_Acolyte_Named_04nw10" comment="Mission Target Display Name" speaker="Vitals Category">Mahon</string>
 	<string key="VC_Damned_Acolyte_Named_08QP07" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Skażony emisariusz</string>
@@ -7111,7 +7205,7 @@
 	<string key="VC_Damned_Axeman" comment="BASE" speaker="VitalsCategory Sheet">Skażony łowca</string>
 	<string key="VC_Damned_Axeman_64" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Wysokogórski topornik</string>
 	<string key="VC_Damned_Axeman_Female" comment="BASE" speaker="VitalsCategory Sheet">Skażona łowczyni</string>
-	<string key="VC_Damned_Axeman_M-F_02BW01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skażony inkwizytor templariuszy</string>
+	<string key="VC_Damned_Axeman_M-F_02BW01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Skażony giermek Czujnych</string>
 	<string key="VC_Damned_Axeman_M-F_03GC06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Szperacz z iglicy</string>
 	<string key="VC_Damned_Axeman_M-F_03GC08" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Garnizonowy szperacz z tundry</string>
 	<string key="VC_Damned_Axeman_M-F_03GC08a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Jałowy szperacz</string>
@@ -7803,7 +7897,7 @@
 	<string key="VC_Desert_Medium_Scorpion_16BS11" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Territory_Brimstone_Sands">Skorpion z Czerwonego Kamienia</string>
 	<string key="VC_Desert_Medium_Scorpion_16BS12" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Territory_Brimstone_Sands">Chtoniczny skorpion</string>
 	<string key="VC_Desert_Scorpion_16BS01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Territory_Brimstone_Sands">Dorosły skorpion korsykański</string>
-	<string key="VC_Desert_Scorpion_16BS02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Territory_Brimstone_Sands">Dorosły skorpion bliźniaczy</string>
+	<string key="VC_Desert_Scorpion_16BS02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Territory_Brimstone_Sands">Dorosły wododziałowy skorpion</string>
 	<string key="VC_Desert_Scorpion_16BS03" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Territory_Brimstone_Sands">Dorosły widmowy skorpion</string>
 	<string key="VC_Desert_Scorpion_16BS04" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Territory_Brimstone_Sands">Dorosły skorpion z Martwej Wody</string>
 	<string key="VC_Desert_Scorpion_16BS04b" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Dorosły chtoniczny skorpion</string>
@@ -7871,6 +7965,7 @@
 	<string key="VC_Dirtclaw" comment="BASE" speaker="VitalsCategory Sheet">Grzebacz</string>
 	<string key="VC_Doe" comment="BASE" speaker="VitalsCategory Sheet">Łania wapiti</string>
 	<string key="VC_Dorado" comment="BASE" speaker="VitalsCategory Sheet">Dorado</string>
+	<string key="VC_Drakongard" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Drakongardzki</string>
 	<string key="VC_Dreadscythe" comment="BASE" speaker="VitalsCategory Sheet">Kosowy</string>
 	<string key="VC_drenchsky" comment="Mission Target Display Name" speaker="VitalsCategory">Deszczowy</string>
 	<string key="VC_Drowned" comment="BASE" speaker="VitalsCategory Sheet">Utopiony</string>
@@ -8609,8 +8704,8 @@
 	<string key="VC_Dynasty_Summoner_Named_08QP07" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Visti</string>
 	<string key="VC_Dynasty_Summoner_Named_08QP08" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Erlander</string>
 	<string key="VC_Dynasty_Summoner_Named_16BS02d" comment="Mission Target Display Name" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Cesarski ambasador Li Bai</string>
-	<string key="VC_Dynasty_Summoner_Named_DG_Ebonscale_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Zaklinacz Yau</string>
-	<string key="VC_Dynasty_Summoner_Named_DG_Ebonscale_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Zaklinacz Guang</string>
+	<string key="VC_Dynasty_Summoner_Named_DG_Ebonscale_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Przywoływacz Yau</string>
+	<string key="VC_Dynasty_Summoner_Named_DG_Ebonscale_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Przywoływacz Guang</string>
 	<string key="VC_Dynasty_Trainee_08QP08" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Gwardzista dynastii</string>
 	<string key="VC_Dynasty_Trainee_DG_Ebonscale_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Stoczniowy praktykant</string>
 	<string key="VC_Dynasty_Warrior_03GC03_ELITE" comment="ELITE Level Variant" speaker="Vitals Sheet">Bezbożny konwojent</string>
@@ -8820,6 +8915,8 @@
 	<string key="VC_Evil_Knight_Bow_09FL07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Kindżałgardzki łucznik</string>
 	<string key="VC_Evil_Knight_Bow_10WS04" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="AI_Evil_Knights_P2">Kindżałgardzki łucznik</string>
 	<string key="VC_Evil_Knight_Bow_12MB01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Wulkgardzki łucznik</string>
+	<string key="VC_Evil_Knight_Bow_14AC06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Worongardzki łucznik</string>
+	<string key="VC_Evil_Knight_Bow_14AC13" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Sokolgardzki łucznik</string>
 	<string key="VC_Evil_Knight_Bow_16" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Wareski łucznik</string>
 	<string key="VC_Evil_Knight_Bow_17" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Wareski łucznik</string>
 	<string key="VC_Evil_Knight_Bow_18" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Wareski łucznik</string>
@@ -8837,13 +8934,18 @@
 	<string key="VC_Evil_Knight_Bow_30" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski łucznik</string>
 	<string key="VC_Evil_Knight_Bow_31" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski łucznik</string>
 	<string key="VC_Evil_Knight_Bow_32" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski łucznik</string>
-	<string key="VC_Evil_Knight_Bow_33" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Infernus pionier</string>
-	<string key="VC_Evil_Knight_Bow_34" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski łucznik</string>
+	<string key="VC_Evil_Knight_Bow_DG_GreatCleave01_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Wareski pionier</string>
+	<string key="VC_Evil_Knight_Bow_DG_GreatCleave01_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Infernus pionier</string>
+	<string key="VC_Evil_Knight_Bow_Elite" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Elitarny łucznik</string>
+	<string key="VC_Evil_Knight_Bow_Elite_08QP02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Drakongardzki łucznik</string>
 	<string key="VC_Evil_Knight_Bow_Named_09FL07" comment="Named Variant" speaker="VitalsCategory" rel_version="AI_Evil_Knights_P1">Sir Frelav Płomień</string>
+	<string key="VC_Evil_Knight_Bow_Named_DG_GreatCleave_01" comment="Named Variant" speaker="VitalsCategory" rel_version="Expedition_GreatCleave_01">Sir Skarin</string>
 	<string key="VC_Evil_Knight_Caster" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski mag</string>
 	<string key="VC_Evil_Knight_Caster_02BW07" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="AI_Evil_Knights_P2">Sokolgardzki mag</string>
 	<string key="VC_Evil_Knight_Caster_04NW04" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="AI_Evil_Knights_P2">Worongardzki mag</string>
 	<string key="VC_Evil_Knight_Caster_10WS04" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="AI_Evil_Knights_P2">Kindżałgardzki mag</string>
+	<string key="VC_Evil_Knight_Caster_14AC06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Worongardzki mag</string>
+	<string key="VC_Evil_Knight_Caster_14AC13" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Sokolgardzki mag</string>
 	<string key="VC_Evil_Knight_Caster_25" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski mag</string>
 	<string key="VC_Evil_Knight_Caster_26" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski mag</string>
 	<string key="VC_Evil_Knight_Caster_27" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski mag</string>
@@ -8852,8 +8954,17 @@
 	<string key="VC_Evil_Knight_Caster_30" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski mag</string>
 	<string key="VC_Evil_Knight_Caster_31" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski mag</string>
 	<string key="VC_Evil_Knight_Caster_32" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski mag</string>
+	<string key="VC_Evil_Knight_Caster_DG_GreatCleave01_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Wykuty mag</string>
+	<string key="VC_Evil_Knight_Caster_DG_GreatCleave01_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Wykuty mag</string>
+	<string key="VC_Evil_Knight_Caster_Elite" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Elitarny mag</string>
+	<string key="VC_Evil_Knight_Caster_Elite_08QP02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Drakongardzki mag</string>
 	<string key="VC_Evil_Knight_Caster_Named_04NW04" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Sonieczka Bladolicy</string>
+	<string key="VC_Evil_Knight_Caster_Named_14AC06" comment="Named Variant" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Kari Subtelny</string>
+	<string key="VC_Evil_Knight_Caster_Named_DG_GreatCleave_01" comment="Named Variant" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Sir Bishop</string>
 	<string key="VC_Evil_Knight_Commander" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski dowódca</string>
+	<string key="VC_Evil_Knight_Commander_Named_08QP02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Lord dowódca Attalos</string>
+	<string key="VC_Evil_Knight_Commander_Named_DG_GreatCleave_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Sir Ducas</string>
+	<string key="VC_Evil_Knight_Fire_Champion_DG_GreatCleave_01" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Dowódca Marius</string>
 	<string key="VC_Evil_Knight_Greataxe" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Wareski mistrz bitewny</string>
 	<string key="VC_Evil_Knight_Greataxe_02BW07" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="AI_Evil_Knights_P2">Sokolgardzki mistrz bitewny</string>
 	<string key="VC_Evil_Knight_Greataxe_04NW02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Wulkgardzki mistrz bitewny</string>
@@ -8861,6 +8972,8 @@
 	<string key="VC_Evil_Knight_Greataxe_09FL07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Kindżałgardzki mistrz bitewny</string>
 	<string key="VC_Evil_Knight_Greataxe_10WS04" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="AI_Evil_Knights_P2">Kindżałgardzki mistrz bitewny</string>
 	<string key="VC_Evil_Knight_Greataxe_12MB01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Wulkgardzki mistrz bitewny</string>
+	<string key="VC_Evil_Knight_Greataxe_14AC06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Worongardzki mistrz bitewny</string>
+	<string key="VC_Evil_Knight_Greataxe_14AC13" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Sokolgardzki mistrz bitewny</string>
 	<string key="VC_Evil_Knight_Greataxe_16" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Wareski mistrz bitewny</string>
 	<string key="VC_Evil_Knight_Greataxe_17" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Wareski mistrz bitewny</string>
 	<string key="VC_Evil_Knight_Greataxe_18" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Wareski mistrz bitewny</string>
@@ -8878,11 +8991,23 @@
 	<string key="VC_Evil_Knight_Greataxe_30" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski mistrz bitewny</string>
 	<string key="VC_Evil_Knight_Greataxe_31" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski mistrz bitewny</string>
 	<string key="VC_Evil_Knight_Greataxe_32" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski mistrz bitewny</string>
+	<string key="VC_Evil_Knight_Greataxe_Elite" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Elitarny mistrz bitewny</string>
+	<string key="VC_Evil_Knight_Greataxe_Elite_08QP02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Drakongardzki mistrz bitewny</string>
 	<string key="VC_Evil_Knight_Greataxe_Named_12MB01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Sir Rulav Jowialny</string>
+	<string key="VC_Evil_Knight_Heavy" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Wareski ciężkozbrojny</string>
+	<string key="VC_Evil_Knight_Heavy_14AC06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Worongardzki ciężkozbrojny</string>
+	<string key="VC_Evil_Knight_Heavy_14AC13" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Sokolgardzki ciężkozbrojny</string>
+	<string key="VC_Evil_Knight_Heavy_Elite" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Elitarny ciężkozbrojny</string>
+	<string key="VC_Evil_Knight_Heavy_Elite_08QP02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Drakongardzki ciężkozbrojny</string>
+	<string key="VC_Evil_Knight_Heavy_Named_08QP02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Sir Juni Strateg</string>
+	<string key="VC_Evil_Knight_Heavy_Named_14AC13" comment="Named Variant" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Sir Olga Rębaczka</string>
+	<string key="VC_Evil_Knight_Heavy_Named_DG_GreatCleave_01" comment="Named Variant" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Sir Eld</string>
 	<string key="VC_Evil_Knight_Hound" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski ogar</string>
 	<string key="VC_Evil_Knight_Hound_02BW07" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="AI_Evil_Knights_P2">Sokolgardzki ogar</string>
 	<string key="VC_Evil_Knight_Hound_04NW04" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="AI_Evil_Knights_P2">Worongardzki ogar</string>
 	<string key="VC_Evil_Knight_Hound_10WS04" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="AI_Evil_Knights_P2">Kindżałgardzki ogar</string>
+	<string key="VC_Evil_Knight_Hound_14AC06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Worongardzki ogar</string>
+	<string key="VC_Evil_Knight_Hound_14AC13" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Sokolgardzki ogar</string>
 	<string key="VC_Evil_Knight_Hound_25" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski ogar</string>
 	<string key="VC_Evil_Knight_Hound_26" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski ogar</string>
 	<string key="VC_Evil_Knight_Hound_27" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski ogar</string>
@@ -8891,7 +9016,10 @@
 	<string key="VC_Evil_Knight_Hound_30" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski ogar</string>
 	<string key="VC_Evil_Knight_Hound_31" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski ogar</string>
 	<string key="VC_Evil_Knight_Hound_32" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski ogar</string>
-	<string key="VC_Evil_Knight_Hound_33" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski ogar</string>
+	<string key="VC_Evil_Knight_Hound_DG_GreatCleave01_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski ogar</string>
+	<string key="VC_Evil_Knight_Hound_Elite" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Elitarny ogar</string>
+	<string key="VC_Evil_Knight_Hound_Elite_08QP02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Drakongardzki ogar</string>
+	<string key="VC_Evil_Knight_Hound_Named_14AC06" comment="Named Variant" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Freki</string>
 	<string key="VC_Evil_Knight_Longsword" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Wareski zwiadowca</string>
 	<string key="VC_Evil_Knight_Longsword_02BW07" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="AI_Evil_Knights_P2">Sokolgardzki zwiadowca</string>
 	<string key="VC_Evil_Knight_Longsword_04NW02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Wulkgardzki zwiadowca</string>
@@ -8899,6 +9027,8 @@
 	<string key="VC_Evil_Knight_Longsword_09FL07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Kindżałgardzki zwiadowca</string>
 	<string key="VC_Evil_Knight_Longsword_10WS04" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="AI_Evil_Knights_P2">Kindżałgardzki zwiadowca</string>
 	<string key="VC_Evil_Knight_Longsword_12MB01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Wulkgardzki zwiadowca</string>
+	<string key="VC_Evil_Knight_Longsword_14AC06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Worongardzki zwiadowca</string>
+	<string key="VC_Evil_Knight_Longsword_14AC13" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Sokolgardzki zwiadowca</string>
 	<string key="VC_Evil_Knight_Longsword_16" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Wareski zwiadowca</string>
 	<string key="VC_Evil_Knight_Longsword_17" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Wareski zwiadowca</string>
 	<string key="VC_Evil_Knight_Longsword_18" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Wareski zwiadowca</string>
@@ -8916,9 +9046,16 @@
 	<string key="VC_Evil_Knight_Longsword_30" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski zwiadowca</string>
 	<string key="VC_Evil_Knight_Longsword_31" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski zwiadowca</string>
 	<string key="VC_Evil_Knight_Longsword_32" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski zwiadowca</string>
-	<string key="VC_Evil_Knight_Longsword_33" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Angielski zwiadowca</string>
-	<string key="VC_Evil_Knight_Longsword_34" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Zbrojny</string>
+	<string key="VC_Evil_Knight_Longsword_33" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski harcownik</string>
+	<string key="VC_Evil_Knight_Longsword_DG_GreatCleave01_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Wareski harcownik</string>
+	<string key="VC_Evil_Knight_Longsword_DG_GreatCleave01_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Wykuty harcownik</string>
+	<string key="VC_Evil_Knight_Longsword_Elite" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Elitarny zwiadowca</string>
+	<string key="VC_Evil_Knight_Longsword_Elite_08QP02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Drakongardzki zwiadowca</string>
 	<string key="VC_Evil_Knight_Longsword_Named_02BW02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Quest_MSQ_Update_4">Torbjorn</string>
+	<string key="VC_Evil_Knight_Longsword_Named_DG_GreatCleave_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Sir Newlon</string>
+	<string key="VC_Evil_Knight_LifeStaff_Named_DG_GreatCleave_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Lady Bridget</string>
+	<string key="VC_Evil_Knight_LifeStaff_DG_GreatCleave01_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Kleryk Szpitalników</string>
+	<string key="VC_Evil_Knight_LifeStaff_Elite_08QP02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Drakongardzki uzdrowiciel</string>
 	<string key="VC_Evil_Knight_Mace" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Wareski rycerz</string>
 	<string key="VC_Evil_Knight_Mace_02BW07" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="AI_Evil_Knights_P2">Sokolgardzki strażnik</string>
 	<string key="VC_Evil_Knight_Mace_04NW02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Wulkgardzki rycerz</string>
@@ -8926,6 +9063,8 @@
 	<string key="VC_Evil_Knight_Mace_09FL07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Kindżałgardzki rycerz</string>
 	<string key="VC_Evil_Knight_Mace_10WS04" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="AI_Evil_Knights_P2">Kindżałgardzki strażnik</string>
 	<string key="VC_Evil_Knight_Mace_12MB01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Wulkgardzki rycerz</string>
+	<string key="VC_Evil_Knight_Mace_14AC06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Worongardzki rycerz</string>
+	<string key="VC_Evil_Knight_Mace_14AC13" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Sokolgardzki rycerz</string>
 	<string key="VC_Evil_Knight_Mace_16" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Wareski rycerz</string>
 	<string key="VC_Evil_Knight_Mace_17" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Wareski rycerz</string>
 	<string key="VC_Evil_Knight_Mace_18" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Wareski rycerz</string>
@@ -8943,12 +9082,18 @@
 	<string key="VC_Evil_Knight_Mace_30" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski rycerz</string>
 	<string key="VC_Evil_Knight_Mace_31" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski rycerz</string>
 	<string key="VC_Evil_Knight_Mace_32" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski rycerz</string>
+	<string key="VC_Evil_Knight_Mace_DG_GreatCleave01_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Zbrojny</string>
+	<string key="VC_Evil_Knight_Mace_Elite" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Elitarny rycerz</string>
+	<string key="VC_Evil_Knight_Mace_Elite_08QP02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Drakongardzki rycerz</string>
 	<string key="VC_Evil_Knight_Mace_Named_04NW02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Sir Ulfar Mur</string>
+	<string key="VC_Evil_Knight_Mace_Named_08QP02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Sir Halfdan Kowal</string>
 	<string key="VC_Evil_Knight_Mace_Named_10WS04" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Sir Anton Ponury</string>
 	<string key="VC_Evil_Knight_Spear" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski włócznik</string>
 	<string key="VC_Evil_Knight_Spear_02BW07" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="AI_Evil_Knights_P2">Sokolgardzki lansjer</string>
 	<string key="VC_Evil_Knight_Spear_04NW04" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="AI_Evil_Knights_P2">Worongardzki lansjer</string>
 	<string key="VC_Evil_Knight_Spear_10WS04" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="AI_Evil_Knights_P2">Kindżałgardzki lansjer</string>
+	<string key="VC_Evil_Knight_Spear_14AC06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Worongardzki włócznik</string>
+	<string key="VC_Evil_Knight_Spear_14AC13" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Sokolgardzki włócznik</string>
 	<string key="VC_Evil_Knight_Spear_25" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski włócznik</string>
 	<string key="VC_Evil_Knight_Spear_26" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski włócznik</string>
 	<string key="VC_Evil_Knight_Spear_27" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski włócznik</string>
@@ -8957,11 +9102,15 @@
 	<string key="VC_Evil_Knight_Spear_30" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski włócznik</string>
 	<string key="VC_Evil_Knight_Spear_31" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski włócznik</string>
 	<string key="VC_Evil_Knight_Spear_32" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski włócznik</string>
+	<string key="VC_Evil_Knight_Spear_Elite" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Elitarny włócznik</string>
+	<string key="VC_Evil_Knight_Spear_Elite_08QP02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Drakongardzki włócznik</string>
 	<string key="VC_Evil_Knight_Spear_Named_02BW07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Sir Inegeld Skorpion</string>
 	<string key="VC_Evil_Knight_Warhammer" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski miażdżyciel</string>
 	<string key="VC_Evil_Knight_Warhammer_02BW07" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="AI_Evil_Knights_P2">Sokolgardzki miażdżyciel</string>
 	<string key="VC_Evil_Knight_Warhammer_04NW04" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="AI_Evil_Knights_P2">Worongardzki miażdżyciel</string>
 	<string key="VC_Evil_Knight_Warhammer_10WS04" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="AI_Evil_Knights_P2">Kindżałgardzki miażdżyciel</string>
+	<string key="VC_Evil_Knight_Warhammer_14AC06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Worongardzki miażdżyciel</string>
+	<string key="VC_Evil_Knight_Warhammer_14AC13" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Sokolgardzki miażdżyciel</string>
 	<string key="VC_Evil_Knight_Warhammer_25" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski miażdżyciel</string>
 	<string key="VC_Evil_Knight_Warhammer_26" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski miażdżyciel</string>
 	<string key="VC_Evil_Knight_Warhammer_27" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski miażdżyciel</string>
@@ -8970,7 +9119,10 @@
 	<string key="VC_Evil_Knight_Warhammer_30" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski miażdżyciel</string>
 	<string key="VC_Evil_Knight_Warhammer_31" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski miażdżyciel</string>
 	<string key="VC_Evil_Knight_Warhammer_32" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Wareski miażdżyciel</string>
+	<string key="VC_Evil_Knight_Warhammer_Elite" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Elitarny miażdżyciel</string>
+	<string key="VC_Evil_Knight_Warhammer_Elite_08QP02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Drakongardzki miażdżyciel</string>
 	<string key="VC_Evil_Knight_Warhammer_Named_10WS04" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Sir Vladislav Kowal</string>
+	<string key="VC_Evil_Knight_Warhammer_Named_DG_GreatCleave_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Kat Freyr</string>
 	<string key="VC_Explosive_Barrel_10_12MB06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Quest_MSQ2_Revamp">Materiały wybuchowe</string>
 	<string key="VC_Explosive_Barrel_6_12MB01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Quest_MSQ2_Revamp">Beczka wybuchowa</string>
 	<string key="VC_Fallow" comment="BASE" speaker="VitalsCategory Sheet">Oracz</string>
@@ -9023,11 +9175,14 @@
 	<string key="VC_Ghost_Charred_62" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Widmo pogorzelca</string>
 	<string key="VC_Ghost_Charred_63" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Widmo pogorzelca</string>
 	<string key="VC_Ghost_Charred_64" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Widmo pogorzelca</string>
-	<string key="VC_Ghost_Charred_65" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Prymarne wyładowanie</string>
+	<string key="VC_Ghost_Charred_65" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Pierwotny szerzyciel</string>
+	<string key="VC_Ghost_Charred_66" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Pierwotny szerzyciel</string>
 	<string key="VC_Ghost_Charred_Named_00" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Sofista Romulus</string>
 	<string key="VC_Ghost_Charred_Named_01" comment="Mission Target Display Name" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Spalony słońcem duch</string>
 	<string key="VC_Ghost_Charred_Named_DG_Cutlass_00" comment="Generic Level Variant" speaker="VitalsCategory Sheet" rel_version="Expedition_CutlassKeys_00">Zbuntowany kapitan</string>
 	<string key="VC_Ghost_Charred_Named_DG_Windsward_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Spalona Becca</string>
+	<string key="VC_Ghost_Charred_Named_DG_GreatCleave_01" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Expedition_GreatCleave_01">Drań</string>
+	<string key="VC_Ghost_Charred_Named_DG_GreatCleave_02" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Expedition_GreatCleave_01">Drań</string>
 	<string key="VC_Ghost_Frozen" comment="BASE" speaker="VitalsCategory Sheet">Widmo ofiary mrozu</string>
 	<string key="VC_Ghost_Frozen_03GC01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Mglisty duch mrozu</string>
 	<string key="VC_Ghost_Frozen_07SM08" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Event_WinterConvergence_Perm">Upadły grotołaz</string>
@@ -9159,6 +9314,7 @@
 	<string key="VC_Ghost_Shipwrecked_RE3_Named" comment="Mission Target Display Name" speaker="Vitals Category">Nieumarły Fryderyk</string>
 	<string key="VC_Ghost_Starved_02BW" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Duch głodu z Lśniącej Kniei</string>
 	<string key="VC_Ghost_Starved_02BW01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Pomazany duch głodu</string>
+	<string key="VC_Ghost_Starved_02BW02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Echo Walsham</string>
 	<string key="VC_Ghost_Starved_02BW03" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Umęczony duch głodu</string>
 	<string key="VC_Ghost_Starved_02BW03a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Oszalały duch głodu</string>
 	<string key="VC_Ghost_Starved_02BW03b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Alchemiczny eksperyment</string>
@@ -9412,10 +9568,8 @@
 	<string key="VC_Legion_Legionnaire_67" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Skażony legionista</string>
 	<string key="VC_Legion_Legionnaire_DG_BrimstoneSands_00" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Legionista z XIX legionu</string>
 	<string key="VC_Legion_Legionnaire_DG_BrimstoneSands_Named_00" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Scypion</string>
-	<string key="VC_Legion_Legionnaire_Ethereal_LOC_BOSS" comment="Generic Level Variant" speaker="Vitals Category Sheet" rel_version="Event_February_Temp">Widmowy centurion Krassusa</string>
 	<string key="VC_Legion_Legionnaire_Ethereal_16BS08c" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Pryncypialny widmowy centurion</string>
 	<string key="VC_Legion_Legionnaire_Ethereal_Named_05_ELITE" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Jowiszowe bóstwo</string>
-	<string key="VC_Legion_Legionnaire_LOC_BOSS" comment="Generic Level Variant" speaker="Vitals Category Sheet" rel_version="Event_February_Temp">Legionista Krassusa</string>
 	<string key="VC_Legion_Legionnaire_Named_00" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Centurion Magnus</string>
 	<string key="VC_Legion_Legionnaire_Named_01" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Trybunka Ursula, gladiatorka</string>
 	<string key="VC_Legion_Legionnaire_Named_02" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Prymus Wespazjan</string>
@@ -9426,7 +9580,6 @@
 	<string key="VC_Legion_Legionnaire_NamedSacrifice_16BS08c" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Dobrowolne Poświęcenie</string>
 	<string key="VC_Legion_Legionnaire_NoShield_16BS08d" comment="Generic Level Variant" speaker="Vitals Category Sheet" rel_version="Territory_Brimstone_Sands">Pomocniczy prefekt</string>
 	<string key="VC_Legion_Legionnaire_NoShield_DG_BrimstoneSands_00" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Legionowy prefekt</string>
-	<string key="VC_Legion_Legionnaire_NoShield_LOC_BOSS" comment="Generic Level Variant" speaker="Vitals Category Sheet" rel_version="Event_February_Temp">Legionowy prefekt Krassusa</string>
 	<string key="VC_Legion_Legionnaire_Physical_16BS08c" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Pryncypialny legionista</string>
 	<string key="VC_Legion_Legionnaire_Physical_16BS08d" comment="Generic Level Variant" speaker="Vitals Category Sheet" rel_version="Territory_Brimstone_Sands">Pomocniczy legionista</string>
 	<string key="VC_Legion_Sagittarii" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Skażony łucznik z legionu</string>
@@ -9463,7 +9616,6 @@
 	<string key="VC_Legion_Sagittarii_DG_BrimstoneSands_00" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Legionowy łucznik</string>
 	<string key="VC_Legion_Sagittarii_Named_00" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Legata Drusilla</string>
 	<string key="VC_Legion_Sagittarii_Named_01" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Legata Drusilla</string>
-	<string key="VC_Legion_Sagittarii_LOC_BOSS" comment="Generic Level Variant" speaker="Vitals Category Sheet" rel_version="Event_February_Temp">Legionowy łucznik Krassusa</string>
 	<string key="VC_Legion_Signifer" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Skażony chorąży</string>
 	<string key="VC_Legion_Signifer_16BS01" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Wędrujący pielgrzym</string>
 	<string key="VC_Legion_Signifer_16BS02" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Wędrujący pielgrzym</string>
@@ -9497,7 +9649,6 @@
 	<string key="VC_Legion_Signifer_67" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Skażony chorąży</string>
 	<string key="VC_Legion_Signifer_DG_BrimstoneSands_00" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Legionowy chorąży</string>
 	<string key="VC_Legion_Signifer_DG_BrimstoneSands_Named_00" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Lucjusz</string>
-	<string key="VC_Legion_Signifer_LOC_BOSS" comment="Named Variant" speaker="Vitals Sheet" rel_version="Event_February_Temp">Chorąży Nerva</string>
 	<string key="VC_Legion_Signifer_Named_00" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Alchemik Ignacjusz</string>
 	<string key="VC_Legion_Signifer_Named_01" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Trybun Elias, władca ogarów</string>
 	<string key="VC_Legion_Signifer_Named_02" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Trybun Kastor, władca ogarów</string>
@@ -9760,9 +9911,9 @@
 	<string key="VC_Mountain_Lion_05WC07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Dziki kot z Bujnej Dziczy</string>
 	<string key="VC_Mountain_Lion_06SW06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Puma ze Starszej Bramy</string>
 	<string key="VC_Mountain_Lion_10" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Puma</string>
-	<string key="VC_Mountain_Lion_10WS05" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Wyspiarska pantera</string>
-	<string key="VC_Mountain_Lion_10WS06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Wyspiarska pantera</string>
-	<string key="VC_Mountain_Lion_10WS08" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Wyspiarska pantera</string>
+	<string key="VC_Mountain_Lion_10WS05" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Wyspiarska puma</string>
+	<string key="VC_Mountain_Lion_10WS06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Wyspiarska puma</string>
+	<string key="VC_Mountain_Lion_10WS08" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Wyspiarska puma</string>
 	<string key="VC_Mountain_Lion_11" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Puma</string>
 	<string key="VC_Mountain_Lion_11MD10" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Żałobna pantera</string>
 	<string key="VC_Mountain_Lion_12" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Puma</string>
@@ -10525,6 +10676,7 @@
 	<string key="VC_Skeleton_1H_Sword_63" comment="Generic Level Variant" speaker="Vitals Sheet">Szkieletowy wartownik</string>
 	<string key="VC_Skeleton_1H_Sword_64" comment="Generic Level Variant" speaker="Vitals Sheet">Szkieletowy wartownik</string>
 	<string key="VC_Skeleton_1H_Sword_DG_Everfall_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Wojownik z Gwiezdnego Kurhanu</string>
+	<string key="VC_Skeleton_1H_Sword_DG_GreatCleave_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Zamarznięty żołnierz</string>
 	<string key="VC_Skeleton_1H_Sword_MSQ_13" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Bezlitosny konserwator</string>
 	<string key="VC_Skeleton_1H_Sword_MSQ_39" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Nieustępliwy instruktor</string>
 	<string key="VC_Skeleton_1H_Sword_NWSW" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Gwieździsty wartownik</string>
@@ -10593,6 +10745,7 @@
 	<string key="VC_Skeleton_2H_Sword_61_ELITE" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Szkieletowy mściciel</string>
 	<string key="VC_Skeleton_2H_Sword_62" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Mściciel pradawnych strażników</string>
 	<string key="VC_Skeleton_2H_Sword_DG_Everfall_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Wartownik strażników z Gwiezdnego Kurhanu</string>
+	<string key="VC_Skeleton_2H_Sword_DG_GreatCleave_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Zamarznięty mściciel</string>
 	<string key="VC_Skeleton_2H_Sword_DG_Reekwater_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Łazarzowy mściciel</string>
 	<string key="VC_Skeleton_2H_Sword_ELITE" comment="Mission Target Display Name" speaker="Vitals Category">Elitarny pradawny mściciel</string>
 	<string key="VC_Skeleton_2H_Sword_MSQ_11_Elite" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Niebiański przewodnik</string>
@@ -10663,6 +10816,7 @@
 	<string key="VC_Skeleton_Archer_58" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Gwałtowny łucznik</string>
 	<string key="VC_Skeleton_Archer_61_ELITE" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Szkieletowy łucznik</string>
 	<string key="VC_Skeleton_Archer_DG_Everfall_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Łucznik z Gwiezdnego Kurhanu</string>
+	<string key="VC_Skeleton_Archer_DG_GreatCleave_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Zamarznięty łucznik</string>
 	<string key="VC_Skeleton_Archer_DG_Reekwater_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Łazarzowy łucznik</string>
 	<string key="VC_Skeleton_Archer_Elite" comment="Mission Target Display Name" speaker="Vitals Category">Elitarny pradawny łucznik</string>
 	<string key="VC_Skeleton_Archer_MSQ_11" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Niestrudzony obserwator</string>
@@ -10820,6 +10974,7 @@
 	<string key="VC_Skeleton_Crawler_62" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Szkieletowy obrońca</string>
 	<string key="VC_Skeleton_Crawler_9" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Obrońca pradawnych strażników</string>
 	<string key="VC_Skeleton_Crawler_DG_Everfall_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Człapacz z Gwiezdnego Kurhanu</string>
+	<string key="VC_Skeleton_Crawler_DG_GreatCleave_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Zamarznięty pełzacz</string>
 	<string key="VC_Skeleton_Crawler_DG_Reekwater_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Łazarzowy obrońca</string>
 	<string key="VC_Skeleton_Crawler_Elite" comment="Mission Target Display Name" speaker="Vitals Category">Elitarny pradawny pełzacz</string>
 	<string key="VC_Skeleton_Crawler_NWSW" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Gwieździsty obrońca</string>
@@ -10929,6 +11084,7 @@
 	<string key="VC_Skeleton_Spear_63" comment="Generic Level Variant" speaker="Vitals Sheet">Szkieletowy włócznik</string>
 	<string key="VC_Skeleton_Spear_64" comment="Generic Level Variant" speaker="Vitals Sheet">Szkieletowy włócznik</string>
 	<string key="VC_Skeleton_Spear_DG_Everfall_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Włócznik z Gwiezdnego Kurhanu</string>
+	<string key="VC_Skeleton_Spear_DG_GreatCleave_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Zamarznięty włócznik</string>
 	<string key="VC_Skerryshiv" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Szkierowy</string>
 	<string key="VC_Skipstitch" comment="BASE" speaker="VitalsCategory Sheet">Pozszywany</string>
 	<string key="VC_Skysworn" comment="BASE" speaker="VitalsCategory Sheet">Zaprzysiężony niebiosom</string>
@@ -11161,7 +11317,6 @@
 	<string key="VC_Totem_Withered_Nest" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Gniazdo żuków</string>
 	<string key="VC_Totem_Withered_Nest_25_ELITE" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Uschnięte gniazdo</string>
 	<string key="VC_Totem_Withered_Nest_DG_Windsward_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Gniazdo uschniętych z gwieździstych wykopalisk</string>
-	<string key="VC_Totem_LOC_BOSS" comment="Mission Target Display Name" speaker="VitalsCategory" rel_version="Event_February_Temp">Sztandar legionu Krassusa</string>
 	<string key="VC_Towerfall" comment="BASE" speaker="VitalsCategory Sheet">Wieżowy</string>
 	<string key="VC_Trailstall" comment="BASE" speaker="VitalsCategory Sheet">Traktowy</string>
 	<string key="VC_training_dummy" comment="Mission Target Display Name" speaker="VitalsCategory">Manekin ćwiczebny</string>
@@ -11406,7 +11561,7 @@
 	<string key="VC_Undead_GraveDigger_62" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Zagubiony ghul</string>
 	<string key="VC_Undead_GraveDigger_Named_00" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Grabarz Clift</string>
 	<string key="VC_Undead_GraveDigger_Named_01" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Kapelan Nuñez</string>
-	<string key="VC_Undead_GraveDigger_Named_02" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Inkwizytor Matthias</string>
+	<string key="VC_Undead_GraveDigger_Named_02" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Czujny Matthias</string>
 	<string key="VC_Undead_GraveDigger_Named_03_08QP07" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Grabarz Mordici</string>
 	<string key="VC_Undead_GraveDigger_Named_04" comment="Mission Target Display Name" speaker="VitalsCategory">Mamiący grabarz</string>
 	<string key="VC_Undead_GraveDigger_RE1" comment="Mission Target Display Name" speaker="Vitals Category">Lamentujący ojciec</string>
@@ -11591,7 +11746,7 @@
 	<string key="VC_Undead_Hunter_62" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Zagubiony łowca</string>
 	<string key="VC_undead_hunter_63" comment="Mission Target Display Name" speaker="VitalsCategory">Nieumarły łowca</string>
 	<string key="VC_undead_hunter_64" comment="Mission Target Display Name" speaker="VitalsCategory">Nieumarły łowca</string>
-	<string key="VC_Undead_Hunter_Named_00" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Inkwizytorka Lucia</string>
+	<string key="VC_Undead_Hunter_Named_00" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Czujna Lucia</string>
 	<string key="VC_Undead_Hunter_Named_01" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Joan Wiarołomna</string>
 	<string key="VC_Undead_Hunter_Named_02" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Łowca duchów Adams</string>
 	<string key="VC_Undead_Hunter_Named_03" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Pogromczyni Cieni Erika</string>
@@ -11639,7 +11794,7 @@
 	<string key="VC_Undead_Javelineer_62" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Zagubiony palownik</string>
 	<string key="VC_Undead_Javelineer_Named_00" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Rybak Edmand</string>
 	<string key="VC_Undead_Javelineer_Named_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Apostata Bremen Luca</string>
-	<string key="VC_Undead_Javelineer_Named_02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Moira Niepogrzebana</string>
+	<string key="VC_Undead_Javelineer_Named_02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Moira, kapitan Czujnych</string>
 	<string key="VC_Undead_Javelineer_Named_FR_Cov_01" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Apostata Bremen Luca</string>
 	<string key="VC_Undead_Navigator" comment="BASE" speaker="VitalsCategory Sheet">Zagubiony strzelec</string>
 	<string key="VC_Undead_Navigator_04NW11a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Strzelec z Kamiennych Zębów</string>
@@ -11833,7 +11988,7 @@
 	<string key="VC_Undead_Officer_Named_00_old" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Emilio Rose</string>
 	<string key="VC_Undead_Officer_Named_00" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Miklos Dauti</string>
 	<string key="VC_Undead_Officer_Named_01" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Marceline</string>
-	<string key="VC_Undead_Officer_Named_02" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Mistrz Henry</string>
+	<string key="VC_Undead_Officer_Named_02" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Admirał Arias</string>
 	<string key="VC_Undead_Officer_Named_03" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Parszywobrody</string>
 	<string key="VC_Undead_Officer_Named_04" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Rekin Ching Shih</string>
 	<string key="VC_Undead_Officer_Named_05" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Admirał Reis</string>
@@ -12153,7 +12308,7 @@
 	<string key="VC_Withered_Brute_Named_01" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Farmer Willette</string>
 	<string key="VC_Withered_Brute_Named_02" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Pomocnik Ricky</string>
 	<string key="VC_Withered_Brute_Named_03" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Uschnięty Wesley</string>
-	<string key="VC_Withered_Brute_Named_04" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Goura Groteskowy</string>
+	<string key="VC_Withered_Brute_Named_04" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Goura, kapitan Czujnych</string>
 	<string key="VC_Withered_Brute_Named_05" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Udręczony relikt</string>
 	<string key="VC_Withered_Brute_Named_06" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Pastor Prewitt</string>
 	<string key="VC_Withered_Brute_Named_07" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Odmówca</string>
@@ -12568,7 +12723,7 @@
 	<string key="Withered_Brute_Named_01_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Farmer Willette</string>
 	<string key="Withered_Brute_Named_02_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Pomocnik Ricky</string>
 	<string key="Withered_Brute_Named_03_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Uschnięty Wesley</string>
-	<string key="Withered_Brute_Named_04_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Goura Groteskowy</string>
+	<string key="Withered_Brute_Named_04_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Goura, kapitan Czujnych</string>
 	<string key="Withered_Brute_Named_05_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Ćwiartownik</string>
 	<string key="Withered_Brute_Named_06_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Pastor Prewitt</string>
 	<string key="Withered_Brute_Named_07_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Odmówca</string>
@@ -12995,6 +13150,8 @@
 	<string key="VC_Corruption_Entity_04NW10" comment="Mission Target Display Name" speaker="Vitals Category">Istota z Jeziora Łąkowego</string>
 	<string key="Lost_Knight_Tank_Named_06SW08_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Sierżant Cotheran</string>
 	<string key="VC_Lost_Knight_Tank_Named_06SW08" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Quest_MSQ2_Revamp">Sierżant Cotheran</string>
+	<string key="Lost_Knight_Tank_Named_13WF05_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Dame Brytmar</string>
+	<string key="VC_Lost_Knight_Tank_Named_13WF05" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Quest_MSQ2_Revamp">Dame Brytmar</string>
 	<string key="VC_Medea_Caster" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Quest_MSQ2_Revamp">Medea</string>
 	<string key="VC_Damned_Villager_AxeThrower_M-F_04NW10b" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Quest_MSQ2_Revamp">Wieśniak z gospodarstwa Kellehera</string>
 	<string key="VC_Damned_Villager_Cleaver_04NW10b" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Quest_MSQ2_Revamp">Rzeźnik z gospodarstwa Kellehera</string>
@@ -13046,5 +13203,28 @@
 	<string key="Legion_Legionnaire_Named_05_04NW10b_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Turenne</string>
 	<string key="Damned_Acolyte_Named_04NW10_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Mahon</string>
 	<string key="Damned_Acolyte_Named_04NW08_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Lord Tenno</string>
+	<string key="VC_Forged" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Wykuty</string>
+	<string key="VC_Kinjalgard" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Kindżałgardzki</string>
+	<string key="VC_Evil_Knight_Bow_14AC05" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Kindżałgardzki łucznik</string>
+	<string key="VC_Evil_Knight_Lifestaff_14AC05" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Kindżałgardzki uzdrowiciel</string>
+	<string key="VC_Evil_Knight_Mace_14AC05" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Kindżałgardzki strażnik</string>
+	<string key="VC_Evil_Knight_Longsword_14AC05" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Kindżałgardzki zwiadowca</string>
+	<string key="VC_Evil_Knight_GreatAxe_14AC05" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Kindżałgardzki mistrz bitewny</string>
+	<string key="VC_Evil_Knight_Warhammer_14AC05" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Kindżałgardzki miażdżyciel</string>
+	<string key="VC_Evil_Knight_Caster_14AC05" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Kindżałgardzki mag</string>
+	<string key="VC_Evil_Knight_Hound_14AC05" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Kindżałgardzki ogar</string>
+	<string key="VC_ForgeRaider" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Najeźdźca Kuźni</string>
+	<string key="VC_Evil_Knight_Bow_03GC08" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Łucznik najeźdźców Kuźni</string>
+	<string key="VC_Evil_Knight_Lifestaff_03GC08" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Uzdrowiciel najeźdźców Kuźni</string>
+	<string key="VC_Evil_Knight_Mace_03GC08" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Strażnik najeźdźców Kuźni</string>
+	<string key="VC_Evil_Knight_Longsword_03GC08" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Zwiadowca najeźdźców Kuźni</string>
+	<string key="VC_Evil_Knight_GreatAxe_03GC08" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Mistrz bitewny najeźdźców Kuźni</string>
+	<string key="VC_Evil_Knight_Warhammer_03GC08" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Miażdżyciel najeźdźców Kuźni</string>
+	<string key="VC_Evil_Knight_Caster_03GC08" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Mag najeźdźców Kuźni</string>
+	<string key="VC_Evil_Knight_Hound_03GC08" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Ogar najeźdźców Kuźni</string>
+	<string key="VC_Furious" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Temp">Rozwścieczony</string>
+	<string key="VC_Swamp_Dryad_Tendril_95_S01" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Temp">Rozwścieczone pnącze</string>
+	<string key="VC_Blight_Fiend_95_S01" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Temp">Rozwścieczony diabeł</string>
+	<string key="VC_Dryad_Soldier_95_S01" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Temp">Rozwścieczony żołnierz</string>
 </resources>
 

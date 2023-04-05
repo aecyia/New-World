@@ -221,7 +221,7 @@
 	<string key="1421_0207_a_Title" speaker="UI">Feiner Ölfilm</string>
 	<string key="1421_0208_a_Title" speaker="UI">Der toxische Bogenschützenschüler</string>
 	<string key="1421_0209_a_Title" speaker="UI">Der verblieben Kampfgeist</string>
-	<string key="1421_0201_b_Description" speaker="UI">Sammle die für die Herstellung des legendären Bogens Pfeilflut erforderlichen Materialien.</string>
+	<string key="1421_0201_b_Description" speaker="UI">Sammle die für die Herstellung des legendären Bogens Flut erforderlichen Materialien.</string>
 	<string key="1421_0202_b_Description" speaker="UI">Reise nach Periheim und erbeute Stücke von Fahlem Eschenholz von den Untoten.</string>
 	<string key="1421_0203_b_Description" speaker="UI">Reise zur Spilaiohöhle und erbeute Bruchstücke des Verhexten Knochens von Ahnenwächtern.</string>
 	<string key="1421_0204_b_Description" speaker="UI">Reise zum Steinschädelfort und erbeute Stücke von Seegeküsstem Eichenholz von Steinschädelpiraten.</string>
@@ -232,7 +232,7 @@
 	<string key="1421_0209_b_Description" speaker="UI">Reise nach Eridanus und erbeute Stücke von Verzaubertem Azoth-Holz von Eridanischer Freisasse.</string>
 	<string key="1421_0201_c_start_prompt" speaker="UI - Player Prompt">"Jeder braucht einen guten Bogen."</string>
 	<string key="1421_0201_c_Proposal" speaker="Ranger Chapman - Edengrove" VO="Ranger_1421_0201_Torrent_ProposalResponse" VO_Status="Recorded">Nun vor allem jemand wie du mit solchen Adleraugen, mit denen du mich sofort entdeckst. \n\nAh, das müssen die Pläne für den mächtigen Bogen "Flut" sein, einer wahren Legende unter den Waldläufern. Beschaffe diese Gegenstände und er soll dir gehören.</string>
-	<string key="1421_0201_e_Incomplete" speaker="Ranger Chapman - Edengrove">Auf "Pfeilflut" werden alle Bogenschützen Aeternums neidisch sein.\n\nEr ist eine unvergleichliche Waffe.</string>
+	<string key="1421_0201_e_Incomplete" speaker="Ranger Chapman - Edengrove">Auf "Flut" werden alle Bogenschützen Aeternums neidisch sein.\n\nEr ist eine unvergleichliche Waffe.</string>
 	<string key="1421_0201_f_Complete" speaker="Ranger Madaki - Shattered Mountain" VO="Ranger_1421_0201_Torrent_AvailResponse" VO_Status="Recorded">Du hast alles, ja? Jenseitige Sehne, alte Knochen, ein feiner Ölfilm und eine perfekte Sehne für die perfekte Spannung. \n\nNimm diesen Bogen, "Flut", und trage ihn mit Stolz. Er ist etwas ganz Besonderes.</string>
 	<string key="1421_0201_d_00_TorrentContainer_weaponwrapperquest" speaker="UI">Aufgabe abschließen: Die Segnung des Regens</string>
 	<string key="1421_0201_d_01_TorrentContainer_weaponwrapperquest_questPush_1" speaker="UI">Aufgabe abschließen: Der untote Bogenschütze</string>
@@ -401,7 +401,7 @@
 	<string key="1418_0107_RD_task_03_TaskHaveAndReturnItems" speaker="UI">Besiege: {targetName} und erbeute: {itemName}</string>
 	<string key="1418_0108_RD_task_01_TaskGoToPOITag" speaker="UI">Erbeute Verderbtes Schildfutter von Hohepriester Oseguera in der Verzerrten Höhe</string>
 	<string key="1418_0108_RD_task_02_TaskHaveAndReturnItems" speaker="UI">Besiege {targetName} und erbeute Folgendes: {itemName}</string>
-	<string key="1418_0109_RD_task_01_TaskGoToPOITag" speaker="UI">Reise nach Überfluss und erbeute Orichalcum-Bolzen von den Verderbten</string>
+	<string key="1418_0109_RD_task_01_TaskGoToPOITag" speaker="UI">Reise nach {POITags} und erbeute Orichalcum-Bolzen von den Verderbten.</string>
 	<string key="1418_0109_RD_task_02_TaskHaveAndReturnItems" speaker="UI">Besiege: {targetName} und erbeute: {itemName}</string>
 	<string key="1403A_0301_d_01_Task" speaker="UI">Gehe zu: {POITags}</string>
 	<string key="1403A_0301_d_02_Task" speaker="UI">Besiege: {targetName}</string>

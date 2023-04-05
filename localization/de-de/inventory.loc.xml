@@ -1,12 +1,12 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="inv_DroppedItems">Weggeworfene Gegenstände</string>
+	<string key="inv_DroppedItems">Weggeworfene Gegenst.</string>
 	<string key="inv_Storage">Aufbewahrung</string>
 	<string key="inv_itemDamaged">{num} Gegenstände sind stark beschädigt. Du solltest ihn schnell reparieren.</string>
 	<string key="inv_itemBroken">{num} Gegenstände sind zerbrochen.</string>
 	<string key="inv_broken">KAPUTT</string>
 	<string key="inv_unequip">Ablegen</string>
 	<string key="inv_dropTargetMessage">Gegenstände wegwerfen</string>
-	<string key="inv_discard_life_warning">Andere Spieler können diese Gegenstände weder sehen noch an sich nehmen. Wenn diese Tasche verschwindet (nach 3 Minuten), sind die Gegenstände für immer verloren.</string>
+	<string key="inv_discard_life_warning">Andere Spieler können weggeworfene Gegenstände weder sehen noch an sich nehmen. Nach drei Minuten verschwinden Gegenstände unwiderrufbar.</string>
 	<string key="inv_encumbered">Ausgelastet</string>
 	<string key="inv_unencumbered">Nicht ausgelastet</string>
 	<string key="inv_slotsfull">Gegenstandlimit erreicht</string>
@@ -58,7 +58,7 @@
 	<string key="inv_tooltipMessagePrimaryArrowInactive">Klicke, um dies zu deiner momentan aktiven Bogenmunition zu machen.</string>
 	<string key="inv_tooltipMessagePrimaryShotActive">Du verwendest diese Patronen derzeit als aktive Munition für deine Waffe.</string>
 	<string key="inv_tooltipMessagePrimaryShotInactive">Klicke, um dies zu deiner momentan aktiven Munition zu machen.</string>
-	<string key="inv_tooltipMessageToolLevelRequirement">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Stufe {level}&lt;/font&gt; erforderlich, um dieses Werkzeug als Primärwerkzeug festzulegen.</string>
+	<string key="inv_tooltipMessageToolLevelRequirement">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Stufe {level}&lt;/font&gt; erforderlich, um dieses Werkzeug als Primärwerkzeug festzulegen.</string>
 	<string key="inv_tooltipCommandToolLevelRequirement">Zur Benutzung St. {level} erforderlich.</string>
 	<string key="inv_equipLoad">Ausrüstungsgewicht</string>
 	<string key="inv_equipLoadFast">Leicht</string>
@@ -66,30 +66,30 @@
 	<string key="inv_equipLoadSlow">Schwer</string>
 	<string key="inv_equipLoadOverburdened">Überlastet</string>
 	<string key="inv_equipLoadTooltip">Das kombinierte Gewicht deiner ausgerüsteten Rüstung samt Schild bestimmt das Ausrüstungsgewicht. Jedes Ausrüstungsgewicht besitzt eine eigene Ausweichfunktion und andere Effekte.</string>
-	<string key="inv_equipLoadFastTooltip">Beim Ausweichen weichst du mit einer schnellen und weiten Rolle aus. Dieses Ausrüstungsgewicht hat folgende Effekte: \n• Ausdauerkosten fürs Ausweichen: {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]} \n• Basisschaden: um {[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]} % erhöht \n• Geleistete Heilung: um 30 % erhöht \n• Für {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Light.BaseDuration]} Sek. nach einem erlittenen Nahkampftreffer ist die Ausweichen-Distanz um 20 % geringer und du kannst nicht rennen.</string>
-	<string key="inv_equipLoadNormalTooltip">Beim Ausweichen weichst du mit einem schnellen Sprung aus. Dieses Ausrüstungsgewicht hat folgende Effekte: \n• Ausdauerkosten fürs Ausweichen: {[StaminaCosts_Player.Dodge_Roll.StaminaCost]} \n• Basisschaden: um {[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]} % erhöht \n• Zugefügte Massenkontroll-Schwächungen: Dauer um 10 % erhöht \n• Für {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Medium.BaseDuration]} Sek. nach einem erlittenen Nahkampftreffer ist die Ausweichen-Distanz um 20 % geringer und du kannst nicht rennen.</string>
-	<string key="inv_equipLoadSlowTooltip">Beim Ausweichen weichst du mit einem Schritt in eine bestimmte Richtung aus. Dieses Ausrüstungsgewicht hat folgende Effekte: \n• Ausdauerkosten fürs Ausweichen: {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]} \n• Blockstabilität: um 15 % erhöht \n• Zugefügte Massenkontroll-Schwächungen: Dauer um 20 % erhöht \nGeleistete Heilung: um 30 % verringert \n• Für {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Heavy.BaseDuration]} Sek. nach einem erlittenen Nahkampftreffer kannst du nicht rennen.</string>
+	<string key="inv_equipLoadFastTooltip">• Basisschaden: um {[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]} % erhöht \n• Geleistete Heilung: um +30 % erhöht \n. Das Ausweichmanöver findet in Form einer Rolle statt. \n• Ausdauerkosten des Ausweichens: {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]} \n• Für {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Light.BaseDuration]} Sek. nach einem erlittenen Nahkampftreffer ist die Ausweichen-Distanz um 20 % geringer und du kannst nicht rennen.</string>
+	<string key="inv_equipLoadNormalTooltip">• Basisschaden: um {[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]} % erhöht \n• Erlittene Massenkontroll-Schwächungen: Dauer um 10 % verringert \n• Das Ausweichmanöver findet in Form eines Hüpfers statt. \n• Ausdauerkosten des Ausweichens: {[StaminaCosts_Player.Dodge_Roll.StaminaCost]} \n• Für {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Medium.BaseDuration]} Sek. nach einem erlittenen Nahkampftreffer ist die Ausweichen-Distanz um 20 % geringer und du kannst nicht rennen.</string>
+	<string key="inv_equipLoadSlowTooltip">• Blockstabilität: um 15 % erhöht \n• Erlittene Massenkontroll-Schwächungen: Dauer um 20 % verringert \n• Geleistete Heilung: um 30 % verringert \n• Das Ausweichmanöver findet in Form eines Schrittes statt. \n• Ausdauerkosten des Ausweichens: {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]} \n• Für {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Heavy.BaseDuration]} Sek. nach einem erlittenen Nahkampftreffer kannst du nicht rennen.</string>
 	<string key="inv_equipLoadOverburdenedTooltip">Hast du dein maximales Ausrüstungsgewicht überschritten, kannst du weder ausweichen noch rennen oder deine Fertigkeiten einsetzen. Du solltest einige Gegenstände ablegen.</string>
-	<string key="inv_equipLoadEncumberedTooltip">Du trägst zu viele Gegenstände im Inventar herum. Wenn du belastet bist, ist es egal, wie hoch dein Ausrüstungsgewicht ist. Du kannst weder rennen noch ausweichen und verlierst beim Blocken mehr Ausdauer. Du solltest einige Gegenstände aus deinen Taschen entfernen.</string>
+	<string key="inv_equipLoadEncumberedTooltip">Wird Inventargewichtsgrenze überschritten, bist du ausgelastet und kannst dich nur eingeschränkt bewegen und Aktionen ausführen. Außerdem verlierst du beim Blocken mehr Ausdauer.</string>
 	<string key="inv_equipLoadOverburdened_Tooltip" comment="This tooltip is for the status effect icon near vitals">Du hast mehr ausgerüstet, als dein maximales Ausrüstungsgewicht zulässt. Du kannst nicht ausweichen oder rennen und deine Ausdauerregeneration fällt deutlich niedriger aus. Du solltest einige Gegenstände ablegen.</string>
 	<string key="inv_equipLoadFastNotification">Ausrüstungsgewicht ist jetzt leicht</string>
 	<string key="inv_equipLoadNormalNotification">Ausrüstungsgewicht ist jetzt Mittel</string>
 	<string key="inv_equipLoadSlowNotification">Ausrüstungsgewicht ist jetzt schwer</string>
 	<string key="inv_equipLoadOverburdenedNotification">Überlastet – Ausweichen und Rennen nicht möglich</string>
 	<string key="inv_equipLoadEncumberedNotification">Ausgelastet – Ausweichen, Springen und Rennen nicht möglich</string>
-	<string key="inv_encumbranceTooltip">Deine Belastung setzt sich aus dem Gewicht aller Gegenstände in deinen Taschen zusammen. Ausgerüstete Gegenstände zählen nicht dazu. Indem du dich mit Taschen ausrüstest, kannst du die Obergrenze für die maximale Belastung erhöhen.</string>
-	<string key="inv_encumbranceUnencumberedTooltip">Solange du die Gewichtsgrenze nicht überschreitest, wirkt sich die Belastung nicht auf deinen Charakter aus.</string>
-	<string key="inv_encumbranceEncumberedTooltip">Wenn du zu viele Gegenstände in deinem Inventar mit dir herumträgst, kannst du nicht ausweichen, laufen oder rennen. Sobald die maximale Belastbarkeit erreicht wurde, kannst du dich weder bewegen noch angreifen. Entferne einige Gegenstände aus deinen Taschen.</string>
+	<string key="inv_encumbranceTooltip">Das Inventargewicht wirkt sich auf deine Bewegung und Aktionen aus. Rüste Taschen auf, um deren Gewichtsgrenze zu erhöhen. Wird die Grenze überschritten, bist du ausgelastet. Wird sie stark überschritten, bist du überlastet.</string>
+	<string key="inv_encumbranceUnencumberedTooltip">Du kannst alle Aktionen ausführen, weil du die Inventargewichtsgrenze unterschreitest.</string>
+	<string key="inv_encumbranceEncumberedTooltip">• Ausgelastet: Rennen, Ausweichen und Springen nicht möglich.\n• Überlastet: Bewegen, Ausweichen, Springen und Angreifen nicht möglich.</string>
 	<string key="inv_does_not_meet_weapon_requirements">Attribute zu niedrig</string>
-	<string key="inv_encumbranceAttackNotification">Zu ausgelastet zum Angreifen</string>
+	<string key="inv_encumbranceAttackNotification">Überlastet – Angreifen nicht möglich.</string>
 	<string key="inv_insufficientManaNotification">Ungenügend Mana</string>
 	<string key="inv_OutOfRangeNotification">Ziel außer Reichweite</string>
-	<string key="inv_compareTo">Vergleich mit {location}:</string>
+	<string key="inv_compareTo">Vergleich ({location})</string>
 	<string key="inv_additionalItems">{count} zusätzliche Gegenstände</string>
 	<string key="inv_repairparts_quantity">{count} Ersatzteile</string>
 	<string key="inv_repairparts_tooltip_name">ERSATZTEILE</string>
 	<string key="ui_repairparts">Ersatzteile</string>
-	<string key="inv_repairparts_tooltip_description">Ersatzteile sind ein besonderer Rohstoff zum Reparieren von Gegenständen.\n\nErsatzteile können nicht gehandelt, verkauft oder gekauft werden. Um mehr zu erhalten, kannst du Waffen und Rüstungsgegenstände zerlegen, die du nicht mehr brauchst.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Herkunft:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ffffff"&gt; Waffen, Rüstung&lt;/font&gt;</string>
+	<string key="inv_repairparts_tooltip_description">Ersatzteile sind ein besonderer Rohstoff zum Reparieren von Gegenständen.\n\nErsatzteile können nicht gehandelt, verkauft oder gekauft werden. Um mehr zu erhalten, kannst du Waffen und Rüstungsgegenstände zerlegen, die du nicht mehr brauchst.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Quelle:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ebe3d6"&gt; Waffen, Rüstung&lt;/font&gt;</string>
 	<string key="inv_repairparts_tooltip_drivedfrom">Waffen und Rüstung</string>
 	<string key="inv_azoth_tooltip_drivedfrom">Verderbnisausbrüche, Aufgaben</string>
 	<string key="inv_repairparts_nearlimit">&lt;font color="#f25d5d"&gt;Du hast dein Ersatzteilelimit fast erreicht.&lt;/font&gt;</string>
@@ -153,26 +153,26 @@
 	<string key="ui_dropall">Alles wegwerfen</string>
 	<string key="ui_dropall_in_trade">Beim Handeln können keine Gegenstände abgelegt werden.</string>
 	<string key="ui_transfer_all_filtered">Es können nicht alle Gegenstände in diesen Abschnitt verschoben werden, solange Gegenstände gefiltert werden.</string>
-	<string key="ui_storeall">Alles verstauen</string>
-	<string key="ui_filterDescription">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;FILTERN VON GEGENSTÄNDEN&lt;/font&gt;&lt;/font&gt;\n\n&lt;font color="#a6a6a6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Filtern nach&lt;/font&gt;&lt;/font&gt;\n\n- Gegenstandsname\n- Minimal-Rüstwert (Bsp.: 100)\n- Minimaler Rang (Bsp.: R1)\n\n&lt;font color="#a6a6a6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Beispiele&lt;/font&gt;&lt;/font&gt;\n\nSchwert 200\nAxt R1\nHacke (Eisen)</string>
+	<string key="ui_storeall">Alles in den Lagerschuppen räumen</string>
+	<string key="ui_filterDescription">&lt;font color={headerColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;VERWENDUNG DES GEGENSTANDSFILTERS&lt;/font&gt;\n\n&lt;font color={subheaderColor} face="lyshineui/fonts/Nimbus_semibold.font"&gt;Filtern nach&lt;/font&gt;\n• Gegenstandsname\n• Mindestrüstwert (Bsp.: 100)\n• Minimaler Rang (Bsp.: R1)\n\n&lt;font color={subheaderColor} face="lyshineui/fonts/Nimbus_semibold.font"&gt;Beispiele&lt;/font&gt;\n• Schwert 200\n• Axt R1\n• Hacke (Eisen)</string>
 	<string key="ui_filterText">Suchen</string>
 	<string key="ui_filterHeader">Gegenstand filtern</string>
 	<string key="ui_sort">Sortieren</string>
-	<string key="ui_sort_weight">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortieren nach &lt;font color="#ffffff"&gt;Gewicht:&lt;/font&gt;&lt;/font&gt; Schwer - Leicht</string>
-	<string key="ui_sort_weight_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortieren nach &lt;font color="#ffffff"&gt;Gewicht:&lt;/font&gt;&lt;/font&gt; Leicht – Schwer</string>
-	<string key="ui_sort_tier">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortieren nach &lt;font color="#ffffff"&gt;Rang:&lt;/font&gt;&lt;/font&gt; Hoch - Niedrig</string>
-	<string key="ui_sort_tier_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortieren nach &lt;font color="#ffffff"&gt;Rang:&lt;/font&gt;&lt;/font&gt; Niedrig – Hoch</string>
-	<string key="ui_sort_gearscore">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortieren nach &lt;font color="#ffffff"&gt;Rüstwert:&lt;/font&gt;&lt;/font&gt; Hoch - Niedrig</string>
-	<string key="ui_sort_gearscore_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortieren nach &lt;font color="#ffffff"&gt;Rüstwert:&lt;/font&gt;&lt;/font&gt; Niedrig – Hoch</string>
-	<string key="ui_sort_chrono">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortieren nach &lt;font color="#ffffff"&gt;Zeit:&lt;/font&gt;&lt;/font&gt; Neueste - Älteste</string>
-	<string key="ui_sort_chrono_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortieren nach &lt;font color="#ffffff"&gt;Zeit:&lt;/font&gt;&lt;/font&gt; Älteste – Neueste</string>
+	<string key="ui_sort_weight">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortieren nach &lt;font color="#ebe3d6"&gt;Gewicht:&lt;/font&gt;&lt;/font&gt; Schwer - Leicht</string>
+	<string key="ui_sort_weight_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortieren nach &lt;font color="#ebe3d6"&gt;Gewicht:&lt;/font&gt;&lt;/font&gt; Leicht – Schwer</string>
+	<string key="ui_sort_tier">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortieren nach &lt;font color="#ebe3d6"&gt;Rang:&lt;/font&gt;&lt;/font&gt; Hoch - Niedrig</string>
+	<string key="ui_sort_tier_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortieren nach &lt;font color="#ebe3d6"&gt;Rang:&lt;/font&gt;&lt;/font&gt; Niedrig – Hoch</string>
+	<string key="ui_sort_gearscore">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortieren nach &lt;font color="#ebe3d6"&gt;Rüstwert:&lt;/font&gt;&lt;/font&gt; Hoch - Niedrig</string>
+	<string key="ui_sort_gearscore_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortieren nach &lt;font color="#ebe3d6"&gt;Rüstwert:&lt;/font&gt;&lt;/font&gt; Niedrig – Hoch</string>
+	<string key="ui_sort_chrono">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortieren nach &lt;font color="#ebe3d6"&gt;Zeit:&lt;/font&gt;&lt;/font&gt; Neueste - Älteste</string>
+	<string key="ui_sort_chrono_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortieren nach &lt;font color="#ebe3d6"&gt;Zeit:&lt;/font&gt;&lt;/font&gt; Älteste – Neueste</string>
 	<string key="inv_equipmentstatrow_modifiertemplate">({baseValue} &lt;font color={modifierColor}&gt;{operator} {modifierValue}&lt;/font&gt;)</string>
 	<string key="ui_attributemodifier_pending_value">(+{pendingValue})</string>
-	<string key="ui_attributemodifier_tooltip">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color={color}&gt;{attributeValue} {attributeName}&lt;/font&gt;&lt;font color="#dddddd" face="lyshineui/fonts/Nimbus_Regular.font"&gt; Attributspunkte&lt;/font&gt;</string>
-	<string key="ui_attributemodifier_tooltip_committed">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;(Zugewiesene Punkte: {value})&lt;/font&gt;</string>
-	<string key="ui_attributemodifier_tooltip_equipment">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;(Ausrüstung: {value})&lt;/font&gt;</string>
-	<string key="ui_attributemodifier_tooltip_buffs">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;(Gegenstandsboni: &lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={modifierColor}&gt;{modifierOperator}{value}&lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;)&lt;/font&gt;</string>
-	<string key="ui_attributemodifier_tooltip_pending">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;(Nicht zugewiesene Punkte: {value})&lt;/font&gt;</string>
+	<string key="ui_attributemodifier_tooltip">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color={color}&gt;{attributeValue} {attributeName}&lt;/font&gt;</string>
+	<string key="ui_attributemodifier_tooltip_committed">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;Zugewiesen: {value}&lt;/font&gt;</string>
+	<string key="ui_attributemodifier_tooltip_equipment">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;Ausrüstung: {value}&lt;/font&gt;</string>
+	<string key="ui_attributemodifier_tooltip_buffs">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;Gegenstandsboni: &lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={modifierColor}&gt;{modifierOperator}{value}&lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;&lt;/font&gt;</string>
+	<string key="ui_attributemodifier_tooltip_pending">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;Ausstehend: {value}&lt;/font&gt;</string>
 	<string key="ui_attributemodifier_required_points">Erforderliche Punkte:</string>
 	<string key="ui_physical_defense_short">PHYS</string>
 	<string key="ui_physical_defense_full">Resistenz gegenüber physischem Schaden</string>
@@ -192,5 +192,54 @@
 	<string key="inv_TargetDeadNotification">Das Ziel ist tot</string>
 	<string key="inv_TargetOutsideLos">Sicht zum Ziel behindert</string>
 	<string key="inv_moreItems">&lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;{value}&lt;/font&gt; weitere Gegenstände</string>
+	<string key="lo_name" comment="This key needs to be short to be used directly as a loadout name." rel_version="Feature_Gear_Set_Storage">Ausrüstungsset</string>
+	<string key="loadout_window_title" rel_version="Feature_Gear_Set_Storage">AUSRÜSTUNGSSETS</string>
+	<string key="loadout_storage_title" rel_version="Feature_Gear_Set_Storage">AUSRÜSTUNGSSETS</string>
+	<string key="loadout_storage_info" rel_version="Feature_Gear_Set_Storage">Gegenstände in Ausrüstungssets gehören nicht zu deinem Inventar und haben keinen Einfluss auf dein Inventargewicht.</string>
+	<string key="loadout_addto_command" rel_version="Feature_Gear_Set_Storage">Zu Ausrüstungsset hinzufügen</string>
+	<string key="loadout_addfrom_command" rel_version="Feature_Gear_Set_Storage">Aus Ausrüstungsset hinzufügen</string>
+	<string key="loadout_addtoall_command" rel_version="Feature_Gear_Set_Storage">Zu allen Ausrüstungssets hinzufügen</string>
+	<string key="loadout_removefrom_command" rel_version="Feature_Gear_Set_Storage">Aus Ausrüstungsset entfernen</string>
+	<string key="loadout_removefromall_command" rel_version="Feature_Gear_Set_Storage">Aus allen Ausrüstungssets entfernen</string>
+	<string key="loadout_store_callout" rel_version="Feature_Gear_Set_Storage">Zusätzliche Ausrüstungssets freischalten</string>
+	<string key="loadout_store_button" rel_version="Feature_Gear_Set_Storage">Shop öffnen</string>
+	<string key="loadout_import_current" rel_version="Feature_Gear_Set_Storage">Ausgerüstete Gegenstände importieren</string>
+	<string key="loadout_unequipall_tooltip" rel_version="Feature_Gear_Set_Storage">Alle Gegenstände entfernen</string>
+	<string key="loadout_unequipall_title" rel_version="Feature_Gear_Set_Storage">Gegenstände entfernen</string>
+	<string key="loadout_unequipall_message" rel_version="Feature_Gear_Set_Storage">Möchtest du wirklich alle in diesem Ausrüstungsset platzierten Gegenstände in dein Inventar zurücklegen?</string>
+	<string key="loadout_importall_title" rel_version="Feature_Gear_Set_Storage">Alle importieren</string>
+	<string key="loadout_importall_message" rel_version="Feature_Gear_Set_Storage">Möchtest du wirklich alle ausgerüsteten Gegenstände zu diesem Ausrüstungsset hinzufügen?</string>
+	<string key="loadout_locked_message" rel_version="Feature_Gear_Set_Storage">Wird freigeschaltet ab Stufe {level}</string>
+	<string key="loadout_currently_equipped" rel_version="Feature_Gear_Set_Storage">Ausrüstungsset: {loadoutName}</string>
+	<string key="loadout_error" rel_version="Feature_Gear_Set_Storage">Ausrüstungssetfehler</string>
+	<string key="loadout_notification_equip_success" rel_version="Feature_Gear_Set_Storage">{loadoutName} ausgerüstet</string>
+	<string key="loadout_notification_equip_failure" rel_version="Feature_Gear_Set_Storage">{loadoutName} konnte nicht ausgerüstet werden.</string>
+	<string key="loadout_notification_incombat" rel_version="Feature_Gear_Set_Storage">Ausrüstungssets können nicht im Kampf geändert werden.</string>
+	<string key="loadout_notification_restricted" rel_version="Feature_Gear_Set_Storage">Zurzeit können keine Ausrüstungssets geändert werden.</string>
+	<string key="loadout_notification_renamefail" rel_version="Feature_Gear_Set_Storage">Umbenennen des Ausrüstungssets fehlgeschlagen</string>
+	<string key="loadout_notification_renameinvalid" rel_version="Feature_Gear_Set_Storage">Ungültiger Ausrüstungssetname</string>
+	<string key="loadout_notification_itemlinked" rel_version="Feature_Gear_Set_Storage">Gegenstand nicht zurückgeführt (gehört zu einem anderen Ausrüstungsset oder ist ausgerüstet).</string>
+	<string key="loadout_notification_itemslinked" rel_version="Feature_Gear_Set_Storage">Manche Gegenstände wurden nicht ins Inventar zurückgeführt (gehören zu einem anderen Ausrüstungsset oder sind ausgerüstet).</string>
+	<string key="loadout_notification_itemadd_success" rel_version="Feature_Gear_Set_Storage">Gegenstand zu {loadoutName} hinzugefügt.</string>
+	<string key="loadout_notification_itemadd_failure" rel_version="Feature_Gear_Set_Storage">Gegenstand konnte {loadoutName} nicht hinzugefügt werden.</string>
+	<string key="loadout_notification_itemadd_failure_existing_slot" rel_version="Feature_Gear_Set_Storage">Gegenstand konnte {loadoutName} nicht hinzugefügt werden, weil er sich bereits auf diesem Platz befindet.</string>
+	<string key="loadout_notification_itemaddall_success" rel_version="Feature_Gear_Set_Storage">Gegenstand zu allen Ausrüstungssets hinzugefügt.</string>
+	<string key="loadout_notification_itemaddall_failure" rel_version="Feature_Gear_Set_Storage">Gegenstand konnte nicht zu allen Ausrüstungssets hinzugefügt werden.</string>
+	<string key="loadout_notification_switch_loadout_on_cooldown" rel_version="Feature_Gear_Set_Storage">Du musst noch {timeRemaining} warten, bis du Ausrüstungssets wechseln kannst.</string>
+	<string key="loadout_tutorial" rel_version="Feature_Gear_Set_Storage">Ausrüstungssets verfügbar!\nErstelle und wechsle Ausrüstungssets schnell für jegliche Aktivität.</string>
+	<string key="loadout_notification_itemremove_space_failure" rel_version="Feature_Gear_Set_Storage">Ausrüstungsset-Gegenstände konnten aufgrund von Platzmangel nicht ins Inventar zurückgeführt werden.</string>
+	<string key="loadout_notification_return_space_fail" rel_version="Feature_Gear_Set_Storage">Ausrüstungsset-Gegenstände konnten aufgrund von Platzmangel nicht ins Inventar zurückgeführt werden. Bitte gib den Platz frei und logge dich für einige Minuten aus, um es erneut zu versuchen.</string>
+	<string key="incompatible_elemental_perk">Inkompatibler Elementareffekt</string>
+	<string key="incompatible_socket_item">Kann nicht in einen Gegenstand dieses Typs eingesetzt werden.</string>
+	<string key="ui_effect_failed_Invalid">Effekt kann nicht angewendet werden</string>
+	<string key="ui_effect_failed_Disabled">Vorübergehend deaktivierter Effekt kann nicht angewendet werden</string>
+	<string key="ui_effect_failed_OnCooldown">Effekt mit Abklingzeit kann nicht angewendet werden</string>
+	<string key="ui_effect_failed_GameModePaused">Effekt kann im aktuellen Spielmodus nicht angewendet werden</string>
+	<string key="ui_effect_failed_Dead">Effekt kann bei Toten nicht angewendet werden</string>
+	<string key="ui_effect_failed_VitalsIgnored">Effekt kann nicht angewendet werden</string>
+	<string key="ui_effect_failed_MultipleFromSource">Überflüssige Effekte können nicht angewendet werden</string>
+	<string key="ui_effect_failed_AntirequisiteActive">Kann nicht angewendet werden. Ein widersprüchlicher Effekt ist aktiv: {competingEffect}</string>
+	<string key="ui_effect_failed_AntirequisiteActive_Multiple">Kann nicht angewendet werden. Mehrere widersprüchliche Effekte sind aktiv</string>
+	<string key="ui_effect_failed_Success">Verfügbarer Effekt</string>
 </resources>
 

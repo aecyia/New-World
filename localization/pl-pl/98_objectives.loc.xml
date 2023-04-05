@@ -116,6 +116,10 @@
 	<string key="FactionRecruitment_Covenant_Completed" gender="F" rel_version="Quest_MSQ2_Revamp">BRAK</string>
 	<string key="FactionRecruitment_Covenant_Container" speaker="UI" rel_version="Quest_MSQ2_Revamp">Złóż przysięgę wierności przymierzu</string>
 	<string key="FactionRecruitment_Covenant_JoinFaction" speaker="UI" rel_version="Quest_MSQ2_Revamp">Porozmawiaj z przedstawicielką Beyzą w enklawie przymierza. Możesz też dołączyć do przymierza, jeśli tego chcesz.</string>
+	<string key="FactionRecruitment_Covenant_Decline" speaker="UI" rel_version="Quest_MSQ2_Revamp">(Opcjonalne) Na razie odrzuć ofertę.</string>
+	<string key="Covenant_DeclineRecruitment_Prompt" speaker="UI" rel_version="Quest_MSQ2_Revamp">"Dzięki, ale wciąż rozważam różne opcje".</string>
+	<string key="Covenant_DeclineRecruitment_Response" speaker="Lumen Beyza" name="LumenBeyza" gender="F" VO_Status="Not Recorded" rel_version="Quest_MSQ2_Revamp">Rozumiem. To ważna decyzja. Jeśli za jakiś czas zdecydujesz się do nas dołączyć, wystarczy, że ze mną porozmawiasz.\n\nWiem, że Florina również chętnie by z tobą porozmawiała.\n\n(Jeśli zdecydujesz się dołączyć do tej frakcji, porozmawiaj ponownie z tą przedstawicielką. Jeśli należysz już do innej frakcji, możesz zmienić frakcję w menu Biografii).</string>
+	<string rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
 	<string rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
 	<string key="9809_CovenantGuard_Default" gender="Both" VO="9809_CovenantGuard_Default" rel_version="Quest_MSQ2_Revamp">Nie trać ducha.</string>
 	<string key="9810_Alejandro_Default" speaker="Alejandro" name="Alejandro" gender="M" VO="9810_Alejandro_Default" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Nie… coś tu nie gra… \n\nDlaczego nie pamiętam, jak wyglądała jego twarz?</string>
@@ -136,7 +140,7 @@
 	<string VO="9807_Aventus_01_02" rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
 	<string key="9805_Tibbs_00_Default" speaker="Lieutenant Tibbs" name="LieutenantTibbs" gender="M" VO="9805_Tibbs_00_Default" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Hej! Takie młokosy nie powinny pałętać się w tym miejscu! \n\nRozchmurz się, odrobina aeternijskiego humoru nie zaszkodzi! \n\nI nie obawiaj się. Jestem dyskretny jak dziadek klozetowy!</string>
 	<string key="9805_Tibbs_00_01" speaker="Lieutenant Tibbs" name="LieutenantTibbs" gender="M" VO="9805_Tibbs_00_01" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Podejdź bliżej! Wyglądasz mi na jednego z tych maruderów. Lubisz przygody? Może nawet małe bitki, co? A co z bronią i bogactwami? \n\nChcesz usłyszeć radę od starego Tibbsa? Mam coś w sam raz dla kogoś nowego.</string>
-	<string key="FactionIntro_Marauders_01_Title" speaker="UI - Journal - Quest Title" rel_version="Quest_MSQ2_Revamp"> Pierwszy krok</string>
+	<string key="FactionIntro_Marauders_01_Title" speaker="UI - Journal - Quest Title" rel_version="Quest_MSQ2_Revamp">Pierwszy krok</string>
 	<string key="FactionIntro_Marauders_01_Description" speaker="UI - Journal - Quest Description" rel_version="Quest_MSQ2_Revamp">Zadanie inicjacji maruderów: Porucznik Tibbs zlecił ci zadanie. Masz zebrać uszy zagubionych i rycerski sygnet na Polach Lugdunum – mają posłużyć do jakiejś magii. Po wszystkim spotkaj się z Tibbsem na schodach ruin, leżących na północ od farmy.</string>
 	<string key="FactionIntro_Marauders_01_StartPrompt" speaker="UI - Player Prompt" rel_version="Quest_MSQ2_Revamp">"No dobrze. Mów więc".</string>
 	<string key="FactionIntro_Marauders_01_Proposal" speaker="Lieutenant Tibbs" name="LieutenantTibbs" gender="M" VO="FactionIntro_Marauders_01_Proposal" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">I to rozumiem! Na północnym zachodzie stoi fort pełen niewyobrażalnych cudów. Aby do niego wejść, potrzebne są dziwne przedmioty. Magiczne, rozumiesz? Uszy bezdusznych zagubionych, pierścień rycerza. \n\nZgarnij je z Pól Lugdunum i spotkajmy się na miejscu.</string>
@@ -223,6 +227,9 @@
 	<string key="FactionRecruitment_Marauders_Completed" gender="M" rel_version="Quest_MSQ2_Revamp">Brak</string>
 	<string key="FactionRecruitment_Marauders_Container" speaker="UI" rel_version="Quest_MSQ2_Revamp">Złóż przysięgę wierności maruderom.</string>
 	<string key="FactionRecruitment_Marauders_JoinFaction" speaker="UI" rel_version="Quest_MSQ2_Revamp">Porozmawiaj z przedstawicielem Smiggsem w enklawie maruderów. Jeśli podejmiesz taką decyzję, dołącz do maruderów.</string>
+	<string key="FactionRecruitment_Marauders_Decline" rel_version="Quest_MSQ2_Revamp">(Opcjonalne) Na razie odrzuć ofertę.</string>
+	<string key="Marauders_DeclineRecruitment_Prompt" speaker="UI" rel_version="Quest_MSQ2_Revamp">"Dzięki, ale wciąż rozważam różne opcje".</string>
+	<string key="Marauders_DeclineRecruitment_Response" speaker="Representative Smiggs" name="RepresentativeSmiggs" gender="M" VO_Status="Not Recorded" rel_version="Quest_MSQ2_Revamp">Rozumiem. To ważna decyzja. Jeśli za jakiś czas zdecydujesz się do nas dołączyć, wróć do mnie, to porozmawiamy.\n\nJesteśmy otwarci na powrót dawnych członków.\n\n(Jeśli zdecydujesz się dołączyć do tej frakcji, porozmawiaj ponownie z tym przedstawicielem. Jeśli należysz już do innej frakcji, możesz zmienić frakcję w menu Biografii).</string>
 	<string rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
 	<string key="9815_MarauderGuard_Default" gender="Both" rel_version="Quest_MSQ2_Revamp">Walcz z honorem.</string>
 	<string key="9816_Pavel_Default" speaker="Pavel" name="Pavel" gender="M" VO="9816_Pavel_Default" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Won! Żarcie jest tylko dla maruderów. \n\nJeśli chcesz napełnić brzuch, musisz na to zasłużyć.</string>
@@ -246,7 +253,7 @@
 	<string key="9808_Cleo_00_Default" speaker="Cleo Elsayad" name="CleoElsayad" gender="F" VO="9808_Cleo_00_Default" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Jeśli możesz, stań z boku. Mam wiele problemów do rozwiązania. \n\nJeśli szukasz zajęcia, skrybowie zawsze chętnie rzucają wyzwania pełnym nadziei nowicjuszom.</string>
 	<string key="9807_Aventus_00_01" speaker="Aventus Valenti" name="AventusValenti" gender="M" VO="9807_Aventus_00_01" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Śmiało, śmiało! Wyglądasz, jakby niczego ci nie brakowało, a syndykat może zapłacić za poświęcony czas. \n\nWidzę, że przebywasz na wyspie od niedawna. Pomóż mi, a być może nieco rozświetlę mrok.</string>
 	<string key="FactionIntro_Syndicate_01_Title" speaker="UI - Journal - Quest Title" rel_version="Quest_MSQ2_Revamp">Samowolne syntezy, śmiercionośne szaleństwo</string>
-	<string key="FactionIntro_Syndicate_01_Description" speaker="UI - Journal - Quest Description" rel_version="Quest_MSQ2_Revamp">Zadanie inicjacji syndykatu: Aventus zlecił ci zadanie. Twoim celem jest zwabienie odmienionych wilków do Jamy Północy i zaszlachtowanie ich. Gdy tego dokonasz, spotkaj się z Aventusem w enklawie syndykatu na północnym wschodzie.</string>
+	<string key="FactionIntro_Syndicate_01_Description" speaker="UI - Journal - Quest Description" rel_version="Quest_MSQ2_Revamp">Zadanie inicjacji syndykatu: Aventus zlecił ci zadanie. Twoim celem jest zwabienie odmienionych wilków do Jamy Północy i zgładzenie ich. Gdy tego dokonasz, spotkaj się z Aventusem w enklawie syndykatu na północnym wschodzie.</string>
 	<string key="FactionIntro_Syndicate_01_StartPrompt" speaker="UI - Player Prompt" rel_version="Quest_MSQ2_Revamp">"Oferujesz wiedzę?"</string>
 	<string key="FactionIntro_Syndicate_01_Proposal" speaker="Aventus Valenti" name="AventusValenti" gender="M" VO="FactionIntro_Syndicate_01_Proposal" VO_Status="Recorded" dialogue-next="@FactionIntro_Syndicate_01_Proposal_next" rel_version="Quest_MSQ2_Revamp">Zgadza się. I to tę najcenniejszą, jeśli mi pomożesz! \n\nTestowałem alchemiczne przynęty na okolicznych wilkach. Wyniki były obiecujące, aż jeden z nich pożarł przynętę… i stał się większy i bardziej okrutny.</string>
 	<string key="FactionIntro_Syndicate_01_Proposal_prompt" speaker="UI - Player Prompt" rel_version="Quest_MSQ2_Revamp">"Jesteś zaskoczony, że wilk pożarł ci przynętę?"</string>
@@ -264,7 +271,7 @@
 	<string key="FactionIntro_Syndicate_01_Container2" speaker="UI" rel_version="Quest_MSQ2_Revamp">Udaj się na północny wschód, do enklawy</string>
 	<string key="FactionIntro_Syndicate_01_EncounterTitle" speaker="UI" rel_version="Quest_MSQ2_Revamp">Samowolne syntezy, śmiercionośne szaleństwo</string>
 	<string key="FactionIntro_Syndicate_01_PlaceLure" speaker="UI" rel_version="Quest_MSQ2_Revamp">Umieść przynętę, by zwabić watahę</string>
-	<string key="FactionIntro_Syndicate_01_KillWolves" speaker="UI" rel_version="Quest_MSQ2_Revamp">Zgładź wilka alfa i watahę</string>
+	<string key="FactionIntro_Syndicate_01_KillWolves" speaker="UI" rel_version="Quest_MSQ2_Revamp">Pokonaj wilka alfa i watahę</string>
 	<string key="FactionIntro_Syndicate_01_FendOff" speaker="UI" rel_version="Quest_MSQ2_Revamp">Odeprzyj wilki</string>
 	<string key="FactionIntro_Syndicate_01_GoToEnclave" speaker="UI" rel_version="Quest_MSQ2_Revamp">Znajdź azyl syndykatu w północno-wschodniej części Jesieniowieczni.</string>
 	<string key="FactionIntro_Syndicate_01_CutsceneTitle" speaker="UI" rel_version="Quest_MSQ2_Revamp">Enklawa syndykatu</string>
@@ -332,6 +339,9 @@
 	<string key="FactionRecruitment_Syndicate_Completed" speaker="Representative Astrid" name="RepresentativeAstrid" gender="F" VO="FactionRecruitment_Syndicate_Completed" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">BRAK</string>
 	<string key="FactionRecruitment_Syndicate_Container" speaker="UI" rel_version="Quest_MSQ2_Revamp">Złóż przysięgę wierności syndykatowi.</string>
 	<string key="FactionRecruitment_Syndicate_JoinFaction" speaker="UI" rel_version="Quest_MSQ2_Revamp">Porozmawiaj z przedstawicielką Astrid w enklawie syndykatu. Jeśli podejmiesz taką decyzję, dołącz do syndykatu.</string>
+	<string key="FactionRecruitment_Syndicate_Decline" rel_version="Quest_MSQ2_Revamp">(Opcjonalne) Na razie odrzuć ofertę.</string>
+	<string key="Syndicate_DeclineRecruitment_Prompt" speaker="UI" rel_version="Quest_MSQ2_Revamp">"Dzięki, ale wciąż rozważam różne opcje".</string>
+	<string key="Syndicate_DeclineRecruitment_Response" speaker="Representative Astrid" name="RepresentativeAstrid" gender="F" VO_Status="Not Recorded" rel_version="Quest_MSQ2_Revamp">Rozumiem. To ważna decyzja. Jeśli za jakiś czas zdecydujesz się do nas dołączyć, wróć do mojego biura, to zajmiemy się robotą papierkową.\n\nOpowieści o twoich przygodach byłyby bardzo pouczające.\n\n(Jeśli zdecydujesz się dołączyć do tej frakcji, porozmawiaj ponownie z tą przedstawicielką. Jeśli należysz już do innej frakcji, możesz zmienić frakcję w menu Biografii).</string>
 	<string rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
 	<string key="9821_SyndicateGuard_Default" gender="Both" rel_version="Quest_MSQ2_Revamp">Stąpaj ostrożnie.</string>
 	<string key="9822_Abayomi_Default" speaker="Abayomi" name="Abayomi" gender="M" VO="9822_Abayomi_Default" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Patrzę na ciebie i już wiem. Ona też do ciebie mówi? \n\nSłyszę szepty Aeternum. Nie każdy ma taki dar, jak my.</string>

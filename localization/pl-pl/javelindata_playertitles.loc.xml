@@ -13,7 +13,7 @@
 	<string key="ui_playertitle_pvparenawins_500_description">Nagroda za wygranie 500 meczów na arenie.</string>
 	<string key="ui_playertitle_pvparenawins_1000">Mistrz areny</string>
 	<string key="ui_playertitle_pvparenawins_1000_SHE">Mistrzyni areny</string>
-	<string key="ui_playertitle_pvparenawins_1000_THEY">Mistrzostwo areny</string>
+	<string key="ui_playertitle_pvparenawins_1000_THEY">Egida areny</string>
 	<string key="ui_playertitle_pvparenawins_1000_description">Nagroda za wygranie 1000 meczów na arenie.</string>
 	<string key="ui_playertitle_pvparenawins_Flawless">Nieśmiertelny wojownik</string>
 	<string key="ui_playertitle_pvparenawins_Flawless_SHE">Nieśmiertelna wojowniczka</string>
@@ -651,7 +651,7 @@
 	<string key="ui_playertitle_pve_totalkills5_THEY" rel_version="Feature_MetaAchievements">Legenda Aeternum</string>
 	<string key="ui_playertitle_dungeonboss_amrine" rel_version="Feature_MetaAchievements">Archeolog</string>
 	<string key="ui_playertitle_dungeonboss_amrine_SHE" rel_version="Feature_MetaAchievements">Archeolożka</string>
-	<string key="ui_playertitle_dungeonboss_amrine_THEY" rel_version="Feature_MetaAchievements">Archeolog</string>
+	<string key="ui_playertitle_dungeonboss_amrine_THEY" rel_version="Feature_MetaAchievements">Archeologia stosowana</string>
 	<string key="ui_playertitle_dungeonboss_shatteredobelisk" rel_version="Expedition_Everfall_00">Zmora pradawnych</string>
 	<string key="ui_playertitle_dungeonboss_shatteredobelisk_SHE" rel_version="Expedition_Everfall_00">Zmora pradawnych</string>
 	<string key="ui_playertitle_dungeonboss_shatteredobelisk_THEY" rel_version="Expedition_Everfall_00">Zmora pradawnych</string>
@@ -745,14 +745,14 @@
 	<string key="ui_player_titles_section_label_totalkills">Łączna liczba zabójstw</string>
 	<string key="ui_player_titles_section_label_test_only">Testing Only (NOT FOR RELEASE)</string>
 	<string key="ui_title_section_title">Tytuł</string>
-	<string key="ui_title_section_pick_title">Wybierz tytuł, który chcesz wyświetlić</string>
+	<string key="ui_title_section_pick_title">Zmień tytuł</string>
 	<string key="ui_title_section_no_title">Brak tytułu</string>
-	<string key="ui_title_section_current_title">Obecnie wybrany:</string>
+	<string key="ui_title_section_current_title">Obecnie wyświetlany:</string>
 	<string key="ui_title_section_new">NOWE</string>
-	<string key="ui_title_section_current_title_tag">Obecny tytuł</string>
-	<string key="ui_title_section_apply">Zastosuj</string>
-	<string key="ui_playertitle_notification_title">Tytuł odblokowany!</string>
-	<string key="ui_playertitle_notification_desc">Udało ci się odblokować tytuł:&lt;font color={color}&gt; {title} &lt;/font&gt;</string>
+	<string key="ui_title_section_current_title_tag">Wyświetlany</string>
+	<string key="ui_title_section_apply">Potwierdź</string>
+	<string key="ui_playertitle_notification_title">Tytuł odblokowany</string>
+	<string key="ui_playertitle_notification_desc">Odblokowano: &lt;font color={color}&gt;{title} &lt;/font&gt;</string>
 	<string key="ui_playertitle_notification_expired_title">Twój tytuł wygasł!</string>
 	<string key="ui_playertitle_notification_expired_desc">Twój tytuł (&lt;font color={color}&gt;{title}&lt;/font&gt;) wygasł. Naciśnij "Szczegóły", by wybrać nowy tytuł.</string>
 	<string key="ui_playertitle_meta_achievement_description">Zdobywasz osiągnięcie: {title} ({description})</string>
@@ -762,7 +762,7 @@
 	<string key="ui_playertitle_meta_preorder_description" rel_version="Feature_Titles">Nagroda za złożenie zamówienia przedpremierowego na &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;New World&lt;/font&gt;.</string>
 	<string key="ui_playertitle_skills_description">Nagroda za rozwijanie umiejętności.</string>
 	<string key="ui_playertitle_generic_description">Nagroda za rozgrywkę.</string>
-	<string key="ui_playertitle_no_title_description">Zastosuj, by nie pokazywać żadnego tytułu.</string>
+	<string key="ui_playertitle_no_title_description">Wybierz tę opcję, by nie pokazywać żadnego tytułu.</string>
 	<string key="ui_playertitle_addendum_accounttype">\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular.font" color = "#ffffff"&gt;Tego tytułu może użyć dowolna postać przypisana do twojego konta.&lt;/font&gt;</string>
 	<string key="ui_playertitle_addendum_charactertype">\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular.font" color = "#ffffff"&gt;Tego tytułu nie mogą używać inne postacie przypisane do twojego konta.&lt;/font&gt;</string>
 	<string key="ui_playertitle_special_stoic" rel_version="Feature_Titles">Stoik</string>
@@ -779,7 +779,7 @@
 	<string key="ui_playertitle_special_CultFollower_description">Pełnoprawny członek sekretnego stowarzyszenia.</string>
 	<string key="ui_playertitle_special_warmonger">Podżegacz</string>
 	<string key="ui_playertitle_special_warmonger_SHE">Podżegaczka</string>
-	<string key="ui_playertitle_special_warmonger_THEY">Podżeganie</string>
+	<string key="ui_playertitle_special_warmonger_THEY">Mąciwoda</string>
 	<string key="ui_playertitle_warmonger_description">Zawsze odpowiada na zew wojny.</string>
 	<string key="ui_playertitle_special_superdeluxe">Pustynna straż przednia</string>
 	<string key="ui_playertitle_special_superdeluxe_SHE">Pustynna straż przednia</string>
@@ -826,302 +826,379 @@
 	<string key="ui_playertitle_dynastyshipyard_score_top1" rel_version="Feature_Leaderboards">Triumfator Dynastii</string>
 	<string key="ui_playertitle_dynastyshipyard_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Dynastii</string>
 	<string key="ui_playertitle_dynastyshipyard_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf nad Dynastią</string>
-	<string key="ui_playertitle_dynastyshipyard_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 5 tygodniowego rankingu wyników Stoczni Dynastii na 10. poz. trudności.</string>
+	<string key="ui_playertitle_dynastyshipyard_score_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 5 tygodniowego rankingu wyników Stoczni Dynastii na 10. poz. trudności.</string>
 	<string key="ui_playertitle_dynastyshipyard_score_top10" rel_version="Feature_Leaderboards">Medalista Dynastii</string>
 	<string key="ui_playertitle_dynastyshipyard_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Dynastii</string>
 	<string key="ui_playertitle_dynastyshipyard_score_top10_THEY" rel_version="Feature_Leaderboards">Medal Dynastii</string>
-	<string key="ui_playertitle_dynastyshipyard_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 25 tygodniowego rankingu wyników Stoczni Dynastii na 10. poz. trudności.</string>
+	<string key="ui_playertitle_dynastyshipyard_score_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 25 tygodniowego rankingu wyników Stoczni Dynastii na 10. poz. trudności.</string>
 	<string key="ui_playertitle_gardenofgenesis_score_top1" rel_version="Feature_Leaderboards">Triumfator Genezy</string>
 	<string key="ui_playertitle_gardenofgenesis_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Genezy</string>
 	<string key="ui_playertitle_gardenofgenesis_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf nad Genezą</string>
-	<string key="ui_playertitle_gardenofgenesis_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 5 tygodniowego rankingu wyników Ogrodu Genezy na 10. poz. trudności.</string>
+	<string key="ui_playertitle_gardenofgenesis_score_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 5 tygodniowego rankingu wyników Ogrodu Genezy na 10. poz. trudności.</string>
 	<string key="ui_playertitle_gardenofgenesis_score_top10" rel_version="Feature_Leaderboards">Medalista Genezy</string>
 	<string key="ui_playertitle_gardenofgenesis_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Genezy</string>
 	<string key="ui_playertitle_gardenofgenesis_score_top10_THEY" rel_version="Feature_Leaderboards">Medal Genezy</string>
-	<string key="ui_playertitle_gardenofgenesis_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 25 tygodniowego rankingu wyników Ogrodu Genezy na 10. poz. trudności.</string>
+	<string key="ui_playertitle_gardenofgenesis_score_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 25 tygodniowego rankingu wyników Ogrodu Genezy na 10. poz. trudności.</string>
 	<string key="ui_playertitle_lazarusinstrumentality_score_top1" rel_version="Feature_Leaderboards">Triumfator Łazarza</string>
 	<string key="ui_playertitle_lazarusinstrumentality_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Łazarza</string>
 	<string key="ui_playertitle_lazarusinstrumentality_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf nad Łazarzem</string>
-	<string key="ui_playertitle_lazarusinstrumentality_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 5 tygodniowego rankingu wyników Użyteczności Łazarza na 10. poz. trudności.</string>
+	<string key="ui_playertitle_lazarusinstrumentality_score_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 5 tygodniowego rankingu wyników Użyteczności Łazarza na 10. poz. trudności.</string>
 	<string key="ui_playertitle_lazarusinstrumentality_score_top10" rel_version="Feature_Leaderboards">Medalista Łazarza</string>
 	<string key="ui_playertitle_lazarusinstrumentality_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Łazarza</string>
 	<string key="ui_playertitle_lazarusinstrumentality_score_top10_THEY" rel_version="Feature_Leaderboards">Medal Łazarza</string>
-	<string key="ui_playertitle_lazarusinstrumentality_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 25 tygodniowego rankingu wyników Użyteczności Łazarza na 10. poz. trudności.</string>
+	<string key="ui_playertitle_lazarusinstrumentality_score_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 25 tygodniowego rankingu wyników Użyteczności Łazarza na 10. poz. trudności.</string>
 	<string key="ui_playertitle_tempestheart_score_top1" rel_version="Feature_Leaderboards">Triumfator Burzy</string>
 	<string key="ui_playertitle_tempestheart_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Burzy</string>
 	<string key="ui_playertitle_tempestheart_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf nad Burzą</string>
-	<string key="ui_playertitle_tempestheart_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 5 tygodniowego rankingu wyników Serca Burzy na 10. poz. trudności.</string>
+	<string key="ui_playertitle_tempestheart_score_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 5 tygodniowego rankingu wyników Serca Burzy na 10. poz. trudności.</string>
 	<string key="ui_playertitle_tempestheart_score_top10" rel_version="Feature_Leaderboards">Medalista Burzy</string>
 	<string key="ui_playertitle_tempestheart_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Burzy</string>
 	<string key="ui_playertitle_tempestheart_score_top10_THEY" rel_version="Feature_Leaderboards">Medal Burzy</string>
-	<string key="ui_playertitle_tempestheart_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 25 tygodniowego rankingu wyników Serca Burzy na 10. poz. trudności.</string>
+	<string key="ui_playertitle_tempestheart_score_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 25 tygodniowego rankingu wyników Serca Burzy na 10. poz. trudności.</string>
 	<string key="ui_playertitle_barnacles_score_top1" rel_version="Feature_Leaderboards">Triumfator Pąkli</string>
 	<string key="ui_playertitle_barnacles_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Pąkli</string>
 	<string key="ui_playertitle_barnacles_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf nad Pąklami</string>
-	<string key="ui_playertitle_barnacles_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 5 tygodniowego rankingu wyników Pąkli i czarnego prochu na 10. poz. trudności.</string>
+	<string key="ui_playertitle_barnacles_score_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 5 tygodniowego rankingu wyników Pąkli i czarnego prochu na 10. poz. trudności.</string>
 	<string key="ui_playertitle_barnacles_score_top10" rel_version="Feature_Leaderboards">Medalista Pąkli</string>
 	<string key="ui_playertitle_barnacles_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Pąkli</string>
 	<string key="ui_playertitle_barnacles_score_top10_THEY" rel_version="Feature_Leaderboards">Medal Pąkli</string>
-	<string key="ui_playertitle_barnacles_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 25 tygodniowego rankingu wyników Pąkli i czarnego prochu na 10. poz. trudności.</string>
+	<string key="ui_playertitle_barnacles_score_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 25 tygodniowego rankingu wyników Pąkli i czarnego prochu na 10. poz. trudności.</string>
 	<string key="ui_playertitle_brimstone_score_top1" rel_version="Feature_Leaderboards">Triumfator Enneady</string>
 	<string key="ui_playertitle_brimstone_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Enneady</string>
 	<string key="ui_playertitle_brimstone_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf nad Enneadą</string>
-	<string key="ui_playertitle_brimstone_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 5 tygodniowego rankingu wyników Enneady na 10. poz. trudności.</string>
+	<string key="ui_playertitle_brimstone_score_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 5 tygodniowego rankingu wyników Enneady na 10. poz. trudności.</string>
 	<string key="ui_playertitle_brimstone_score_top10" rel_version="Feature_Leaderboards">Medalista Enneady</string>
 	<string key="ui_playertitle_brimstone_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Enneady</string>
 	<string key="ui_playertitle_brimstone_score_top10_THEY" rel_version="Feature_Leaderboards">Medal Enneady</string>
-	<string key="ui_playertitle_brimstone_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 25 tygodniowego rankingu wyników Enneady na 10. poz. trudności.</string>
+	<string key="ui_playertitle_brimstone_score_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 25 tygodniowego rankingu wyników Enneady na 10. poz. trudności.</string>
 	<string key="ui_playertitle_depths_score_top1" rel_version="Feature_Leaderboards">Triumfator Głębin</string>
 	<string key="ui_playertitle_depths_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Głębin</string>
 	<string key="ui_playertitle_depths_score_top1_THEY" rel_version="Feature_Leaderboards">Trium w Głębinach</string>
-	<string key="ui_playertitle_depths_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 5 tygodniowego rankingu wyników Głębin na 10. poz. trudności.</string>
+	<string key="ui_playertitle_depths_score_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 5 tygodniowego rankingu wyników Głębin na 10. poz. trudności.</string>
 	<string key="ui_playertitle_depths_score_top10" rel_version="Feature_Leaderboards">Medalista Głębin</string>
 	<string key="ui_playertitle_depths_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Głębin</string>
 	<string key="ui_playertitle_depths_score_top10_THEY" rel_version="Feature_Leaderboards">Medal Głębin</string>
-	<string key="ui_playertitle_depths_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 25 tygodniowego rankingu wyników Głębin na 10. poz. trudności.</string>
+	<string key="ui_playertitle_depths_score_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 25 tygodniowego rankingu wyników Głębin na 10. poz. trudności.</string>
+	<string key="ui_playertitle_forge_score_top5" rel_version="Expedition_GreatCleave_01">Triumfator Kuźni</string>
+	<string key="ui_playertitle_forge_score_top5_SHE" rel_version="Expedition_GreatCleave_01">Triumfatorka Kuźni</string>
+	<string key="ui_playertitle_forge_score_top5_THEY" rel_version="Expedition_GreatCleave_01">Triumf Kuźni</string>
+	<string key="ui_playertitle_forge_score_top5_description" rel_version="Expedition_GreatCleave_01">Nagroda za dostanie się do top 5 tygodniowego rankingu wyników Empirejskiej Kuźni na 10. poz. trudności.</string>
+	<string key="ui_playertitle_forge_score_top25" rel_version="Expedition_GreatCleave_01">Medalista Kuźni</string>
+	<string key="ui_playertitle_forge_score_top25_SHE" rel_version="Expedition_GreatCleave_01">Medalistka Kuźni</string>
+	<string key="ui_playertitle_forge_score_top25_THEY" rel_version="Expedition_GreatCleave_01">Medal Kuźni</string>
+	<string key="ui_playertitle_forge_score_top25_description" rel_version="Expedition_GreatCleave_01">Nagroda za dostanie się do top 25 tygodniowego rankingu wyników Empirejskiej Kuźni na 10. poz. trudności.</string>
 	<string key="ui_playertitle_starstone_score_top1" rel_version="Feature_Leaderboards">Triumfator Gwiezdnego Kurhanu</string>
 	<string key="ui_playertitle_starstone_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Gwiezdnego Kurhanu</string>
 	<string key="ui_playertitle_starstone_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf w Gwiezdnym Kurhanie</string>
-	<string key="ui_playertitle_starstone_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 5 tygodniowego rankingu wyników Gwiezdnego Kurhanu na 10. poz. trudności.</string>
+	<string key="ui_playertitle_starstone_score_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 5 tygodniowego rankingu wyników Gwiezdnego Kurhanu na 10. poz. trudności.</string>
 	<string key="ui_playertitle_starstone_score_top10" rel_version="Feature_Leaderboards">Medalista Gwiezdnego Kurhanu</string>
 	<string key="ui_playertitle_starstone_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Gwiezdnego Kurhanu</string>
 	<string key="ui_playertitle_starstone_score_top10_THEY" rel_version="Feature_Leaderboards">Medal Gwiezdnego Kurhanu</string>
-	<string key="ui_playertitle_starstone_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 25 tygodniowego rankingu wyników Gwiezdnego Kurhanu na 10. poz. trudności.</string>
+	<string key="ui_playertitle_starstone_score_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 25 tygodniowego rankingu wyników Gwiezdnego Kurhanu na 10. poz. trudności.</string>
 	<string key="ui_playertitle_dynastyshipyard_time_top1" rel_version="Feature_Leaderboards">Ekspresowy triumfator Dynastii</string>
 	<string key="ui_playertitle_dynastyshipyard_time_top1_SHE" rel_version="Feature_Leaderboards">Ekspresowa triumfatorka Dynastii</string>
 	<string key="ui_playertitle_dynastyshipyard_time_top1_THEY" rel_version="Feature_Leaderboards">Ekspresowy triumf Dynastii</string>
-	<string key="ui_playertitle_dynastyshipyard_time_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 5 tygodniowego rankingu czasu ukończenia Stoczni Dynastii na 10. poz. trudności.</string>
+	<string key="ui_playertitle_dynastyshipyard_time_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 5 tygodniowego rankingu czasu ukończenia Stoczni Dynastii na 10. poz. trudności.</string>
 	<string key="ui_playertitle_dynastyshipyard_time_top10" rel_version="Feature_Leaderboards">Medalista czasowy Dynastii</string>
 	<string key="ui_playertitle_dynastyshipyard_time_top10_SHE" rel_version="Feature_Leaderboards">Medalistka czasowa Dynastii</string>
 	<string key="ui_playertitle_dynastyshipyard_time_top10_THEY" rel_version="Feature_Leaderboards">Medal czasowy Dynastii</string>
-	<string key="ui_playertitle_dynastyshipyard_time_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 25 tygodniowego rankingu czasu ukończenia Stoczni Dynastii na 10. poz. trudności.</string>
+	<string key="ui_playertitle_dynastyshipyard_time_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 25 tygodniowego rankingu czasu ukończenia Stoczni Dynastii na 10. poz. trudności.</string>
 	<string key="ui_playertitle_gardenofgenesis_time_top1" rel_version="Feature_Leaderboards">Ekspresowy triumfator Genezy</string>
 	<string key="ui_playertitle_gardenofgenesis_time_top1_SHE" rel_version="Feature_Leaderboards">Ekspresowa triumfatorka Genezy</string>
 	<string key="ui_playertitle_gardenofgenesis_time_top1_THEY" rel_version="Feature_Leaderboards">Ekspresowy triumf Genezy</string>
-	<string key="ui_playertitle_gardenofgenesis_time_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 5 tygodniowego rankingu czasu ukończenia Ogrodu Genezy na 10. poz. trudności.</string>
+	<string key="ui_playertitle_gardenofgenesis_time_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 5 tygodniowego rankingu czasu ukończenia Ogrodu Genezy na 10. poz. trudności.</string>
 	<string key="ui_playertitle_gardenofgenesis_time_top10" rel_version="Feature_Leaderboards">Medalista czasowy Genezy</string>
 	<string key="ui_playertitle_gardenofgenesis_time_top10_SHE" rel_version="Feature_Leaderboards">Medalistka czasowa Genezy</string>
 	<string key="ui_playertitle_gardenofgenesis_time_top10_THEY" rel_version="Feature_Leaderboards">Medal czasowy Genezy</string>
-	<string key="ui_playertitle_gardenofgenesis_time_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 25 tygodniowego rankingu czasu ukończenia Ogrodu Genezy na 10. poz. trudności.</string>
+	<string key="ui_playertitle_gardenofgenesis_time_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 25 tygodniowego rankingu czasu ukończenia Ogrodu Genezy na 10. poz. trudności.</string>
 	<string key="ui_playertitle_lazarusinstrumentality_time_top1" rel_version="Feature_Leaderboards">Ekspresowy triumfator Łazarza</string>
 	<string key="ui_playertitle_lazarusinstrumentality_time_top1_SHE" rel_version="Feature_Leaderboards">Ekspresowa triumfatorka Łazarza</string>
 	<string key="ui_playertitle_lazarusinstrumentality_time_top1_THEY" rel_version="Feature_Leaderboards">Ekspresowy triumf Łazarza</string>
-	<string key="ui_playertitle_lazarusinstrumentality_time_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 5 tygodniowego rankingu czasu ukończenia Użyteczności Łazarza na 10. poz. trudności.</string>
+	<string key="ui_playertitle_lazarusinstrumentality_time_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 5 tygodniowego rankingu czasu ukończenia Użyteczności Łazarza na 10. poz. trudności.</string>
 	<string key="ui_playertitle_lazarusinstrumentality_time_top10" rel_version="Feature_Leaderboards">Medalista czasowy Łazarza</string>
 	<string key="ui_playertitle_lazarusinstrumentality_time_top10_SHE" rel_version="Feature_Leaderboards">Medalistka czasowa Łazarza</string>
 	<string key="ui_playertitle_lazarusinstrumentality_time_top10_THEY" rel_version="Feature_Leaderboards">Medal czasowy Łazarza</string>
-	<string key="ui_playertitle_lazarusinstrumentality_time_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 25 tygodniowego rankingu czasu ukończenia Użyteczności Łazarza na 10. poz. trudności.</string>
+	<string key="ui_playertitle_lazarusinstrumentality_time_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 25 tygodniowego rankingu czasu ukończenia Użyteczności Łazarza na 10. poz. trudności.</string>
 	<string key="ui_playertitle_tempestheart_time_top1" rel_version="Feature_Leaderboards">Ekspresowy triumfator Burzy</string>
 	<string key="ui_playertitle_tempestheart_time_top1_SHE" rel_version="Feature_Leaderboards">Ekspresowa triumfatorka Burzy</string>
 	<string key="ui_playertitle_tempestheart_time_top1_THEY" rel_version="Feature_Leaderboards">Ekspresowy triumf Burzy</string>
-	<string key="ui_playertitle_tempestheart_time_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 5 tygodniowego rankingu czasu ukończenia Serca Burzy na 10. poz. trudności.</string>
+	<string key="ui_playertitle_tempestheart_time_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 5 tygodniowego rankingu czasu ukończenia Serca Burzy na 10. poz. trudności.</string>
 	<string key="ui_playertitle_tempestheart_time_top10" rel_version="Feature_Leaderboards">Medalista czasowy Burzy</string>
 	<string key="ui_playertitle_tempestheart_time_top10_SHE" rel_version="Feature_Leaderboards">Medalistka czasowa Burzy</string>
 	<string key="ui_playertitle_tempestheart_time_top10_THEY" rel_version="Feature_Leaderboards">Medal czasowy Burzy</string>
-	<string key="ui_playertitle_tempestheart_time_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 25 tygodniowego rankingu czasu ukończenia Serca Burzy na 10. poz. trudności.</string>
+	<string key="ui_playertitle_tempestheart_time_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 25 tygodniowego rankingu czasu ukończenia Serca Burzy na 10. poz. trudności.</string>
 	<string key="ui_playertitle_barnacles_time_top1" rel_version="Feature_Leaderboards">Ekspresowy triumfator Pąkli</string>
 	<string key="ui_playertitle_barnacles_time_top1_SHE" rel_version="Feature_Leaderboards">Ekspresowa triumfatorka Pąkli</string>
 	<string key="ui_playertitle_barnacles_time_top1_THEY" rel_version="Feature_Leaderboards">Ekspresowy triumf Pąkli</string>
-	<string key="ui_playertitle_barnacles_time_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 5 tygodniowego rankingu czasu ukończenia Pąkli i czarnego prochu na 10. poz. trudności.</string>
+	<string key="ui_playertitle_barnacles_time_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 5 tygodniowego rankingu czasu ukończenia Pąkli i czarnego prochu na 10. poz. trudności.</string>
 	<string key="ui_playertitle_barnacles_time_top10" rel_version="Feature_Leaderboards">Medalista czasowy Pąkli</string>
 	<string key="ui_playertitle_barnacles_time_top10_SHE" rel_version="Feature_Leaderboards">Medalistka czasowa Pąkli</string>
 	<string key="ui_playertitle_barnacles_time_top10_THEY" rel_version="Feature_Leaderboards">Medal czasowy Pąkli</string>
-	<string key="ui_playertitle_barnacles_time_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 25 tygodniowego rankingu czasu ukończenia Pąkli i czarnego prochu na 10. poz. trudności.</string>
+	<string key="ui_playertitle_barnacles_time_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 25 tygodniowego rankingu czasu ukończenia Pąkli i czarnego prochu na 10. poz. trudności.</string>
 	<string key="ui_playertitle_brimstone_time_top1" rel_version="Feature_Leaderboards">Ekspresowy triumfator Enneady</string>
 	<string key="ui_playertitle_brimstone_time_top1_SHE" rel_version="Feature_Leaderboards">Ekspresowa triumfatorka Enneady</string>
 	<string key="ui_playertitle_brimstone_time_top1_THEY" rel_version="Feature_Leaderboards">Ekspresowy triumf Enneady</string>
-	<string key="ui_playertitle_brimstone_time_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 5 tygodniowego rankingu czasu ukończenia Enneady na 10. poz. trudności.</string>
+	<string key="ui_playertitle_brimstone_time_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 5 tygodniowego rankingu czasu ukończenia Enneady na 10. poz. trudności.</string>
 	<string key="ui_playertitle_brimstone_time_top10" rel_version="Feature_Leaderboards">Medalista czasowy Enneady</string>
 	<string key="ui_playertitle_brimstone_time_top10_SHE" rel_version="Feature_Leaderboards">Medalistka czasowa Enneady</string>
 	<string key="ui_playertitle_brimstone_time_top10_THEY" rel_version="Feature_Leaderboards">Medal czasowy Enneady</string>
-	<string key="ui_playertitle_brimstone_time_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 25 tygodniowego rankingu czasu ukończenia Enneady na 10. poz. trudności.</string>
+	<string key="ui_playertitle_brimstone_time_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 25 tygodniowego rankingu czasu ukończenia Enneady na 10. poz. trudności.</string>
 	<string key="ui_playertitle_depths_time_top1" rel_version="Feature_Leaderboards">Ekspresowy triumfator Głębin</string>
 	<string key="ui_playertitle_depths_time_top1_SHE" rel_version="Feature_Leaderboards">Ekspresowa triumfatorka Głębin</string>
 	<string key="ui_playertitle_depths_time_top1_THEY" rel_version="Feature_Leaderboards">Ekspresowy triumf Głębin</string>
-	<string key="ui_playertitle_depths_time_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 5 tygodniowego rankingu czasu ukończenia Głębin na 10. poz. trudności.</string>
+	<string key="ui_playertitle_depths_time_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 5 tygodniowego rankingu czasu ukończenia Głębin na 10. poz. trudności.</string>
 	<string key="ui_playertitle_depths_time_top10" rel_version="Feature_Leaderboards">Medalista czasowy Głębin</string>
 	<string key="ui_playertitle_depths_time_top10_SHE" rel_version="Feature_Leaderboards">Medalistka czasowa Głębin</string>
 	<string key="ui_playertitle_depths_time_top10_THEY" rel_version="Feature_Leaderboards">Medal czasowy Głębin</string>
-	<string key="ui_playertitle_depths_time_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 25 tygodniowego rankingu czasu ukończenia Głębin na 10. poz. trudności.</string>
+	<string key="ui_playertitle_depths_time_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 25 tygodniowego rankingu czasu ukończenia Głębin na 10. poz. trudności.</string>
 	<string key="ui_playertitle_starstone_time_top1" rel_version="Feature_Leaderboards">Ekspresowy triumfator Gwiezdnego Kurhanu</string>
 	<string key="ui_playertitle_starstone_time_top1_SHE" rel_version="Feature_Leaderboards">Ekspresowa triumfatorka Gwiezdnego Kurhanu</string>
 	<string key="ui_playertitle_starstone_time_top1_THEY" rel_version="Feature_Leaderboards">Ekspresowy triumf Gwiezdnego Kurhanu</string>
-	<string key="ui_playertitle_starstone_time_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 5 tygodniowego rankingu czasu ukończenia Gwiezdnego Kurhanu na 10. poz. trudności.</string>
+	<string key="ui_playertitle_starstone_time_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 5 tygodniowego rankingu czasu ukończenia Gwiezdnego Kurhanu na 10. poz. trudności.</string>
 	<string key="ui_playertitle_starstone_time_top10" rel_version="Feature_Leaderboards">Medalista czasowy Gwiezdnego Kurhanu</string>
 	<string key="ui_playertitle_starstone_time_top10_SHE" rel_version="Feature_Leaderboards">Medalistka czasowa Gwiezdnego Kurhanu</string>
 	<string key="ui_playertitle_starstone_time_top10_THEY" rel_version="Feature_Leaderboards">Medal czasowy Gwiezdnego Kurhanu</string>
-	<string key="ui_playertitle_starstone_time_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 25 tygodniowego rankingu czasu ukończenia Gwiezdnego Kurhanu na 10. poz. trudności.</string>
+	<string key="ui_playertitle_starstone_time_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 25 tygodniowego rankingu czasu ukończenia Gwiezdnego Kurhanu na 10. poz. trudności.</string>
+	<string key="ui_playertitle_forge_time_top5" rel_version="Expedition_GreatCleave_01">Ekspresowy triumfator Kuźni</string>
+	<string key="ui_playertitle_forge_time_top5_SHE" rel_version="Expedition_GreatCleave_01">Ekspresowa triumfatorka Kuźni</string>
+	<string key="ui_playertitle_forge_time_top5_THEY" rel_version="Expedition_GreatCleave_01">Ekspresowy triumf Kuźni</string>
+	<string key="ui_playertitle_forge_time_top5_description" rel_version="Expedition_GreatCleave_01">Nagroda za dostanie się do top 5 tygodniowego rankingu czasu ukończenia Empirejskiej Kuźni na 10. poz. trudności.</string>
+	<string key="ui_playertitle_forge_time_top25" rel_version="Expedition_GreatCleave_01">Medalista czasowy Kuźni</string>
+	<string key="ui_playertitle_forge_time_top25_SHE" rel_version="Expedition_GreatCleave_01">Medalistka czasowa Kuźni</string>
+	<string key="ui_playertitle_forge_time_top25_THEY" rel_version="Expedition_GreatCleave_01">Medal czasowy Kuźni</string>
+	<string key="ui_playertitle_forge_time_top25_description" rel_version="Expedition_GreatCleave_01">Nagroda za dostanie się do top 25 tygodniowego rankingu czasu ukończenia Empirejskiej Kuźni na 10. poz. trudności.</string>
 	<string key="ui_playertitle_sirenqueen_completion_top1" rel_version="Feature_Leaderboards">Triumfator Królowej Syren</string>
 	<string key="ui_playertitle_sirenqueen_completion_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Królowej Syren</string>
 	<string key="ui_playertitle_sirenqueen_completion_top1_THEY" rel_version="Feature_Leaderboards">Triumf nad Królową Syren</string>
-	<string key="ui_playertitle_sirenqueen_completion_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 10 rankingu kwartalnego Królowej Syren.</string>
+	<string key="ui_playertitle_sirenqueen_completion_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 10 sezonowego rankingu Królowej Syren.</string>
 	<string key="ui_playertitle_sirenqueen_completion_top10" rel_version="Feature_Leaderboards">Medalista Królowej Syren</string>
 	<string key="ui_playertitle_sirenqueen_completion_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Królowej Syren</string>
 	<string key="ui_playertitle_sirenqueen_completion_top10_THEY" rel_version="Feature_Leaderboards">Medal Królowej Syren</string>
-	<string key="ui_playertitle_sirenqueen_completion_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 50 rankingu kwartalnego Królowej Syren.</string>
+	<string key="ui_playertitle_sirenqueen_completion_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 50 sezonowego rankingu Królowej Syren.</string>
 	<string key="ui_playertitle_eternalpools_completion_top1" rel_version="Feature_Leaderboards">Triumfator Wiecznych Stawów</string>
 	<string key="ui_playertitle_eternalpools_completion_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Wiecznych Stawów</string>
 	<string key="ui_playertitle_eternalpools_completion_top1_THEY" rel_version="Feature_Leaderboards">Triumf nad Wiecznymi Stawami</string>
-	<string key="ui_playertitle_eternalpools_completion_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 10 rankingu kwartalnego Wiecznych Stawów.</string>
+	<string key="ui_playertitle_eternalpools_completion_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 10 sezonowego rankingu Wiecznych Stawów.</string>
 	<string key="ui_playertitle_eternalpools_completion_top10" rel_version="Feature_Leaderboards">Medalista Wiecznych Stawów</string>
 	<string key="ui_playertitle_eternalpools_completion_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Wiecznych Stawów</string>
 	<string key="ui_playertitle_eternalpools_completion_top10_THEY" rel_version="Feature_Leaderboards">Medal Wiecznych Stawów</string>
-	<string key="ui_playertitle_eternalpools_completion_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 50 rankingu kwartalnego Wiecznych Stawów.</string>
+	<string key="ui_playertitle_eternalpools_completion_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 50 sezonowego rankingu Wiecznych Stawów.</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top1" rel_version="Feature_Leaderboards">Triumfator Jednopiennej Rozpadliny</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Jednopiennej Rozpadliny</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top1_THEY" rel_version="Feature_Leaderboards">Triumf nad Jednopienną Rozpadliną</string>
-	<string key="ui_playertitle_monoeciouscleft_completion_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 10 rankingu kwartalnego Jednopiennej Rozpadliny.</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 10 sezonowego rankingu Jednopiennej Rozpadliny.</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top10" rel_version="Feature_Leaderboards">Medalista Jednopiennej Rozpadliny</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Jednopiennej Rozpadliny</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top10_THEY" rel_version="Feature_Leaderboards">Medal Jednopiennej Rozpadliny</string>
-	<string key="ui_playertitle_monoeciouscleft_completion_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 50 rankingu kwartalnego Jednopiennej Rozpadliny.</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 50 sezonowego rankingu Jednopiennej Rozpadliny.</string>
 	<string key="ui_playertitle_openworldpvp_influence_top1" rel_version="Feature_Leaderboards">Triumfator wpływów</string>
 	<string key="ui_playertitle_openworldpvp_influence_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka wpływów</string>
 	<string key="ui_playertitle_openworldpvp_influence_top1_THEY" rel_version="Feature_Leaderboards">Triumf w zakresie wpływów</string>
-	<string key="ui_playertitle_openworldpvp_influence_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 10 rankingu kwartalnego zdobytych wpływów.</string>
+	<string key="ui_playertitle_openworldpvp_influence_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 10 sezonowego rankingu zdobytych wpływów.</string>
 	<string key="ui_playertitle_openworldpvp_influence_top10" rel_version="Feature_Leaderboards">Medalista wpływów</string>
 	<string key="ui_playertitle_openworldpvp_influence_top10_SHE" rel_version="Feature_Leaderboards">Medalistka wpływów</string>
 	<string key="ui_playertitle_openworldpvp_influence_top10_THEY" rel_version="Feature_Leaderboards">Medal za wpływy</string>
-	<string key="ui_playertitle_openworldpvp_influence_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 50 rankingu kwartalnego zdobytych wpływów.</string>
+	<string key="ui_playertitle_openworldpvp_influence_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 50 sezonowego rankingu zdobytych wpływów.</string>
 	<string key="ui_playertitle_outpostrush_score_top1" rel_version="Feature_Leaderboards">Triumfator napadu na posterunek</string>
 	<string key="ui_playertitle_outpostrush_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka napadu na posterunek</string>
 	<string key="ui_playertitle_outpostrush_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf w napadzie na posterunek</string>
-	<string key="ui_playertitle_outpostrush_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 10 rankingu kwartalnego wyników napadu na posterunek.</string>
+	<string key="ui_playertitle_outpostrush_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 10 sezonowego rankingu zwycięstw w napadach na posterunek.</string>
 	<string key="ui_playertitle_outpostrush_score_top10" rel_version="Feature_Leaderboards">Medalista napadu na posterunek</string>
 	<string key="ui_playertitle_outpostrush_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka napadu na posterunek</string>
 	<string key="ui_playertitle_outpostrush_score_top10_THEY" rel_version="Feature_Leaderboards">Medal napadu na posterunek</string>
-	<string key="ui_playertitle_outpostrush_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 50 rankingu kwartalnego wyników napadu na posterunek.</string>
+	<string key="ui_playertitle_outpostrush_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 50 sezonowego rankingu zwycięstw w napadach na posterunek.</string>
 	<string key="ui_playertitle_darknessbreaches_score_top1" rel_version="Feature_Leaderboards">Triumfator wyłomów</string>
 	<string key="ui_playertitle_darknessbreaches_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka wyłomów</string>
 	<string key="ui_playertitle_darknessbreaches_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf nad wyłomami</string>
-	<string key="ui_playertitle_darknessbreaches_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 10 rankingu kwartalnego wyników wyłomów skażenia.</string>
+	<string key="ui_playertitle_darknessbreaches_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 10 sezonowego rankingu wyników wyłomów skażenia.</string>
 	<string key="ui_playertitle_darknessbreaches_score_top10" rel_version="Feature_Leaderboards">Medalista wyłomów</string>
 	<string key="ui_playertitle_darknessbreaches_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka wyłomów</string>
 	<string key="ui_playertitle_darknessbreaches_score_top10_THEY" rel_version="Feature_Leaderboards">Medal wyłomów</string>
-	<string key="ui_playertitle_darknessbreaches_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 50 rankingu kwartalnego wyników wyłomów skażenia.</string>
+	<string key="ui_playertitle_darknessbreaches_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 50 sezonowego rankingu wyników wyłomów skażenia.</string>
 	<string key="ui_playertitle_war_score_top1" rel_version="Feature_Leaderboards">Triumfator wojny</string>
 	<string key="ui_playertitle_war_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka wojny</string>
 	<string key="ui_playertitle_war_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf wojenny</string>
-	<string key="ui_playertitle_war_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 10 rankingu kwartalnego wyników wojny.</string>
+	<string key="ui_playertitle_war_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 10 sezonowego rankingu wyników wojny.</string>
 	<string key="ui_playertitle_war_score_top10" rel_version="Feature_Leaderboards">Medalista wojny</string>
 	<string key="ui_playertitle_war_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka wojny</string>
 	<string key="ui_playertitle_war_score_top10_THEY" rel_version="Feature_Leaderboards">Medal wojny</string>
-	<string key="ui_playertitle_war_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 50 rankingu kwartalnego wyników wojny.</string>
+	<string key="ui_playertitle_war_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 50 sezonowego rankingu wyników wojny.</string>
 	<string key="ui_playertitle_invasion_score_top1" rel_version="Feature_Leaderboards">Triumfator inwazji</string>
 	<string key="ui_playertitle_invasion_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka inwazji</string>
 	<string key="ui_playertitle_invasion_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf inwazji</string>
-	<string key="ui_playertitle_invasion_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 10 rankingu kwartalnego wyników inwazji.</string>
+	<string key="ui_playertitle_invasion_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 10 sezonowego rankingu wyników inwazji.</string>
 	<string key="ui_playertitle_invasion_score_top10" rel_version="Feature_Leaderboards">Medalista inwazji</string>
 	<string key="ui_playertitle_invasion_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka inwazji</string>
 	<string key="ui_playertitle_invasion_score_top10_THEY" rel_version="Feature_Leaderboards">Medal inwazji</string>
-	<string key="ui_playertitle_invasion_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 50 rankingu kwartalnego wyników inwazji.</string>
+	<string key="ui_playertitle_invasion_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 50 sezonowego rankingu wyników inwazji.</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top1" rel_version="Feature_Leaderboards">Triumfator Wysp Kordelasowych</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Wysp Kordelasowych</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf na Wyspach Kordelasowych</string>
-	<string key="ui_playertitle_cutlasskeys_company_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 3 rankingu kwartalnego dni zarządzania Wyspami Kordelasowymi.</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 3 sezonowego rankingu dni zarządzania Wyspami Kordelasowymi.</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top10" rel_version="Feature_Leaderboards">Medalista Wysp Kordelasowych</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Wysp Kordelasowych</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medal Wysp Kordelasowych</string>
-	<string key="ui_playertitle_cutlasskeys_company_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 6 rankingu kwartalnego dni zarządzania Wyspami Kordelasowymi.</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 6 sezonowego rankingu dni zarządzania Wyspami Kordelasowymi.</string>
 	<string key="ui_playertitle_firstlight_company_score_top1" rel_version="Feature_Leaderboards">Triumfator Brzasku</string>
 	<string key="ui_playertitle_firstlight_company_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Brzasku</string>
 	<string key="ui_playertitle_firstlight_company_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf w Brzasku</string>
-	<string key="ui_playertitle_firstlight_company_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 3 rankingu dni zarządzania Brzaskiem.</string>
+	<string key="ui_playertitle_firstlight_company_score_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 3 rankingu dni zarządzania Brzaskiem.</string>
 	<string key="ui_playertitle_firstlight_company_score_top10" rel_version="Feature_Leaderboards">Medalista Brzasku</string>
 	<string key="ui_playertitle_firstlight_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Brzasku</string>
 	<string key="ui_playertitle_firstlight_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medal Brzasku</string>
-	<string key="ui_playertitle_firstlight_company_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 6 rankingu dni zarządzania Brzaskiem.</string>
+	<string key="ui_playertitle_firstlight_company_score_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 6 rankingu dni zarządzania Brzaskiem.</string>
 	<string key="ui_playertitle_windsward_company_score_top1" rel_version="Feature_Leaderboards">Triumfator Wiatrochronu</string>
 	<string key="ui_playertitle_windsward_company_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Wiatrochronu</string>
 	<string key="ui_playertitle_windsward_company_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf we Wiatrochronie</string>
-	<string key="ui_playertitle_windsward_company_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 3 rankingu dni zarządzania Wiatrochronem.</string>
+	<string key="ui_playertitle_windsward_company_score_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 3 rankingu dni zarządzania Wiatrochronem.</string>
 	<string key="ui_playertitle_windsward_company_score_top10" rel_version="Feature_Leaderboards">Medalista Wiatrochronu</string>
 	<string key="ui_playertitle_windsward_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Wiatrochronu</string>
 	<string key="ui_playertitle_windsward_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medal Wiatrochronu</string>
-	<string key="ui_playertitle_windsward_company_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 6 rankingu dni zarządzania Wiatrochronem.</string>
+	<string key="ui_playertitle_windsward_company_score_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 6 rankingu dni zarządzania Wiatrochronem.</string>
 	<string key="ui_playertitle_reekwater_company_score_top1" rel_version="Feature_Leaderboards">Triumfator Cuchnącej Wody</string>
 	<string key="ui_playertitle_reekwater_company_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Cuchnącej Wody</string>
 	<string key="ui_playertitle_reekwater_company_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf w Cuchnącej Wodzie</string>
-	<string key="ui_playertitle_reekwater_company_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 3 rankingu dni zarządzania Cuchnącą Wodą.</string>
+	<string key="ui_playertitle_reekwater_company_score_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 3 rankingu dni zarządzania Cuchnącą Wodą.</string>
 	<string key="ui_playertitle_reekwater_company_score_top10" rel_version="Feature_Leaderboards">Medalista Cuchnącej Wody</string>
 	<string key="ui_playertitle_reekwater_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Cuchnącej Wody</string>
 	<string key="ui_playertitle_reekwater_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medal Cuchnącej Wody</string>
-	<string key="ui_playertitle_reekwater_company_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 6 rankingu dni zarządzania Cuchnącą Wodą.</string>
+	<string key="ui_playertitle_reekwater_company_score_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 6 rankingu dni zarządzania Cuchnącą Wodą.</string>
 	<string key="ui_playertitle_everfall_company_score_top1" rel_version="Feature_Leaderboards">Triumfator Jesieniowieczni</string>
 	<string key="ui_playertitle_everfall_company_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Jesieniowieczni</string>
 	<string key="ui_playertitle_everfall_company_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf w Jesieniowieczni</string>
-	<string key="ui_playertitle_everfall_company_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 3 rankingu dni zarządzania Jesieniowiecznią.</string>
+	<string key="ui_playertitle_everfall_company_score_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 3 rankingu dni zarządzania Jesieniowiecznią.</string>
 	<string key="ui_playertitle_everfall_company_score_top10" rel_version="Feature_Leaderboards">Medalista Jesieniowieczni</string>
 	<string key="ui_playertitle_everfall_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Jesieniowieczni</string>
 	<string key="ui_playertitle_everfall_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medal Jesieniowieczni</string>
-	<string key="ui_playertitle_everfall_company_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 6 rankingu dni zarządzania Jesieniowiecznią.</string>
+	<string key="ui_playertitle_everfall_company_score_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 6 rankingu dni zarządzania Jesieniowiecznią.</string>
 	<string key="ui_playertitle_weaversfen_company_score_top1" rel_version="Feature_Leaderboards">Triumfator Tkackich Mokradeł</string>
 	<string key="ui_playertitle_weaversfen_company_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Tkackich Mokradeł</string>
 	<string key="ui_playertitle_weaversfen_company_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf na Tkackich Mokradeł</string>
-	<string key="ui_playertitle_weaversfen_company_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 3 rankingu dni zarządzania Tkackimi Mokradłami.</string>
+	<string key="ui_playertitle_weaversfen_company_score_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 3 rankingu dni zarządzania Tkackimi Mokradłami.</string>
 	<string key="ui_playertitle_weaversfen_company_score_top10" rel_version="Feature_Leaderboards">Medalista Tkackich Mokradeł</string>
 	<string key="ui_playertitle_weaversfen_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Tkackich Mokradeł</string>
 	<string key="ui_playertitle_weaversfen_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medal Tkackich Mokradeł</string>
-	<string key="ui_playertitle_weaversfen_company_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 6 rankingu dni zarządzania Tkackimi Mokradłami.</string>
+	<string key="ui_playertitle_weaversfen_company_score_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 6 rankingu dni zarządzania Tkackimi Mokradłami.</string>
 	<string key="ui_playertitle_restlessshore_company_score_top1" rel_version="Feature_Leaderboards">Triumfator Niespokojnych Brzegów</string>
 	<string key="ui_playertitle_restlessshore_company_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Niespokojnych Brzegów</string>
 	<string key="ui_playertitle_restlessshore_company_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf na Niespokojnych Brzegach</string>
-	<string key="ui_playertitle_restlessshore_company_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 3 rankingu dni zarządzania Niespokojnymi Brzegami.</string>
+	<string key="ui_playertitle_restlessshore_company_score_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 3 rankingu dni zarządzania Niespokojnymi Brzegami.</string>
 	<string key="ui_playertitle_restlessshore_company_score_top10" rel_version="Feature_Leaderboards">Medalista Niespokojnych Brzegów</string>
 	<string key="ui_playertitle_restlessshore_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Niespokojnych Brzegów</string>
 	<string key="ui_playertitle_restlessshore_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medal Niespokojnych Brzegów</string>
-	<string key="ui_playertitle_restlessshore_company_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 6 rankingu dni zarządzania Niespokojnymi Brzegami.</string>
+	<string key="ui_playertitle_restlessshore_company_score_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 6 rankingu dni zarządzania Niespokojnymi Brzegami.</string>
 	<string key="ui_playertitle_mourningdale_company_score_top1" rel_version="Feature_Leaderboards">Triumfator Żałobnicy</string>
 	<string key="ui_playertitle_mourningdale_company_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Żałobnicy</string>
 	<string key="ui_playertitle_mourningdale_company_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf w Żałobnicy</string>
-	<string key="ui_playertitle_mourningdale_company_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 3 rankingu dni zarządzania Żałobnicą.</string>
+	<string key="ui_playertitle_mourningdale_company_score_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 3 rankingu dni zarządzania Żałobnicą.</string>
 	<string key="ui_playertitle_mourningdale_company_score_top10" rel_version="Feature_Leaderboards">Medalista Żałobnicy</string>
 	<string key="ui_playertitle_mourningdale_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Żałobnicy</string>
 	<string key="ui_playertitle_mourningdale_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medal Żałobnicy</string>
-	<string key="ui_playertitle_mourningdale_company_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 6 rankingu dni zarządzania Żałobnicą.</string>
+	<string key="ui_playertitle_mourningdale_company_score_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 6 rankingu dni zarządzania Żałobnicą.</string>
 	<string key="ui_playertitle_brightwood_company_score_top1" rel_version="Feature_Leaderboards">Triumfator Lśniącej Kniei</string>
 	<string key="ui_playertitle_brightwood_company_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Lśniącej Kniei</string>
 	<string key="ui_playertitle_brightwood_company_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf w Lśniącej Kniei</string>
-	<string key="ui_playertitle_brightwood_company_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 3 rankingu dni zarządzania Lśniącą Knieją.</string>
+	<string key="ui_playertitle_brightwood_company_score_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 3 rankingu dni zarządzania Lśniącą Knieją.</string>
 	<string key="ui_playertitle_brightwood_company_score_top10" rel_version="Feature_Leaderboards">Medalista Lśniącej Kniei</string>
 	<string key="ui_playertitle_brightwood_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Lśniącej Kniei</string>
 	<string key="ui_playertitle_brightwood_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medal Lśniącej Kniei</string>
-	<string key="ui_playertitle_brightwood_company_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 6 rankingu dni zarządzania Lśniącą Knieją.</string>
+	<string key="ui_playertitle_brightwood_company_score_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 6 rankingu dni zarządzania Lśniącą Knieją.</string>
 	<string key="ui_playertitle_ebonscale_company_score_top1" rel_version="Feature_Leaderboards">Triumfator Czarnej Łuski</string>
 	<string key="ui_playertitle_ebonscale_company_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Czarnej Łuski</string>
 	<string key="ui_playertitle_ebonscale_company_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf w Czarnej Łusce</string>
-	<string key="ui_playertitle_ebonscale_company_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 3 rankingu dni zarządzania Czarną Łuską.</string>
+	<string key="ui_playertitle_ebonscale_company_score_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 3 rankingu dni zarządzania Czarną Łuską.</string>
 	<string key="ui_playertitle_ebonscale_company_score_top10" rel_version="Feature_Leaderboards">Medalista Czarnej Łuski</string>
 	<string key="ui_playertitle_ebonscale_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Czarnej Łuski</string>
 	<string key="ui_playertitle_ebonscale_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medal Czarnej Łuski</string>
-	<string key="ui_playertitle_ebonscale_company_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 6 rankingu dni zarządzania Czarną Łuską.</string>
+	<string key="ui_playertitle_ebonscale_company_score_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 6 rankingu dni zarządzania Czarną Łuską.</string>
 	<string key="ui_playertitle_monarchsbluffs_company_score_top1" rel_version="Feature_Leaderboards">Triumfator Urwisk</string>
 	<string key="ui_playertitle_monarchsbluffs_company_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Urwisk</string>
 	<string key="ui_playertitle_monarchsbluffs_company_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf w Urwiskach</string>
-	<string key="ui_playertitle_monarchsbluffs_company_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 3 rankingu dni zarządzania Urwiskami Monarchy.</string>
+	<string key="ui_playertitle_monarchsbluffs_company_score_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 3 rankingu dni zarządzania Urwiskami Monarchy.</string>
 	<string key="ui_playertitle_monarchsbluffs_company_score_top10" rel_version="Feature_Leaderboards">Medalista Urwisk</string>
 	<string key="ui_playertitle_monarchsbluffs_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Urwisk</string>
 	<string key="ui_playertitle_monarchsbluffs_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medal Urwisk</string>
-	<string key="ui_playertitle_monarchsbluffs_company_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 6 rankingu dni zarządzania Urwiskami Monarchy.</string>
+	<string key="ui_playertitle_monarchsbluffs_company_score_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 6 rankingu dni zarządzania Urwiskami Monarchy.</string>
 	<string key="ui_playertitle_brimstonesands_company_score_top1" rel_version="Feature_Leaderboards">Triumfator Piaskobrzegów</string>
 	<string key="ui_playertitle_brimstonesands_company_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka Piaskobrzegów</string>
 	<string key="ui_playertitle_brimstonesands_company_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf w Piaskobrzegach</string>
-	<string key="ui_playertitle_brimstonesands_company_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 3 rankingu dni zarządzania Piaskobrzegami.</string>
+	<string key="ui_playertitle_brimstonesands_company_score_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 3 rankingu dni zarządzania Piaskobrzegami.</string>
 	<string key="ui_playertitle_brimstonesands_company_score_top10" rel_version="Feature_Leaderboards">Medalista Piaskobrzegów</string>
 	<string key="ui_playertitle_brimstonesands_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka Piaskobrzegów</string>
 	<string key="ui_playertitle_brimstonesands_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medal Piaskobrzegów</string>
-	<string key="ui_playertitle_brimstonesands_company_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 6 rankingu dni zarządzania Piaskobrzegami.</string>
+	<string key="ui_playertitle_brimstonesands_company_score_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 6 rankingu dni zarządzania Piaskobrzegami.</string>
 	<string key="ui_playertitle_allterritories_company_score_top1" rel_version="Feature_Leaderboards">Triumfator kontroli terytorialnej</string>
 	<string key="ui_playertitle_allterritories_company_score_top1_SHE" rel_version="Feature_Leaderboards">Triumfatorka kontroli terytorialnej</string>
 	<string key="ui_playertitle_allterritories_company_score_top1_THEY" rel_version="Feature_Leaderboards">Triumf w kontroli terytorialnej</string>
-	<string key="ui_playertitle_allterritories_company_score_top1_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 3 rankingu dni zarządzania wszystkimi terytoriami.</string>
+	<string key="ui_playertitle_allterritories_company_score_top1_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 3 rankingu dni zarządzania wszystkimi terytoriami.</string>
 	<string key="ui_playertitle_allterritories_company_score_top10" rel_version="Feature_Leaderboards">Medalista kontroli terytorialnej</string>
 	<string key="ui_playertitle_allterritories_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medalistka kontroli terytorialnej</string>
 	<string key="ui_playertitle_allterritories_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medal kontroli terytorialnej</string>
-	<string key="ui_playertitle_allterritories_company_score_top10_description" rel_version="Feature_Leaderboards">Nagroda za dostanie się do top 6 rankingu dni zarządzania wszystkimi terytoriami.</string>
+	<string key="ui_playertitle_allterritories_company_score_top10_description" rel_version="Feature_Leaderboards">Tytuł zdobyty za dostanie się do top 6 rankingu dni zarządzania wszystkimi terytoriami.</string>
 	<string key="ui_playertitle_special_thereturned">Ten, który powrócił</string>
 	<string key="ui_playertitle_special_thereturned_SHE">Ta, która powróciła</string>
 	<string key="ui_playertitle_special_thereturned_THEY">To, które powróciło</string>
 	<string key="ui_playertitle_thereturned_description">Geodeta Powrotu do Aeternum</string>
+	<string key="ui_player_titles_section_label_seasons" rel_version="Season_1_Perm">Sezony</string>
+	<string key="ui_playertitle_season1_journeychapter5" rel_version="Season_1_Perm">Osławiony</string>
+	<string key="ui_playertitle_season1_journeychapter5_SHE" rel_version="Season_1_Perm">Osławiona</string>
+	<string key="ui_playertitle_season1_journeychapter5_THEY" rel_version="Season_1_Perm">Cześć i chwała</string>
+	<string key="ui_playertitle_season1_journeychapter5_description" rel_version="Season_1_Perm">Nagroda za ukończenie Sezonowej Przygody sezonu 1.</string>
+	<string key="ui_playertitle_season1_journeychallenge1" rel_version="Season_1_Perm">Mistrz Kuźni</string>
+	<string key="ui_playertitle_season1_journeychallenge1_SHE" rel_version="Season_1_Perm">Mistrzyni Kuźni</string>
+	<string key="ui_playertitle_season1_journeychallenge1_THEY" rel_version="Season_1_Perm">Mistrzostwo Kuźni</string>
+	<string key="ui_playertitle_season1_journeychallenge1_description" rel_version="Season_1_Perm">Nagroda za ukończenie wyzwania sezonu 1: Ukończ Empirejską Kuźnię M10 z wynikiem 75 000 pkt lub wyższym.</string>
+	<string key="ui_playertitle_season1_journeychallenge2" rel_version="Season_1_Perm">Ognisty najeźdźca posterunków</string>
+	<string key="ui_playertitle_season1_journeychallenge2_SHE" rel_version="Season_1_Perm">Ognista najeźdźczyni posterunków</string>
+	<string key="ui_playertitle_season1_journeychallenge2_THEY" rel_version="Season_1_Perm">Ognisty najazd na posterunki</string>
+	<string key="ui_playertitle_season1_journeychallenge2_description" rel_version="Season_1_Perm">Nagroda za ukończenie wyzwania sezonu 1: Wygraj napad na posterunek przewagą ponad 750 pkt</string>
+	<string key="ui_playertitle_season1_journeychallenge3" rel_version="Season_1_Perm">Seryjny morderca</string>
+	<string key="ui_playertitle_season1_journeychallenge3_SHE" rel_version="Season_1_Perm">Seryjna morderczyni</string>
+	<string key="ui_playertitle_season1_journeychallenge3_THEY" rel_version="Season_1_Perm">Seryjny mord</string>
+	<string key="ui_playertitle_season1_journeychallenge3_description" rel_version="Season_1_Perm">Nagroda za ukończenie wyzwania sezonu 1: Zabij 500 graczy w otwartym świecie.</string>
+	<string key="ui_playertitle_season1_journeychallenge4" rel_version="Season_1_Perm">Podżegacz</string>
+	<string key="ui_playertitle_season1_journeychallenge4_SHE" rel_version="Season_1_Perm">Podżegaczka</string>
+	<string key="ui_playertitle_season1_journeychallenge4_THEY" rel_version="Season_1_Perm">Zarzewie buntu</string>
+	<string key="ui_playertitle_season1_journeychallenge4_description" rel_version="Season_1_Perm">Nagroda za ukończenie wyzwania sezonu 1: Przejmij 50 punktów kontrolnych frakcji.</string>
+	<string key="ui_playertitle_season1_journeychallenge5" rel_version="Season_1_Perm">Piekielny rzemieślnik</string>
+	<string key="ui_playertitle_season1_journeychallenge5_SHE" rel_version="Season_1_Perm">Piekielna rzemieślniczka</string>
+	<string key="ui_playertitle_season1_journeychallenge5_THEY" rel_version="Season_1_Perm">Piekielne rzemiosło</string>
+	<string key="ui_playertitle_season1_journeychallenge5_description" rel_version="Season_1_Perm">Nagroda za ukończenie wyzwania sezonu 1: Wytwórz 250 szt. legendarnych przedmiotów klasy 5.</string>
+	<string key="ui_playertitle_season1_journeychallenge6" rel_version="Season_1_Perm">Przyjaciel ognia</string>
+	<string key="ui_playertitle_season1_journeychallenge6_SHE" rel_version="Season_1_Perm">Przyjaciółka ognia</string>
+	<string key="ui_playertitle_season1_journeychallenge6_THEY" rel_version="Season_1_Perm">Przyjaźń z ogniem</string>
+	<string key="ui_playertitle_season1_journeychallenge6_description" rel_version="Season_1_Perm">Nagroda za ukończenie wyzwania sezonu 1: Ukończ historię sezonową "Braterstwo i ogień".</string>
+	<string key="ui_playertitle_season1_journeychallenge7" rel_version="Season_1_Perm">Powiernik gipsu</string>
+	<string key="ui_playertitle_season1_journeychallenge7_SHE" rel_version="Season_1_Perm">Powierniczka gipsu</string>
+	<string key="ui_playertitle_season1_journeychallenge7_THEY" rel_version="Season_1_Perm">Powiernictwo gipsu</string>
+	<string key="ui_playertitle_season1_journeychallenge7_description" rel_version="Season_1_Perm">Nagroda za ukończenie wyzwania sezonu 1: Wytwórz 100 gipsowych kul.</string>
+	<string key="ui_playertitle_season1_journeychallenge8" rel_version="Season_1_Perm">Strażnik płomieni</string>
+	<string key="ui_playertitle_season1_journeychallenge8_SHE" rel_version="Season_1_Perm">Strażniczka płomieni</string>
+	<string key="ui_playertitle_season1_journeychallenge8_THEY" rel_version="Season_1_Perm">Straż płomieni</string>
+	<string key="ui_playertitle_season1_journeychallenge8_description" rel_version="Season_1_Perm">Nagroda za ukończenie wyzwania sezonu 1: Wytwórz 25 przedmiotów PW600 przy użyciu rdzeni płomienia.</string>
+	<string key="ui_playertitle_season1_journeychallenge9" rel_version="Season_1_Perm">Ognisty olimpijczyk</string>
+	<string key="ui_playertitle_season1_journeychallenge9_SHE" rel_version="Season_1_Perm">Ognista olimpijka</string>
+	<string key="ui_playertitle_season1_journeychallenge9_THEY" rel_version="Season_1_Perm">Ognisty Olimp</string>
+	<string key="ui_playertitle_season1_journeychallenge9_description" rel_version="Season_1_Perm">Nagroda za ukończenie wyzwania sezonu 1: Ukończ każdą ekspedycję M10 z rangą złotą lub wyższą.</string>
+	<string key="ui_playertitle_season1_journeychallenge10" rel_version="Season_1_Perm">Feniks</string>
+	<string key="ui_playertitle_season1_journeychallenge10_SHE" rel_version="Season_1_Perm">Feniks</string>
+	<string key="ui_playertitle_season1_journeychallenge10_THEY" rel_version="Season_1_Perm">Feniks</string>
+	<string key="ui_playertitle_season1_journeychallenge10_description" rel_version="Season_1_Perm">Nagroda za ukończenie wyzwania sezonu 1: Ukończ bezbłędnie każdą ekspedycję (nie ginąc ani razu).</string>
+	<string key="ui_playertitle_season1_battlepass" rel_version="Season_1_Perm">Płomienny czempion</string>
+	<string key="ui_playertitle_season1_battlepass_SHE" rel_version="Season_1_Perm">Płomienna czempionka</string>
+	<string key="ui_playertitle_season1_battlepass_THEY" rel_version="Season_1_Perm">Ujarzmienie płomienia</string>
+	<string key="ui_playertitle_season1_battlepass_description" rel_version="Season_1_Perm">Nagroda za ukończenie darmowej ścieżki przepustki sezonowej sezonu 1.</string>
+	<string key="ui_playertitle_season1_deluxebattlepass" rel_version="Season_1_Perm">Piekielny czempion</string>
+	<string key="ui_playertitle_season1_deluxebattlepass_SHE" rel_version="Season_1_Perm">Piekielna czempionka</string>
+	<string key="ui_playertitle_season1_deluxebattlepass_THEY" rel_version="Season_1_Perm">Ujarzmienie piekła</string>
+	<string key="ui_playertitle_season1_deluxebattlepass_description" rel_version="Season_1_Perm">Nagroda za ukończenie płatnej ścieżki przepustki sezonowej sezonu 1.</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Victorious" rel_version="Feature_Leaderboards">Zwycięski eksperymentator</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Victorious_SHE" rel_version="Feature_Leaderboards">Zwycięska eksperymentatorka</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Victorious_THEY" rel_version="Feature_Leaderboards">Zwycięstwo eksperymentem</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Victorious_description" rel_version="Feature_Leaderboards">Zdobycie chwały w rankingu w niepewnych czasach.</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Welp" rel_version="Feature_Leaderboards">Niech to</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Welp_SHE" rel_version="Feature_Leaderboards">Niech to</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Welp_THEY" rel_version="Feature_Leaderboards">Niech to</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Welp_description" rel_version="Feature_Leaderboards">Odważna próba zajęcia miejsca w rankingu.</string>
 </resources>
 

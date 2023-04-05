@@ -5,7 +5,7 @@
 	<string key="ui_calendar_event_button_go">Vamos nessa!</string>
 	<string key="ui_calendar_event_button_view_details">Ver Detalhes</string>
 	<string key="ui_rewardtype_event_progress">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{displayName}&lt;/font&gt;</string>
-	<string key="ui_news_button">Notícias</string>
+	<string key="ui_news_button">Notícias e Eventos</string>
 	<string key="ui_news_button_no_news">Nenhuma notícia nova disponível.</string>
 	<string key="ui_event_progress_name">Reputação no Evento</string>
 	<string key="ui_event">Evento</string>
@@ -19,21 +19,21 @@
 	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Sal de Azoth é uma moeda que permite adquirir recompensas da Trilha PvP. Você pode ganhar Sal de Azoth participando de Guerras, Investidas do Posto Avançado, Arenas 3v3 e Missões PvP, abatendo jogadores no mundo aberto e recebendo EXP enquanto estiver sinalizado.</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">RECOMPENSAS</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Escolha entre recompensas exclusivas, como armaduras e armas de prestígio, gestos, moedas e consumíveis.</string>
-	<string key="ui_event_weapon_xp_tabname">Impulso de EXP de Armas</string>
-	<string key="ui_event_weapon_xp_title">BÔNUS DE EXP EM ARMAS ESSA SEMANA</string>
-	<string key="ui_event_weapon_xp_desc">O bônus estará disponível para:</string>
-	<string key="ui_event_gathering_xp_tabname">Impulso de EXP de Coleta</string>
-	<string key="ui_event_gathering_xp_title">BÔNUS DE EXP EM COLETA ESSA SEMANA</string>
-	<string key="ui_event_gathering_xp_desc">O bônus estará disponível para:</string>
-	<string key="ui_event_character_xp_tabname">Impulso de EXP de Nível</string>
-	<string key="ui_event_character_xp_title">EVENTO DE BÔNUS DE EXP EM NÍVEIS DE PERSONAGEM</string>
-	<string key="ui_event_character_xp_desc">O bônus estará disponível para:</string>
-	<string key="ui_event_refining_xp_tabname">Impulso de EXP de Refinamento</string>
-	<string key="ui_event_refining_xp_title">BÔNUS DE EXP EM REFINAMENTO ESSA SEMANA</string>
-	<string key="ui_event_refining_xp_desc">O bônus estará disponível para:</string>
-	<string key="ui_event_extravaganza_tabname">Bônus de EXP À Vontade</string>
-	<string key="ui_event_extravaganza_title">BÔNUS DE EXP À VONTADE</string>
-	<string key="ui_event_extravaganza_desc">O bônus estará disponível para:</string>
+	<string key="ui_event_weapon_xp_tabname">Evento de EXP</string>
+	<string key="ui_event_weapon_xp_title">EVENTO DE BÔNUS DE EXP EM ARMAS</string>
+	<string key="ui_event_weapon_xp_desc">Bônus ativos:</string>
+	<string key="ui_event_gathering_xp_tabname">Evento de EXP</string>
+	<string key="ui_event_gathering_xp_title">EVENTO DE BÔNUS DE EXP EM COLETA</string>
+	<string key="ui_event_gathering_xp_desc">Bônus ativos:</string>
+	<string key="ui_event_character_xp_tabname">Evento de EXP</string>
+	<string key="ui_event_character_xp_title">EVENTO DE BÔNUS DE EXP DE NÍVEL</string>
+	<string key="ui_event_character_xp_desc">Bônus ativos:</string>
+	<string key="ui_event_refining_xp_tabname">Evento de EXP</string>
+	<string key="ui_event_refining_xp_title">EVENTO DE BÔNUS DE EXP DE REFINAMENTO</string>
+	<string key="ui_event_refining_xp_desc">Bônus ativos:</string>
+	<string key="ui_event_extravaganza_tabname">Evento de EXP</string>
+	<string key="ui_event_extravaganza_title">EXP À VONTADE</string>
+	<string key="ui_event_extravaganza_desc">Bônus ativos:</string>
 	<string key="ui_news_end_game_tabname">Fase Final</string>
 	<string key="ui_news_end_game_description">No nível 60, você pode &lt;font color="#ffdb7a"&gt;aprimorar seu equipamento&lt;/font&gt; para obter pontuações de equipamento mais altas. Para fazer isso, você precisará colher Gipsita de várias atividades e locais de Nível 60. Visite um &lt;font color="#ffdb7a"&gt;Forno de Gipsita&lt;/font&gt; para saber mais.</string>
 	<string key="ui_end_game_panel1_title">ATIVIDADES DA FASE FINAL</string>
@@ -84,7 +84,7 @@
 	<string key="ui_news_modal_display_end_datetime">Termina às {endTime} em {endDate}</string>
 	<string key="ui_event_free_weekend_event_message_title" rel_version="Feature_FreeWeekend">Final de Semana Gratuito</string>
 	<string key="ui_event_free_weekend_event_message_description" rel_version="Feature_FreeWeekend">O Final de Semana Gratuito está em andamento.</string>
-	<string key="ui_event_free_weekend_description" rel_version="Feature_FreeWeekend">Durante este evento de tempo limitado, curta a nova zona Areias de Enxofre, a renovada Jornada da História Principal e as últimas atualizações de New World de graça!\n\nPara jogar com amigos, os personagens precisam estar no mesmo mundo. Jogadores não pagantes podem aproveitar um número ilimitado de sessões, a menos que haja fila para o mundo (no fim da sessão, jogadores não pagantes deverão entrar na fila de novo).</string>
+	<string key="ui_event_free_weekend_description" rel_version="Feature_FreeWeekend">Durante este evento de tempo limitado, curta a nova zona Areias de Enxofre, a renovada Jornada da História Principal e as últimas atualizações de New World de graça!\n\nPara jogar com amigos, os personagens precisam estar no mesmo mundo. Jogadores não pagantes podem aproveitar um número ilimitado de sessões, a menos que haja fila para o mundo (no fim da sessão, jogadores não pagantes deverão entrar na fila de novo).\n\nNovos jogadores também podem economizar 50% nas edições Regular e de Luxo de New World entre 15 de dezembro às 10h e 5 de janeiro às 10h.</string>
 	<string key="ui_event_free_weekend" rel_version="Feature_FreeWeekend">Final de Semana Gratuito</string>
 	<string key="ui_event_free_weekend_in_progress_panel1_bullet1_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Final de Semana Gratuito em andamento Painel 1, Título do Marcador 1</string>
 	<string key="ui_event_free_weekend_in_progress_panel1_bullet1_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Final de Semana Gratuito em andamento Painel 1, Texto do Marcador 1</string>
@@ -131,11 +131,21 @@
 	<string key="ui_event_feb_mtx_bullet1" rel_version="Entitlements_OmensOfWinter">Aparências</string>
 	<string key="ui_event_feb_mtx_bullet2" rel_version="Entitlements_OmensOfWinter">Gestos</string>
 	<string key="ui_event_feb_mtx_button_about" rel_version="Entitlements_OmensOfWinter">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Sobre Presságios do Inverno</string>
-	<string key="ui_event_legacy_of_crassus_tabname" rel_version="Event_February_Temp">Legado de Crasso</string>
-	<string key="ui_event_legacy_of_crassus_title" rel_version="Event_February_Temp">Legado de Crasso</string>
-	<string key="ui_event_legacy_of_crassus_description" rel_version="Event_February_Temp">O poder de Roma ameaça Aeternum! Cace os monstruosos capitães do General Crasso, Decimus e Lucanus, e expulse a sombra da tirania romana. Colete recompensas diárias, além de recompensas por derrotar esses brutos cruéis em Bosque Reluzente, Pântano do Tecelão, Vale das Lamentações, Crosta de Ébano e Bosque do Éden.</string>
-	<string key="ui_event_legacy_of_crassus_about" rel_version="Event_February_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Sobre Legado de Crasso</string>
-	<string key="ui_event_legacy_of_crassus_bullet1" rel_version="Event_February_Temp">Armas Diárias</string>
-	<string key="ui_event_legacy_of_crassus_bullet2" rel_version="Event_February_Temp">Pedaços de Armadura Diários</string>
+	<string key="ui_event_empyrean_forge_tabname" rel_version="Expedition_GreatCleave_01">Forja Empírica</string>
+	<string key="ui_event_empyrean_forge_title" rel_version="Expedition_GreatCleave_01">Forja Empírica</string>
+	<string key="ui_event_empyrean_forge_description" rel_version="Expedition_GreatCleave_01">Fundição lendária onde os Anciões forjaram suas máquinas de guerra devastadoras. Aqueles que têm fome de poder anseiam pelas magias sobrenaturais liberadas nessas ruínas colossais.</string>
+	<string key="ui_event_empyrean_forge_about" rel_version="Expedition_GreatCleave_01">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Sobre a Forja Empírica</string>
+	<string key="ui_event_season_one_tabname" rel_version="Season_1_Perm">Temporadas</string>
+	<string key="ui_event_season_one_title" rel_version="Season_1_Perm">Temporadas</string>
+	<string key="ui_event_season_one_description" rel_version="Season_1_Perm">Embarque em uma nova jornada com Grace O’Malley enquanto ela forma a mais nova companhia mercenária de Aeternum, os Corvos Prateados.</string>
+	<string key="ui_event_season_one_about" rel_version="Season_1_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Sobre as Temporadas</string>
+	<string key="ui_event_season_one_bullet1" rel_version="Season_1_Perm">Passe da Temporada</string>
+	<string key="ui_event_season_one_bullet2" rel_version="Season_1_Perm">Os Corvos Prateados</string>
+	<string key="ui_event_mar_mtx_title" rel_version="Entitlements_FirelightSeason">Firelight</string>
+	<string key="ui_event_mar_mtx_description" rel_version="Entitlements_FirelightSeason">Os fogos da Forja queimam intensamente nos novos itens da loja deste mês! Sinta a ardência com novas capas e itens de decoração. Entre no espírito competitivo com novos gestos que podem expressar seu triunfo ou confortar seus pobres inimigos humilhados! Adquira enquanto são novidade!</string>
+	<string key="ui_event_mar_mtx_about" rel_version="Entitlements_FirelightSeason">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Sobre a Luz do Fogo</string>
+	<string key="ui_event_mar_mtx_bullet1" rel_version="Entitlements_FirelightSeason">Armaduras</string>
+	<string key="ui_event_mar_mtx_bullet2" rel_version="Entitlements_FirelightSeason">Armas</string>
+	<string key="ui_event_mar_mtx_bullet3" rel_version="Entitlements_FirelightSeason">Gestos</string>
 </resources>
 

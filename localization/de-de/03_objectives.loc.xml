@@ -384,7 +384,7 @@
 	<string key="0321_0105_AzureRavager_crystalcorruption_obtain_item_from_target_in_POI" speaker="UI" quest_id="0321_0105_AzureRavager_crystalcorruption" comment="itemName = &quot;Desecrated Azoth Crystal&quot; , targetName = &quot;Sylanx the Ugly&quot; , POI = &quot;Scorpius&quot;">Erlange Folgendes: {itemName} (Beute von: {targetName})</string>
 	<string key="0321_0105_AzureRavager_crystalcorruption_complete_available_response" speaker="UI" quest_id="0321_0105_AzureRavager_crystalcorruption">[LEER]</string>
 	<string key="0321_0105_AzureRavager_crystalcorruption_incomplete" speaker="UI" quest_id="0321_0105_AzureRavager_crystalcorruption">[LEER]</string>
-	<string key="0321_0105_AzureRavager_crystalcorruption_objective_desc" speaker="UI - Journal - Quest  Description" quest_id="0321_0105_AzureRavager_crystalcorruption">Bring den Entweihten Azoth-Kristall von S’ylanx dem Unsichtbaren aus den Tiefen vom Skorpion zurück.</string>
+	<string key="0321_0105_AzureRavager_crystalcorruption_objective_desc" speaker="UI - Journal - Quest  Description" quest_id="0321_0105_AzureRavager_crystalcorruption">Bring den Entweihten Azoth-Kristall von S’ylanx dem Unsichtbaren aus den Tiefen vom Skorpion zurück</string>
 	<string key="0321_0105_AzureRavager_crystalcorruption_objective_title" speaker="UI - Journal - Quest  Title" quest_id="0321_0105_AzureRavager_crystalcorruption">Kristallisierte Verderbnis</string>
 	<string key="0321_0105_AzureRavager_crystalcorruption_proposal" speaker="UI" quest_id="0321_0105_AzureRavager_crystalcorruption">[LEER]</string>
 	<string key="0321_0106_AzureRavager_shardsaboveandbelow_GoToPOI">Erlange Proben von Immerglimmender Glut und Verunreinigtem Orichalcum (Gebiet: {POITags})</string>
@@ -554,7 +554,7 @@
 	<string key="0325_0103_RL_task_01_TaskGoToPOITag" speaker="UI">Suche Frostige Panzerung (Orichalcum) (Gebiet: {POITags} in Düsterheim)</string>
 	<string key="0325_0103_RL_task_02a_TaskKillContribution">Besiege {targetName}-Verderbte</string>
 	<string key="0325_0103_RL_task_02b_TaskHaveAndReturnItems" speaker="UI">Suche in Truhen nach Folgendem: {itemName} (Gebiet: {POITags})</string>
-	<string key="0325_0104_RL_task_01_TaskGoToPOITag" speaker="UI">Sammle die gekühlten Pilze, die auf Dryadenwächtern von {POITags} wachsen</string>
+	<string key="0325_0104_RL_task_01_TaskGoToPOITag" speaker="UI">Sammle die gekühlten Pilze, die auf Dryadenwächtern von {POITags} wachsen.</string>
 	<string key="0325_0104_RL_task_02a_TaskKillContribution">Besiege {targetName}-Dryaden</string>
 	<string key="0325_0104_RL_task_02b_TaskHaveAndReturnItems" speaker="UI">Besiege {targetName}, große bärenartige Konstrukte, und erbeute Folgendes: {itemName}</string>
 	<string key="0325_0104_RL_task_02c_TaskGameEvent">Reiße verzauberte Reben an den Mauern von Heimtücke herunter</string>

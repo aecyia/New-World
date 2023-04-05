@@ -124,7 +124,7 @@
 	<string key="ui_voicechatinputmode_desc">Votre mode d'accès à la discussion vocale.</string>
 	<string key="ui_voicechatinputmode_alwayson">Toujours activé</string>
 	<string key="ui_voicechatinputmode_pushtotalk">Appuyer pour parler (maintenir)</string>
-	<string key="ui_voicechatinputmode_pushtotalk_toggle">Appuyer pour parler (activer)</string>
+	<string key="ui_voicechatinputmode_pushtotalk_toggle">Appuyer pour parler (actionner)</string>
 	<string key="ui_options_settings">Options</string>
 	<string key="ui_graphics_settings" comment="Graphics quality settings">Qualité d'affichage</string>
 	<string key="ui_graphics_settings_desc">Qualité visuelle du jeu : un réglage faible améliore les performances, un réglage élevé offre de meilleurs visuels.</string>
@@ -175,9 +175,9 @@
 	<string key="ui_profanity_filter">Filtre de langue</string>
 	<string key="ui_profanity_filter_desc">Filtrer le langage incorrect dans les discussions.</string>
 	<string key="ui_subtitles">Sous-titres</string>
-	<string key="ui_subtitles_desc">Afficher les sous-titres des dialogues.</string>
-	<string key="ui_metaachievementpopups">Afficher la notification des exploits.</string>
-	<string key="ui_metaachievementpopups_desc">Afficher sur l'interface une notification lorsqu'un exploit est obtenu ou en passe d'être obtenu.</string>
+	<string key="ui_subtitles_desc">Affiche les sous-titres des dialogues.</string>
+	<string key="ui_metaachievementpopups">Notification des exploits</string>
+	<string key="ui_metaachievementpopups_desc">Affiche une notification sur l'interface lorsqu'un exploit est obtenu ou en passe d'être obtenu.</string>
 	<string key="ui_colorBlindness">Daltonisme</string>
 	<string key="ui_colorBlindness_desc">Appliquer le filtre daltonisme.</string>
 	<string key="ui_options_ColorBlindness_NoFilter">Aucun filtre</string>
@@ -193,21 +193,28 @@
 	<string key="ui_options_TwitchLogin">Se connecter à Twitch</string>
 	<string key="ui_options_TwitchLogin_desc">Se connecter à Twitch pour activer ses fonctionnalités.</string>
 	<string key="ui_options_TwitchStreamerSpotlight">Twitch Streamer Spotlight</string>
-	<string key="ui_options_TwitchStreamerSpotlight_desc">Activer Twitch Streamer Spotlight. Permet aux autres joueurs de voir que vous streamez sur Twitch (ne fonctionne que lors du streaming).</string>
+	<string key="ui_options_TwitchStreamerSpotlight_desc">Permet aux autres joueurs de voir que vous streamez sur Twitch (ne fonctionne que lors du streaming).</string>
 	<string key="ui_options_TwitchHideOtherStreamers">Cacher les autres streamers</string>
-	<string key="ui_options_TwitchHideOtherStreamers_desc">Activer pour cacher les statuts Twitch Streamer Spotlight des autres joueurs lorsque vous streamez vous-même avec l'option Twitch Streamer Spotlight.</string>
+	<string key="ui_options_TwitchHideOtherStreamers_desc">Cache les statuts Twitch Streamer Spotlight des autres joueurs lorsque vous streamez vous-même avec l'option Twitch Streamer Spotlight.</string>
 	<string key="ui_options_TwitchSubArmy">Armée d'abonnés de Twitch</string>
 	<string key="ui_options_TwitchSubArmy_desc">Vous permet de rejoindre des streamers ou de recruter vos abonnés et vos followers sur Twitch dans votre groupe ou votre compagnie.</string>
 	<string key="ui_textSize">Taille du texte</string>
 	<string key="ui_textSize_desc">Agrandir le texte des noms et des interactions.</string>
+	<string key="ui_diegeticPinSize">Taille de l'épingle de l'aide de quête</string>
+	<string key="ui_diegeticPinSize_desc">Ajuste la taille des épingles vous offrant de l'aide en jeu pour les quêtes.</string>
+	<string key="ui_diegeticPinOpacity">Transparence de l'épingle de l'aide de quête</string>
+	<string key="ui_diegeticPinOpacity_desc">Ajuste la transparence des épingles vous offrant de l'aide en jeu pour les quêtes.</string>
+	<string key="ui_section_map">Carte</string>
+	<string key="ui_options_map">Zoom auto</string>
+	<string key="ui_options_map_desc">Zoome automatiquement vers l'avant en ouvrant la carte dans une colonie ou un avant-poste.</string>
 	<string key="ui_options_textSize_regular">Normal</string>
 	<string key="ui_options_textSize_bigger">Grand</string>
-	<string key="ui_cameraShake">Activer la stabilisation d'image</string>
+	<string key="ui_cameraShake">Tremblements de la caméra</string>
 	<string key="ui_cameraShake_desc">Les mouvements de la caméra sont susceptibles de désorienter certains joueurs.</string>
 	<string key="ui_strafeCamera">Toujours faire des pas de côté</string>
 	<string key="ui_strafeCamera_desc">Le personnage reste dans l'axe de la caméra.</string>
 	<string key="ui_alwaysShowReticle">Toujours afficher le réticule</string>
-	<string key="ui_alwaysShowReticle_desc">La réticule est visible même lorsque votre arme est rangée.</string>
+	<string key="ui_alwaysShowReticle_desc">Le réticule est visible même lorsque votre arme est rangée.</string>
 	<string key="ui_show_pvp_xp">Afficher l'EXP JcJ à l'écran</string>
 	<string key="ui_show_pvp_xp_desc">Désactivez ceci pour masquer les gains d'EXP en JcJ.</string>
 	<string key="ui_showInspectHint">Raccourcis pour les actions sociales</string>
@@ -226,13 +233,15 @@
 	<string key="ui_outputconfiguration">Paramètres de sortie</string>
 	<string key="ui_outputconfiguration_desc">Permuter entre le rendu audio 360 degrés pour home cinéma et le rendu audio 180 degrés pour casque.</string>
 	<string key="ui_texttospeech">Synthèse vocale</string>
-	<string key="ui_texttospeech_desc">Activer la lecture des textes de discussion par synthèse vocale.</string>
+	<string key="ui_texttospeech_desc">Lecture des textes de discussion par synthèse vocale.</string>
 	<string key="ui_tts_rate">Cadence de synthèse vocale</string>
 	<string key="ui_tts_rate_desc">Vitesse de lecture de la synthèse vocale.</string>
 	<string key="ui_tts_volume">Volume de synthèse vocale</string>
 	<string key="ui_tts_volume_desc">Volume de lecture de la synthèse vocale.</string>
 	<string key="ui_speechtotext">Reconnaissance vocale</string>
-	<string key="ui_speechtotext_desc">Activer la reconnaissance vocale pour la discussion vocale.</string>
+	<string key="ui_speechtotext_desc">Reconnaissance vocale pour la discussion vocale.</string>
+	<string key="ui_spell_alignment_vfx">Indication de sorts ennemis</string>
+	<string key="ui_spell_alignment_vfx_desc">Ajoute des indicateurs pour les zones d'effet persistantes des joueurs ennemis</string>
 	<string key="ui_enable_hudShowVitalsValues">Afficher les statistiques vitales</string>
 	<string key="ui_enable_hudShowVitalsValues_decstription">Afficher les valeurs sur les jauges de statistiques (santé et autres).</string>
 	<string key="ui_enable_hudAlwaysFade">Estompage contextuel</string>
@@ -262,7 +271,7 @@
 	<string key="ui_gena_escape" rel_version="Feature_GameEntryNarrationAssistance">Échap</string>
 	<string key="ui_gena" rel_version="Feature_GameEntryNarrationAssistance">Narration de la saisie</string>
 	<string key="ui_gena_title" rel_version="Feature_GameEntryNarrationAssistance">Lecteur d'écran</string>
-	<string key="ui_gena_desc" rel_version="Feature_GameEntryNarrationAssistance">Activez le lecteur d'écran pour accéder au jeu.</string>
+	<string key="ui_gena_desc" rel_version="Feature_GameEntryNarrationAssistance">Fournit le lecteur d'écran pour accéder au jeu.</string>
 	<string key="ui_gena_restricted" rel_version="Feature_GameEntryNarrationAssistance">Discussion vocale de proximité désactivée. Votre compte est trop récent ou verrouillé.</string>
 	<string key="ui_gena_instruction" rel_version="Feature_GameEntryNarrationAssistance">New World propose un lecteur d'écran (uniquement en anglais) pour les joueurs malvoyants ou non-voyants. Vous pouvez activer ou désactiver cette fonctionnalité à tout moment dans les paramètres.</string>
 	<string key="ui_genaprompt_genaison" rel_version="Feature_GameEntryNarrationAssistance">Le lecteur d'écran est activé. Appuyez sur {toggleGENA} pour le désactiver. Appuyez sur {frontEndContinue} pour continuer.</string>
@@ -292,5 +301,19 @@
 	<string key="ui_genaprompt_popupyesno" rel_version="Feature_GameEntryNarrationAssistance">{title}. {message} Appuyez sur {toggleMenuComponent} pour Non. Appuyez sur {frontEndContinue} pour Oui.</string>
 	<string key="ui_genaprompt_popupok" rel_version="Feature_GameEntryNarrationAssistance">{title}. {message} Appuyez sur {frontEndContinue} pour fermer.</string>
 	<string key="ui_genaprompt_popupokcancel" rel_version="Feature_GameEntryNarrationAssistance">{title}. {message} Appuyez sur {frontEndContinue} pour confirmer. Appuyez sur {toggleMenuComponent} pour annuler.</string>
+	<string key="ui_loadouts" rel_version="Feature_Gear_Set_Storage">Ensemble d'équipement</string>
+	<string key="ui_showloadouts" rel_version="Feature_Gear_Set_Storage">Afficher les ensembles d'équipement</string>
+	<string key="ui_hideloadouts" rel_version="Feature_Gear_Set_Storage">Cacher les ensembles d'équipement</string>
+	<string key="ui_toggle_selectloadout" rel_version="Feature_Gear_Set_Storage">Activer la sélection d'ensembles d'équipement</string>
+	<string key="ui_equip_loadout1" rel_version="Feature_Gear_Set_Storage">S'équiper de l'ensemble d'équipement 1</string>
+	<string key="ui_equip_loadout2" rel_version="Feature_Gear_Set_Storage">S'équiper de l'ensemble d'équipement 2</string>
+	<string key="ui_equip_loadout3" rel_version="Feature_Gear_Set_Storage">S'équiper de l'ensemble d'équipement 3</string>
+	<string key="ui_equip_loadout4" rel_version="Feature_Gear_Set_Storage">S'équiper de l'ensemble d'équipement 4</string>
+	<string key="ui_equip_loadout5" rel_version="Feature_Gear_Set_Storage">S'équiper de l'ensemble d'équipement 5</string>
+	<string key="ui_equip_loadout6" rel_version="Feature_Gear_Set_Storage">S'équiper de l'ensemble d'équipement 6</string>
+	<string key="ui_equip_loadout7" rel_version="Feature_Gear_Set_Storage">S'équiper de l'ensemble d'équipement 7</string>
+	<string key="ui_equip_loadout8" rel_version="Feature_Gear_Set_Storage">S'équiper de l'ensemble d'équipement 8</string>
+	<string key="ui_equip_loadout9" rel_version="Feature_Gear_Set_Storage">S'équiper de l'ensemble d'équipement 9</string>
+	<string key="ui_equip_loadout10" rel_version="Feature_Gear_Set_Storage">S'équiper de l'ensemble d'équipement 10</string>
 </resources>
 

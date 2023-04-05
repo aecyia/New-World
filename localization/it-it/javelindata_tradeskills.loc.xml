@@ -255,7 +255,7 @@
 	<string key="ui_twohanded_weapons">A due mani</string>
 	<string key="ui_ranged_weapons">A distanza</string>
 	<string key="ui_magic_skills">Competenze nella magia</string>
-	<string key="ui_weaponmastery_description">Più usi un'arma, più aumenti la tua abilità nel maneggiarla. Ogni livello fornisce un punto da utilizzare per sbloccare miglioramenti specifici per l'arma.</string>
+	<string key="ui_weaponmastery_description">Più usi un'arma, più aumenta il livello Maestria corrispondente. Ogni livello fornisce un punto da utilizzare per sbloccare un'abilità specifica dell'arma.</string>
 	<string key="ui_weaponmastery_in_progress" comment="this is a temporary message to explain the limited number of weapon mastery trees available">Sezione ancora in fase di sviluppo. Nuove armi prossimamente.</string>
 	<string key="ui_farmplants">Piante agricole</string>
 	<string key="ui_hemp">Canapa</string>

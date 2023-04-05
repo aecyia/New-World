@@ -46,17 +46,17 @@
 	<string key="ui_attachments_interact">Configurer le bâtiment</string>
 	<string key="ui_generator_interact">Gérer le contenu</string>
 	<string key="ui_territory_interact">Gestion de la colonie</string>
-	<string key="ui_storage_interact">Voir le contenu</string>
+	<string key="ui_storage_interact">Ouvrir</string>
 	<string key="ui_paint_interact">Peindre</string>
 	<string key="ui_prefab_refinery_interact">Transformer</string>
 	<string key="ui_rest">Se reposer</string>
 	<string key="ui_add_to_journal">Ajouter au journal</string>
-	<string key="ui_journal_notification_title">Nouvelle page découverte</string>
-	<string key="ui_journal_notification_body">La page {loreTitle} a été ajoutée à votre journal.</string>
-	<string key="ui_journal_notification_info">Chapitre {chapterTitle}, page {currentPage} sur {totalPages}</string>
+	<string key="ui_journal_notification_title">Document découvert</string>
+	<string key="ui_journal_notification_body">Ajouté au journal : &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{loreTitle}&lt;/font&gt;.</string>
+	<string key="ui_journal_notification_info">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{chapterTitle}&lt;/font&gt;, {currentPage}/{totalPages}</string>
 	<string key="ui_chapter_discovered_title">NOUVEAU CHAPITRE DÉCOUVERT</string>
 	<string key="ui_chapter_complete_title">CHAPITRE TERMINÉ</string>
-	<string key="ui_view_mission_board">Afficher le tableau des missions</string>
+	<string key="ui_view_mission_board">Afficher missions</string>
 	<string key="ui_view_armory">Afficher l'armurerie</string>
 	<string key="ui_view_territory_progression">Afficher la progression du territoire</string>
 	<string key="ui_view_town_projects">Afficher les projets urbains</string>
@@ -102,5 +102,6 @@
 	<string key="ui_reset_available_in">Disponible dans {time}</string>
 	<string key="ui_emote_gather">[{keybind}] Utiliser l'émote {tagName} pour obtenir</string>
 	<string key="ui_emotetag_dance">Danse</string>
+	<string key="ui_use_item">Utiliser</string>
 </resources>
 

@@ -511,6 +511,7 @@
 	<string key="1102_StoneOrb_DisplayName">Orbe de Pedra</string>
 	<string key="1103_CopperOrb_DisplayName">Orbe de Cobre</string>
 	<string key="1104_MedallionChest_DisplayName">Pegar Medalhões</string>
+	<string key="1102_TelescopeChest_DisplayName">Pegar Telescópio</string>
 	<string key="1105_CorruptedTotem_DisplayName">Destruir Emblema Corrompido</string>
 	<string key="1201_JamJar_DisplayName">Jarro de Geleia Arruda</string>
 	<string key="1202_AncientArtifact_DisplayName">Artefato Ancião</string>
@@ -559,6 +560,7 @@
 	<string key="MSQ_SalvagePile_C_DisplayName">Pilha de Sucata</string>
 	<string key="AzothWater_Displayname">Fonte de Azoth</string>
 	<string key="AzothSeal_DisplayName">Selo Ancião de Azoth</string>
+	<string key="FireSeal_DisplayName">Selo Flamejante Ancião</string>
 	<string key="HeartforgeEncounterBattery_DisplayName">Acender Fogo da Forja-Coração</string>
 	<string key="Anubian_Horus_Power_Source_DisplayName">Desativar Enéade do Obelisco</string>
 	<string key="PressurePlate_Ancient_DisplayName">Glifo Ancião de Azoth</string>
@@ -584,7 +586,7 @@
 	<string key="MSQ_0024_FightingPitDoor_DisplayName">Porta do Fosso de Luta</string>
 	<string key="MSQ_0025_AmrineAzothBarrier_DisplayName">Selo de Guarda Espiritual</string>
 	<string key="MSQ_0026_StormwallBattery_DisplayName">Investigar a Fonte da Barreira de Tempestade</string>
-	<string key="MSQ_0027_StormwallBarrier_DisplayName">Barreira de Tempestade</string>
+	<string key="MSQ_0027_StormwallBarrier_DisplayName">Viajar pela Barreira do Chafariz Maculado</string>
 	<string key="MSQ_0028_UrinePuddle_DisplayName">Poça Fedorenta de Excremento</string>
 	<string key="MSQ_0037_PlanB_Water_01_DisplayName">Poço</string>
 	<string key="MSQ_0037_PlanB_Water_02_DisplayName">Barril de Água</string>
@@ -980,5 +982,79 @@
 	<string key="Dungeon_BrimstoneSands00_TranslateGlyph" rel_version="Territory_Brimstone_Sands">Ativar o Console do Glifo</string>
 	<string key="Armadillo_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Tatu</string>
 	<string key="Rat_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Rato</string>
+	<string key="FireNaga_Miniboss_FlameVent_DisplayName" rel_version="Expedition_GreatCleave_01">Saída de Ar de Chamas</string>
+	<string key="95_s01_01_SkyeLetter" rel_version="Season_1_Temp">Ler Carta de Skye</string>
+	<string key="95_s01_01_CorruptedCampSupplies">Coletar os Suprimentos</string>
+	<string key="95_s01_01_CorruptedTent">Queimar a Barraca de Corrompidos</string>
+	<string key="95_s01_01_CrowsNestCampBuild">Construir o Acampamento do Ninho do Corvo</string>
+	<string key="95_s01_02_AidynBrooch" rel_version="Season_1_Temp">Coletar Broche e Mensagem</string>
+	<string key="95_s01_02_BattleSite" rel_version="Season_1_Temp">Examinar Solo</string>
+	<string key="95_s01_02_SkyeTrail" rel_version="Season_1_Temp">Seguir Trilha de Skye</string>
+	<string key="95_s01_02_AidynTrail" rel_version="Season_1_Temp">Seguir Trilha de Aidyn</string>
+	<string key="95_s01_02a_BoneCharmTable" rel_version="Season_1_Temp">Destruir os Talismãs de Osso</string>
+	<string key="95_s01_09_FinalBoneCharmTable" rel_version="Season_1_Temp">Destruir Talismã Amaldiçoado de Skye</string>
+	<string key="95_s01_03_HeroesPoster" rel_version="Season_1_Perm">Colocar Cartaz</string>
+	<string key="95_s01_05_BWFakeFundsCabinet" rel_version="Season_1_Perm">Armazenar os Fundos Falsos</string>
+	<string key="95_s01_06_ExamineFrankTrail" rel_version="Season_1_Temp">Examinar Pegadas</string>
+	<string key="95_s01_06_FrankTrail" rel_version="Season_1_Temp">Seguir o Rastro do Contrabandista</string>
+	<string key="95_s01_06_RescueWarrior" rel_version="Season_1_Temp">Resgatar o Guerreiro Capturado</string>
+	<string key="95_s01_04_AzothSap">Extrair Seiva</string>
+	<string key="99C_MSQ2_WitchyGlyph_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Glifo Destrutivo</string>
+	<string key="99C_MSQ2_RitualObject_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Âncora Arcana</string>
+	<string key="99C_MSQ2_GlowingMushroom_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Pesquisar Plantas Estranhas</string>
+	<string key="99C_MSQ2_ShakingCoffin_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Experimento da Velha Cadáver</string>
+	<string key="99C_MSQ2_CorpseTorch_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Tocha do Cadáver de Crone</string>
+	<string key="99C_MSQ2_GlowingOrbs_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Coisa Obscura</string>
+	<string key="99C_MSQ2_BlightBomb_DisplayName">Pitada Desagradável de Mácula</string>
+	<string key="99C_MSQ2_AncientDevice_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Desligar Dispositivo Ancião</string>
+	<string key="99C_MSQ2_AncientConsole_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Investigar Console Ancião</string>
+	<string key="99C_MSQ2_AncientChest_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Abrir Baú Ancião</string>
+	<string key="99C_MSQ2_AncientShieldDevice_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Pegar Dispositivo de Escudo Ancião</string>
+	<string key="99C_MorgainesTruth_CinematicStart_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Ler sobre o Passado de Morgaine</string>
+	<string key="99C_MSQ2_MorgainesCaveDoor_Destroy_DisplayName">Destruir Proteções de Morgaine</string>
+	<string key="99C_MSQ2_MorgainesCaveDoor_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Viajar pela Barreira de Morgaine</string>
+	<string key="99B_MSQ_01_BlessedCandle_DisplayName" rel_version="Quest_MSQ2_Brightwood">Coletar Vela Abençoada</string>
+	<string key="99B_MSQ_01_ReadGravestone_DisplayName" rel_version="Quest_MSQ2_Brightwood">Ler Lápide</string>
+	<string key="99B_MSQ_02_BrightSigil_DisplayName" rel_version="Quest_MSQ2_Brightwood">Coletar Insígnia da Vigília Reluzente</string>
+	<string key="99B_MSQ_03_CaerDunMap_DisplayName" rel_version="Quest_MSQ2_Brightwood">Pegar Mapa</string>
+	<string key="99B_MSQ_04_OrePiles_DisplayName" rel_version="Quest_MSQ2_Brightwood">Investigar Pilha de Minério</string>
+	<string key="99B_MSQ_04_AzothDetectorA_DisplayName" rel_version="Quest_MSQ2_Brightwood">Tanque de Azoth Pequeno</string>
+	<string key="99B_MSQ_04_AzothDetectorB_DisplayName" rel_version="Quest_MSQ2_Brightwood">Mecanismo Exposto</string>
+	<string key="99B_MSQ_04_AzothDetectorC_DisplayName" rel_version="Quest_MSQ2_Brightwood">Tanque de Azoth Grande</string>
+	<string key="99B_MSQ_04_AzothDetectorD_DisplayName" rel_version="Quest_MSQ2_Brightwood">Caldeira de Azoth Pequena</string>
+	<string key="99B_MSQ_04_AzothDetectorE_DisplayName" rel_version="Quest_MSQ2_Brightwood">Caldeira de Azoth Grande</string>
+	<string key="99B_MSQ_05_DiscardedFishingPole_DisplayName" rel_version="Quest_MSQ2_Brightwood">Investigar Varas de Pescar</string>
+	<string key="99B_MSQ_05_GracesLoot_DisplayName" rel_version="Quest_MSQ2_Brightwood">Procurar Itens Valiosos</string>
+	<string key="99B_MSQ_06_MementoFind_DisplayName" rel_version="Quest_MSQ2_Brightwood">Pegar Lembrança Perdida</string>
+	<string key="99B_MSQ_06_MementoPlaceA_DisplayName" rel_version="Quest_MSQ2_Brightwood">Oferecer Lembrança</string>
+	<string key="99B_MSQ_06_MementoPlaceB_DisplayName" rel_version="Quest_MSQ2_Brightwood">Oferecer Lembrança</string>
+	<string key="99B_MSQ_06_MementoPlaceC_DisplayName" rel_version="Quest_MSQ2_Brightwood">Oferecer Lembrança</string>
+	<string key="99B_MSQ_07_BurnCasket_DisplayName" rel_version="Quest_MSQ2_Brightwood">Queimar Urnas</string>
+	<string key="99B_MSQ_07_CleanseDarkness_DisplayName" rel_version="Quest_MSQ2_Brightwood">Exorcizar Escuridão</string>
+	<string key="99B_MSQ_07_DigMoira_DisplayName" rel_version="Quest_MSQ2_Brightwood">Descobrir Túmulo</string>
+	<string key="99B_MSQ_08_PurificationHerb_DisplayName" rel_version="Quest_MSQ2_Brightwood">Coletar Erva Purificante</string>
+	<string key="99B_MSQ_08_PureAzothWater_DisplayName" rel_version="Quest_MSQ2_Brightwood">Coletar Água de Azoth Pura</string>
+	<string key="99B_MSQ_09_Keyring_DisplayName" rel_version="Quest_MSQ2_Brightwood">Pegar Chave do Santuário</string>
+	<string key="99B_MSQ_09_SanctumDoor_DisplayName" rel_version="Quest_MSQ2_Brightwood">Desbloquear Porta do Santuário</string>
+	<string key="99B_MSQ_10_PlaceHeartgem_DisplayName" rel_version="Quest_MSQ2_Brightwood">Colocar a Gema de Coração</string>
+	<string key="99B_MSQ_10_SmashHeartgem_DisplayName" rel_version="Quest_MSQ2_Brightwood">Destruir Gema de Coração</string>
+	<string key="99B_MSQ_10_SealCurse_DisplayName" rel_version="Quest_MSQ2_Brightwood">Selar a Maldição</string>
+	<string key="99B_MSQ_10_FinalSeal_DisplayName" rel_version="Quest_MSQ2_Brightwood">Quebrar a Maldição</string>
+	<string key="99B_MSQ_02_GalahadJournal_DisplayName" rel_version="Quest_MSQ2_Brightwood">Ler Diário de Galahad</string>
+	<string key="99B_MSQ_08_AzothTree_DisplayName" rel_version="Quest_MSQ2_Brightwood">Tocar na Árvore de Azoth</string>
+	<string key="99B_MSQ_11_BrightwatchHistory_DisplayName" rel_version="Quest_MSQ2_Brightwood">Ler a História</string>
+	<string key="Dungeon_GreatCleave_01_GemGather" rel_version="Expedition_GreatCleave_01">Aglomerado de Amirita</string>
+	<string key="95_s01_05_ChurchFundCabinet" rel_version="Season_1_Perm">Coletar Fundos</string>
+	<string key="02A_Side08_CoffinA_DisplayName" rel_version="Quest_MSQ2_Brightwood">Abrir Caixão</string>
+	<string key="95_s01_06_TEMP_SupplyChain_Footprints">Investigar pegadas</string>
+	<string key="13A_SQ_01_FogBed_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Névoa Mágica Clara</string>
+	<string key="13A_SQ_02_AnimalJar" rel_version="Quest_MSQ2_WeaversFen">Chutar Jarra de Restos de Animais</string>
+	<string key="FlameCore_Forge_DisplayName" rel_version="Season_1_Perm">Forja de Núcleo de Fogo</string>
+	<string key="SporePod_Type1_DisplayName">Cápsula de Esporos Tipo 1</string>
+	<string key="SporePod_Type2_DisplayName">Cápsula de Esporos Tipo 2</string>
+	<string key="SporePod_Type3_DisplayName">Cápsula de Esporos Tipo 3</string>
+	<string key="SporePod_Type4_DisplayName">Cápsula de Esporos Tipo 4</string>
+	<string key="SporePod_Type5_DisplayName">Cápsula de Esporos Tipo 5</string>
+	<string key="BeastLordStatue_Type1_DisplayName">Estátua do Lorde Fera Tipo 1</string>
 </resources>
 

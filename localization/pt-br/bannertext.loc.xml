@@ -22,7 +22,7 @@
 	<string key="ui_territory_claimed_title">Território Conquistado</string>
 	<string key="ui_territory_current">Território Atual:</string>
 	<string key="ui_territory_controlling_faction">Facção no Controle:</string>
-	<string key="ui_territory_not_claimed_desc">Quando este território for conquistado, você poderá concluir as Missões PVP para ganhar Influência, o que permite que sua Facção declare guerra. Mas por enquanto, vá ajudar sua facção a conquistar este Território!</string>
+	<string key="ui_territory_not_claimed_desc">Reivindique este território para completar Missões PvP e ganhar Influência, o que permite que sua Facção declare Guerra.</string>
 	<string key="ui_territory_upgrade_cancelled">Um aprimoramento foi cancelado em {territoryName}</string>
 	<string key="ui_territory_upgraded">Território aprimorado</string>
 	<string key="ui_territory_standinglabel">Parada de {territoryName}</string>
@@ -90,8 +90,8 @@
 	<string key="ui_open_map">Abrir Mapa</string>
 	<string key="ui_counterattack_message_attack">Agora sua companhia pode atacar a conquista do inimigo\ndurante a janela de cerco!</string>
 	<string key="ui_counterattack_message_defend">O inimigo contra-atacou.\nDefenda suas conquistas do inimigo!</string>
-	<string key="ui_town_project_started_chat">O Projeto de Vila “{name}” começou no Território {territory}!</string>
-	<string key="ui_town_project_expired_chat">O Projeto de Vila “{title}” expirou no Território {territory}.</string>
+	<string key="ui_town_project_started_chat">O Projeto de Vila “{name}” começou em {territory}!</string>
+	<string key="ui_town_project_expired_chat">O Projeto de Vila “{title}” expirou em {territory}.</string>
 	<string key="ui_town_project_cancelled_chat">O Projeto de Vila “{title}” foi cancelado em {territory}.</string>
 	<string key="ui_town_project_completed_chat">O Projeto de Vila “{title}” foi concluído em {territory}.</string>
 	<string key="ui_territory_downgraded_chat">{structure} se degradou em {territoryName}.</string>
@@ -103,9 +103,9 @@
 	<string key="ui_mastery_points_available">Você tem {masteryPoints} Pontos de Maestria disponíveis</string>
 	<string key="ui_standing_tokens_available">Você tem {standingTokens} Pontos de Posição do Território disponíveis</string>
 	<string key="ui_points_available">APRIMORAMENTO DISPONÍVEL</string>
-	<string key="ui_mastery_point">Ponto de Maestria</string>
-	<string key="ui_attribute_point">Ponto de Atributo</string>
-	<string key="ui_standing_point">Ponto de Posição de Território</string>
+	<string key="ui_mastery_point">Pontos de Maestria</string>
+	<string key="ui_attribute_point">Pontos de Atributo</string>
+	<string key="ui_standing_point">Pontos de Posição do Território</string>
 	<string key="ui_cinematics_banner_msq_actone_title_label">ATO I</string>
 	<string key="ui_cinematics_banner_msq_actone_chapterone_title_text">Capítulo Um</string>
 	<string key="ui_cinematics_banner_msq_actone_chapterone_title_description">Tempestade Demoníaca</string>

@@ -268,7 +268,7 @@
 	<string key="tip_overworld_housing_ownership02-title">Vivienda</string>
 	<string key="tip_overworld_housing_ownership02-content">Puedes tener hasta 3 casas en el mundo si cumples los requisitos de nivel, territorio y dinero.</string>
 	<string key="tip_overworld_housing_ownership03-title">Vivienda</string>
-	<string key="tip_overworld_housing_ownership03-content">Puedes obtener un descuento del 50 % para tu primera casa.</string>
+	<string key="tip_overworld_housing_ownership03-content">Puedes obtener un descuento en la compra de tu primera casa.</string>
 	<string key="tip_overworld_housing_ownership04-title">Vivienda</string>
 	<string key="tip_overworld_housing_ownership04-content">No todas las casas son iguales. Algunas son más espaciosas que otras, lo que aumenta su nivel. Estas casas requieren una mejor posición en ese territorio y cuestan más oro.</string>
 	<string key="tip_overworld_housing_ownership05-title">Vivienda</string>
@@ -418,7 +418,7 @@
 	<string key="tip_overworld_zone_brimstone_lore04-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
 	<string key="tip_overworld_zone_brimstone_lore04-content" rel_version="Territory_Brimstone_Sands">Se dice que los antiguos llevaban a cabo rituales en lo profundo del centro de una inmensa muralla construida entre las Arenas de Azufre y la Montaña destruida.</string>
 	<string key="tip_overworld_zone_brimstone_lore05-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
-	<string key="tip_overworld_zone_brimstone_lore05-content" rel_version="Territory_Brimstone_Sands">Crassus y su decimonovena legión corrompida son una amenaza eterna a la seguridad y estabilidad de Nueva Córcega.</string>
+	<string key="tip_overworld_zone_brimstone_lore05-content" rel_version="Territory_Brimstone_Sands">Craso y su decimonovena legión corrompida son una amenaza eterna a la seguridad y estabilidad de Nueva Córcega.</string>
 	<string key="tip_overworld_zone_brimstone_lore06-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
 	<string key="tip_overworld_zone_brimstone_lore06-content" rel_version="Territory_Brimstone_Sands">Imhotep, el sabio es uno de los humanos más ancianos con vida en Aeternum. Se dice que deambula por el desierto en busca del saber.</string>
 	<string key="tip_overworld_zone_brimstone_lore07-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>

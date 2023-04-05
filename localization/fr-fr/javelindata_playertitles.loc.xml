@@ -11,9 +11,9 @@
 	<string key="ui_playertitle_pvparenawins_500_SHE">Gladiatrice</string>
 	<string key="ui_playertitle_pvparenawins_500_THEY">Gladiateur</string>
 	<string key="ui_playertitle_pvparenawins_500_description">Obtenu en remportant 500 matchs d'arène.</string>
-	<string key="ui_playertitle_pvparenawins_1000">Virtuose de l'arène</string>
+	<string key="ui_playertitle_pvparenawins_1000">Maître de l'arène</string>
 	<string key="ui_playertitle_pvparenawins_1000_SHE">Virtuose de l'arène</string>
-	<string key="ui_playertitle_pvparenawins_1000_THEY">Virtuose de l'arène</string>
+	<string key="ui_playertitle_pvparenawins_1000_THEY">Pro de l'arène</string>
 	<string key="ui_playertitle_pvparenawins_1000_description">Obtenu en remportant 1 000 matchs d'arène.</string>
 	<string key="ui_playertitle_pvparenawins_Flawless">Guerrier immortel</string>
 	<string key="ui_playertitle_pvparenawins_Flawless_SHE">Guerrière immortelle</string>
@@ -456,7 +456,7 @@
 	<string key="ui_playertitle_weaponmaster_voidstaff2_THEY" rel_version="Weapon_Void_Gauntlet">Spécialiste des gantelets du néant</string>
 	<string key="ui_playertitle_weaponmaster_voidstaff3" rel_version="Weapon_Void_Gauntlet">Maître du néant</string>
 	<string key="ui_playertitle_weaponmaster_voidstaff3_SHE" rel_version="Weapon_Void_Gauntlet">Maîtresse du néant</string>
-	<string key="ui_playertitle_weaponmaster_voidstaff3_THEY" rel_version="Weapon_Void_Gauntlet">Maître du néant</string>
+	<string key="ui_playertitle_weaponmaster_voidstaff3_THEY" rel_version="Weapon_Void_Gauntlet">Spécialiste du néant</string>
 	<string key="ui_playertitle_weaponmaster_blunderbuss2" rel_version="Weapon_Blunderbuss">Expert du tromblon</string>
 	<string key="ui_playertitle_weaponmaster_blunderbuss2_SHE" rel_version="Weapon_Blunderbuss">Experte du tromblon</string>
 	<string key="ui_playertitle_weaponmaster_blunderbuss2_THEY" rel_version="Weapon_Blunderbuss">Spécialiste du tromblon</string>
@@ -745,14 +745,14 @@
 	<string key="ui_player_titles_section_label_totalkills">Victimes totales</string>
 	<string key="ui_player_titles_section_label_test_only">Pour le test seulement (PAS DANS LA VERSION FINALE)</string>
 	<string key="ui_title_section_title">Titre</string>
-	<string key="ui_title_section_pick_title">Choisir le titre à afficher</string>
+	<string key="ui_title_section_pick_title">Changer de titre</string>
 	<string key="ui_title_section_no_title">Aucun titre</string>
-	<string key="ui_title_section_current_title">Sélectionné :</string>
+	<string key="ui_title_section_current_title">Actuellement affiché :</string>
 	<string key="ui_title_section_new">NOUVEAU</string>
-	<string key="ui_title_section_current_title_tag">Titre actuel</string>
-	<string key="ui_title_section_apply">Appliquer</string>
-	<string key="ui_playertitle_notification_title">Titre déverrouillé !</string>
-	<string key="ui_playertitle_notification_desc">Vous avez déverrouillé un titre&lt;font color={color}&gt; {title} &lt;/font&gt;</string>
+	<string key="ui_title_section_current_title_tag">Affiché</string>
+	<string key="ui_title_section_apply">Confirmer</string>
+	<string key="ui_playertitle_notification_title">Titre déverrouillé</string>
+	<string key="ui_playertitle_notification_desc">Vous avez déverrouillé &lt;font color={color}&gt; {title} &lt;/font&gt;</string>
 	<string key="ui_playertitle_notification_expired_title">Votre titre a expiré !</string>
 	<string key="ui_playertitle_notification_expired_desc">Votre titre &lt;font color={color}&gt;{title}&lt;/font&gt; a expiré. Cliquez sur Afficher les détails pour choisir un nouveau titre.</string>
 	<string key="ui_playertitle_meta_achievement_description">Vous avez obtenu le succès {title} ({description})</string>
@@ -762,7 +762,7 @@
 	<string key="ui_playertitle_meta_preorder_description" rel_version="Feature_Titles">Obtenu quand vous précommandez &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;New World&lt;/font&gt;.</string>
 	<string key="ui_playertitle_skills_description">Obtenu en améliorant vos compétences.</string>
 	<string key="ui_playertitle_generic_description">Obtenu en jouant au jeu.</string>
-	<string key="ui_playertitle_no_title_description">Appliquer pour ne pas afficher les titres.</string>
+	<string key="ui_playertitle_no_title_description">Sélectionnez cette option pour ne pas afficher de titre.</string>
 	<string key="ui_playertitle_addendum_accounttype">\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular.font" color = "#ffffff"&gt;Ce titre s'utilise sur tous les personnages de votre compte.&lt;/font&gt;</string>
 	<string key="ui_playertitle_addendum_charactertype">\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular.font" color = "#ffffff"&gt;Ce titre ne peut pas s'utiliser sur les autres personnages de votre compte.&lt;/font&gt;</string>
 	<string key="ui_playertitle_special_stoic" rel_version="Feature_Titles">Stoïque</string>
@@ -879,6 +879,14 @@
 	<string key="ui_playertitle_depths_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille des Profondeurs</string>
 	<string key="ui_playertitle_depths_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille des Profondeurs</string>
 	<string key="ui_playertitle_depths_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 25 meilleurs scores du classement hebdomadaire des Profondeurs en difficulté 10.</string>
+	<string key="ui_playertitle_forge_score_top5" rel_version="Expedition_GreatCleave_01">Médaille d'or de la forge</string>
+	<string key="ui_playertitle_forge_score_top5_SHE" rel_version="Expedition_GreatCleave_01">Médaille d'or de la forge</string>
+	<string key="ui_playertitle_forge_score_top5_THEY" rel_version="Expedition_GreatCleave_01">Médaille d'or de la forge</string>
+	<string key="ui_playertitle_forge_score_top5_description" rel_version="Expedition_GreatCleave_01">Obtenu en réalisant l'un des 5 meilleurs scores du classement hebdomadaire de la forge empyréenne en difficulté 10.</string>
+	<string key="ui_playertitle_forge_score_top25" rel_version="Expedition_GreatCleave_01">Médaille de la forge</string>
+	<string key="ui_playertitle_forge_score_top25_SHE" rel_version="Expedition_GreatCleave_01">Médaille de la forge</string>
+	<string key="ui_playertitle_forge_score_top25_THEY" rel_version="Expedition_GreatCleave_01">Médaille de la forge</string>
+	<string key="ui_playertitle_forge_score_top25_description" rel_version="Expedition_GreatCleave_01">Obtenu en réalisant l'un des 25 meilleurs scores du classement hebdomadaire de la forge empyréenne en difficulté 10.</string>
 	<string key="ui_playertitle_starstone_score_top1" rel_version="Feature_Leaderboards">Médaille d'or de pierre d'étoile</string>
 	<string key="ui_playertitle_starstone_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de pierre d'étoile</string>
 	<string key="ui_playertitle_starstone_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de pierre d'étoile</string>
@@ -951,78 +959,86 @@
 	<string key="ui_playertitle_starstone_time_top10_SHE" rel_version="Feature_Leaderboards">Médaille de vitesse de pierre d'étoile</string>
 	<string key="ui_playertitle_starstone_time_top10_THEY" rel_version="Feature_Leaderboards">Médaille de vitesse de pierre d'étoile</string>
 	<string key="ui_playertitle_starstone_time_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 25 meilleurs temps du classement hebdomadaire des carrières de pierre d'étoile en difficulté 10.</string>
+	<string key="ui_playertitle_forge_time_top5" rel_version="Expedition_GreatCleave_01">Médaille d'or de vitesse de la forge</string>
+	<string key="ui_playertitle_forge_time_top5_SHE" rel_version="Expedition_GreatCleave_01">Médaille d'or de vitesse de la forge</string>
+	<string key="ui_playertitle_forge_time_top5_THEY" rel_version="Expedition_GreatCleave_01">Médaille d'or de vitesse de la forge</string>
+	<string key="ui_playertitle_forge_time_top5_description" rel_version="Expedition_GreatCleave_01">Obtenu en réalisant l'un des 5 meilleurs temps du classement hebdomadaire de la forge empyréenne en difficulté 10.</string>
+	<string key="ui_playertitle_forge_time_top25" rel_version="Expedition_GreatCleave_01">Médaille de vitesse de la forge</string>
+	<string key="ui_playertitle_forge_time_top25_SHE" rel_version="Expedition_GreatCleave_01">Médaille de vitesse de la forge</string>
+	<string key="ui_playertitle_forge_time_top25_THEY" rel_version="Expedition_GreatCleave_01">Médaille de vitesse de la forge</string>
+	<string key="ui_playertitle_forge_time_top25_description" rel_version="Expedition_GreatCleave_01">Obtenu en réalisant l'un des 25 meilleurs temps du classement hebdomadaire de la forge empyréenne en difficulté 10.</string>
 	<string key="ui_playertitle_sirenqueen_completion_top1" rel_version="Feature_Leaderboards">Médaille d'or d'exécution de la Reine Sirène</string>
 	<string key="ui_playertitle_sirenqueen_completion_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or d'exécution de la Reine Sirène</string>
 	<string key="ui_playertitle_sirenqueen_completion_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or d'exécution de la Reine Sirène</string>
-	<string key="ui_playertitle_sirenqueen_completion_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 10 premières places du classement trimestriel de la Reine Sirène.</string>
+	<string key="ui_playertitle_sirenqueen_completion_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 10 premières places du classement saisonnier de la Reine Sirène.</string>
 	<string key="ui_playertitle_sirenqueen_completion_top10" rel_version="Feature_Leaderboards">Médaille d'exécution de la Reine Sirène</string>
 	<string key="ui_playertitle_sirenqueen_completion_top10_SHE" rel_version="Feature_Leaderboards">Médaille d'exécution de la Reine Sirène</string>
 	<string key="ui_playertitle_sirenqueen_completion_top10_THEY" rel_version="Feature_Leaderboards">Médaille d'exécution de la Reine Sirène</string>
-	<string key="ui_playertitle_sirenqueen_completion_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 50 premières places du classement trimestriel de la Reine Sirène.</string>
+	<string key="ui_playertitle_sirenqueen_completion_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 50 premières places du classement saisonnier de la Reine Sirène.</string>
 	<string key="ui_playertitle_eternalpools_completion_top1" rel_version="Feature_Leaderboards">Médaille d'or de la Mare d'éternité</string>
 	<string key="ui_playertitle_eternalpools_completion_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de la Mare d'éternité</string>
 	<string key="ui_playertitle_eternalpools_completion_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de la Mare d'éternité</string>
-	<string key="ui_playertitle_eternalpools_completion_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 10 premières places du classement trimestriel de la Mare d'éternité.</string>
+	<string key="ui_playertitle_eternalpools_completion_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 10 premières places du classement saisonnier de la Mare d'éternité.</string>
 	<string key="ui_playertitle_eternalpools_completion_top10" rel_version="Feature_Leaderboards">Médaille de la Mare d'éternité</string>
 	<string key="ui_playertitle_eternalpools_completion_top10_SHE" rel_version="Feature_Leaderboards">Médaille de la Mare d'éternité</string>
 	<string key="ui_playertitle_eternalpools_completion_top10_THEY" rel_version="Feature_Leaderboards">Médaille de la Mare d'éternité</string>
-	<string key="ui_playertitle_eternalpools_completion_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 50 premières places du classement trimestriel de la Mare d'éternité.</string>
+	<string key="ui_playertitle_eternalpools_completion_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 50 premières places du classement saisonnier de la Mare d'éternité.</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top1" rel_version="Feature_Leaderboards">Médaille d'or de la Fissure monoïque</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de la Fissure monoïque</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de la Fissure monoïque</string>
-	<string key="ui_playertitle_monoeciouscleft_completion_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 10 premières places du classement trimestriel de la Fissure monoïque.</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 10 premières places du classement saisonnier de la Fissure monoïque.</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top10" rel_version="Feature_Leaderboards">Médaille de la Fissure monoïque</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top10_SHE" rel_version="Feature_Leaderboards">Médaille de la Fissure monoïque</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top10_THEY" rel_version="Feature_Leaderboards">Médaille de la Fissure monoïque</string>
-	<string key="ui_playertitle_monoeciouscleft_completion_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 50 premières places du classement trimestriel de la Fissure monoïque.</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 50 premières places du classement saisonnier de la Fissure monoïque.</string>
 	<string key="ui_playertitle_openworldpvp_influence_top1" rel_version="Feature_Leaderboards">Médaille d'or de l'influence</string>
 	<string key="ui_playertitle_openworldpvp_influence_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de l'influence</string>
 	<string key="ui_playertitle_openworldpvp_influence_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de l'influence</string>
-	<string key="ui_playertitle_openworldpvp_influence_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 10 premières places du classement trimestriel de gain d'influence.</string>
+	<string key="ui_playertitle_openworldpvp_influence_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 10 premières places du classement saisonnier de gain d'influence.</string>
 	<string key="ui_playertitle_openworldpvp_influence_top10" rel_version="Feature_Leaderboards">Médaille de l'influence</string>
 	<string key="ui_playertitle_openworldpvp_influence_top10_SHE" rel_version="Feature_Leaderboards">Médaille de l'influence</string>
 	<string key="ui_playertitle_openworldpvp_influence_top10_THEY" rel_version="Feature_Leaderboards">Médaille de l'influence</string>
-	<string key="ui_playertitle_openworldpvp_influence_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 50 premières places du classement trimestriel de gain d'influence.</string>
+	<string key="ui_playertitle_openworldpvp_influence_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 50 premières places du classement saisonnier de gain d'influence.</string>
 	<string key="ui_playertitle_outpostrush_score_top1" rel_version="Feature_Leaderboards">Médaille d'or de la Déferlante</string>
 	<string key="ui_playertitle_outpostrush_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de la Déferlante</string>
 	<string key="ui_playertitle_outpostrush_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de la Déferlante</string>
-	<string key="ui_playertitle_outpostrush_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 10 meilleurs scores du classement trimestriel de la Déferlante.</string>
+	<string key="ui_playertitle_outpostrush_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'une des 10 meilleures victoires du classement saisonnier de la Déferlante.</string>
 	<string key="ui_playertitle_outpostrush_score_top10" rel_version="Feature_Leaderboards">Médaille de la Déferlante</string>
 	<string key="ui_playertitle_outpostrush_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille de la Déferlante</string>
 	<string key="ui_playertitle_outpostrush_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille de la Déferlante</string>
-	<string key="ui_playertitle_outpostrush_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 50 meilleurs scores du classement trimestriel de la Déferlante.</string>
+	<string key="ui_playertitle_outpostrush_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'une des 50 meilleures victoires du classement saisonnier de la Déferlante.</string>
 	<string key="ui_playertitle_darknessbreaches_score_top1" rel_version="Feature_Leaderboards">Médaille d'or des failles</string>
 	<string key="ui_playertitle_darknessbreaches_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or des failles</string>
 	<string key="ui_playertitle_darknessbreaches_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or des failles</string>
-	<string key="ui_playertitle_darknessbreaches_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 10 meilleurs scores du classement trimestriel du foyer d'altération.</string>
+	<string key="ui_playertitle_darknessbreaches_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 10 meilleurs scores du classement saisonnier du foyer d'altération.</string>
 	<string key="ui_playertitle_darknessbreaches_score_top10" rel_version="Feature_Leaderboards">Médaille des failles</string>
 	<string key="ui_playertitle_darknessbreaches_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille des failles</string>
 	<string key="ui_playertitle_darknessbreaches_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille des failles</string>
-	<string key="ui_playertitle_darknessbreaches_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 50 meilleurs scores du classement trimestriel du foyer d'altération.</string>
+	<string key="ui_playertitle_darknessbreaches_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 50 meilleurs scores du classement saisonnier du foyer d'altération.</string>
 	<string key="ui_playertitle_war_score_top1" rel_version="Feature_Leaderboards">Médaille d'or de guerre</string>
 	<string key="ui_playertitle_war_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de guerre</string>
 	<string key="ui_playertitle_war_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de guerre</string>
-	<string key="ui_playertitle_war_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 10 meilleurs scores du classement trimestriel de guerre.</string>
+	<string key="ui_playertitle_war_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 10 meilleurs scores du classement saisonnier de guerre.</string>
 	<string key="ui_playertitle_war_score_top10" rel_version="Feature_Leaderboards">Médaille de guerre</string>
 	<string key="ui_playertitle_war_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille de guerre</string>
 	<string key="ui_playertitle_war_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille de guerre</string>
-	<string key="ui_playertitle_war_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 50 meilleurs scores du classement trimestriel de guerre.</string>
+	<string key="ui_playertitle_war_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 50 meilleurs scores du classement saisonnier de guerre.</string>
 	<string key="ui_playertitle_invasion_score_top1" rel_version="Feature_Leaderboards">Médaille d'or d'invasion</string>
 	<string key="ui_playertitle_invasion_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or d'invasion</string>
 	<string key="ui_playertitle_invasion_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or d'invasion</string>
-	<string key="ui_playertitle_invasion_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 10 meilleurs scores du classement trimestriel d'invasion.</string>
+	<string key="ui_playertitle_invasion_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 10 meilleurs scores du classement saisonnier d'invasion.</string>
 	<string key="ui_playertitle_invasion_score_top10" rel_version="Feature_Leaderboards">Médaille d'invasion</string>
 	<string key="ui_playertitle_invasion_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille d'invasion</string>
 	<string key="ui_playertitle_invasion_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille d'invasion</string>
-	<string key="ui_playertitle_invasion_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 50 meilleurs scores du classement trimestriel d'invasion.</string>
+	<string key="ui_playertitle_invasion_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 50 meilleurs scores du classement saisonnier d'invasion.</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top1" rel_version="Feature_Leaderboards">Médaille d'or des Îles des Lames</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or des Îles des Lames</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or des Îles des Lames</string>
-	<string key="ui_playertitle_cutlasskeys_company_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 3 premières places du classement trimestriel des jours de gouvernance des Îles des Lames.</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 3 premières places du classement saisonnier des jours de gouvernance des Îles des Lames.</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top10" rel_version="Feature_Leaderboards">Médaille des Îles des Lames</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille des Îles des Lames</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille des Îles des Lames</string>
-	<string key="ui_playertitle_cutlasskeys_company_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 6 premières places du classement trimestriel des jours de gouvernance des Îles des Lames.</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 6 premières places du classement saisonnier des jours de gouvernance des Îles des Lames.</string>
 	<string key="ui_playertitle_firstlight_company_score_top1" rel_version="Feature_Leaderboards">Médaille d'or du Levant</string>
 	<string key="ui_playertitle_firstlight_company_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or du Levant</string>
 	<string key="ui_playertitle_firstlight_company_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or du Levant</string>
@@ -1119,9 +1135,70 @@
 	<string key="ui_playertitle_allterritories_company_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille de contrôle de territoire</string>
 	<string key="ui_playertitle_allterritories_company_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille de contrôle de territoire</string>
 	<string key="ui_playertitle_allterritories_company_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 6 premières places du classement saisonnier des jours de gouvernance pour tous les territoires.</string>
-	<string key="ui_playertitle_special_thereturned">Arpenteur du retour</string>
-	<string key="ui_playertitle_special_thereturned_SHE">Arpenteuse du retour</string>
-	<string key="ui_playertitle_special_thereturned_THEY">As du retour</string>
+	<string key="ui_playertitle_special_thereturned">Le revenant</string>
+	<string key="ui_playertitle_special_thereturned_SHE">La revenante</string>
+	<string key="ui_playertitle_special_thereturned_THEY">Le revenant</string>
 	<string key="ui_playertitle_thereturned_description">A arpenté Retourner à Aeternum.</string>
+	<string key="ui_player_titles_section_label_seasons" rel_version="Season_1_Perm">Saisons</string>
+	<string key="ui_playertitle_season1_journeychapter5" rel_version="Season_1_Perm">Le décoré</string>
+	<string key="ui_playertitle_season1_journeychapter5_SHE" rel_version="Season_1_Perm">La décorée</string>
+	<string key="ui_playertitle_season1_journeychapter5_THEY" rel_version="Season_1_Perm">Le décoré</string>
+	<string key="ui_playertitle_season1_journeychapter5_description" rel_version="Season_1_Perm">Obtenu en accomplissant le périple de la saison 1.</string>
+	<string key="ui_playertitle_season1_journeychallenge1" rel_version="Season_1_Perm">Maître de forge</string>
+	<string key="ui_playertitle_season1_journeychallenge1_SHE" rel_version="Season_1_Perm">Maîtresse de forge</string>
+	<string key="ui_playertitle_season1_journeychallenge1_THEY" rel_version="Season_1_Perm">Maître de forge</string>
+	<string key="ui_playertitle_season1_journeychallenge1_description" rel_version="Season_1_Perm">Obtenu en terminant le défi de la saison 1 : Terminez la forge empyréenne M10 avec un score d'au moins 75 000.</string>
+	<string key="ui_playertitle_season1_journeychallenge2" rel_version="Season_1_Perm">Ardent meneur des avant-postes</string>
+	<string key="ui_playertitle_season1_journeychallenge2_SHE" rel_version="Season_1_Perm">Ardente meneuse des avant-postes</string>
+	<string key="ui_playertitle_season1_journeychallenge2_THEY" rel_version="Season_1_Perm">Ardent meneur des avant-postes</string>
+	<string key="ui_playertitle_season1_journeychallenge2_description" rel_version="Season_1_Perm">Obtenu en terminant le défi de la saison 1 : Remportez une Déferlante en marquant plus de 750 points.</string>
+	<string key="ui_playertitle_season1_journeychallenge3" rel_version="Season_1_Perm">Tuerie en série</string>
+	<string key="ui_playertitle_season1_journeychallenge3_SHE" rel_version="Season_1_Perm">Tuerie en série</string>
+	<string key="ui_playertitle_season1_journeychallenge3_THEY" rel_version="Season_1_Perm">Tuerie en série</string>
+	<string key="ui_playertitle_season1_journeychallenge3_description" rel_version="Season_1_Perm">Obtenu en terminant le défi de la saison 1 : Tuez 500 personnages-joueurs dans le monde ouvert.</string>
+	<string key="ui_playertitle_season1_journeychallenge4" rel_version="Season_1_Perm">Fauteur de trouble</string>
+	<string key="ui_playertitle_season1_journeychallenge4_SHE" rel_version="Season_1_Perm">Importune</string>
+	<string key="ui_playertitle_season1_journeychallenge4_THEY" rel_version="Season_1_Perm">Fauteur de trouble</string>
+	<string key="ui_playertitle_season1_journeychallenge4_description" rel_version="Season_1_Perm">Obtenu en terminant le défi de la saison 1 : Capturez 50 points de contrôle de faction.</string>
+	<string key="ui_playertitle_season1_journeychallenge5" rel_version="Season_1_Perm">Artisan infernal</string>
+	<string key="ui_playertitle_season1_journeychallenge5_SHE" rel_version="Season_1_Perm">Artisane infernale</string>
+	<string key="ui_playertitle_season1_journeychallenge5_THEY" rel_version="Season_1_Perm">Artisan infernal</string>
+	<string key="ui_playertitle_season1_journeychallenge5_description" rel_version="Season_1_Perm">Obtenu en terminant le défi de la saison 1 : Fabriquez 250 objets légendaires V.</string>
+	<string key="ui_playertitle_season1_journeychallenge6" rel_version="Season_1_Perm">Adepte du feu</string>
+	<string key="ui_playertitle_season1_journeychallenge6_SHE" rel_version="Season_1_Perm">Adepte du feu</string>
+	<string key="ui_playertitle_season1_journeychallenge6_THEY" rel_version="Season_1_Perm">Adepte du feu</string>
+	<string key="ui_playertitle_season1_journeychallenge6_description" rel_version="Season_1_Perm">Obtenu en terminant le défi de la saison 1 : Terminez l'histoire de la saison La Communauté et le feu.</string>
+	<string key="ui_playertitle_season1_journeychallenge7" rel_version="Season_1_Perm">Conservateur de gypses</string>
+	<string key="ui_playertitle_season1_journeychallenge7_SHE" rel_version="Season_1_Perm">Conservatrice de gypses</string>
+	<string key="ui_playertitle_season1_journeychallenge7_THEY" rel_version="Season_1_Perm">Conservateur de gypses</string>
+	<string key="ui_playertitle_season1_journeychallenge7_description" rel_version="Season_1_Perm">Obtenu en terminant le défi de la saison 1 : Fabriquez 100 orbes de gypse.</string>
+	<string key="ui_playertitle_season1_journeychallenge8" rel_version="Season_1_Perm">Protecteur des flammes</string>
+	<string key="ui_playertitle_season1_journeychallenge8_SHE" rel_version="Season_1_Perm">Protectrice des flammes</string>
+	<string key="ui_playertitle_season1_journeychallenge8_THEY" rel_version="Season_1_Perm">Protecteur des flammes</string>
+	<string key="ui_playertitle_season1_journeychallenge8_description" rel_version="Season_1_Perm">Obtenu en terminant le défi de la saison 1 : Fabriquez 25 objets de S.É 600 à l'aide de noyaux de feu.</string>
+	<string key="ui_playertitle_season1_journeychallenge9" rel_version="Season_1_Perm">Olympien flamboyant</string>
+	<string key="ui_playertitle_season1_journeychallenge9_SHE" rel_version="Season_1_Perm">Olympienne flamboyante</string>
+	<string key="ui_playertitle_season1_journeychallenge9_THEY" rel_version="Season_1_Perm">Olympien flamboyant</string>
+	<string key="ui_playertitle_season1_journeychallenge9_description" rel_version="Season_1_Perm">Obtenu en terminant le défi de la saison 1 : Terminez chaque expédition M10 avec une évaluation Or ou supérieure.</string>
+	<string key="ui_playertitle_season1_journeychallenge10" rel_version="Season_1_Perm">Phénix</string>
+	<string key="ui_playertitle_season1_journeychallenge10_SHE" rel_version="Season_1_Perm">Phénix</string>
+	<string key="ui_playertitle_season1_journeychallenge10_THEY" rel_version="Season_1_Perm">Phénix</string>
+	<string key="ui_playertitle_season1_journeychallenge10_description" rel_version="Season_1_Perm">Obtenu en terminant le défi de la saison 1 : Obtenez une victoire sans faille dans chaque expédition (les terminer sans mourir).</string>
+	<string key="ui_playertitle_season1_battlepass" rel_version="Season_1_Perm">Champion enflammé</string>
+	<string key="ui_playertitle_season1_battlepass_SHE" rel_version="Season_1_Perm">Championne enflammée</string>
+	<string key="ui_playertitle_season1_battlepass_THEY" rel_version="Season_1_Perm">Champion enflammé</string>
+	<string key="ui_playertitle_season1_battlepass_description" rel_version="Season_1_Perm">Obtenu en terminant la section gratuite du passe de saison de la saison 1.</string>
+	<string key="ui_playertitle_season1_deluxebattlepass" rel_version="Season_1_Perm">Champion infernal</string>
+	<string key="ui_playertitle_season1_deluxebattlepass_SHE" rel_version="Season_1_Perm">Championne infernale</string>
+	<string key="ui_playertitle_season1_deluxebattlepass_THEY" rel_version="Season_1_Perm">Champion infernal</string>
+	<string key="ui_playertitle_season1_deluxebattlepass_description" rel_version="Season_1_Perm">Obtenu en terminant la section payante du passe de saison de la saison 1.</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Victorious" rel_version="Feature_Leaderboards">Expérimentateur victorieux</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Victorious_SHE" rel_version="Feature_Leaderboards">Expérimentatrice victorieuse</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Victorious_THEY" rel_version="Feature_Leaderboards">Expérimentateur·ice victorieux·se</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Victorious_description" rel_version="Feature_Leaderboards">A atteint la victoire dans les classements malgré l'époque incertaine.</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Welp" rel_version="Feature_Leaderboards">Oups</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Welp_SHE" rel_version="Feature_Leaderboards">Oups</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Welp_THEY" rel_version="Feature_Leaderboards">Oups</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Welp_description" rel_version="Feature_Leaderboards">A bravement tenté d'obtenir une place sur les classements.</string>
 </resources>
 

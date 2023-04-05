@@ -265,7 +265,7 @@
 	<string key="1334_0201_olfactoryoptimization_proposal_prompt" speaker="UI - Player Prompt">“É mesmo difícil de ignorar.”</string>
 	<string key="1334_0201_olfactoryoptimization_proposal_next" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_proposal_next" VO_Status="Recorded" dialogue-prompt="@1334_0201_olfactoryoptimization_proposal_prompt">E? Quanto se perde da vida, se buscarmos apenas coisas inofensivas?\n\nPor favor, eu preciso dessa fragrância. Traga-me os aromas do Pântano, prepare-os e engarrafe-os, e darei a você uma recompensa generosa. O que acha?</string>
 	<string key="1334_0201_olfactoryoptimization_incomplete" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_incomplete" VO_Status="Recorded">Será que a fragrância única de Pântano do Tecelão pode ser verdadeiramente replicada por mãos humanas? Aguardo ansioso pelo seu retorno.</string>
-	<string key="1334_0201_olfactoryoptimization_complete" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_complete" VO_Status="Recorded" dialogue-next="@1334_0201_olfactoryoptimization_complete_next" comment="coughing">Hum, sim... decadente, almiscarado, com um acorde sulfúrico que ressoa direto nas notas mais altas... você capturou o Pântano do Tecelão perfeitamente. \n\nVocê deve ser genial, camarada! Ah, meus olhos estão lacrimejando de emoção!</string>
+	<string key="1334_0201_olfactoryoptimization_complete" comment="coughing" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_complete" VO_Status="Recorded" dialogue-next="@1334_0201_olfactoryoptimization_complete_next">Hum, sim... decadente, almiscarado, com um acorde sulfúrico que ressoa direto nas notas mais altas... você capturou o Pântano do Tecelão perfeitamente. \n\nVocê deve ser genial, camarada! Ah, meus olhos estão lacrimejando de emoção!</string>
 	<string key="1334_0201_olfactoryoptimization_complete_prompt" speaker="UI - Player Prompt">“O aroma é… surpreendente!”</string>
 	<string key="1334_0201_olfactoryoptimization_complete_next" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_complete_next" VO_Status="Recorded" dialogue-prompt="@1334_0201_olfactoryoptimization_complete_prompt">É tão chocante assim? Haha! Se as damas de Nova Córsega soubessem o que passam nos pulsos.\n\nA arte da perfumaria é como a vida: o todo é maior que a soma de suas partes. Agradeço a sua colaboração.</string>
 	<string key="1334_0201_d_00_01a_GiveRecipe" speaker="UI">Pegue {itemName}</string>
@@ -314,79 +314,6 @@
 	<string key="1335_0204_reunion_proposal_next" speaker="Nora Roggeveen" name="NoraRoggeveen" VO="1335_0204_reunion_proposal_next" VO_Status="Recorded" dialogue-prompt="@1335_0204_reunion_proposal_prompt">Felizmente, eu já estava bem escondida quando os Guardiões começaram a pulular por aqui. Ainda bem que você veio! Eu já estava ficando com fome.\n\nEnfim, vamos voltar. Depois disso tudo, estou ansiosa para ver a Leonie.</string>
 	<string key="1335_0204_reunion_incomplete" speaker="Nora Roggeveen" name="NoraRoggeveen" VO="1335_0204_reunion_incomplete" VO_Status="Recorded">Encontro você e a Leonie na estrada. Vou fugir enquanto você os distrai.</string>
 	<string key="1335_0204_reunion_complete" speaker="Dr. Leonie Roggeveen" name="LeonieRoggeveen" VO="1335_0204_reunion_complete" VO_Status="Recorded">Você voltou! A Nora me contou tudo. Eu fiquei TÃO aliviada.\n\nEu vou conversar com ela para que tome umas precauções da próxima vez. Mas foi um belo jogo e você foi de enorme ajuda. Danke schön!</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Title" speaker="UI - Quest Title">Urdimento Protetor</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Description" speaker="UI – Quest Description">Recupere os componentes e as receitas necessárias para montar a armadura Urdimento Protetor. Depois volte e fale com a Sobrevivencialista Severino no Assentamento de Pântano do Tecelão.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Prompt" speaker="UI - Player Prompt">“Você está à altura dela.”</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_ProposalResponse" VO_Status="Recorded" dialogue-next="@1303_1311_Protective_Wyrd_Gear_Proposal_Next">Sempre há mais a ser feito. Por isso, tenho um presente para você.\n\nHazel uma vez falou de um conjunto de armadura que mantém seu portador protegido contra o pior tipo de destino.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Prompt" speaker="UI - Player Prompt">“Proteção contra o destino?”</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Next" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_CompleteNext" VO_Status="Recorded" dialogue-next="@1303_1311_Protective_Wyrd_Gear_Proposal_Next2" dialogue-prompt="@1303_1311_Protective_Wyrd_Gear_Proposal_Prompt">É o que diz. Hazel afirmou que foi usado por uma grande curandeira, uma feiticeira como ela.\n\nApesar de seu material leve, a armadura nunca falhou, e a feiticeira viajou por toda Aeternum sem nenhum arranhão.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Prompt2" speaker="UI - Player Prompt">“Parece bom demais para ser verdade.”</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Next2" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@1303_1311_Protective_Wyrd_Gear_Proposal_Prompt2">Precisamos de histórias como essa para enfrentar tempos sombrios. Mas, mesmo assim, Hazel me garantiu que era verdade e me entregou este modelo.\n\nChama-se Urdimento Protetor. Colete estes materiais e poderá usar este equipamento.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Incomplete" speaker="Survivalist Severino – Weaver's Fen">Nada está realmente perdido em Aeternum, ou pelo menos é o que digo a mim mesma.\n\nQuando chegar a hora certa, você encontrará o que precisa para criar o Urdimento Protetor, eu sei que vai.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Complete" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_AvailResponse" VO_Status="Recorded" dialogue-next="@1303_1311_Protective_Wyrd_Gear_Complete_Next">Eu sinto algo vindo de você... Ah! Você encontrou tudo que precisava!\n\nEste é o traje mais impressionante que eu já vi. Eu posso sentir o poder do Urdimento Protetor daqui.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Complete_Prompt" speaker="UI - Player Prompt">“Pode mesmo?”</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Complete_Next" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_CompleteNext3" VO_Status="Recorded" dialogue-prompt="@1303_1311_Protective_Wyrd_Gear_Complete_Prompt">Aquece o meu coração saber que as histórias que Hazel me contou são, além de reais, úteis.\n\nSe as outras histórias dela também forem verdadeiras, ainda pode haver esperança para todos nós.</string>
-	<string key="1303_1311_01_container_Protective_Wyrd_questComplete_1">Conclua a Jornada: Passo na Direção Certa</string>
-	<string key="1303_1311_02_container_Protective_Wyrd_questComplete_2">Conclua a Jornada: Envolto em Proteções</string>
-	<string key="1303_1311_03_container_Protective_Wyrd_questComplete_3">Conclua a Jornada: Perigos Predestinados</string>
-	<string key="1303_1311_04_container_Protective_Wyrd_questComplete_4">Conclua a Jornada: No Alcance do Destino</string>
-	<string key="1303_1311_05_container_Protective_Wyrd_questComplete_5">Conclua a Jornada: Encarando o Destino</string>
-	<string key="1303_1311_01_Shoes_Title">Passo na Direção Certa</string>
-	<string key="1303_1311_01_Shoes_Description">Colete Tecido Sagrado no Vilarejo de Fenton, Essência de Morte-vida na Caverna Corta-Gargantas e Timbre Purificado na Ilha de Fardo. Depois visite uma Estação de Alfaiataria Escala 3 para confeccionar os Sapatos do Urdimento Protetor.</string>
-	<string key="1303_1311_01_Shoes_task_01">Receita entregue.</string>
-	<string key="1303_1311_01_Shoes_task_02">Viaje até {POITags} no Pântano do Tecelão para coletar Tecido Sagrado</string>
-	<string key="1303_1311_01_Shoes_task_03">Colete {itemName} de inimigos Ressurgidos, Malignos e Empaladores</string>
-	<string key="1303_1311_01_Shoes_task_04">Viaje até {POITags} na Costa Tempestuosa para coletar Essência de Morte-vida</string>
-	<string key="1303_1311_01_Shoes_task_05">Colete {itemName} de inimigos {targetName}</string>
-	<string key="1303_1311_01_Shoes_task_06">Viaje até {POITags} na Costa Tempestuosa para coletar Timbre Purificado</string>
-	<string key="1303_1311_01_Shoes_task_07">Colete {itemName} de inimigos {targetName}</string>
-	<string key="1303_1311_01_Shoes_task_08">Visite uma Estação de Alfaiataria</string>
-	<string key="1303_1311_01_Shoes_task_09">Confeccione os {itemName}</string>
-	<string key="1303_1311_02_Shirt_Title">Envolto em Proteções</string>
-	<string key="1303_1311_02_Shirt_Description">Colete Fivelas Netunianas na Fúria de Netuno, Fio Consagrado no Cemitério da Solidão e Restos de Armadura Antiga nos Pilares de Gelida. Depois visite uma Estação de Alfaiataria Escala 3 para confeccionar a Camisa do Urdimento Protetor.</string>
-	<string key="1303_1311_02_Shirt_task_01">Receita entregue.</string>
-	<string key="1303_1311_02_Shirt_task_02">Viaje até {POITags} na Costa Tempestuosa para coletar Fivelas Netunianas</string>
-	<string key="1303_1311_02_Shirt_task_03">Colete {itemName} de inimigos {targetName}</string>
-	<string key="1303_1311_02_Shirt_task_04">Viaje até {POITags} em Costa Tempestuosa e colete o Fio Consagrado</string>
-	<string key="1303_1311_02_Shirt_task_05">Colete {itemName} de inimigos {targetName}</string>
-	<string key="1303_1311_02_Shirt_task_06">Viaje até {POITags} na Grande Fenda para coletar Restos de Armadura Antiga</string>
-	<string key="1303_1311_02_Shirt_task_07">Colete {itemName} de inimigos {targetName}</string>
-	<string key="1303_1311_02_Shirt_task_08">Visite uma Estação de Alfaiataria</string>
-	<string key="1303_1311_02_Shirt_task_09">Confeccione a {itemName}</string>
-	<string key="1303_1311_03_Pants_Title">Perigos Predestinados</string>
-	<string key="1303_1311_03_Pants_Description">Colete Proteção Costurada no Cemitério de Duna Tenebrosa, Lã Trabalhada Cerimonial em Eridanus e Forro Infuso em Lunaryth. Depois visite uma Estação de Alfaiataria Escala 3 para confeccionar as Calças do Urdimento Protetor.</string>
-	<string key="1303_1311_03_Pants_task_01">Receita entregue.</string>
-	<string key="1303_1311_03_Pants_task_02">Viaje até {POITags} na Grande Fenda para coletar Proteção Costurada</string>
-	<string key="1303_1311_03_Pants_task_03">Colete {itemName} de inimigos {targetName}</string>
-	<string key="1303_1311_03_Pants_task_04">Viaje até {POITags} na Costa Tempestuosa para coletar Lã Trabalhada Cerimonial</string>
-	<string key="1303_1311_03_Pants_task_05">Colete {itemName} de inimigos {targetName}</string>
-	<string key="1303_1311_03_Pants_task_06">Viaje até {POITags} no Vale das Lamentações para coletar Forro Infuso</string>
-	<string key="1303_1311_03_Pants_task_07">Colete {itemName} de inimigos {targetName}</string>
-	<string key="1303_1311_03_Pants_task_08">Visite uma Estação de Alfaiataria</string>
-	<string key="1303_1311_03_Pants_task_09">Confeccione as {itemName}</string>
-	<string key="1303_1311_04_Gloves_Title">No Alcance do Destino</string>
-	<string key="1303_1311_04_Gloves_Description">Colete Tecedura Reforçada de Vista do Penhasco na Vista do Penhasco, Amuletos de Urdeira na Raiz da Bolha e Fibras Exorcizadas de Shambhala em Shambhala. Depois visite uma Estação de Alfaiataria Escala 3 para confeccionar as Luvas do Urdimento Protetor.</string>
-	<string key="1303_1311_04_Gloves_task_01">Receita entregue.</string>
-	<string key="1303_1311_04_Gloves_task_02">Viaje até {POITags} no Vale das Lamentações para coletar Tecedura Reforçada de Vista do Penhasco</string>
-	<string key="1303_1311_04_Gloves_task_03">Colete {itemName} de inimigos {targetName}</string>
-	<string key="1303_1311_04_Gloves_task_04">Viaje até {POITags} no Vale das Lamentações para coletar Amuletos de Urdeira</string>
-	<string key="1303_1311_04_Gloves_task_05">Colete {itemName} de inimigos {targetName}</string>
-	<string key="1303_1311_04_Gloves_task_06">Viaje até {POITags} no Bosque do Éden para coletar Fibras Exorcizadas de Shambhala</string>
-	<string key="1303_1311_04_Gloves_task_07">Colete {itemName} de inimigos {targetName}</string>
-	<string key="1303_1311_04_Gloves_task_08">Visite uma Estação de Alfaiataria</string>
-	<string key="1303_1311_04_Gloves_task_09">Confeccione as {itemName}</string>
-	<string key="1303_1311_05_Hat_Title">Encarando o Destino</string>
-	<string key="1303_1311_05_Hat_Description">Colete Prenúncios de Brilho da Alvorada em Pavo, Resina de Viridia no Penhasco do Espinheiro e Tecido Espectral na Mina da Escória Superior. Depois visite uma Estação de Alfaiataria Escala 3 para confeccionar o Chapéu do Urdimento Protetor.</string>
-	<string key="1303_1311_05_Hat_task_01">Receita entregue.</string>
-	<string key="1303_1311_05_Hat_task_02">Viaje até {POITags} no Bosque do Éden para coletar Prenúncios de Brilho da Alvorada</string>
-	<string key="1303_1311_05_Hat_task_03">Colete {itemName} de inimigos {targetName}</string>
-	<string key="1303_1311_05_Hat_task_04">Viaje até {POITags} no Bosque do Éden para coletar Resina de Viridia</string>
-	<string key="1303_1311_05_Hat_task_05">Colete {itemName} de inimigos {targetName}</string>
-	<string key="1303_1311_05_Hat_task_06">Viaje até {POITags} no Bosque do Éden para coletar Tecido Espectral</string>
-	<string key="1303_1311_05_Hat_task_07">Colete {itemName} de inimigos {targetName}</string>
-	<string key="1303_1311_05_Hat_task_08">Visite uma Estação de Alfaiataria</string>
-	<string key="1303_1311_05_Hat_task_09">Confeccione o {itemName}</string>
-	<string key="1302_1312_d_01_Task_Goto" speaker="UI">Viaje até {POITags}</string>
 	<string key="1302_1312_d_02_Task_KillSpriggan" speaker="UI">Derrote {targetName}</string>
 	<string key="1302_1312_d_03_Task_GetSpores" speaker="UI">Colete {itemName}</string>
 	<string key="1302_1312_a_Title" speaker="UI">Esporos para uma Cura</string>
@@ -397,64 +324,5 @@
 	<string key="1302_1312_c_Proposal_next" speaker="Magistrate Allen - Weaver's Fen" name="MagistrateAllen" VO="Magistrate_1302_1312_Spores_CompleteNext" VO_Status="Recorded" dialogue-prompt="@1302_1312_c_Proposal_prompt">Só porque você se mostrou tão competente. Em Eridanus, existe um poderoso Spriggan chamado Teceros, um behemoth da terra que ganhou vida. \n\nSe misturados do jeito certo com nossas Ervas Anciãs, os esporos de Teceros vão curar o povo do Pântano do Tecelão para sempre.</string>
 	<string key="1302_1312_e_Incomplete" speaker="Magistrate Allen - Weaver's Fen">A Alquimista Rubis me garante que os esporos de Teceros serão a cura final que procuramos. \n\nVocê já nos ajudou muito, mas isso realmente salvará nossa vila.</string>
 	<string key="1302_1312_f_Complete" speaker="Magistrate Allen - Weaver's Fen" name="MagistrateAllen" VO="Magistrate_1302_1312_Spores_AvailResponse" VO_Status="Recorded">Os esporos de um behemoth? Que... inquietante, mas vou entregar tudo para a Alquimista Rubis.\n\nObrigado, {playerName}. Finalmente temos nossa cura. Aceite este prêmio como recompensa.</string>
-	<string key="1310_1314_L40Bow_Huntress_Title" speaker="UI - Quest Title">Localizando a Caçadora</string>
-	<string key="1310_1314_L40Bow_Huntress_Description" speaker="UI – Quest Description">Adquira Madeira Anciã em Rafflesia, Resina de Urdeira na Ascensão Verdejante, Pena de Falcão em Propus e um Pé de Coelho da Sorte no Prado da Lamentação para confeccionar o arco conhecido como “A Caçadora”. Depois volte e fale com o Bartender Flores no Assentamento de Pântano do Tecelão.</string>
-	<string key="1310_1314_L40Bow_Huntress_Prompt" speaker="UI - Player Prompt">“Tenho interesse nisso.”</string>
-	<string key="1310_1314_L40Bow_Huntress_Proposal" speaker="Barkeep Flores - Weaver's Fen" name="BarkeepFlores" VO="Barkeep_1310_1314_L40Bow_Huntress_ProposalResponse" VO_Status="Recorded">Claro que tem, não é? Caberá a você fazer todo o trabalho exaustivo.\n\nSe puder coletar todos os materiais da lista, acho que este arco, “A Caçadora”, será invejado por todos na cidade. Boa sorte!</string>
-	<string key="1310_1314_L40Bow_Huntress_Incomplete" speaker="Barkeep Flores - Weaver's Fen">Ah, ainda está localizando a Caçadora, não é?\n\nVai levar algum tempo, eu acho.</string>
-	<string key="1310_1314_L40Bow_Huntress_Complete" speaker="Barkeep Flores - Weaver's Fen" name="BarkeepFlores" VO="Barkeep_1310_1314_L40Bow_Huntress_AvailResponse" VO_Status="Recorded">Olhe para você: mal chegou da selva e já alcançou o nível de rastreadores lendários, pelo menos para mim. Encontrar todos os materiais não deve ter sido fácil. \n\nMas a Caçadora cuidará bem de você. Mantenha sua aljava cheia lá fora.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Title" speaker="UI - Quest Title">Ira de Falmea</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Description" speaker="UI – Quest Description">Adquira Galhos Chamuscados em Amphus, Cinzas de Urdeira em Fornax, Água Profana na Fúria de Netuno e o Coração de Todas as Chamas na Nova Pira Fúnebre para confeccionar o Bastão Flamejante chamado “Ira de Falmea”. Depois volte e fale com o Artífice Erasmus no Assentamento de Pântano do Tecelão.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Prompt" speaker="UI - Player Prompt">“Com certeza.”</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Proposal" speaker="Artificer Erasmus - Weaver's Fen" name="ArtificerErasmus" VO="Artificer_1305_1315_L40FStaff_FalmeasWrath_ProposalResponse" VO_Status="Recorded">Perfeito. Estou trabalhando em um esquema há algum tempo, chamo ele de “Ira de Falmea”.\n\nSe puder adquirir todos os elementos necessários, este bastão permitirá que você domine as chamas. Boa sorte.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Incomplete" speaker="Artificer Erasmus - Weaver's Fen">Ainda procurando os elementos para fazer a “Ira de Falmea”?\n\nContinue assim, acho que será um investimento que vale a pena.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Complete" speaker="Artificer Erasmus - Weaver's Fen" name="ArtificerErasmus" VO="Artificer_1305_1315_L40FStaff_FalmeasWrath_AvailResponse" VO_Status="Recorded">Ah, veja só! Sua diligência valeu a pena, você deve ter percorrido toda Aeternum!\n\nAgora, aproveite os benefícios! A Ira de Falmea! Nunca foi criado um bastão melhor que este! Carregue-o com orgulho, {playerName}.</string>
-	<string key="1310_1314_AncientWood_Quest_objective_title" speaker="UI">Colete itens usados para confeccionar a Caçadora</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_objective_title" speaker="UI">Colete itens usados para confeccionar a Caçadora</string>
-	<string key="1310_1314_HawkFeathers_Quest_objective_title" speaker="UI">Colete itens usados para confeccionar a Caçadora</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_objective_title" speaker="UI">Colete itens e confeccione a Caçadora</string>
-	<string key="1310_1314_AncientWood_Quest_description" speaker="UI">Ela se esconde entre as árvores. Entre as sequoias, ela está em seu lar de verdade.</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_description" speaker="UI">A resina da árvore perfuma o ar. Se estiver só, mas sentir o cheiro, cuidado.</string>
-	<string key="1310_1314_HawkFeathers_Quest_description" speaker="UI">Com olhos de falcão, ela enxerga a quilômetros de distância. Sua visão é clara.</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_description" speaker="UI">Ela se aproxima de sua presa e lentamente se afasta. Sua liberdade é como a de uma flecha.</string>
-	<string key="1305_1315_SingedBranches_Quest_objective_title" speaker="UI">Colete itens usados para confeccionar a Ira de Falmea</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_objective_title" speaker="UI">Colete itens usados para confeccionar a Ira de Falmea</string>
-	<string key="1305_1315_UnhallowedWater_Quest_objective_title" speaker="UI">Colete itens usados para confeccionar a Ira de Falmea</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_objective_title" speaker="UI">Colete itens e confeccione a Ira de Falmea</string>
-	<string key="1305_1315_SingedBranches_Quest_description" speaker="UI">Falmea queimou a Urdeira e deixou o ar pairando com grande tristeza.</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_description" speaker="UI">Falmea deixou cair as cinzas da Urdeira. Um branco puro no chão, derrubado.</string>
-	<string key="1305_1315_UnhallowedWater_Quest_description" speaker="UI">Falmea revelou sua água profana e a borrifou nas cinzas.</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_description" speaker="UI">Falmea falou o indizível e, de um tornado de chamas, recuperou um bastão.</string>
-	<string key="1310_1314_Combine_Quest_task_03">Receita entregue.</string>
-	<string key="1310_1314_Combine_Quest_task_04">Visite uma Estação de Engenharia</string>
-	<string key="1310_1314_Combine_Quest_task_05">Crie {itemName}</string>
-	<string key="1305_1315_Combine_Quest_task_03">Receita entregue.</string>
-	<string key="1305_1315_Combine_Quest_task_04">Visite uma Estação Arcana</string>
-	<string key="1305_1315_Combine_Quest_task_05">Crie {itemName}</string>
-	<string key="1310_1314_AncientWood_Quest_task_01">Viaje até {POITags} no Bosque do Éden para coletar Madeira Anciã</string>
-	<string key="1310_1314_AncientWood_Quest_task_02">Colete {itemName} de inimigos {targetName}</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_task_01">Viaje até {POITags} na Costa Tempestuosa para coletar Resina de Urdeira</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_task_02">Colete {itemName} de inimigos {targetName}</string>
-	<string key="1310_1314_HawkFeathers_Quest_task_01">Viaje até {POITags} no Vale das Lamentações para coletar Pena de Falcão</string>
-	<string key="1310_1314_HawkFeathers_Quest_task_02">Colete {itemName} de inimigos {targetName}</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_task_01">Viaje até {POITags} no Vale das Lamentações para coletar um Pé de Coelho da Sorte</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_task_02">Colete {itemName} de {targetName}</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_task_04">Crie o {itemName}</string>
-	<string key="1305_1315_SingedBranches_Quest_task_01">Viaje até {POITags} no Bosque do Éden para coletar Galhos Chamuscados</string>
-	<string key="1305_1315_SingedBranches_Quest_task_02">Colete {itemName} de inimigos {targetName}</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_task_01">Viaje até {POITags} na Costa Tempestuosa para coletar Cinzas de Urdeira</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_task_02">Colete {itemName} de inimigos {targetName}</string>
-	<string key="1305_1315_UnhallowedWater_Quest_task_01">Viaje até {POITags} na Costa Tempestuosa para coletar Água Profana</string>
-	<string key="1305_1315_UnhallowedWater_Quest_task_02">Colete {itemName} de inimigos {targetName}</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_task_01">Viaje até {POITags} no Vale das Lamentações para coletar o Coração de Todas as Chamas</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_task_02">Colete {itemName} de {targetName}</string>
-	<string key="1310_1314_01_container_Weapon_Huntress_questComplete_1">Conclua a Jornada: Como Madeira na Floresta</string>
-	<string key="1310_1314_02_container_Weapon_Huntress_questComplete_2">Conclua a Jornada: Boa Resina, Bom Raciocínio</string>
-	<string key="1310_1314_03_container_Weapon_Huntress_questComplete_3">Conclua a Jornada: Penas de um Falcão</string>
-	<string key="1310_1314_04_container_Weapon_Huntress_questComplete_4">Conclua a Jornada: Perseguir um Coelho Atrasado</string>
-	<string key="1305_1315_01_container_Weapon_Hope_FalmeasWrath_questComplete_1">Conclua a Jornada: Consequências que Queimam</string>
-	<string key="1305_1315_02_container_Weapon_Hope_FalmeasWrath_questComplete_2">Conclua a Jornada: Nada Além de Cinzas Fumegantes</string>
-	<string key="1305_1315_03_container_Weapon_Hope_FalmeasWrath_questComplete_3">Conclua a Jornada: Contaminando as Águas</string>
-	<string key="1305_1315_04_container_Weapon_Hope_FalmeasWrath_questComplete_4">Conclua a Jornada: Cálice do Sacrifício</string>
 </resources>
 

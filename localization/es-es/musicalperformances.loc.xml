@@ -127,7 +127,7 @@
 	<string key="MusicBuff_LucksLabor_Desc" rel_version="Feature_MusicalPerformances">Aumenta la suerte al recolectar.</string>
 	<string key="MusicBuff_DecidedlyDexterous_Desc" rel_version="Feature_MusicalPerformances">Aumenta la velocidad al recolectar.</string>
 	<string key="ui_casual" rel_version="Feature_MusicalPerformances">Informal</string>
-	<string key="ui_music" rel_version="Feature_MusicalPerformances">Música:</string>
+	<string key="ui_music" rel_version="Feature_MusicalPerformances">Música</string>
 	<string key="ui_unlocked_at" rel_version="Feature_MusicalPerformances">Se desbloquea en</string>
 	<string key="ui_musicinstrument" rel_version="Feature_MusicalPerformances">Instrumento musical</string>
 	<string key="MusicBuff_Maudlinbug_Waltz_Name" rel_version="Feature_MusicalPerformances">Neblina de bicho sensiblero</string>
@@ -145,7 +145,7 @@
 	<string key="PerkID_MusicalInstrument_RakeReduction_Description" rel_version="Feature_MusicalPerformances">El artista recibirá ahora toda la propina.</string>
 	<string key="PerkID_MusicalInstrument_FinalNotePerfectXPBonus_Description" rel_version="Feature_MusicalPerformances">Tocar la última nota perfectamente otorga al jugador un 10 % de mejora de EXP musical.</string>
 	<string key="PerkID_MusicalInstrument_GroupXPBonus_Description" rel_version="Feature_MusicalPerformances">Tocar en un grupo otorga al jugador un 10 % de mejora de EXP musical.</string>
-	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Tocar en solitario otorga al jugador un 10 % de mejora de EXP musical.</string>
+	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Tocar en solitario otorga al jugador un 15 % de mejora de EXP musical.</string>
 	<string key="ui_music_guitar_part_1" rel_version="Feature_MusicalPerformances">Guitarra (parte 1)</string>
 	<string key="ui_music_guitar_part_2" rel_version="Feature_MusicalPerformances">Guitarra (parte 2)</string>
 	<string key="ui_music_guitar_part_3" rel_version="Feature_MusicalPerformances">Guitarra (parte 3)</string>

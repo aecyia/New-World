@@ -11,12 +11,16 @@
 	<string key="ui_game_mode_disabled">Al momento, questa modalità di gioco è disattivata</string>
 	<string key="ui_dungeon_enter_info">Perché la spedizione resti aperta deve esserci &lt;font color={color}&gt;almeno 1 persona&lt;/font&gt;. Vuoi teletrasportartici ora?</string>
 	<string key="ui_dungeon_enter_info_solo">&lt;font color={color}&gt;La Prova dell'anima è pronta&lt;/font&gt;. Vuoi teletrasportartici ora?</string>
+	<string key="ui_dungeon_enter_info_raidtrial">Perché la Prova élite resti aperta deve esserci &lt;font color={color}&gt;almeno 1 persona&lt;/font&gt;. Vuoi teletrasportartici ora?</string>
 	<string key="ui_dungeon_enter_info_entered">La spedizione è aperta!\n&lt;font color={color}&gt;Vuoi teletrasportartici ora?&lt;/font&gt;</string>
+	<string key="ui_dungeon_enter_info_entered_solo">&lt;font color={color}&gt;La Prova dell'anima è pronta&lt;/font&gt;. Vuoi teletrasportartici ora?</string>
+	<string key="ui_dungeon_enter_info_entered_raidtrial">La Prova élite è aperta!\n&lt;font color={color}&gt;Vuoi teletrasportartici ora?&lt;/font&gt;</string>
 	<string key="ui_duel_player">Sfida a duello</string>
 	<string key="ui_duel_failmessage_invalidname">{playerName} non è un nome giocatore valido.</string>
 	<string key="ui_duel_failmessage_outofrange">Non puoi sfidare a Duello un giocatore a più di {distance} metri di distanza.</string>
 	<string key="ui_duel_failmessage_alreadyinduel">Sei già in un Duello.</string>
 	<string key="ui_duel_failmessage_in_dungeon">Non puoi Duellare mentre sei in una spedizione.</string>
+	<string key="ui_duel_failmessage_in_dungeon_raidtrial">Non puoi duellare mentre sei in una Prova élite.</string>
 	<string key="ui_duel_failmessage_in_other_gamemode">Non puoi Duellare adesso.</string>
 	<string key="ui_duel_failmessage_pendinginvite">Hai già un invito in sospeso per un Duello.</string>
 	<string key="ui_duel_failmessage_deathsdoor">Non puoi Duellare mentre sei a un passo dalla morte.</string>
@@ -85,11 +89,11 @@
 	<string key="ui_outpost_rush_title">Carica all'avamposto</string>
 	<string key="ui_outpost_rush_invite_status">Accetta per partecipare alla battaglia!</string>
 	<string key="ui_outpost_rush_signup_title">CARICA ALL'AVAMPOSTO</string>
-	<string key="ui_outpost_rush_signup_desc">&lt;font color="#ffe940"&gt;Carica all'avamposto&lt;/font&gt; è una partita 20 contro 20 ambientata su una grande isola con tre avamposti.\nPer aumentare il proprio punteggio, ogni squadra dovrà conquistare e difendere questi avamposti il più a lungo possibile.</string>
-	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#ffe940"&gt;Carica all'avamposto&lt;/font&gt; è una partita 20 contro 20 ambientata su una grande isola con tre avamposti.\nPer aumentare il proprio punteggio, ogni squadra dovrà conquistare e difendere questi avamposti il più a lungo possibile.\nIn questa modalità è attiva la &lt;font color="#ffe940"&gt;calibrazione del punteggio attrezzatura&lt;/font&gt;, che aumenta a 600 il punteggio attrezzatura di tutti gli equipaggiamenti con punteggio attrezzatura inferiore a 600.</string>
-	<string key="ui_outpost_rush_signup_goal1">Conquista e difendi gli avamposti per aumentare il punteggio della tua squadra</string>
-	<string key="ui_outpost_rush_signup_goal2">Vince la prima squadra che raggiunge 1.000 punti</string>
-	<string key="ui_outpost_rush_signup_goal3">Usa le risorse speciali dell'isola per attaccare e difendere</string>
+	<string key="ui_outpost_rush_signup_desc">&lt;font color="#ffe940"&gt;Carica all'avamposto&lt;/font&gt; è una partita 20 contro 20 ambientata su una grande isola con tre avamposti che le squadre devono conquistare e difendere.</string>
+	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#ffe940"&gt;Carica all'avamposto&lt;/font&gt; è una partita 20 contro 20 ambientata su una grande isola con tre avamposti che le squadre devono conquistare e difendere.\nIn questa modalità è attiva la &lt;font color="#ffe940"&gt;calibrazione del punteggio attrezzatura&lt;/font&gt;, che aumenta a 600 il punteggio attrezzatura di tutti gli equipaggiamenti con punteggio attrezzatura inferiore a 600.</string>
+	<string key="ui_outpost_rush_signup_goal1">Conquista e difendi gli avamposti per aumentare il punteggio</string>
+	<string key="ui_outpost_rush_signup_goal2">Vince la prima squadra che raggiunge 1.000 punti!</string>
+	<string key="ui_outpost_rush_signup_goal3">Usa le risorse speciali per attaccare e difendere</string>
 	<string key="ui_outpost_rush_signup_points_number">1.000</string>
 	<string key="ui_outpost_rush_signup_points_text">PUNTI</string>
 	<string key="ui_outpost_rush_signup_joinsolo">Gioca</string>
@@ -98,11 +102,11 @@
 	<string key="ui_outpost_rush_signup_playercount">{playerCount} giocatori</string>
 	<string key="ui_outpost_rush_signup_failsolo">Al momento fai parte di un gruppo e non puoi partecipare come giocatore singolo</string>
 	<string key="ui_outpost_rush_signup_failgroup">Al momento non fai parte di un gruppo</string>
-	<string key="ui_outpost_rush_signup_failgroupinvite">Hai un invito in sospeso a una lobby spedizione</string>
+	<string key="ui_outpost_rush_signup_failgroupinvite">Hai un invito in sospeso a una lobby Prova élite o spedizione</string>
 	<string key="ui_outpost_rush_signup_faillevel">È &lt;font color="#f10000"&gt;necessario&lt;/font&gt; il livello giocatore {levelRequirement}</string>
 	<string key="ui_outpost_rush_signup_failwar">Non puoi iscriverti perché hai già effettuato l'iscrizione a una prossima guerra che inizierà entro un'ora.</string>
 	<string key="ui_outpost_rush_signup_failqueue">Non puoi iscriverti perché hai già effettuato l'iscrizione a: {matchname}</string>
-	<string key="ui_outpost_rush_signup_faildungeon">Non puoi iscriverti perché sei nella coda di una spedizione.</string>
+	<string key="ui_outpost_rush_signup_faildungeon">Non puoi iscriverti perché sei nella coda di una spedizione o di una Prova élite.</string>
 	<string key="ui_outpost_rush_signup_failevent">Non puoi iscriverti perché stai partecipando a un evento.</string>
 	<string key="ui_outpost_rush_signup_failgeneric">In questo momento non puoi iscriverti.</string>
 	<string key="ui_outpost_rush_signup_failgrouptitle">Impossibile partecipare</string>
@@ -174,12 +178,15 @@
 	<string key="ui_or_outpost_b">AVAMPOSTO SOL</string>
 	<string key="ui_or_outpost_c">AVAMPOSTO ASTRA</string>
 	<string key="ui_or_kills">UCCISIONI</string>
+	<string key="ui_outpost_rush_storage_message">Qui si possono conservare solo gli oggetti di Carica all'avamposto.</string>
 	<string key="ui_outpost_rush_summoning_circle">Cerchio di evocazione</string>
 	<string key="ui_outpost_rush_summoning_circle_desc">Usa una pietra di evocazione presso questo obelisco per aggiungere un alleato mostruoso alla tua squadra per un periodo di tempo limitato.</string>
 	<string key="ui_outpost_rush_portal">PORTALE</string>
 	<string key="ui_outpost_rush_portal_score">{current}/{total} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="-3" scale="1.4" yOffset="1"&gt;&lt;/img&gt;</string>
 	<string key="ui_pinning_disabled_while_in_or">In Carica all'avamposto non è possibile fissare/rimuovere obiettivi.</string>
 	<string key="ui_pinning_disabled_expeditions">Non è possibile fissare/rimuovere gli obiettivi delle Spedizioni</string>
+	<string key="ui_pinning_disabled_expeditions_solo">Non è possibile fissare/rimuovere gli obiettivi delle Prove dell'anima</string>
+	<string key="ui_pinning_disabled_expeditions_raidtrial">Non è possibile fissare/rimuovere gli obiettivi delle Prove élite</string>
 	<string key="ui_or_commandpost_buff_on">Questa struttura fornisce potenziamenti alla squadra</string>
 	<string key="ui_or_commandpost_buff_off">Costruisci per ottenere potenziamenti di squadra</string>
 	<string key="or_azoth_portal">Portale di Azoth</string>
@@ -217,7 +224,7 @@
 	<string key="or_tutorial_summoning_reminder_title">USA LA PIETRA DI EVOCAZIONE</string>
 	<string key="or_tutorial_summoning_reminder_body">Raggiungi un cerchio di evocazione non occupato per evocare un potente alleato.</string>
 	<string key="or_tutorial_summoning_findstone_title">HAI BISOGNO DI UNA PIETRA DI EVOCAZIONE</string>
-	<string key="or_tutorial_summoning_findstone_body">Puoi ottenerne una acquistandola nell'armeria, sconfiggendo Ug o Dog nelle miniere o donando 750 essenze di Azoth al portale corrotto.</string>
+	<string key="or_tutorial_summoning_findstone_body">Puoi ottenerne una acquistandola nell'armeria, sconfiggendo Ug o Dug nelle miniere o donando 750 essenze di Azoth al portale corrotto.</string>
 	<string key="or_tutorial_summoning_nostone_title">OTTIENI UNA PIETRA DI EVOCAZIONE E RIPROVA</string>
 	<string key="or_tutorial_summoning_nostone_body">Puoi ottenerne una acquistandola nell'armeria, sconfiggendo Ug o Dug nelle miniere o donando 750 essenze di Azoth al portale corrotto.</string>
 	<string key="or_tutorial_summoning_creature_title">AL MOMENTO NON PUOI RIUTILIZZARE IL CERCHIO DI EVOCAZIONE</string>
@@ -227,6 +234,8 @@
 	<string key="ui_durability_loss_war">Stai partecipando a un Guerra (o a un'invasione), perciò il tuo equipaggiamento non ha subito danni alla morte.</string>
 	<string key="ui_item_durability_loss">Il tuo equipaggiamento ha subito danni alla morte.</string>
 	<string key="ui_item_durability_dungeon">Stai partecipando a una spedizione, perciò il tuo equipaggiamento non ha subito danni alla morte.</string>
+	<string key="ui_item_durability_dungeon_solo">Stai partecipando a una Prova dell'anima, perciò il tuo equipaggiamento non ha subito danni alla morte.</string>
+	<string key="ui_item_durability_dungeon_raidtrial">Stai partecipando a una Prova élite, perciò il tuo equipaggiamento non ha subito danni alla morte.</string>
 	<string key="ui_item_durability_arena" rel_version="Feature_PVP_Arenas">Stai partecipando a un'arena, perciò il tuo equipaggiamento non ha subito danni alla morte.</string>
 	<string key="ui_item_durability_loss_pvp">Sei stato ucciso da un altro giocatore: il tuo equipaggiamento ha subito danni ridotti.</string>
 	<string key="ui_in_spectators_box">Nella postazione spettatore</string>
@@ -247,5 +256,7 @@
 	<string key="ui_rounds_won">Round vinti</string>
 	<string key="ui_see_through_label">Modalità Trasparente</string>
 	<string key="ui_invasion_leave">Abbandona invasione</string>
+	<string key="ui_matchmaking_ready_title">Partita pronta</string>
+	<string key="ui_matchmaking_ready_text">La &lt;font color={color}&gt;partita in coda è pronta&lt;/font&gt;. Vuoi teletrasportartici ora?</string>
 </resources>
 

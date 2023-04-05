@@ -1,12 +1,12 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="inv_DroppedItems">Wyrzucone przedmioty</string>
+	<string key="inv_DroppedItems">Upuszczone przedmioty</string>
 	<string key="inv_Storage">Magazyn</string>
 	<string key="inv_itemDamaged">Liczba poważnie uszkodzonych przedmiotów: {num} Musisz go wkrótce naprawić.</string>
 	<string key="inv_itemBroken">Liczba zepsutych przedmiotów: {num}</string>
 	<string key="inv_broken">ZEPSUTE</string>
 	<string key="inv_unequip">Odłóż</string>
-	<string key="inv_dropTargetMessage">Wyrzuć przedmioty</string>
-	<string key="inv_discard_life_warning">Inni gracze nie widzą i nie mogą zabrać tych przedmiotów. Gdy ta torba zniknie (po 3 minutach), przedmioty przepadną na zawsze.</string>
+	<string key="inv_dropTargetMessage">Upuść przedmioty</string>
+	<string key="inv_discard_life_warning">Inni gracze nie widzą i nie mogą zabrać upuszczonych przedmiotów. Przedmioty znikną na zawsze po 3 minutach.</string>
 	<string key="inv_encumbered">Przeciążenie</string>
 	<string key="inv_unencumbered">Brak przeciążenia</string>
 	<string key="inv_slotsfull">Limit przedmiotów</string>
@@ -58,7 +58,7 @@
 	<string key="inv_tooltipMessagePrimaryArrowInactive">Kliknij, aby te strzały stały się aktywną amunicją do łuku.</string>
 	<string key="inv_tooltipMessagePrimaryShotActive">Te naboje są obecnie wybrane jako aktywna amunicja do broni palnej.</string>
 	<string key="inv_tooltipMessagePrimaryShotInactive">Kliknij, aby te naboje stały się aktywną amunicją do broni palnej.</string>
-	<string key="inv_tooltipMessageToolLevelRequirement">Musisz osiągnąć &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt; poziom {level}&lt;/font&gt;, by ustawić ten przedmiot jako główne narzędzie.</string>
+	<string key="inv_tooltipMessageToolLevelRequirement">Musisz osiągnąć &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt; poziom {level}&lt;/font&gt;, by ustawić ten przedmiot jako główne narzędzie.</string>
 	<string key="inv_tooltipCommandToolLevelRequirement">Wymaga poz. {level}</string>
 	<string key="inv_equipLoad">Ciężar wyposażenia</string>
 	<string key="inv_equipLoadFast">Lekkie</string>
@@ -66,30 +66,30 @@
 	<string key="inv_equipLoadSlow">Ciężkie</string>
 	<string key="inv_equipLoadOverburdened">Nadmiar ekwipunku</string>
 	<string key="inv_equipLoadTooltip">Łączna waga noszonego pancerza i tarczy określa ciężar twojego wyposażenia. W zależności od ciężaru wyposażenia różnią się uniki i inne efekty.</string>
-	<string key="inv_equipLoadFastTooltip">Możesz wykonać szybki przewrót o sporym zasięgu. Ten ciężar wyposażenia zapewnia następujące efekty: \n• Koszt uniku: {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]} pkt wytrzymałości \n• Obrażenia podstawowe: +{[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]}% \n• Leczenie innych: +30% \n• Otrzymanie ciosu wręcz sprawia, że zasięg uniku ulega zmniejszeniu o 20% na {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Light.BaseDuration]} s. W tym czasie nie możesz również biegać.</string>
-	<string key="inv_equipLoadNormalTooltip">Możesz wykonać szybki odskok. Ten ciężar wyposażenia zapewnia następujące efekty: \n• Koszt uniku: {[StaminaCosts_Player.Dodge_Roll.StaminaCost]} pkt wytrzymałości \n• Obrażenia podstawowe: +{[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]}% \n• Efekty obezwładniające nakładane na wrogów: +10% do czasu trwania \n• Otrzymanie ciosu wręcz sprawia, że zasięg uniku ulega zmniejszeniu o 20% na {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Medium.BaseDuration]} s. W tym czasie nie możesz również biegać.</string>
-	<string key="inv_equipLoadSlowTooltip">Możesz wykonać powolny zwód. Ten ciężar wyposażenia zapewnia następujące efekty: \n• Koszt uniku: {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]} pkt wytrzymałości \n• Stabilność blokowania: +15% \n• Efekty obezwładniające nakładane na wrogów: +20% do czasu trwania \n• Leczenie innych: -30%\n• Otrzymanie ciosu wręcz sprawia, że nie możesz biegać przez {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Heavy.BaseDuration]} s.</string>
-	<string key="inv_equipLoadOverburdenedTooltip">Po przekroczeniu maksymalnego ciężaru wyposażenia nie możesz wykonywać uników, biegać i używać umiejętności. Odłóż część przedmiotów.</string>
-	<string key="inv_equipLoadEncumberedTooltip">Masz za dużo przedmiotów w ekwipunku. W przypadku przeciążenia ciężar wyposażenia nie ma znaczenia. Nie możesz biegać ani wykonywać uników, a blokowanie zużywa więcej wytrzymałości. Usuń część przedmiotów ze swojego plecaka.</string>
+	<string key="inv_equipLoadFastTooltip">• Obrażenia podstawowe: +{[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]}% \n• Leczenie innych: +30% \n• W ramach uniku wykonujesz szybki przewrót. \n• Koszt uniku: {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]} pkt wytrzymałości \n• Otrzymanie ciosu wręcz sprawia, że zasięg uniku ulega zmniejszeniu o 20% na {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Light.BaseDuration]} s. W tym czasie nie możesz również biegać.</string>
+	<string key="inv_equipLoadNormalTooltip">• Obrażenia podstawowe: +{[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]}% \n• Czas trwania efektów obezwładniających nakładanych na ciebie: -10% \n• W ramach uniku wykonujesz szybki odskok. \n• Koszt uniku: {[StaminaCosts_Player.Dodge_Roll.StaminaCost]} pkt wytrzymałości \n• Otrzymanie ciosu wręcz sprawia, że zasięg uniku ulega zmniejszeniu o 20% na {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Medium.BaseDuration]} s. W tym czasie nie możesz również biegać.</string>
+	<string key="inv_equipLoadSlowTooltip">• Stabilność blokowania: +15% \n• Czas trwania efektów obezwładniających nakładanych na ciebie: -20% \n• Leczenie innych: -30% \n• Możesz wykonać powolny zwód. \n• Koszt uniku: {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]} pkt wytrzymałości \n• Otrzymanie ciosu wręcz sprawia, że nie możesz biegać przez {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Heavy.BaseDuration]} s.</string>
+	<string key="inv_equipLoadOverburdenedTooltip">Po przekroczeniu maksymalnego ciężaru wyposażenia nie możesz wykonywać uników, biegać i używać zdolności. Odłóż część przedmiotów.</string>
+	<string key="inv_equipLoadEncumberedTooltip">Jeśli limit ciężaru twojego ekwipunku zostanie przekroczony, ulegniesz przeciążeniu – stan ten ogranicza twoje ruchy i czynności. Ponadto blokowanie zużywa więcej wytrzymałości.</string>
 	<string key="inv_equipLoadOverburdened_Tooltip" comment="This tooltip is for the status effect icon near vitals">Waga przenoszonych przez ciebie przedmiotów przekracza maksymalny ciężar wyposażenia. Nie możesz biegać ani wykonywać uników i otrzymujesz karę do szybkości regeneracji wytrzymałości. Odłóż część przedmiotów.</string>
 	<string key="inv_equipLoadFastNotification">Twoje aktualne wyposażenie jest lekkie</string>
 	<string key="inv_equipLoadNormalNotification">Twoje aktualne wyposażenie ma średni ciężar</string>
 	<string key="inv_equipLoadSlowNotification">Twoje aktualne wyposażenie jest ciężkie</string>
 	<string key="inv_equipLoadOverburdenedNotification">Nadmiar wyposażenia – nie możesz biegać ani wykonywać uników</string>
 	<string key="inv_equipLoadEncumberedNotification">Przeciążenie – nie możesz biegać, skakać ani wykonywać uników</string>
-	<string key="inv_encumbranceTooltip">Twoje obciążenie to całkowity ciężar wszystkich przedmiotów w plecaku. Przedmioty w użyciu nie liczą się. Maksymalne dopuszczalne obciążenie wzrośnie dzięki plecakom.</string>
-	<string key="inv_encumbranceUnencumberedTooltip">Gdy niesiesz mniej przedmiotów niż wynosi twój limit, obciążenie nie ma na ciebie wpływu.</string>
-	<string key="inv_encumbranceEncumberedTooltip">Gdy nosisz za dużo przedmiotów, nie możesz biegać ani wykonywać uników. Po osiągnięciu maksymalnego obciążenia nie będzie można poruszać się ani atakować. Usuń część przedmiotów ze swojego plecaka.</string>
+	<string key="inv_encumbranceTooltip">Ciężar ekwipunku wpływa na twoje ruchy i czynności. Ulepsz torby, by zwiększyć ich limit ciężaru. Jeśli przekroczysz limit ciężaru ekwipunku, ulegniesz przeciążeniu. Jeśli znacznie przekroczysz limit ciężaru, ulegniesz nadmiernemu przeciążeniu.</string>
+	<string key="inv_encumbranceUnencumberedTooltip">Możesz swobodnie wykonywać wszystkie czynności, ponieważ twój limit ciężaru ekwipunku nie został przekroczony.</string>
+	<string key="inv_encumbranceEncumberedTooltip">• Przeciążenie: nie możesz biegać, skakać ani wykonywać uników.\n• Nadmierne przeciążenie: nie możesz się ruszać, skakać, wykonywać uników ani atakować.</string>
 	<string key="inv_does_not_meet_weapon_requirements">Niewystarczające cechy</string>
-	<string key="inv_encumbranceAttackNotification">Przeciążenie uniemożliwia atak</string>
+	<string key="inv_encumbranceAttackNotification">Nadmierne przeciążenie – nie można atakować</string>
 	<string key="inv_insufficientManaNotification">Za mało many</string>
 	<string key="inv_OutOfRangeNotification">Cel poza zasięgiem</string>
-	<string key="inv_compareTo">Porównaj z: {location}</string>
+	<string key="inv_compareTo">Porównaj ({location})</string>
 	<string key="inv_additionalItems">Dodatkowe przedmioty: {count}</string>
 	<string key="inv_repairparts_quantity">Części zamienne: {count}</string>
 	<string key="inv_repairparts_tooltip_name">CZĘŚCI ZAMIENNE</string>
 	<string key="ui_repairparts">Części zamienne</string>
-	<string key="inv_repairparts_tooltip_description">Części zamienne to zasoby używane do naprawy przedmiotów.\n\nCzęści zamiennych nie można kupić, sprzedać ani nimi handlować. By zdobyć ich więcej, rozbieraj niepotrzebne elementy pancerza i broń.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Można otrzymać z:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ffffff"&gt;Broń, pancerz&lt;/font&gt;</string>
+	<string key="inv_repairparts_tooltip_description">Części zamienne to zasoby używane do naprawy przedmiotów.\n\nCzęści zamiennych nie można kupić, sprzedać ani nimi handlować. By zdobyć więcej, rozbieraj na części niepotrzebne elementy pancerza i broń.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Źródło:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ebe3d6"&gt;Broń, pancerz&lt;/font&gt;</string>
 	<string key="inv_repairparts_tooltip_drivedfrom">Broń i pancerz</string>
 	<string key="inv_azoth_tooltip_drivedfrom">Wyłomy skażenia, zadania</string>
 	<string key="inv_repairparts_nearlimit">&lt;font color="#f25d5d"&gt;Prawie osiągnięto limit części zamiennych.&lt;/font&gt;</string>
@@ -111,7 +111,7 @@
 	<string key="salvage_notification_pefectly_salvaged">Idealny odzysk!</string>
 	<string key="salvage_notification_pefectly_salvaged_item">&lt;font color={color}&gt;{itemName}&lt;/font&gt; x {quantity}</string>
 	<string key="fc_campingtitle">Biwakowanie</string>
-	<string key="fc_campingInstructions">Podstawowe stanowisko rzemieślnicze i punkt odrodzenia.</string>
+	<string key="fc_campingInstructions">Podstawowe stanowisko do wytwarzania i punkt odrodzenia.</string>
 	<string key="fc_campingSiteLvl1">Obozowisko poziomu I</string>
 	<string key="fc_campingSiteLvl2">Obozowisko poziomu II</string>
 	<string key="fc_campingSiteLvl3">Obozowisko poziomu III</string>
@@ -153,26 +153,26 @@
 	<string key="ui_dropall">Upuść wszystko</string>
 	<string key="ui_dropall_in_trade">Nie możesz upuścić przedmiotów podczas handlowania</string>
 	<string key="ui_transfer_all_filtered">Nie można przenieść wszystkich przedmiotów tej kategorii, gdy zastosowano filtr przedmiotów.</string>
-	<string key="ui_storeall">Przechowaj wszystko</string>
-	<string key="ui_filterDescription">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;JAK UŻYWAĆ FILTRÓW PRZEDMIOTÓW&lt;/font&gt;&lt;/font&gt;\n\n&lt;font color="#a6a6a6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Filtruj po: &lt;/font&gt;&lt;/font&gt;\n\n– Nazwie przedmiotu\n– Min. pkt. wyposażenia (np. 100)\n– Min. klasie przedmiotu (np. K1)\n\n&lt;font color="#a6a6a6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Przykłady:&lt;/font&gt;&lt;/font&gt;\n\nMiecz 200\nTopór K1\nOskard – żelazo</string>
+	<string key="ui_storeall">Przenieś wszystko do składziku</string>
+	<string key="ui_filterDescription">&lt;font color={headerColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;JAK UŻYWAĆ FILTRÓW PRZEDMIOTÓW&lt;/font&gt;\n\n&lt;font color={subheaderColor} face="lyshineui/fonts/Nimbus_semibold.font"&gt;Filtruj po:&lt;/font&gt;\n• Nazwie przedmiotu\n• Min. liczbie pkt wyposażenia (np. 100)\n• Min. klasie przedmiotu (np. K1\n\n&lt;font color={subheaderColor} face="lyshineui/fonts/Nimbus_semibold.font"&gt;Przykłady:&lt;/font&gt;\n• Miecz 200\n• Topór K1\n• Oskard – żelazo</string>
 	<string key="ui_filterText">Szukaj</string>
 	<string key="ui_filterHeader">Filtruj przedmiot</string>
 	<string key="ui_sort">Sortuj</string>
-	<string key="ui_sort_weight">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortuj według &lt;font color="#ffffff"&gt;wagi:&lt;/font&gt;&lt;/font&gt; ciężkie – lekkie</string>
-	<string key="ui_sort_weight_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortuj według &lt;font color="#ffffff"&gt;wagi:&lt;/font&gt;&lt;/font&gt; Niska – wysoka</string>
-	<string key="ui_sort_tier">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortuj według &lt;font color="#ffffff"&gt;klasy:&lt;/font&gt;&lt;/font&gt; wysoka – niska</string>
-	<string key="ui_sort_tier_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortuj według &lt;font color="#ffffff"&gt;klasy:&lt;/font&gt;&lt;/font&gt; Niska – wysoka</string>
-	<string key="ui_sort_gearscore">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortuj według &lt;font color="#ffffff"&gt;liczby pkt wyposażenia:&lt;/font&gt;&lt;/font&gt; wysoka – niska</string>
-	<string key="ui_sort_gearscore_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortuj według &lt;font color="#ffffff"&gt;liczby pkt wyposażenia:&lt;/font&gt;&lt;/font&gt; Niska – wysoka</string>
-	<string key="ui_sort_chrono">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortuj według &lt;font color="#ffffff"&gt;czasu nabycia&lt;/font&gt;&lt;/font&gt; najnowsze – najstarsze</string>
-	<string key="ui_sort_chrono_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortuj według &lt;font color="#ffffff"&gt;czasu nabycia:&lt;/font&gt;&lt;/font&gt; Najstarsze – najnowsze</string>
+	<string key="ui_sort_weight">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortuj według &lt;font color="#ebe3d6"&gt;wagi:&lt;/font&gt;&lt;/font&gt; ciężkie – lekkie</string>
+	<string key="ui_sort_weight_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortuj według &lt;font color="#ebe3d6"&gt;wagi:&lt;/font&gt;&lt;/font&gt; Niska – wysoka</string>
+	<string key="ui_sort_tier">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortuj według &lt;font color="#ebe3d6"&gt;klasy:&lt;/font&gt;&lt;/font&gt; wysoka – niska</string>
+	<string key="ui_sort_tier_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortuj według &lt;font color="#ebe3d6"&gt;klasy:&lt;/font&gt;&lt;/font&gt; Niska – wysoka</string>
+	<string key="ui_sort_gearscore">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortuj według &lt;font color="#ebe3d6"&gt;liczby pkt wyposażenia:&lt;/font&gt;&lt;/font&gt; wysoka – niska</string>
+	<string key="ui_sort_gearscore_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortuj według &lt;font color="#ebe3d6"&gt;liczby pkt wyposażenia:&lt;/font&gt;&lt;/font&gt; Niska – wysoka</string>
+	<string key="ui_sort_chrono">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortuj według &lt;font color="#ebe3d6"&gt;czasu nabycia&lt;/font&gt;&lt;/font&gt; najnowsze – najstarsze</string>
+	<string key="ui_sort_chrono_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Sortuj według &lt;font color="#ebe3d6"&gt;czasu nabycia:&lt;/font&gt;&lt;/font&gt; Najstarsze – najnowsze</string>
 	<string key="inv_equipmentstatrow_modifiertemplate">({baseValue} &lt;font color={modifierColor}&gt;{operator} {modifierValue}&lt;/font&gt;)</string>
 	<string key="ui_attributemodifier_pending_value">(+{pendingValue})</string>
-	<string key="ui_attributemodifier_tooltip">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color={color}&gt;{attributeValue}&lt;/font&gt; &lt;font color="#dddddd" face="lyshineui/fonts/Nimbus_Regular.font"&gt;pkt cechy&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color={color}&gt;{attributeName}&lt;/font&gt;</string>
-	<string key="ui_attributemodifier_tooltip_committed">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;(Przydzielone punkty: {value})&lt;/font&gt;</string>
-	<string key="ui_attributemodifier_tooltip_equipment">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;(Wyposażenie: {value})&lt;/font&gt;</string>
-	<string key="ui_attributemodifier_tooltip_buffs">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;(Premie przedmiotu: &lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={modifierColor}&gt;{modifierOperator}{value}&lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;)&lt;/font&gt;</string>
-	<string key="ui_attributemodifier_tooltip_pending">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;(Pozostałe punkty: {value})&lt;/font&gt;</string>
+	<string key="ui_attributemodifier_tooltip">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color={color}&gt;{attributeValue} {attributeName}&lt;/font&gt;</string>
+	<string key="ui_attributemodifier_tooltip_committed">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;Przydzielono: {value}&lt;/font&gt;</string>
+	<string key="ui_attributemodifier_tooltip_equipment">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;Wyposażenie: {value}&lt;/font&gt;</string>
+	<string key="ui_attributemodifier_tooltip_buffs">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;Premie przedmiotu: &lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={modifierColor}&gt;{modifierOperator}{value}&lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;&lt;/font&gt;</string>
+	<string key="ui_attributemodifier_tooltip_pending">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;Oczekujące: {value}&lt;/font&gt;</string>
 	<string key="ui_attributemodifier_required_points">Wymagane punkty:</string>
 	<string key="ui_physical_defense_short">FIZ.</string>
 	<string key="ui_physical_defense_full">Odporność na obrażenia fizyczne</string>
@@ -192,5 +192,54 @@
 	<string key="inv_TargetDeadNotification">Cel nie żyje</string>
 	<string key="inv_TargetOutsideLos">Cel nie znajduje się w polu widzenia</string>
 	<string key="inv_moreItems">+&lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;{value}&lt;/font&gt; przedmiotów</string>
+	<string key="lo_name" comment="This key needs to be short to be used directly as a loadout name." rel_version="Feature_Gear_Set_Storage">Zestaw wyposażenia</string>
+	<string key="loadout_window_title" rel_version="Feature_Gear_Set_Storage">ZESTAWY WYPOSAŻENIA</string>
+	<string key="loadout_storage_title" rel_version="Feature_Gear_Set_Storage">ZESTAWY WYPOSAŻENIA</string>
+	<string key="loadout_storage_info" rel_version="Feature_Gear_Set_Storage">Przedmioty w zestawach wyposażenia nie znajdują się w twoim ekwipunku i nie wliczają się do ciężaru twojego ekwipunku czy magazynu.</string>
+	<string key="loadout_addto_command" rel_version="Feature_Gear_Set_Storage">Dodaj do zestawu wyposażenia</string>
+	<string key="loadout_addfrom_command" rel_version="Feature_Gear_Set_Storage">Dodaj z zestawu wyposażenia</string>
+	<string key="loadout_addtoall_command" rel_version="Feature_Gear_Set_Storage">Dodaj do wszystkich zestawów wyposażenia</string>
+	<string key="loadout_removefrom_command" rel_version="Feature_Gear_Set_Storage">Usuń z zestawu wyposażenia</string>
+	<string key="loadout_removefromall_command" rel_version="Feature_Gear_Set_Storage">Usuń z wszystkich zestawów wyposażenia</string>
+	<string key="loadout_store_callout" rel_version="Feature_Gear_Set_Storage">Odblokuj dodatkowe zestawy wyposażenia</string>
+	<string key="loadout_store_button" rel_version="Feature_Gear_Set_Storage">Otwórz sklep</string>
+	<string key="loadout_import_current" rel_version="Feature_Gear_Set_Storage">Dodaj wyposażone przedmioty</string>
+	<string key="loadout_unequipall_tooltip" rel_version="Feature_Gear_Set_Storage">Usuń wszystkie przedmioty</string>
+	<string key="loadout_unequipall_title" rel_version="Feature_Gear_Set_Storage">Usuń przedmioty</string>
+	<string key="loadout_unequipall_message" rel_version="Feature_Gear_Set_Storage">Czy na pewno chcesz zwrócić wszystkie przedmioty z tego zestawu wyposażenia do twojego ekwipunku?</string>
+	<string key="loadout_importall_title" rel_version="Feature_Gear_Set_Storage">Dodaj wszystko</string>
+	<string key="loadout_importall_message" rel_version="Feature_Gear_Set_Storage">Czy na pewno chcesz dodać wszystkie wyposażone przedmioty do tego zestawu wyposażenia?</string>
+	<string key="loadout_locked_message" rel_version="Feature_Gear_Set_Storage">Dostępne na {level} poz.</string>
+	<string key="loadout_currently_equipped" rel_version="Feature_Gear_Set_Storage">Zestaw wyposażenia: {loadoutName}</string>
+	<string key="loadout_error" rel_version="Feature_Gear_Set_Storage">Błąd zestawu wyposażenia</string>
+	<string key="loadout_notification_equip_success" rel_version="Feature_Gear_Set_Storage">Zestaw w użyciu: {loadoutName}</string>
+	<string key="loadout_notification_equip_failure" rel_version="Feature_Gear_Set_Storage">{loadoutName} – nie udało się użyć zestawu</string>
+	<string key="loadout_notification_incombat" rel_version="Feature_Gear_Set_Storage">Nie można zmieniać zestawów wyposażenia podczas walki.</string>
+	<string key="loadout_notification_restricted" rel_version="Feature_Gear_Set_Storage">Obecnie nie można zmienić zestawu wyposażenia</string>
+	<string key="loadout_notification_renamefail" rel_version="Feature_Gear_Set_Storage">Nie udało się zmienić nazwy zestawu wyposażenia</string>
+	<string key="loadout_notification_renameinvalid" rel_version="Feature_Gear_Set_Storage">Nieprawidłowa nazwa zestawu wyposażenia</string>
+	<string key="loadout_notification_itemlinked" rel_version="Feature_Gear_Set_Storage">Nie udało się zwrócić przedmiotu (jest częścią innego zestawu lub w użyciu)</string>
+	<string key="loadout_notification_itemslinked" rel_version="Feature_Gear_Set_Storage">Nie udało się zwrócić niektórych przedmiotów do ekwipunku (jest częścią innego zestawu lub w użyciu)</string>
+	<string key="loadout_notification_itemadd_success" rel_version="Feature_Gear_Set_Storage">Przedmiot dodany do zestawu: {loadoutName}</string>
+	<string key="loadout_notification_itemadd_failure" rel_version="Feature_Gear_Set_Storage">Nie udało się dodać przedmiotu do zestawu: {loadoutName}</string>
+	<string key="loadout_notification_itemadd_failure_existing_slot" rel_version="Feature_Gear_Set_Storage">Nie udało się dodać przedmiotu do zestawu: {loadoutName}, przedmiot jest już w tym miejscu.</string>
+	<string key="loadout_notification_itemaddall_success" rel_version="Feature_Gear_Set_Storage">Przedmiot dodany do wszystkich zestawów wyposażenia</string>
+	<string key="loadout_notification_itemaddall_failure" rel_version="Feature_Gear_Set_Storage">Nie udało się dodać przedmiotu do wszystkich zestawów</string>
+	<string key="loadout_notification_switch_loadout_on_cooldown" rel_version="Feature_Gear_Set_Storage">Musisz odczekać {timeRemaining} przed zmianą zestawu wyposażenia</string>
+	<string key="loadout_tutorial" rel_version="Feature_Gear_Set_Storage">Zestawy wyposażenia są już dostępne!\nTwórz szybko zestawy wyposażenia i zmieniaj je wedle własnego uznania.</string>
+	<string key="loadout_notification_itemremove_space_failure" rel_version="Feature_Gear_Set_Storage">Nie udało się zwrócić przedmiotów z zestawu wyposażenia do ekwipunku ze względu na brak miejsca.</string>
+	<string key="loadout_notification_return_space_fail" rel_version="Feature_Gear_Set_Storage">Nie udało się zwrócić przedmiotów z zestawu wyposażenia do ekwipunku ze względu na brak miejsca. Zrób miejsce w ekwipunku, wyloguj się na kilka minut i spróbuj ponownie.</string>
+	<string key="incompatible_elemental_perk">Niekompatybilny profit żywiołów</string>
+	<string key="incompatible_socket_item">Nie można osadzić w przedmiocie tego rodzaju</string>
+	<string key="ui_effect_failed_Invalid">Nie można nałożyć efektu</string>
+	<string key="ui_effect_failed_Disabled">Nie można nałożyć tymczasowo nieaktywnego efektu</string>
+	<string key="ui_effect_failed_OnCooldown">Nie można nałożyć efektu w trakcie czasu odnowienia</string>
+	<string key="ui_effect_failed_GameModePaused">Nie można nałożyć efektu w obecnym trybie gry</string>
+	<string key="ui_effect_failed_Dead">Nie można nałożyć efektu, gdy postać nie żyje</string>
+	<string key="ui_effect_failed_VitalsIgnored">Nie można nałożyć efektu</string>
+	<string key="ui_effect_failed_MultipleFromSource">Nie można nałożyć zbędnych efektów</string>
+	<string key="ui_effect_failed_AntirequisiteActive">Nie można nałożyć – konkurencyjny efekt: {competingEffect}</string>
+	<string key="ui_effect_failed_AntirequisiteActive_Multiple">Nie można nałożyć – wiele konkurencyjnych efektów</string>
+	<string key="ui_effect_failed_Success">Dostępny efekt</string>
 </resources>
 

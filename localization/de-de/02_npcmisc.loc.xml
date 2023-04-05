@@ -12,6 +12,7 @@
 	<string key="0208_Alchemist">Laurentius Krockes</string>
 	<string key="0208_Alchemist_title">Syndikatsskriptor</string>
 	<string key="0209_Adjudicator">Beatris Roose</string>
+	<string key="0209b_Adjudicator">Violante Delgado</string>
 	<string key="0209_Adjudicator_title">Tempelritterin des Bündnisses</string>
 	<string key="0210_Barkeep">Lau Kang</string>
 	<string key="0210_Barkeep_title">Kräuterkundlerin aus Lichtholz</string>
@@ -21,8 +22,8 @@
 	<string key="0223_Fisher_title">Anglermeisterin</string>
 	<string key="0230_Ranger">Shui Tijong</string>
 	<string key="0230_Ranger_title">Waldläufer aus Lichtholz</string>
-	<string key="0231_Painter">Malerin Wolcott</string>
-	<string key="0231_Painter_title">Künstlerin</string>
+	<string key="0231_Painter">Maler Wolcott</string>
+	<string key="0231_Painter_title">Künstler</string>
 	<string key="0232_Naturalist">Yargui Khunbish</string>
 	<string key="0232_Naturalist_title">Naturforscherin</string>
 	<string key="0233_Hunter">Holt Hutchison</string>

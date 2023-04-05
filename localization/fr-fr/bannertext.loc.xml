@@ -22,7 +22,7 @@
 	<string key="ui_territory_claimed_title">Territoire revendiqué</string>
 	<string key="ui_territory_current">Territoire actuel :</string>
 	<string key="ui_territory_controlling_faction">Contrôlé par la faction :</string>
-	<string key="ui_territory_not_claimed_desc">Une fois ce territoire revendiqué, vous pourrez accomplir des missions JcJ pour gagner de l'influence, ce qui permettra à votre faction de déclarer la guerre. Mais pour l'instant, allez aider votre faction à revendiquer ce territoire !</string>
+	<string key="ui_territory_not_claimed_desc">Occupez ce territoire afin d'accomplir des missions JcJ et gagner de l'influence, ce qui permettra à votre faction de pouvoir déclarer la guerre.</string>
 	<string key="ui_territory_upgrade_cancelled">Amélioration de {territoryName} annulée</string>
 	<string key="ui_territory_upgraded">Territoire amélioré</string>
 	<string key="ui_territory_standinglabel">Réputation de {territoryName}</string>
@@ -90,8 +90,8 @@
 	<string key="ui_open_map">Ouvrir la carte</string>
 	<string key="ui_counterattack_message_attack">Votre compagnie peut attaquer le territoire ennemi\npendant la fenêtre de siège :</string>
 	<string key="ui_counterattack_message_defend">Vous avez contre-attaqué face à l'ennemi.\nDéfendez votre territoire !</string>
-	<string key="ui_town_project_started_chat">Le projet urbain « {name} » a été lancé sur le territoire {territory} !</string>
-	<string key="ui_town_project_expired_chat">Le projet urbain « {title} » a échu sur le territoire {territory}.</string>
+	<string key="ui_town_project_started_chat">Le projet urbain « {name} » a été lancé à : {territory} !</string>
+	<string key="ui_town_project_expired_chat">Le projet urbain « {title} » a échu à : {territory}.</string>
 	<string key="ui_town_project_cancelled_chat">Le projet urbain « {title} » a été annulé sur le territoire {territory}.</string>
 	<string key="ui_town_project_completed_chat">Le projet urbain « {title} » a été complété sur le territoire {territory}.</string>
 	<string key="ui_territory_downgraded_chat">{territoryName} : déclassement de {structure}.</string>
@@ -103,9 +103,9 @@
 	<string key="ui_mastery_points_available">Vous avez {masteryPoints} points de maîtrise à dépenser.</string>
 	<string key="ui_standing_tokens_available">Vous avez {standingTokens} points de réputation de territoire à dépenser.</string>
 	<string key="ui_points_available">AMÉLIORATION DISPONIBLE</string>
-	<string key="ui_mastery_point">Point de maîtrise</string>
-	<string key="ui_attribute_point">Point de caractéristiques</string>
-	<string key="ui_standing_point">Point de réputation de territoire</string>
+	<string key="ui_mastery_point">Points de maîtrise</string>
+	<string key="ui_attribute_point">Points de caractéristiques</string>
+	<string key="ui_standing_point">Points de réputation de territoire</string>
 	<string key="ui_cinematics_banner_msq_actone_title_label">ACTE I</string>
 	<string key="ui_cinematics_banner_msq_actone_chapterone_title_text">Chapitre 1</string>
 	<string key="ui_cinematics_banner_msq_actone_chapterone_title_description">Tempête démoniaque</string>

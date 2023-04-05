@@ -116,6 +116,10 @@
 	<string key="FactionRecruitment_Covenant_Completed" gender="F" rel_version="Quest_MSQ2_Revamp">NON DISPONIBILE</string>
 	<string key="FactionRecruitment_Covenant_Container" speaker="UI" rel_version="Quest_MSQ2_Revamp">Giura fedeltà al Patto.</string>
 	<string key="FactionRecruitment_Covenant_JoinFaction" speaker="UI" rel_version="Quest_MSQ2_Revamp">Parla con la rappresentante Beyza all'Enclave del Patto e, se lo desideri, unisciti al Patto.</string>
+	<string key="FactionRecruitment_Covenant_Decline" speaker="UI" rel_version="Quest_MSQ2_Revamp">(Facoltativo) Rifiuta l'offerta, per il momento.</string>
+	<string key="Covenant_DeclineRecruitment_Prompt" speaker="UI" rel_version="Quest_MSQ2_Revamp">"Grazie, ma sto ancora valutando la cosa."</string>
+	<string key="Covenant_DeclineRecruitment_Response" speaker="Lumen Beyza" name="LumenBeyza" gender="F" VO_Status="Not Recorded" rel_version="Quest_MSQ2_Revamp">Capisco. È una scelta importante. Se dovessi decidere di unirti a noi ti basterà farmelo sapere.\n\nSo che anche Florina sarebbe felice di incontrarti di nuovo.\n\n(Per unirti a questa fazione, parla di nuovo con questa rappresentante. Se fai già parte di un'altra fazione, ora puoi cambiare fazione dalla schermata Biografia.)</string>
+	<string rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
 	<string rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
 	<string key="9809_CovenantGuard_Default" gender="Both" VO="9809_CovenantGuard_Default" rel_version="Quest_MSQ2_Revamp">Non perdere la tua determinazione!</string>
 	<string key="9810_Alejandro_Default" speaker="Alejandro" name="Alejandro" gender="M" VO="9810_Alejandro_Default" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">No... qualcosa non va... \n\nPerché non riesco a ricordare il suo volto?</string>
@@ -136,7 +140,7 @@
 	<string VO="9807_Aventus_01_02" rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
 	<string key="9805_Tibbs_00_Default" speaker="Lieutenant Tibbs" name="LieutenantTibbs" gender="M" VO="9805_Tibbs_00_Default" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Ehi! Non sei un po' troppo giovane per stare qui? \n\nNon te la prendere, scherzavo! \n\nE non temere, sono discreto come una tomba!</string>
 	<string key="9805_Tibbs_00_01" speaker="Lieutenant Tibbs" name="LieutenantTibbs" gender="M" VO="9805_Tibbs_00_01" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Fatti un po' vedere! Sembri uno di quei Predoni. Ti piace l'avventura? Magari un bel bottino, eh? Che ne dici di armi e ricchezza? \n\nLo vuoi un piccolo consiglio dal vecchio Tibbs? Ho la cosa perfetta per un nuovo arrivo.</string>
-	<string key="FactionIntro_Marauders_01_Title" speaker="UI - Journal - Quest Title" rel_version="Quest_MSQ2_Revamp"> Il primo di tanti passi</string>
+	<string key="FactionIntro_Marauders_01_Title" speaker="UI - Journal - Quest Title" rel_version="Quest_MSQ2_Revamp">Il primo di tanti passi</string>
 	<string key="FactionIntro_Marauders_01_Description" speaker="UI - Journal - Quest Description" rel_version="Quest_MSQ2_Revamp">Missione di iniziazione dei Predoni: Il tenente Tibbs vuole che tu raccolga orecchie di Perduti e un anello con sigillo di un cavaliere presso i Campi di Lugdunum per qualche sorta di stregoneria e che poi lo incontri sui gradini delle rovine a nord della fattoria.</string>
 	<string key="FactionIntro_Marauders_01_StartPrompt" speaker="UI - Player Prompt" rel_version="Quest_MSQ2_Revamp">"D'accordo, hai la mia attenzione."</string>
 	<string key="FactionIntro_Marauders_01_Proposal" speaker="Lieutenant Tibbs" name="LieutenantTibbs" gender="M" VO="FactionIntro_Marauders_01_Proposal" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Questo è lo spirito giusto! A nord-ovest c'è un forte pieno di incredibili meraviglie. Servono cose strane per entrare. Magia, intendo. Le orecchie dei Perduti senz'anima, l'anello di un cavaliere. \n\nPrendi quella roba dai Campi di Lugdunum e vediamoci lì.</string>
@@ -223,6 +227,9 @@
 	<string key="FactionRecruitment_Marauders_Completed" gender="M" rel_version="Quest_MSQ2_Revamp">non disponibile</string>
 	<string key="FactionRecruitment_Marauders_Container" speaker="UI" rel_version="Quest_MSQ2_Revamp">Giura fedeltà ai Predoni.</string>
 	<string key="FactionRecruitment_Marauders_JoinFaction" speaker="UI" rel_version="Quest_MSQ2_Revamp">Parla con il rappresentate Smiggs all'Enclave dei Predoni e, se lo desideri, unisciti ai Predoni.</string>
+	<string key="FactionRecruitment_Marauders_Decline" rel_version="Quest_MSQ2_Revamp">(Facoltativo) Rifiuta l'offerta, per il momento.</string>
+	<string key="Marauders_DeclineRecruitment_Prompt" speaker="UI" rel_version="Quest_MSQ2_Revamp">"Grazie, ma sto ancora valutando la cosa."</string>
+	<string key="Marauders_DeclineRecruitment_Response" speaker="Representative Smiggs" name="RepresentativeSmiggs" gender="M" VO_Status="Not Recorded" rel_version="Quest_MSQ2_Revamp">Capisco. È una scelta importante. Se dovessi decidere di unirti a noi ti basterà tornare a parlare con me.\n\nSiamo sempre felici di rivedere facce amiche.\n\n(Per unirti a questa fazione, parla di nuovo con questo rappresentante. Se fai già parte di un'altra fazione, ora puoi cambiare fazione dalla schermata Biografia.)</string>
 	<string rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
 	<string key="9815_MarauderGuard_Default" gender="Both" rel_version="Quest_MSQ2_Revamp">Vai con onore.</string>
 	<string key="9816_Pavel_Default" speaker="Pavel" name="Pavel" gender="M" VO="9816_Pavel_Default" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Smamma! Il cibo è solo per i Predoni. \n\nSe vuoi il pane qua, devi guadagnartelo.</string>
@@ -246,7 +253,7 @@
 	<string key="9808_Cleo_00_Default" speaker="Cleo Elsayad" name="CleoElsayad" gender="F" VO="9808_Cleo_00_Default" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Per favore, fatti da parte. Ho molti problemi da risolvere. \n\nGli Scrivani sono sempre entusiasti di sfidare potenziali neofiti, se stai cercando lavoro.</string>
 	<string key="9807_Aventus_00_01" speaker="Aventus Valenti" name="AventusValenti" gender="M" VO="9807_Aventus_00_01" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Per favore, per favore, vieni! Sembri in gamba e l'Unione potrebbe compensarti per il tuo tempo. \n\nVedo che sei qui da poco. Aiutami, e forse potrò illuminare l'oscurità con un po' di luce.</string>
 	<string key="FactionIntro_Syndicate_01_Title" speaker="UI - Journal - Quest Title" rel_version="Quest_MSQ2_Revamp">Fusioni volatili, follie zannute</string>
-	<string key="FactionIntro_Syndicate_01_Description" speaker="UI - Journal - Quest Description" rel_version="Quest_MSQ2_Revamp">Missione di iniziazione dell'Unione: Aventus ti ha assunto per attirare i lupi alterati nella Tana di mezzanotte e abbatterli. Quando avrai finito, incontrati con lui all'Enclave dell'Unione a nord-est.</string>
+	<string key="FactionIntro_Syndicate_01_Description" speaker="UI - Journal - Quest Description" rel_version="Quest_MSQ2_Revamp">Missione di iniziazione dell'Unione: Aventus ti ha assunto per attirare i lupi alterati nella Tana di mezzanotte e distruggerli. Quando avrai finito, incontrati con lui all'Enclave dell'Unione a nord-est.</string>
 	<string key="FactionIntro_Syndicate_01_StartPrompt" speaker="UI - Player Prompt" rel_version="Quest_MSQ2_Revamp">"Offri conoscenza?"</string>
 	<string key="FactionIntro_Syndicate_01_Proposal" speaker="Aventus Valenti" name="AventusValenti" gender="M" VO="FactionIntro_Syndicate_01_Proposal" VO_Status="Recorded" dialogue-next="@FactionIntro_Syndicate_01_Proposal_next" rel_version="Quest_MSQ2_Revamp">Sì, e del tipo più prezioso, se mi aiuterai! \n\nVedi, ho testato delle esche alchemiche sui lupi locali. I risultati sono stati promettenti, finché uno dei lupi non ha consumato l'esca... ed è cresciuto sia in dimensioni che in ferocia.</string>
 	<string key="FactionIntro_Syndicate_01_Proposal_prompt" speaker="UI - Player Prompt" rel_version="Quest_MSQ2_Revamp">"Ti sorprende che il lupo abbia mangiato la tua esca?"</string>
@@ -259,12 +266,12 @@
 	<string key="FactionIntro_Syndicate_01_Completed" speaker="Aventus Valenti" name="AventusValenti" gender="M" VO="FactionIntro_Syndicate_01_Completed" VO_Status="Recorded" dialogue-next="@FactionIntro_Syndicate_01_Completed_next" rel_version="Quest_MSQ2_Revamp">Dopo quell'incidente con i lupi, devo tornare a sperimentare e provare. Una formula diversa, o forse un nuovo approccio. \n\nFortunatamente, questo posto è stato costruito appositamente per la ricerca. Ed è il mio lavoro.</string>
 	<string key="FactionIntro_Syndicate_01_Completed_next_prompt" speaker="UI - Player Prompt" gender="M" rel_version="Quest_MSQ2_Revamp">"La struttura è straordinaria."</string>
 	<string key="FactionIntro_Syndicate_01_Completed_next" speaker="Aventus Valenti" name="AventusValenti" gender="M" VO="FactionIntro_Syndicate_01_Completed_next" VO_Status="Recorded" dialogue-prompt="@FactionIntro_Syndicate_01_Completed_next_prompt" rel_version="Quest_MSQ2_Revamp">Vero? Se ti unirai a noi nell'Unione, potrai usarle. \n\nSe dovesse interessarti, vorrei mettere alla prova la tua mente e il tuo corpo.</string>
-	<string key="FactionIntro_Syndicate_01_Container" speaker="UI" rel_version="Quest_MSQ2_Revamp">Uccidi i lupi per Aventus e incontralo all'Enclave.</string>
+	<string key="FactionIntro_Syndicate_01_Container" speaker="UI" rel_version="Quest_MSQ2_Revamp">Distruggi i lupi per Aventus e incontralo all'Enclave.</string>
 	<string key="FactionIntro_Syndicate_01_Container1" speaker="UI" rel_version="Quest_MSQ2_Revamp">Preparati alla battaglia e posiziona l'esca nella Tana di mezzanotte.</string>
 	<string key="FactionIntro_Syndicate_01_Container2" speaker="UI" rel_version="Quest_MSQ2_Revamp">Viaggia a nord-est verso l'Enclave</string>
 	<string key="FactionIntro_Syndicate_01_EncounterTitle" speaker="UI" rel_version="Quest_MSQ2_Revamp">Fusioni volatili, follie zannute</string>
 	<string key="FactionIntro_Syndicate_01_PlaceLure" speaker="UI" rel_version="Quest_MSQ2_Revamp">Posiziona l'esca per attirare il branco</string>
-	<string key="FactionIntro_Syndicate_01_KillWolves" speaker="UI" rel_version="Quest_MSQ2_Revamp">Elimina il lupo alfa e il branco</string>
+	<string key="FactionIntro_Syndicate_01_KillWolves" speaker="UI" rel_version="Quest_MSQ2_Revamp">Sconfiggi il lupo alfa e il branco</string>
 	<string key="FactionIntro_Syndicate_01_FendOff" speaker="UI" rel_version="Quest_MSQ2_Revamp">Respingi i lupi</string>
 	<string key="FactionIntro_Syndicate_01_GoToEnclave" speaker="UI" rel_version="Quest_MSQ2_Revamp">Cerca il sancta sanctorum dell'Unione a nord-est di Calata eterna.</string>
 	<string key="FactionIntro_Syndicate_01_CutsceneTitle" speaker="UI" rel_version="Quest_MSQ2_Revamp">Enclave dell'Unione</string>
@@ -332,6 +339,9 @@
 	<string key="FactionRecruitment_Syndicate_Completed" speaker="Representative Astrid" name="RepresentativeAstrid" gender="F" VO="FactionRecruitment_Syndicate_Completed" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">NON DISPONIBILE</string>
 	<string key="FactionRecruitment_Syndicate_Container" speaker="UI" rel_version="Quest_MSQ2_Revamp">Giura fedeltà all'Unione.</string>
 	<string key="FactionRecruitment_Syndicate_JoinFaction" speaker="UI" rel_version="Quest_MSQ2_Revamp">Parla con la rappresentante Astrid all'Enclave dell'Unione e, se lo desideri, unisciti all'Unione.</string>
+	<string key="FactionRecruitment_Syndicate_Decline" rel_version="Quest_MSQ2_Revamp">(Facoltativo) Rifiuta l'offerta, per il momento.</string>
+	<string key="Syndicate_DeclineRecruitment_Prompt" speaker="UI" rel_version="Quest_MSQ2_Revamp">"Grazie, ma sto ancora valutando la cosa."</string>
+	<string key="Syndicate_DeclineRecruitment_Response" speaker="Representative Astrid" name="RepresentativeAstrid" gender="F" VO_Status="Not Recorded" rel_version="Quest_MSQ2_Revamp">Capisco. È una scelta importante. Se dovessi decidere di unirti a noi torna nel mio ufficio, così potrò sbrigare le pratiche.\n\nUn resoconto delle tue avventure sarà molto utile.\n\n(Per unirti a questa fazione, parla di nuovo con questa rappresentante. Se fai già parte di un'altra fazione, ora puoi cambiare fazione dalla schermata Biografia.)</string>
 	<string rel_version="Quest_MSQ2_Revamp" xsi:nil="true"/>
 	<string key="9821_SyndicateGuard_Default" gender="Both" rel_version="Quest_MSQ2_Revamp">Procedi con cautela.</string>
 	<string key="9822_Abayomi_Default" speaker="Abayomi" name="Abayomi" gender="M" VO="9822_Abayomi_Default" VO_Status="Recorded" rel_version="Quest_MSQ2_Revamp">Ah, hai l'aria di chi la sa lunga. Lei parla anche con te? \n\nIo sento i sussurri di Aeternum. Non tutti sono benedetti come noi.</string>

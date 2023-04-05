@@ -145,7 +145,7 @@
 	<string key="PerkID_MusicalInstrument_RakeReduction_Description" rel_version="Feature_MusicalPerformances">O performista agora recebe o valor total da gorjeta.</string>
 	<string key="PerkID_MusicalInstrument_FinalNotePerfectXPBonus_Description" rel_version="Feature_MusicalPerformances">Acertar perfeitamente a nota final concede ao jogador um aumento de 10% na EXP de Música.</string>
 	<string key="PerkID_MusicalInstrument_GroupXPBonus_Description" rel_version="Feature_MusicalPerformances">Tocar em grupo concede ao jogador um aumento de 10% na EXP de Música.</string>
-	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Tocar sozinho concede ao jogador um aumento de 10% na EXP de Música.</string>
+	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Tocar sozinho concede ao jogador um aumento de 15% na EXP de Música.</string>
 	<string key="ui_music_guitar_part_1" rel_version="Feature_MusicalPerformances">Violão (Parte 1)</string>
 	<string key="ui_music_guitar_part_2" rel_version="Feature_MusicalPerformances">Violão (Parte 2)</string>
 	<string key="ui_music_guitar_part_3" rel_version="Feature_MusicalPerformances">Violão (Parte 3)</string>
@@ -167,7 +167,7 @@
 	<string key="songtitle_Embark" rel_version="Feature_MusicalPerformances">Embarcar</string>
 	<string key="songtitle_The_Brightwood" rel_version="Feature_MusicalPerformances">Jornada do Guarda Espiritual</string>
 	<string key="songtitle_The_Butterfly" rel_version="Feature_MusicalPerformances">A Borboleta</string>
-	<string key="songtitle_These_Old_Bones" rel_version="Feature_MusicalPerformances">Esses Ossos Velhos</string>
+	<string key="songtitle_These_Old_Bones" rel_version="Feature_MusicalPerformances">Ossos Velhos</string>
 	<string key="songtitle_Young_King_Stanley" rel_version="Feature_MusicalPerformances">Jovem Rei Stanley</string>
 	<string key="songtitle_Ancient" rel_version="Feature_MusicalPerformances">Chamado dos Anciões</string>
 	<string key="songtitle_Breathe" rel_version="Feature_MusicalPerformances">Canção de Ninar Desgastada</string>

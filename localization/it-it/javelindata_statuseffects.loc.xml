@@ -619,7 +619,7 @@
 	<string key="BruteBlast_DisplayName">Bruciatura esplosiva</string>
 	<string key="BruteBlast_Description">Infligge un {[Type_StatusEffectData.PirateBrute_Blast.HealthModifierDamageBased * -100]}% di danni da fuoco ogni {[Type_StatusEffectData.PirateBrute_Blast.TickRate]} secondi per {[Type_StatusEffectData.PirateBrute_Blast.BaseDuration]} secondi.</string>
 	<string key="UndeadBrute_Consume_DisplayName">Stomaco pieno</string>
-	<string key="UndeadBrute_Consume_Description">Cura del {[Type_StatusEffectData.UndeadBrute_Consume.HealthModifierPercent * 100]}% la salute base ogni {[Type_StatusEffectData.UndeadBrute_Consume.TickRate]} secondi e aumenta i danni base di {[Type_StatusEffectData.UndeadBrute_Consume.DMGStandard]}% per {[Type_StatusEffectData.UndeadBrute_Consume.BaseDuration]} secondi.</string>
+	<string key="UndeadBrute_Consume_Description">Aumenta i danni base di {[Type_StatusEffectData.UndeadBrute_Consume.DMGStandard]} per {[Type_StatusEffectData.UndeadBrute_Consume.BaseDuration]} secondi.</string>
 	<string key="Legion_Inspire_Buff" rel_version="Territory_Brimstone_Sands">Ispirato</string>
 	<string key="Legion_HeroOfLegion_Buff" rel_version="Territory_Brimstone_Sands">Eroe della Legione</string>
 	<string key="Legion_HeroOfLegion_Crassus_Buff" rel_version="Territory_Brimstone_Sands">Eroi della Legione</string>
@@ -648,6 +648,7 @@
 	<string key="AI_DiseaseAura_Buff_DisplayName">Aura di malattia</string>
 	<string key="AI_SelfDestruct_Buff_DisplayName">Esplosivo</string>
 	<string key="AI_SelfDestruct_Corruption_Buff_DisplayName">Esplosivo della Corruzione</string>
+	<string key="AI_SelfDestruct_Corruption_25Percent_Buff_DisplayName">Esplosivo della Corruzione</string>
 	<string key="AI_MoveSpeed_Buff_DisplayName">Rapido</string>
 	<string key="AI_FireResist_Buff_DisplayName">Resistente al fuoco</string>
 	<string key="AI_NatureResist_Buff_DisplayName">Resistente alla natura</string>
@@ -664,6 +665,7 @@
 	<string key="AI_Slime_Slow_DisplayName">Appiccicoso</string>
 	<string key="AI_Slime_Slow_Tooltip">Velocità di movimento ridotta di un {[Type_StatusEffectData.AI_Slime_Slow.MoveSpeedMod * -100]}%.</string>
 	<string key="AI_PillarGoat_Buff_DisplayName" rel_version="Territory_Brimstone_Sands">Insistente</string>
+	<string key="AI_Fleeting_Buff_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Fugace</string>
 	<string key="AI_HalloweenBoss_PutridAura_DisplayName">Maledizione di Baalphazu</string>
 	<string key="AI_HalloweenBoss_PutridAura_Tooltip">Subisci un {[Type_StatusEffectData.HalloweenBoss_Putrid_Aura_DoT_Damage.HealthModifierDamageBased * -100]}% di danni da natura alla salute di base ogni {[Type_StatusEffectData.HalloweenBoss_Putrid_Aura_DoT_Damage.TickRate * 6]} s.</string>
 	<string key="AI_SpiderBite_Tooltip">Avvelenato per un {[Type_StatusEffectData.AI_SpiderBite.HealthModifierDamageBased * -100]}% di danni di base da natura ogni {[Type_StatusEffectData.AI_SpiderBite.TickRate]} secondi per {[Type_StatusEffectData.AI_SpiderBite.BaseDuration]} secondi.</string>
@@ -684,6 +686,10 @@
 	<string key="AI_Torso_Boss_Stun_Player_Tooltip">Hai subito un sovraccarico di energia arcana, che ti stordisce per 10 secondi."</string>
 	<string key="AI_Torso_Boss_ArcaneOrb_DisplayName">Sintonia arcana</string>
 	<string key="AI_Torso_Boss_ArcaneOrb_Tooltip">"Trasporti una sfera arcana che ti mette in sintonia con le frequenze magiche dei condotti arcani."</string>
+	<string key="AI_BrotherUmberto_HealthDebuff_DisplayName" rel_version="Quest_MSQ2_Brightwood">Furto di anima</string>
+	<string key="AI_BrotherUmberto_HealthDebuff_Tooltip" rel_version="Quest_MSQ2_Brightwood">La tua essenza vitale viene prosciugata, alimentando e rafforzando il nemico.</string>
+	<string key="AI_BrotherUmberto_HealthBuff_DisplayName" rel_version="Quest_MSQ2_Brightwood">Anima prosciugata</string>
+	<string key="AI_BrotherUmberto_Split_DisplayName" rel_version="Quest_MSQ2_Brightwood">Anima frammentata</string>
 	<string key="AI_Bleed_9_DisplayName">Sanguinante</string>
 	<string key="AI_Bleed_9_Tooltip">Sanguinante per un {[Type_StatusEffectData.AI_Bleed_9.HealthModifierDamageBased * -100]}% di danni di base + {[Type_StatusEffectData.AI_Bleed_9.HealthModifierPercent * -100]}% di danni fisici alla salute di base ogni {[Type_StatusEffectData.AI_Bleed_9.TickRate]} secondi per {[Type_StatusEffectData.AI_Bleed_9.BaseDuration]} secondi.</string>
 	<string key="AI_Burn_9_DisplayName">Rovente</string>
@@ -691,7 +697,13 @@
 	<string key="AI_Thorpe_Burn_DisplayName">Bruciatura ombrosa</string>
 	<string key="AI_Thorpe_Burn_Tooltip">Rovente per un {[Type_StatusEffectData.AI_Thorpe_Burn.HealthModifierDamageBased * -100]}% di danni di base + {[Type_StatusEffectData.AI_Thorpe_Burn.HealthModifierPercent * -100]}% di danni da fuoco alla salute di base ogni {[Type_StatusEffectData.AI_Thorpe_Burn.TickRate]} secondi per {[Type_StatusEffectData.AI_Thorpe_Burn.BaseDuration]} secondi.</string>
 	<string key="AI_Thorpe_FTUE_Burn_DisplayName">Bruciatura</string>
-	<string key="AI_Thorpe_FTUE_Burn_Tooltip">Rovente per un {[Type_StatusEffectData.AI_Thorpe_FTUE_Burn.HealthModifierDamageBased * -100]}% di danni di base + {[Type_StatusEffectData.AI_Thorpe_FTUE_Burn.HealthModifierPercent * -100]}% di danni da fuoco alla salute di base ogni {[Type_StatusEffectData.AI_Thorpe_FTUE_Burn.TickRate]} secondi per {[Type_StatusEffectData.AI_Thorpe_FTUE_Burn.BaseDuration]} secondi.</string>
+	<string key="AI_Thorpe_FTUE_Burn_Tooltip">Rovente per un {[Type_StatusEffectData.AI_Thorpe_Burn.HealthModifierDamageBased * -100]}% di danni di base + {[Type_StatusEffectData.AI_Thorpe_Burn.HealthModifierPercent * -100]}% di danni da fuoco alla salute di base ogni {[Type_StatusEffectData.AI_Thorpe_Burn.TickRate]} secondi per {[Type_StatusEffectData.AI_Thorpe_Burn.BaseDuration]} secondi.</string>
+	<string key="AI_Evil_Knight_Fire_Champion_HeatingUp" rel_version="Expedition_GreatCleave_01">Riscaldamento</string>
+	<string key="AI_Evil_Knight_Fire_Champion_HeatingUp_Tooltip" rel_version="Expedition_GreatCleave_01">Il Comandante arde di rabbia al punto che potrebbe esplodere.</string>
+	<string key="AI_Evil_Knight_Fire_Champion_Overheat_DisplayName" rel_version="Expedition_GreatCleave_01">Surriscaldamento</string>
+	<string key="AI_Evil_Knight_Fire_Champion_Overheat_Tooltip" rel_version="Expedition_GreatCleave_01">Surriscaldamento causato dagli attacchi del Comandante: esploderà al decimo accumulo. Rovente per un {[Type_StatusEffectData.AI_Evil_Knight_Fire_Champion_Overheat.HealthModifierPercent * -100]}% di danni da fuoco di base ogni {[Type_StatusEffectData.AI_Evil_Knight_Fire_Champion_Overheat.TickRate]} secondi per {[Type_StatusEffectData.AI_Evil_Knight_Fire_Champion_Overheat.BaseDuration]} secondi.</string>
+	<string key="AI_Evil_Knight_Fire_Champion_DangerTick_DisplayName" rel_version="Expedition_GreatCleave_01">Marea lavica</string>
+	<string key="AI_Evil_Knight_Fire_Champion_DangerTick_Tooltip" rel_version="Expedition_GreatCleave_01">Rovente con danni da fuoco pari a un {[Type_StatusEffectData.AI_Evil_Knight_Fire_Champion_DangerTick.HealthModifierPercent * -100]}% della salute base ogni {[Type_StatusEffectDataAI_Evil_Knight_Fire_Champion_DangerTick.TickRate]} secondi per {[Type_StatusEffectData.AI_Evil_Knight_Fire_Champion_DangerTick.BaseDuration]} secondi.</string>
 	<string key="AI_Evil_Knight_Mine_Burn_DisplayName">Rovente</string>
 	<string key="AI_Evil_Knight_Mine_Burn_Tooltip">Rovente per un {[Type_StatusEffectData.AI_Evil_Knight_Mine_Burn.HealthModifierPercent * -100]}% di danni da fuoco di base per accumulo ogni {[Type_StatusEffectData.AI_Evil_Knight_Mine_Burn.TickRate]} secondi per {[Type_StatusEffectData.AI_Evil_Knight_Mine_Burn.BaseDuration]} secondi.</string>
 	<string key="AI_Poison_55_DisplayName">Avvelenato</string>
@@ -759,7 +771,7 @@
 	<string key="AI_IceDryad_Frostgrip_IceField_Slow_DisplayName" rel_version="Event_WinterConvergence_Perm">Rallentamento</string>
 	<string key="AI_IceDryad_Frostgrip_IceField_Slow_Tooltip" rel_version="Event_WinterConvergence_Perm">Velocità di movimento ridotta di un {[Type_StatusEffectData.AI_IceDryad_Frostgrip_IceField_Slow.MoveSpeedMod * -100]}% per {[Type_StatusEffectData.AI_IceDryad_Frostgrip_IceField_Slow.BaseDuration]} secondi.</string>
 	<string key="AI_IceDryad_Frostfang_Buff_Empower_DisplayName" rel_version="Event_WinterConvergence_Perm">Potenziamento</string>
-	<string key="AI_IceDryad_Frostfang_Buff_Empower_Tooltip" rel_version="Event_WinterConvergence_Perm">Danni da tipi specifici aumentati per {[Type_StatusEffectData.Type_StatusEffectData.AI_IceDryad_Frostfang_Buff_Empower.BaseDuration * 100]} secondi.</string>
+	<string key="AI_IceDryad_Frostfang_Buff_Empower_Tooltip" rel_version="Event_WinterConvergence_Perm">Danni da tipi specifici aumentati per {[Type_StatusEffectData.AI_IceDryad_Frostfang_Buff_Empower.BaseDuration * 100]} secondi.</string>
 	<string key="AI_IceDryad_Frostfang_Debuff_Weaken_DisplayName" rel_version="Event_WinterConvergence_Perm">Indebolito</string>
 	<string key="AI_IceDryad_Frostfang_Debuff_Weaken_Tooltip" rel_version="Event_WinterConvergence_Perm">Riduzione del danno in uscita per quasi tutti i tipi per {[Type_StatusEffectData.AI_IceDryad_Frostfang_Debuff_Weaken.BaseDuration]} secondi.</string>
 	<string key="AI_DPTank_SandDevil_Bleed_Cyclone_DisplayName" rel_version="Territory_Brimstone_Sands">Diavolo della sabbia</string>
@@ -769,9 +781,13 @@
 	<string key="AI_DPTank_SandDevil_Bleed_Axe_DisplayName" rel_version="Territory_Brimstone_Sands">Sabbie sanguinanti</string>
 	<string key="AI_DPTank_SandDevil_Bleed_Axe_Tooltip" rel_version="Territory_Brimstone_Sands">Sanguinante per un {[Type_StatusEffectData.AI_DPTank_SandDevil_Bleed_Axe.HealthModifierPercent * -100]}% di danni fisici alla salute di base ogni {[Type_StatusEffectData.AI_DPTank_SandDevil_Bleed_Axe.TickRate]} secondi per {[Type_StatusEffectData.AI_DPTank_SandDevil_Bleed_Axe.BaseDuration]} secondi.</string>
 	<string key="AI_DPTank_Fortify_Limited_DisplayName" rel_version="Territory_Brimstone_Sands">Fortificazione</string>
-	<string key="AI_DPTank_Fortify_Limited_Tooltip" rel_version="Territory_Brimstone_Sands">Assorbimento dei danni da tipi specifici aumentato per {[Type_StatusEffectData.Type_StatusEffectData.AI_DPTank_Fortify_Limited.BaseDuration * 100]} secondi.</string>
+	<string key="AI_DPTank_Fortify_Limited_Tooltip" rel_version="Territory_Brimstone_Sands">Assorbimento dei danni da tipi specifici aumentato per {[Type_StatusEffectData.AI_DPTank_Fortify_Limited.BaseDuration * 100]} secondi.</string>
 	<string key="AI_DPTank_Empower_Unlimited_DisplayName" rel_version="Territory_Brimstone_Sands">Potenziamento</string>
-	<string key="AI_DPTank_Empower_Unlimited_Tooltip" rel_version="Territory_Brimstone_Sands">Danni da tipi specifici aumentati per {[Type_StatusEffectData.Type_StatusEffectData.AI_DPTank_Empower_Unlimited.BaseDuration * 100]} secondi.</string>
+	<string key="AI_DPTank_Empower_Unlimited_Tooltip" rel_version="Territory_Brimstone_Sands">Danni da tipi specifici aumentati per {[Type_StatusEffectData.AI_DPTank_Empower_Unlimited.BaseDuration * 100]} secondi.</string>
+	<string key="AI_Empower_DisplayName" rel_version="Territory_Brimstone_Sands">Potenziamento</string>
+	<string key="AI_Empower_Tooltip" rel_version="Territory_Brimstone_Sands">Danni da tipi specifici aumentati per {[Type_StatusEffectData.AI_Empower.BaseDuration * 100]} secondi.</string>
+	<string key="AI_Fulgoris_Gas_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Gas logorato</string>
+	<string key="AI_Fulgoris_Gas_Tooltip" rel_version="Quest_MSQ2_WeaversFen">Danni subiti ed effetto logorante</string>
 	<string key="AI_SandElementalHeavy_AoESlow_T2_DisplayName" rel_version="Territory_Brimstone_Sands">In trappola</string>
 	<string key="AI_SandElementalHeavy_AoESlow_T2_Tooltip" rel_version="Territory_Brimstone_Sands">Velocità di movimento ridotta di un {[Type_StatusEffectData.AI_SandElementalHeavy_AoESlow_T2.MoveSpeedMod * -100]}% per {[Type_StatusEffectData.AI_SandElementalHeavy_AoESlow_T2.BaseDuration]} secondi.</string>
 	<string key="AI_SandElementalHeavy_AoESlow_T3_DisplayName" rel_version="Territory_Brimstone_Sands">In trappola</string>
@@ -786,6 +802,10 @@
 	<string key="AI_AdmiralBrute_Blackpowder_Burn_Tooltip" rel_version="Expedition_CutlassKeys_00">Rovente con danni da fuoco pari a un {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.HealthModifierPercent * -100]}% della salute base ogni {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.TickRate]} secondi per {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.BaseDuration]} secondi.</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_DisplayName" rel_version="Expedition_CutlassKeys_00">Bruciatura da cannone</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_Tooltip" rel_version="Expedition_CutlassKeys_00">Rovente per un {[Type_StatusEffectData.AI_AdmiralBrute_CannonRain_Targeted_DOT.HealthModifierDamageBased * -100]}% di danni da fuoco di base ogni {[Type_StatusEffectData.AI_AdmiralBrute_CannonRain_Targeted_DOT.TickRate]} secondi.</string>
+	<string key="AI_FireNaga_Flamethrower_DoT_DisplayName" rel_version="Expedition_GreatCleave_01">Rovente</string>
+	<string key="AI_FireNaga_Flamethrower_DoT_Tooltip" rel_version="Expedition_GreatCleave_01">Rovente per un {[Type_StatusEffectData.AI_FireNaga_Flamethrower_DoT.HealthModifierPercent * -100]}% di danni da fuoco alla salute massima ogni {[Type_StatusEffectData.AI_FireNaga_Flamethrower_DoT.TickRate]} secondi per {[Type_StatusEffectData.AI_FireNaga_Flamethrower_DoT.BaseDuration]} secondi.</string>
+	<string key="AI_FireNaga_LavaPool_DoT_DisplayName" rel_version="Expedition_GreatCleave_01">Lava rovente</string>
+	<string key="AI_FireNaga_LavaPool_DoT_Tooltip" rel_version="Expedition_GreatCleave_01">Rovente per un {[Type_StatusEffectData.AI_FireNaga_LavaPool_DoT.HealthModifierPercent * -100]}% di danni da fuoco alla salute massima ogni {[Type_StatusEffectData.AI_FireNaga_LavaPool_DoT.TickRate]} secondi.</string>
 	<string key="godModeThirst_DisplayName">Modalità dio</string>
 	<string key="godModeHealth_DisplayName">Modalità dio</string>
 	<string key="godModeAll_DisplayName">Modalità dio</string>
@@ -1107,13 +1127,13 @@
 	<string key="IceMagic_Freeze_DisplayName">Congelamento</string>
 	<string key="IceMagic_Freeze_Description">Congelato per 1 secondo.</string>
 	<string key="IceMagic_UltimateChill_DisplayName">Gelo definitivo</string>
-	<string key="IceMagic_UltimateChill_Description">Danni da ghiaccio ricevuti aumentati del {[Type_StatusEffectData.IceMagic_UltimateChill.WKNIce * 100]}%.</string>
+	<string key="IceMagic_UltimateChill_Description">I danni subiti dal guanto di ghiaccio aumentano di un {[IceMagicAbilityTable.IceTempestUltimate_Helper.BaseDamage * 100]}%.</string>
 	<string key="IceMagic_StrengthenedTomb_DisplayName">Tomba rinforzata</string>
-	<string key="IceMagic_StrengthenedTomb_Description">Armatura aumentata del 25%.</string>
+	<string key="IceMagic_StrengthenedTomb_Description">Armatura aumentata di un {[Type_StatusEffectData.IceMagic_StrengthenedTomb.PhysicalArmor * 100]}%.</string>
 	<string key="IceMagic_IceStorm_Weaken_DisplayName">Folata indebolente</string>
 	<string key="IceMagic_IceStorm_Weaken_Description">Danni ricevuti aumentati del 10%.</string>
 	<string key="IceMagic_WindChill_Shatter_DisplayName">Frammento</string>
-	<string key="IceMagic_WindChill_Shatter_Description">Armatura ridotta del 5% per accumulo.</string>
+	<string key="IceMagic_WindChill_Shatter_Description">Armatura ridotta di un {[Type_StatusEffectData.IceMagic_WindChill_Shatter.PhysicalArmor * -100]}% per accumulo.</string>
 	<string key="IceMagic_QuickFrost_DisplayName">Gelo rapido</string>
 	<string key="IceMagic_QuickFrost_Description">Aumenta la velocità del 10%.</string>
 	<string key="IceMagic_QuickFrostUltimate_DisplayName">Gelo rapido</string>
@@ -1121,7 +1141,7 @@
 	<string key="IceMagic_FrozenTouch_DisplayName">Tocco ghiacciato</string>
 	<string key="IceMagic_FrozenTouch_Description">Rallentato del 25%.</string>
 	<string key="IceMagic_DefiantFreeze_DisplayName">Congelamento sprezzante</string>
-	<string key="IceMagic_DefiantFreeze_Description">Fortificazione aumentata del 20%.</string>
+	<string key="IceMagic_DefiantFreeze_Description">Armatura aumentata di un {[Type_StatusEffectData.IceMagic_DefiantFreeze.PhysicalArmor * 100]}%.</string>
 	<string key="HealAura_DisplayName" comment="LIFESTAFF">Giustizia incantata</string>
 	<string key="HealAura_Description" comment="LIFESTAFF">Un protettore sta fornendo guarigione nel tempo.</string>
 	<string key="AuraHealTimer_DisplayName" comment="LIFESTAFF">Timer Giustizia incantata</string>
@@ -1180,11 +1200,11 @@
 	<string key="FireStaff_ManaRegen_Description" comment="FIRESTAFF">Rigenerazione del mana aumentata.</string>
 	<string key="Combust_Stun_Description" comment="FIRESTAFF">Sei stordito per 3 secondi!</string>
 	<string key="HornOfResilienceT1_DisplayName">Corno della resilienza L1</string>
-	<string key="HornOfResilienceT1_Tooltip">Ripristina 334 punti salute al secondo e aggiunge il 15% di assorbimento dei danni.</string>
+	<string key="HornOfResilienceT1_Tooltip">Ripristina {[Type_StatusEffectData.HornOfResilience.Health]} salute al secondo e aggiunge un {[Type_StatusEffectData.HornOfResilience.PhysicalArmor * -100]}% di armatura.</string>
 	<string key="HornOfResilienceT2_DisplayName">Corno della resilienza L2</string>
-	<string key="HornOfResilienceT2_Tooltip">Ripristina 418 punti salute al secondo e aggiunge il 19% di assorbimento dei danni.</string>
+	<string key="HornOfResilienceT2_Tooltip">Ripristina {[Type_StatusEffectData.HornOfResilience_T2.Health]} salute al secondo e aggiunge un {[Type_StatusEffectData.HornOfResilience_T2.PhysicalArmor * -100]}% di armatura.</string>
 	<string key="HornOfResilienceT3_DisplayName">Corno della resilienza L3</string>
-	<string key="HornOfResilienceT3_Tooltip">Ripristina 500 punti salute al secondo e aggiunge il 23% di assorbimento dei danni.</string>
+	<string key="HornOfResilienceT3_Tooltip">Ripristina {[Type_StatusEffectData.HornOfResilience_T3.Health]} salute al secondo e aggiunge un {[Type_StatusEffectData.HornOfResilience_T3.PhysicalArmor * -100]}% di armatura.</string>
 	<string key="Cleanse_DisplayName">Elimina</string>
 	<string key="Cleanse_Tooltip">Conferisce immunità ai depotenziamenti e rimuove quelli già applicati.</string>
 	<string key="HasteElixir_DisplayName">Elisir sprint</string>
@@ -1231,21 +1251,24 @@
 	<string key="WeaponCoatingEffect_T5_Corrupted_Description">Mentre quest'arma è attiva, infliggi un {[ConsumableItemDefinitions.CoatingCorruptedT5.DMGVitalsCategory * 100]}% di danni in più ai Corrotti.</string>
 	<string key="WeaponCoatingEffect_T5_AngryEarth_DisplayName">Rivestimento armi per Terra irata impregnato</string>
 	<string key="WeaponCoatingEffect_T5_AngryEarth_Description">Mentre quest'arma è attiva, infliggi un {[ConsumableItemDefinitions.CoatingAngryEarthT5.DMGVitalsCategory * 100]}% di danni in più alla Terra irata.</string>
+	<string key="Season_01_Event_DamageBoostEffect_DisplayName" rel_version="Season_1_Temp">Benedizione della fiamma</string>
+	<string key="Season_01_Event_DamageBoostEffect_Description">La fiamma ti attraversa, aumentando i danni contro i nemici Spriggan tessirovi di un {[Type_StatusEffectData.Season_01_Event_DamageBoostEffect.DMGVitalsCategory * 100]}%.</string>
 	<string key="Status_Spear_Skewer_Bleed_DisplayName">Infilzatore</string>
 	<string key="Status_Spear_Skewer_Bleed_Description">{[Type_StatusEffectData.Spear_Skewer_Bleed.HealthModifierDamageBased * -100]}% di sanguinamento ogni {[Type_StatusEffectData.Spear_Skewer_Bleed.TickRate]} secondi per {[Type_StatusEffectData.Spear_Skewer_Bleed.BaseDuration]} secondi.</string>
 	<string key="Status_Spear_Skewer_Bleed_Upgrade_Description">{[Type_StatusEffectData.Spear_Skewer_Bleed_Upgrade.HealthModifierDamageBased * -100]}% di sanguinamento ogni {[Type_StatusEffectData.Spear_Skewer_Bleed_Upgrade.TickRate]} secondi per {[Type_StatusEffectData.Spear_Skewer_Bleed_Upgrade.BaseDuration]} secondi.</string>
 	<string key="Status_Spear_Skewer_EmpowerOnCrit_Description">Danni aumentati di un {[Type_StatusEffectData.Spear_Skewer_EmpowerOnCrit.DMGStandard * 100]}%.</string>
 	<string key="Status_Spear_Perforate_Rend_DisplayName">Perforazione</string>
-	<string key="Status_Spear_Perforate_Rend_Description">Subisci un {[Type_StatusEffectData.Spear_Perforate_Rend.ABSThrust * -100]}% di danni aggiuntivi da tutte le fonti per {[Type_StatusEffectData.Spear_Perforate_Rend.BaseDuration]} secondi.</string>
+	<string key="Status_Spear_Perforate_Rend_Description">Armatura ridotta di un {[Type_StatusEffectData.Spear_Perforate_Rend.PhysicalArmor * -100]}% per {[Type_StatusEffectData.Spear_Perforate_Rend.BaseDuration]} secondi.</string>
 	<string key="Status_Spear_Perforate_Rend_Upgrade_DisplayName">Perforazione</string>
-	<string key="Status_Spear_Perforate_Rend_Upgrade_Description">Subisci un {[Type_StatusEffectData.Spear_Perforate_Rend_Upgrade.ABSThrust * -100]}% di danni aggiuntivi da tutte le fonti per {[Type_StatusEffectData.Spear_Perforate_Rend_Upgrade.BaseDuration]} secondi.</string>
+	<string key="Status_Spear_Perforate_Rend_Upgrade_Description">Armatura ridotta di un {[Type_StatusEffectData.Spear_Perforate_Rend_Upgrade.PhysicalArmor * -100]}% per {[Type_StatusEffectData.Spear_Perforate_Rend_Upgrade.BaseDuration]} secondi.</string>
 	<string key="Status_Spear_Cyclone_Slow_Description">Velocità di movimento ridotta di un {[Type_StatusEffectData.Spear_Cyclone_Slow.MoveSpeedMod * -100]}% per {[Type_StatusEffectData.Spear_Cyclone_Slow.BaseDuration]} secondi.</string>
 	<string key="Status_Spear_VaultKick_EmpowerVsLowHP_Description">Danni aumentati di un {[Type_StatusEffectData.Spear_VaultKick_EmpowerVsLowHP.DMGStandard * 100]}%.</string>
 	<string key="Status_Spear_BonusDmgAfterDodge_Description">Danni aumentati di un {[Type_StatusEffectData.Spear_BonusDmgAfterDodge.DMGStandard * 100]}%.</string>
-	<string key="Status_Spear_FortifyOnHvyHit_Description">Assorbimento dei danni aumentato di un {[Type_StatusEffectData.Spear_FortifyOnHvyHit.ABSStandard * 100]}%.</string>
+	<string key="Status_Spear_FortifyOnHvyHit_Description">Armatura aumentata di un {[Type_StatusEffectData.Spear_FortifyOnHvyHit.PhysicalArmor * 100]}%.</string>
 	<string key="Status_Spear_BonusStamRegenOnLowStam_DisplayName">Rigenerazione di energia bonus.</string>
 	<string key="Status_Spear_BonusStamRegenOnLowStam_Description">Rigenerazione di energia aumentata di un {[Type_StatusEffectData.Spear_BonusStamRegenOnLowStam.StaminaRate * 100]}%.</string>
 	<string key="Status_Spear_SlowOnLightVsLowHP_Description">Velocità di movimento ridotta di un {[Type_StatusEffectData.Spear_SlowOnLightVsLowHP.MoveSpeedMod * -100]}% per {[Type_StatusEffectData.Spear_SlowOnLightVsLowHP.BaseDuration]} secondi.</string>
+	<string key="Status_Upgrade_Spear_Perforate_Weaken_description">I danni inflitti si riducono di un {[Type_StatusEffectData.Spear_Perforate_WeakenStack.DMGStandard * -100]}% per accumulo.</string>
 	<string key="Rapier_Bleed_DoT_DisplayName">Sanguinamento</string>
 	<string key="Rapier_Bleed_DoT_Description">Infligge un {[Type_StatusEffectData.Rapier_Bleed_DOT.HealthModifierDamageBased * -100]}% dei danni da arma degli attaccanti al secondo.</string>
 	<string key="Rapier_BonusDMGAfterRiposte_DisplayName">Potenzia il contrattacco</string>
@@ -1274,7 +1297,9 @@
 	<string key="BlockSpeedPerk3_Description">La tua velocità di movimento aumenta di {[Type_StatusEffectData.BlockSpeedPerk3.MoveSpeedMod * 100]}.</string>
 	<string key="Status_Ability_Riposte">Contrattacco</string>
 	<string key="OR_Boss_Buff">Potenza spettrale</string>
-	<string key="OR_Boss_Buff_Description">+{[Type_StatusEffectData.OutpostRush_Boss_Buff.ABSStandard * 100]}% di assorbimento dei danni e +{[Type_StatusEffectData.OutpostRush_Boss_Buff.Health * 4]} di rigenerazione della salute al secondo.</string>
+	<string key="OR_Boss_Buff_Description">+{[Type_StatusEffectData.OutpostRush_Boss_Buff.PhysicalArmor * 100]}% di armatura e +{[Type_StatusEffectData.OutpostRush_Boss_Buff.Health * 4]} di rigenerazione della salute al secondo.</string>
+	<string key="OR_FortSpawn_Invulnerable_Name">Invulnerabilità generazione nel forte</string>
+	<string key="OR_FortSpawn_Invulnerable_Description">Invulnerabile per la durata di questo effetto dopo essersi generati nel proprio forte di Carica all'avamposto.</string>
 	<string key="Status_Empower">Potenziamento</string>
 	<string key="Status_Fortify">Fortificazione</string>
 	<string key="Status_Haste">Fretta</string>
@@ -1297,11 +1322,11 @@
 	<string key="Status_Disease">Malattia</string>
 	<string key="Status_Recovery">Recupero</string>
 	<string key="Status_Empower_Description">Hai un potenziamento di aumento dei danni attivo.</string>
-	<string key="Status_Fortify_Description">Hai un potenziamento di assorbimento dei danni attivo.</string>
+	<string key="Status_Fortify_Description">Hai un potenziamento dell'armatura attivo.</string>
 	<string key="Status_Haste_Description">La tua velocità di movimento attuale è aumentata.</string>
 	<string key="Status_Slow_Description">La tua velocità di movimento attuale è ridotta.</string>
 	<string key="Status_Exhaust_Description">Il tuo tasso di rigenerazione dell'energia attuale è ridotto.</string>
-	<string key="Status_Rend_Description">Hai un depotenziamento di assorbimento dei danni attivo.</string>
+	<string key="Status_Rend_Description">Hai una riduzione dell'armatura attiva.</string>
 	<string key="Status_Weaken_Description">Hai un depotenziamento di riduzione dei danni attivo.</string>
 	<string key="Status_Stun_Description">I tuoi movimenti, attacchi e abilità sono attualmente disabilitati.</string>
 	<string key="Status_Root_Description">Il tuo movimento è attualmente disabilitato.</string>
@@ -1319,7 +1344,7 @@
 	<string key="Status_Passive_Bow_Skirmish_DodgeDmg_description">I tuoi danni aumentano di un {[Type_StatusEffectData.Status_Passive_Bow_Skirmish_DodgeDmg.DMGStandard * 100]}%.</string>
 	<string key="Status_Passive_Bow_Skirmish_SlowFull_description">La tua velocità di movimento si riduce di un {[Type_StatusEffectData.Status_Passive_Bow_Skirmish_SlowFull.SprintSpeedMod * 100]}%.</string>
 	<string key="Status_Ultimate_Bow_Skirmish_description">La tua velocità di movimento si riduce di un {[Type_StatusEffectData.Status_Ultimate_Bow_Skirmish.SprintSpeedMod * 100]}%.</string>
-	<string key="Status_Passive_Bow_Hunter_ArmorAimHeavy_description">I danni subiti si riducono di un {[Type_StatusEffectData.Status_Passive_Bow_Hunter_ArmorAimHeavy.ABSStandard * 100]}%.</string>
+	<string key="Status_Passive_Bow_Hunter_ArmorAimHeavy_description">L'armatura aumenta di un {[Type_StatusEffectData.Status_Passive_Bow_Hunter_ArmorAimHeavy.ABSStandard * 100]}%.</string>
 	<string key="Status_Bow_RainOfArrows_Slow_description">La tua velocità di movimento si riduce di un {[Type_StatusEffectData.Status_Bow_RainOfArrows_Slow.SprintSpeedMod * 100]}%.</string>
 	<string key="Status_Passive_Bow_Skirmish_HasteWhenFoesNear_description">La tua velocità di movimento aumenta di un {[Type_StatusEffectData.Status_Passive_Bow_Skirmish_HasteWhenFoesNear.SprintSpeedMod * 100]}%.</string>
 	<string key="Status_Passive_Bow_Skirmish_HasteOnSwap_Timer_description">Allo scadere, potrai riottenere Velocità dell'arciere.</string>
@@ -1334,9 +1359,9 @@
 	<string key="Status_Passive_Greataxe_Reaper_HasteOnLight_description">La tua velocità di movimento aumenta di un {[Type_StatusEffectData.Status_Passive_Greataxe_Reaper_HasteOnLight.SprintSpeedMod * 100]}%.</string>
 	<string key="Status_Passive_Greataxe_Reaper_DmgWhenBlocked_description">I tuoi danni aumentano di un {[Type_StatusEffectData.Status_Passive_Greataxe_Reaper_DmgWhenBlocked.DMGStandard * 100]}%.</string>
 	<string key="Status_Passive_Greataxe_Mauler_DmgOnBlock_description">I tuoi danni aumentano di un {[Type_StatusEffectData.Status_Passive_Greataxe_Mauler_DmgOnBlock.DMGStandard * 100]}%.</string>
-	<string key="Status_Upgrade_Greataxe_GravityWell_ArmorInWell_description">I danni subiti si riducono di un {[Type_StatusEffectData.Status_Upgrade_Greataxe_GravityWell_ArmorInWell.ABSStandard * 100]}%.</string>
+	<string key="Status_Upgrade_Greataxe_GravityWell_ArmorInWell_description">La tua armatura aumenta di un {[Type_StatusEffectData.Status_Upgrade_Greataxe_GravityWell_ArmorInWell.PhysicalArmor * 100]}%.</string>
 	<string key="Status_Passive_Greataxe_Mauler_DmgWhenFoesNear_description">I tuoi danni aumentano di un {[Type_StatusEffectData.Status_Passive_Greataxe_Mauler_DmgWhenFoesNear.DMGStandard * 100]}%.</string>
-	<string key="Status_Passive_Greataxe_Mauler_ArmorWhenFoesNear_description">I danni subiti si riducono di un {[Type_StatusEffectData.Status_Passive_Greataxe_Mauler_ArmorWhenFoesNear.ABSStandard * 100]}%.</string>
+	<string key="Status_Passive_Greataxe_Mauler_ArmorWhenFoesNear_description">La tua armatura aumenta di un {[Type_StatusEffectData.Status_Passive_Greataxe_Mauler_ArmorWhenFoesNear.PhysicalArmor * 100]}%.</string>
 	<string key="Status_Passive_Greataxe_Mauler_StamVsLowHp_Timer_description">Allo scadere, potrai riottenere Determinazione del picchiatore.</string>
 	<string key="Hatchet_Berserk_DisplayName">Berserker</string>
 	<string key="Hatchet_Berserk_Description">Modalità Berserker per {[Type_StatusEffectData.Hatchet_Berserk.BaseDuration]} secondi.</string>
@@ -1355,34 +1380,34 @@
 	<string key="Status_SocialDist_Haste_Description">La tua velocità di movimento aumenta di un {[Type_StatusEffectData.Hatchet_SocialDist_Haste.MoveSpeedMod * 100]}%.</string>
 	<string key="Status_Raging_Haste_Description">La tua velocità di movimento aumenta di un {[Type_StatusEffectData.Hatchet_Raging_Haste.MoveSpeedMod * 100]}%.</string>
 	<string key="Hatchet_Rush_Root_Description">Sei Immobilizzato.</string>
-	<string key="Hatchet_Throw_Rend_Description">L'assorbimento dei danni si riduce di un {[Type_StatusEffectData.Hatchet_RendingThrow_Rend.ABSStandard * -100]}%.</string>
-	<string key="Hatchet_Throw_RendBuff_Description">L'assorbimento dei danni si riduce di un {[Type_StatusEffectData.Hatchet_RendingThrow_RendBuff.ABSStandard * -100]}%.</string>
+	<string key="Hatchet_Throw_Rend_Description">La tua armatura si riduce di un {[Type_StatusEffectData.Hatchet_RendingThrow_Rend.PhysicalArmor * -100]}%.</string>
+	<string key="Hatchet_Throw_RendBuff_Description">La tua armatura si riduce di un {[Type_StatusEffectData.Hatchet_RendingThrow_RendBuff.PhysicalArmor * -100]}%.</string>
 	<string key="Hatchet_SocialDist_Slow_Description">La tua velocità di movimento si riduce di un {[Type_StatusEffectData.Hatchet_SocialDist_Slow.MoveSpeedMod * -100]}%.</string>
 	<string key="Hatchet_SocialDist_SlowBuff_Description">La tua velocità di movimento si riduce di un {[Type_StatusEffectData.Hatchet_SocialDist_SlowBuff.MoveSpeedMod * -100]}%.</string>
-	<string key="Hatchet_3AtkFortify_Description">I danni subiti si riducono di un {[Type_StatusEffectData.Hatchet_Pass_Fortify3Atk.ABSStandard * 100]}%.</string>
+	<string key="Hatchet_3AtkFortify_Description">La tua armatura aumenta di un {[Type_StatusEffectData.Hatchet_Pass_Fortify3Atk.PhysicalArmor * 100]}%.</string>
 	<string key="InfectedThrow_Disease_DisplayName">Lancio infettivo</string>
 	<string key="InfectedThrow_Disease_Description">L'efficacia della guarigione si riduce di un {[Type_StatusEffectData.Hatchet_Infected_Disease.HealMod * -100]}%.</string>
 	<string key="InfectedThrow_Weaken_DisplayName">Indebolito</string>
 	<string key="InfectedThrow_Weaken_Description">I danni inflitti si riducono di un {[Type_StatusEffectData.Hatchet_Infected_Weaken.DMGStandard * -100]}%.</string>
-	<string key="WarHammer_ArmorBreaker_Rend_Description">I danni subiti aumentano di un {[Type_StatusEffectData.WarHammer_ArmorBreaker_Rend.ABSStandard * -100]}%.</string>
+	<string key="WarHammer_ArmorBreaker_Rend_Description">La tua armatura si riduce di un {[Type_StatusEffectData.WarHammer_ArmorBreaker_Rend.PhysicalArmor * -100]}%.</string>
 	<string key="WarHammer_Gavel_Haste_Description">La tua velocità di movimento aumenta di un {[Type_StatusEffectData.WarHammer_Gavel_Haste.MoveSpeedMod * 100]}%.</string>
 	<string key="WarHammer_HasteOnDebuff_Description">La tua velocità di movimento aumenta di un {[Type_StatusEffectData.WarHammer_Pass_Haste.MoveSpeedMod * 100]}%.</string>
-	<string key="WarHammer_WreckingBall_Forify_Description">I danni subiti si riducono di un {[Type_StatusEffectData.WarHammer_WreckingBall_Fortify.ABSStandard * 100]}%.</string>
+	<string key="WarHammer_WreckingBall_Forify_Description">La tua armatura aumenta di un {[Type_StatusEffectData.WarHammer_WreckingBall_Fortify.PhysicalArmor * 100]}%.</string>
 	<string key="WarHammer_HeavyEmpower_Description">Aumento dei danni di un {[Type_StatusEffectData.Warhammer_Pass_HeavyEmpower.DMGStandard * 100]}% per {[Type_StatusEffectData.Warhammer_Pass_HeavyEmpower.BaseDuration]} secondi.</string>
 	<string key="WarHammer_ExhaustOnHit_Description">Il tasso di rigenerazione dell'energia si riduce di un {[Type_StatusEffectData.Warhammer_Pass_ExhaustOnHit.StaminaRate * -100]}%.</string>
-	<string key="WarHammer_ClearOut_Fortify_Description">I danni subiti si riducono di un {[Type_StatusEffectData.WarHammer_ClearOut_FortifyBuff.ABSStandard * 100]}%.</string>
+	<string key="WarHammer_ClearOut_Fortify_Description">La tua armatura aumenta di un {[Type_StatusEffectData.WarHammer_ClearOut_FortifyBuff.PhysicalArmor * 100]}%.</string>
 	<string key="WarHammer_ClearOut_Haste_Description">La tua velocità di movimento aumenta di un {[Type_StatusEffectData.WarHammer_ClearOut_Haste.MoveSpeedMod * 100]}%.</string>
 	<string key="WarHammer_Shockwave_Weaken_Description">I danni inflitti si riducono di un {[Type_StatusEffectData.WarHammer_Shockwave_Weaken.DMGStandard * 100]}%.</string>
 	<string key="WarHammer_Shockwave_Stun_Description">Stordito per {[Type_StatusEffectData.WarHammer_Shockwave_Stun.BaseDuration]} secondi. Rimosso per danno.</string>
 	<string key="WarHammer_Ult_Slow_DisplayName">Assestamento</string>
 	<string key="WarHammer_Ult_Slow_Description">La tua velocità di movimento si riduce di un {[Type_StatusEffectData.WarHammer_Ult_SlowOnCC.MoveSpeedMod * -100]}%.</string>
-	<string key="WarHammer_ArmorReduction_Description">I danni subiti aumentano di un {[Type_StatusEffectData.WarHammer_ArmRed20Pct5Sec.ABSStandard * 100]}%.</string>
+	<string key="WarHammer_ArmorReduction_Description">La tua armatura aumenta di un {[Type_StatusEffectData.WarHammer_ArmRed20Pct5Sec.PhysicalArmor * 100]}%.</string>
 	<string key="WarHammer_Exhaust_Description">Il tasso di rigenerazione dell'energia si riduce di un {[Type_StatusEffectData.Musket_StoppingPower_Exhaust.StaminaRate * -100]}%.</string>
 	<string key="WarHammer_CrowdCrusher_ArmorNearbyEnemy_description">Quando sei circondato, la riduzione dei danni si attiva.</string>
 	<string key="Musket_Trap_Root_DisplayName">Intrappolamento</string>
 	<string key="Musket_Trap_Root_Description">Immobilizzato per {[Type_StatusEffectData.Musket_Trap_Root.BaseDuration]} secondi.</string>
 	<string key="Musket_Trap_Rend_DisplayName">Lacerato</string>
-	<string key="Musket_Trap_Rend_Description">Aumenta di un {[Type_StatusEffectData.Musket_Trap_Rend.ABSStandard * -100]}% i danni subiti.</string>
+	<string key="Musket_Trap_Rend_Description">La tua armatura si riduce di un {[Type_StatusEffectData.Musket_Trap_Rend.PhysicalArmor * -100]}%</string>
 	<string key="Musket_Sticky_Slow_DisplayName">Rallentamento adesivo</string>
 	<string key="Musket_Sticky_Slow_Description">La tua velocità di movimento si riduce di un {[Type_StatusEffectData.Musket_Sticky_Slow.MoveSpeedMod * -100]}%.</string>
 	<string key="Status_PowerShot_Empower_Description">Aumento dei danni di un {[Type_StatusEffectData.Musket_PowerShot_Empower.DMGStandard * 100]}% per {[Type_StatusEffectData.Musket_PowerShot_Empower.BaseDuration]} secondi.</string>
@@ -1408,27 +1433,27 @@
 	<string key="Status_Greatsword_Counter_DisplayName">Contrattacco calamità</string>
 	<string key="Status_Greatsword_Counter_Description">Il potere del Contrattacco calamità aumenta con ogni accumulo di questo effetto.</string>
 	<string key="Status_VoidGauntlet_VoidBlade_Description" rel_version="Weapon_Void_Gauntlet">I tuoi attacchi di base ora sono in mischia.</string>
-	<string key="Status_VoidGauntlet_VoidBlade_Fortify_Description" rel_version="Weapon_Void_Gauntlet">I danni subiti si riducono di un {[Type_StatusEffectData.VoidGauntlet_VoidBlade_Fortify.ABSStandard * 100]}%.</string>
+	<string key="Status_VoidGauntlet_VoidBlade_Fortify_Description" rel_version="Weapon_Void_Gauntlet">La tua armatura aumenta di un {[Type_StatusEffectData.VoidGauntlet_VoidBlade_Fortify.PhysicalArmor * 100]}%.</string>
 	<string key="Status_VoidGauntlet_Disintegrate_DisplayName" rel_version="Weapon_Void_Gauntlet">Disintegrazione</string>
 	<string key="Status_VoidGauntlet_Disintegrate_Description" rel_version="Weapon_Void_Gauntlet">Subisci un {[Type_StatusEffectData.VoidGauntlet_Disintegrate.HealthModifierDamageBased * -100]}% dei danni da Vuoto al secondo e i danni subiti aumentano di un {[Type_StatusEffectData.VoidGauntlet_Disintegrate.ABSStandard * -100]}%.</string>
 	<string key="Status_VoidGauntlet_EssenceRupture_Description" rel_version="Weapon_Void_Gauntlet">I nemici che ti colpiscono vengono curati di un {[Type_StatusEffectData.VoidGauntlet_EssenceRupture_Heal.HealthModifierDamageBased * 100]}% dei danni inflitti.</string>
 	<string key="Status_VoidGauntlet_EssenceRupture_Empower_Description" rel_version="Weapon_Void_Gauntlet">I tuoi danni aumentano di un {[Type_StatusEffectData.VoidGauntlet_EssenceRupture_Empower.DMGCorruption * 100]}%.</string>
 	<string key="Status_VoidGauntlet_NullChamber_Empower_Description" rel_version="Weapon_Void_Gauntlet">I tuoi danni aumentano di un {[Type_StatusEffectData.VoidGauntlet_NullChamber_Empower.DMGCorruption * 100]}%.</string>
 	<string key="Status_VoidGauntlet_NullChamber_Weaken_Description" rel_version="Weapon_Void_Gauntlet">I tuoi danni si riducono di un {[Type_StatusEffectData.VoidGauntlet_NullChamber_Weaken.DMGCorruption * -100]}%.</string>
-	<string key="Status_VoidGauntlet_Scream_Fortify_Description" rel_version="Weapon_Void_Gauntlet">I danni subiti si riducono di un {[Type_StatusEffectData.VoidGauntlet_Scream_Fortify.ABSStandard * 100]}%.</string>
+	<string key="Status_VoidGauntlet_Scream_Fortify_Description" rel_version="Weapon_Void_Gauntlet">La tua armatura aumenta di un {[Type_StatusEffectData.VoidGauntlet_Scream_Fortify.PhysicalArmor * 100]}%.</string>
 	<string key="Status_Perk_VoidGauntlet_Scream_Disease_Description" rel_version="Weapon_Void_Gauntlet">Le cure ricevute si riducono di un {[Type_StatusEffectData.VoidGauntlet_Scream_Disease.HealMod * -100]}%.</string>
 	<string key="Status_VoidGauntlet_DecayingOrb_Heal_Description" rel_version="Weapon_Void_Gauntlet">Impartisci cure pari a un {[Type_StatusEffectData.VoidGauntlet_DecayingOrb_Heal.HealthModifierDamageBased * 100]}% dei danni da arma al secondo.</string>
 	<string key="Status_VoidGauntlet_DecayingOrb_SlowVsDebuff_Description" rel_version="Weapon_Void_Gauntlet">La tua velocità di movimento si riduce di un {[Type_StatusEffectData.VoidGauntlet_DecayingOrb_SlowVsDebuff.MoveSpeedMod * -100]}%.</string>
 	<string key="Status_VoidGauntlet_DrainingTether_Empower_Description" rel_version="Weapon_Void_Gauntlet">I tuoi danni aumentano di un {[Type_StatusEffectData.VoidGauntlet_DrainingTether_Empower.DMGCorruption * 100]}%.</string>
 	<string key="Status_VoidGauntlet_DrainingTether_Weaken_Description" rel_version="Weapon_Void_Gauntlet">I tuoi danni si riducono di un {[Type_StatusEffectData.VoidGauntlet_DrainingTether_Weaken.DMGCorruption * -100]}%.</string>
-	<string key="Status_VoidGauntlet_DrainingTether_Slow_Description" rel_version="Weapon_Void_Gauntlet">La tua velocità di movimento si riduce di un {[Type_StatusEffectData.VoidGauntlet_DrainingTether_Slow.MoveSpeedMod * -100]}%.</string>
+	<string key="Status_VoidGauntlet_DrainingTether_Slow_Description" rel_version="Weapon_Void_Gauntlet">La tua velocità di movimento si riduce di un {[Type_StatusEffectData.VoidGauntlet_DrainingTether_Slow.MoveSpeedMod * {Potency} * -100]}%.</string>
 	<string key="Status_VoidGauntlet_EmpowerCloseRange_Description" rel_version="Weapon_Void_Gauntlet">I tuoi danni aumentano di un {[Type_StatusEffectData.VoidGauntlet_EmpowerCloseRange.DMGCorruption * 100]}%.</string>
 	<string key="Status_VoidGauntlet_SiphonAura_Heal_Description" rel_version="Weapon_Void_Gauntlet">Impartisci cure pari a un {[Type_StatusEffectData.VoidGauntlet_SiphonAura_Heal.HealthModifierDamageBased * 100]}% dei danni da arma al secondo.</string>
 	<string key="Status_VoidGauntlet_SiphonAura_Timer_Description" rel_version="Weapon_Void_Gauntlet">Ritardo prima che Evocatore del Vuoto possa essere attivato nuovamente.</string>
 	<string key="Status_VoidGauntlet_SiphonConversionTimer_Description" rel_version="Weapon_Void_Gauntlet">Ritardo prima che Scorcio del Vuoto possa essere attivato nuovamente.</string>
 	<string key="Status_VoidGauntlet_VoidEssence_DisplayName" rel_version="Weapon_Void_Gauntlet">Essenza del Vuoto</string>
 	<string key="Status_VoidGauntlet_VoidEssence_description" rel_version="Weapon_Void_Gauntlet">Essenza del Vuoto che contribuisce alla tua abilità definitiva. La durata si azzera quando vengono applicati nuovi accumuli.</string>
-	<string key="Status_Passive_Firestaff_Pyro_FortOnBurn_description">I danni subiti si riducono di un {[Type_StatusEffectData.Status_Passive_Firestaff_Pyro_FortOnBurn.ABSStandard * 100]}%.</string>
+	<string key="Status_Passive_Firestaff_Pyro_FortOnBurn_description">La tua armatura aumenta di un {[Type_StatusEffectData.Status_Passive_Firestaff_Pyro_FortOnBurn.PhysicalArmor * 100]}%.</string>
 	<string key="Status_Passive_Firestaff_FireMage_DmgFullMana_description">I tuoi danni aumentano di un {[Type_StatusEffectData.Status_Passive_Firestaff_FireMage_DmgFullMana.DMGStandard * 100]}% quando il mana è superiore al 50%.</string>
 	<string key="Status_Passive_Firestaff_FireMage_DmgNoDmg_Timer_description">Allo scadere, potrai ottenere Lancio pulito.</string>
 	<string key="Status_Passive_Firestaff_FireMage_DmgNoDmg_description">I tuoi danni aumentano di un {[Type_StatusEffectData.Status_Passive_Firestaff_FireMage_DmgNoDmg.DMGStandard * 100]}%. Termina se subisci danni.</string>
@@ -1436,14 +1461,15 @@
 	<string key="Status_Passive_Firestaff_Pyro_Haste_Timer_description">Allo scadere, potrai attivare di nuovo Velocità di combattimento.</string>
 	<string key="Status_Passive_Firestaff_Pyro_Ultimate_Timer_description">Allo scadere, potrai ottenere Riscalda.</string>
 	<string key="Status_Passive_Firestaff_Pyro_Ultimate_description">Ottieni un {[Type_StatusEffectData.Status_Passive_Firestaff_Pyro_Ultimate.ManaRate * 100]}% di rigenerazione del mana.</string>
+	<string key="Status_Passive_Firestaff_IncinerateEmpower_description">I tuoi danni aumentano di un {[Type_StatusEffectData.Status_Passive_Firestaff_incinerate_Empower.DMGStandard * 100]}% per accumulo.</string>
 	<string key="Status_Ultimate_Firemage_DMG_description">I tuoi danni aumentano di un {[Type_StatusEffectData.Status_Ultimate_Firemage_DMG.DMGStandard * 100]}% quando stai sulla runa.</string>
 	<string key="Status_Ultimate_Firemage_Timer_description">Allo scadere, potrai riottenere Rune di Elio.</string>
-	<string key="Status_Upgrade_Sword_WhirlingBlade_Rend_description">I danni subiti aumentano di un {[Type_StatusEffectData.Status_Upgrade_Sword_WhirlingBlade_Rend.ABSStandard * 100]}%.</string>
+	<string key="Status_Upgrade_Sword_WhirlingBlade_Rend_description">La tua armatura si riduce di un {[Type_StatusEffectData.Status_Upgrade_Sword_WhirlingBlade_Rend.PhysicalArmor * 100]}%.</string>
 	<string key="Status_Upgrade_Sword_LeapingStrike_Slow_description">La tua velocità di movimento si riduce di un {[Type_StatusEffectData.Status_Upgrade_Sword_LeapingStrike_Slow.SprintSpeedMod * 100]}%.</string>
 	<string key="Status_Passive_Sword_Swordmaster_DmgOnHeavy_description">I tuoi danni aumentano di un {[Type_StatusEffectData.Status_Passive_Sword_Swordmaster_DmgOnHeavy.DMGStandard * 100]}%.</string>
 	<string key="Status_Passive_Sword_Swordmaster_HasteWhileBlock_description">La tua velocità di movimento mentre pari aumenta di un {[Type_StatusEffectData.Status_Passive_Sword_Swordmaster_HasteWhileBlock.MoveSpeedMod * 100]}%.</string>
 	<string key="Status_Passive_Sword_Swordmaster_HasteOnCrit_description">La tua velocità di movimento aumenta di un {[Type_StatusEffectData.Status_Passive_Sword_Swordmaster_HasteOnCrit.MoveSpeedMod * 100]}%.</string>
-	<string key="Status_Passive_Sword_Defender_FortWhileBlock_description">I danni subiti si riducono di un {[Type_StatusEffectData.Status_Passive_Sword_Defender_FortWhileBlock.ABSStandard * 100]}%.</string>
+	<string key="Status_Passive_Sword_Defender_FortWhileBlock_description">La tua armatura aumenta di un {[Type_StatusEffectData.Status_Passive_Sword_Defender_FortWhileBlock.PhysicalArmor * 100]}%.</string>
 	<string key="Status_Passive_Sword_Swordmaster_SlowOnFinal_description">La tua velocità di movimento si riduce di un {[Type_StatusEffectData.Status_Passive_Sword_Swordmaster_SlowOnFinal.SprintSpeedMod * 100]}%.</string>
 	<string key="Status_Upgrade_Sword_Rush_Weak_description">I danni inflitti si riducono di un {[Type_StatusEffectData.Status_Upgrade_Sword_Rush_Weak.DMGStandard * 100]}%.</string>
 	<string key="Status_Upgrade_Sword_Rush_Slow_description">La tua velocità di movimento si riduce di un {[Type_StatusEffectData.Status_Upgrade_Sword_Rush_Slow.SprintSpeedMod * 100]}%.</string>
@@ -1452,7 +1478,7 @@
 	<string key="Status_Ability_Sword_FinalStand_Heal_description">I danni subiti si riducono di un {[SwordAbilityTable.Ability_Sword_FinalStand.BaseDamageReduction * 100]}%. Allo scadere, cura un {[Type_StatusEffectData.Status_Ability_Sword_FinalStand_Heal_Heal.HealthModifierPercent * 100]}% della salute massima.</string>
 	<string key="Status_Ultimate_Sword_Defender_description">I danni subiti si riducono di un {[Type_StatusEffectData.Status_Ultimate_Sword_Defender.ABSStandard * 100]}%</string>
 	<string key="Status_Ultimate_Sword_Defender_Timer_description">Allo scadere, potrai riutilizzare Formazione difensiva.</string>
-	<string key="Status_Ability_Lifestaff_OrbofProtection_description">I danni subiti si riducono di un {[Type_StatusEffectData.Status_Ability_Lifestaff_OrbofProtection.ABSStandard * 100]}%.</string>
+	<string key="Status_Ability_Lifestaff_OrbofProtection_description">La tua armatura aumenta di un {[Type_StatusEffectData.Status_Ability_Lifestaff_OrbofProtection.PhysicalArmor * 100]}%.</string>
 	<string key="Status_Upgrade_Lifestaff_OrbofProtection_Dmg_description">I tuoi danni aumentano di un {[Type_StatusEffectData.Status_Upgrade_Lifestaff_OrbofProtection_Dmg.DMGStandard * 100]}%.</string>
 	<string key="Status_Passive_Lifestaff_Protection_HealingOnDodge_description">Le tue cure aumentano di un {[Type_StatusEffectData.Status_Passive_Lifestaff_Protection_HealingOnDodge.HealScalingValueMultiplier * 100]}%.</string>
 	<string key="Status_Passive_Lifestaff_Protection_HasteWhenLow_description">La tua velocità di movimento si riduce di un {[Type_StatusEffectData.Status_Passive_Lifestaff_Protection_HasteWhenLow.SprintSpeedMod * 100]}%.</string>
@@ -1508,6 +1534,9 @@
 	<string key="AI_Anubian_Boss_Burn_9_DisplayName" rel_version="Territory_Brimstone_Sands">Ustione solare degli Antichi</string>
 	<string key="AI_Anubian_Boss_Burn_9_Tooltip" rel_version="Territory_Brimstone_Sands">Infligge un {[Type_StatusEffectData.AI_Anubian_Boss_Burn_9.HealthModifierDamageBased * -100]}% di danni da fuoco ogni {[Type_StatusEffectData.AI_Anubian_Boss_Burn_9.TickRate]} s.</string>
 	<string key="Immune_To_Damage">Immune</string>
+	<string key="Attack_Dodged">Schivato</string>
+	<string key="Attack_Evaded">Evitato</string>
+	<string key="Attack_Invulnerable">Invulnerabile</string>
 	<string key="HealthMin_Immortal_Damage">Immortale</string>
 	<string key="TauntAI_DisplayName">Provocato</string>
 	<string key="Block_Broken_DisplayName">Parata infranta</string>
@@ -1536,25 +1565,35 @@
 	<string key="Status_VoidConditioning" rel_version="Feature_Dungeon_Mutators">Condizionamento abissale.</string>
 	<string key="Status_VoidConditioning_Description" rel_version="Feature_Dungeon_Mutators">I danni da Vuoto subiti mentre questo effetto è attivo vengono ridotti.</string>
 	<string key="AI_EvilKnight_Rally_DisplayName" rel_version="AI_Evil_Knights_P1">Grido di guerra dei Variaghi</string>
+	<string key="AI_Evil_Knight_Flamekeeper_Living_Bomb_Root_DisplayName" rel_version="Season_1_Perm">Nucleo fiammeggiante esplosivo</string>
+	<string key="AI_Evil_Knight_Flamekeeper_Living_Bomb_Root_Tooltip" rel_version="Season_1_Perm">Un nucleo fiammeggiante esplosivo ti imprigiona e ti porta alla morte se non viene distrutto dai tuoi alleati.</string>
+	<string key="AI_Evil_Knight_Flamekeeper_Stop_Drop_And_Roll_DisplayName" rel_version="Season_1_Perm">Fermati, cadi e rotola</string>
+	<string key="AI_Evil_Knight_Flamekeeper_Stop_Drop_And_Roll_Tooltip" rel_version="Season_1_Perm">Perdi un 10% di salute ed energia al secondo. Questo effetto termina quando la tua energia scende a 0.</string>
+	<string key="AI_Evil_Knight_Flamekeeper_Combustion_DisplayName" rel_version="Season_1_Perm">Combustione</string>
+	<string key="AI_Evil_Knight_Flamekeeper_Combustion_Tooltip" rel_version="Season_1_Perm">Hai raccolto troppi frammenti ardenti e i danni subiti ti fanno esplodere.</string>
+	<string key="AI_Evil_Knight_Flamekeeper_Combustible_DisplayName" rel_version="Season_1_Perm">Combustibile</string>
+	<string key="AI_Evil_Knight_Flamekeeper_Combustible_Tooltip" rel_version="Season_1_Perm">Ottieni 1 accumulo di Combustibile per ogni frammento ardente che spegni. Al decimo accumulo si attiva la combustione.</string>
 	<string key="RoadTravel_SprintBoost">Fretta sulle strade</string>
 	<string key="RoadTravel_SprintBoost_Description">La velocità dello scatto aumenta di un {[Type_StatusEffectData.Traversal_RoadSprintBoost_Haste.SprintSpeedMod * 100]}% mentre stai scattando sulle strade.</string>
 	<string key="OutOfCombat_PassiveRegen_Name">Rigenerazione placida</string>
 	<string key="OutOfCombat_PassiveRegen_Description">Rigenerazione passiva che cura nel tempo, aumenta il tasso di rigenerazione del mana e aumenta gli effetti della guarigione passiva da cibo quando non sei in combattimento.</string>
 	<string key="Status_Weapon_DiseaseOnCrit_Description" rel_version="MorePerksV1">L'efficacia della guarigione si riduce di un {[Type_StatusEffectData.Status_Perk_Weapon_DiseaseOnCrit.HealMod * -100]}%.</string>
 	<string key="Status_Weapon_DiseaseOnHeavy_Description" rel_version="MorePerksV1">L'efficacia della guarigione si riduce di un {[Type_StatusEffectData.Status_Perk_Weapon_DiseaseOnHeavy.HealMod * -100]}%.</string>
-	<string key="Status_Weapon_ChargedHeavyRend_Description" rel_version="MorePerksV1">Subisci un {[Type_StatusEffectData.Status_Perk_Weapon_ChargedHeavy_Rend.ABSStandard * -100]}% di danni aggiuntivi da tutte le fonti.</string>
+	<string key="Status_Weapon_ChargedHeavyRend_Description" rel_version="MorePerksV1">La tua armatura si riduce di un {[Type_StatusEffectData.Status_Perk_Weapon_ChargedHeavy_Rend.PhysicalArmor * -100]}%.</string>
 	<string key="Status_Timer_ChargedHeavyRend_Description" rel_version="MorePerksV1">Al termine, potrai riottenere il vantaggio Lacerato incisivo.</string>
+	<string key="Wispy_Wasp_Swarm_Tick_DisplayName">Sanguinante</string>
+	<string key="Wispy_Wasp_Swarm_Tick_Tooltip">Sanguinante per un {[Type_StatusEffectData.Wispy_Wasp_Swarm_Tick.HealthModifierPercent * -100]}% dei danni fisici alla salute di base ogni {[Type_StatusEffectData.Wispy_Wasp_Swarm_Tick.TickRate]} secondi per {[Type_StatusEffectData.Wispy_Wasp_Swarm_Tick.BaseDuration]} secondi.</string>
 	<string key="Blunderbuss_ChargeCooldown_Name" rel_version="Weapon_Blunderbuss">Tutto per tutto</string>
 	<string key="Blunderbuss_ChargeCooldown_Desc" rel_version="Weapon_Blunderbuss">La tua abilità successiva con lo schioppo si ricarica più velocemente.</string>
 	<string key="Blunderbuss_ChargeCooldownOnCooldown_Desc" rel_version="Weapon_Blunderbuss">Allo scadere, potrai usare di nuovo la tua abilità passiva Tutto per tutto.</string>
 	<string key="Blunderbuss_AbilityRamp_Name" rel_version="Weapon_Blunderbuss">Inarrestabile</string>
-	<string key="Blunderbuss_AbilityRamp_Desc" rel_version="Weapon_Blunderbuss">Tutti i danni subiti si riducono di un {[Type_StatusEffectData.Blunderbuss_AbilityRamp.ABSStandard * 100]}%. Cumulabile fino a {[Type_StatusEffectData.Blunderbuss_AbilityRamp.StackMax]} volte.</string>
+	<string key="Blunderbuss_AbilityRamp_Desc" rel_version="Weapon_Blunderbuss">La tua armatura aumenta di un {[Type_StatusEffectData.Blunderbuss_AbilityRamp.PhysicalArmor * 100]}%. Cumulabile fino a {[Type_StatusEffectData.Blunderbuss_AbilityRamp.StackMax]} volte.</string>
 	<string key="Blunderbuss_Nine_Name" rel_version="Weapon_Blunderbuss">Scarica</string>
 	<string key="Blunderbuss_Nine_Desc" rel_version="Weapon_Blunderbuss">Il tuo prossimo attacco base spara pallottole aggiuntive.</string>
 	<string key="Blunderbuss_Ramp_Name" rel_version="Weapon_Blunderbuss">Rampa</string>
 	<string key="Blunderbuss_Ramp_Desc" rel_version="Weapon_Blunderbuss">Danni aumentati del 4%.</string>
 	<string key="Blunderbuss_LastChance_Name" rel_version="Weapon_Blunderbuss">Ultima occasione</string>
-	<string key="Blunderbuss_LastChance_Desc">Subisci un {[Type_StatusEffectData.Blunderbuss_LastChance.ABSStandard * 100]}% di danni in meno.</string>
+	<string key="Blunderbuss_LastChance_Desc">Subisci un {[Type_StatusEffectData.Blunderbuss_LastChance.PhysicalArmor * 100]}% di danni in meno.</string>
 	<string key="Blunderbuss_LastChanceCooldown_Desc" rel_version="Weapon_Blunderbuss">Allo scadere, potrai attivare di nuovo la tua Ultima occasione.</string>
 	<string key="Blunderbuss_BarbedNet_Name" rel_version="Weapon_Blunderbuss">Rete spinata</string>
 	<string key="Blunderbuss_BarbedNet_Desc" rel_version="Weapon_Blunderbuss">Subisci danni nel tempo.</string>
@@ -1562,7 +1601,7 @@
 	<string key="Blunderbuss_Run_And_Gun_Desc" rel_version="Weapon_Blunderbuss">Ti muovi più velocemente dopo la ricarica.</string>
 	<string key="Blunderbuss_In_And_Out_Name" rel_version="Weapon_Blunderbuss">Lavoretto veloce</string>
 	<string key="Blunderbuss_In_And_Out_Desc" rel_version="Weapon_Blunderbuss">Ripristina energia ogni secondo.</string>
-	<string key="Status_Blunderbuss_FortifyCloseRange_Desc" rel_version="Weapon_Blunderbuss">I danni subiti si riducono di un {[Type_StatusEffectData.Blunderbuss_FortifyCloseRange.ABSStandard * 100]}%.</string>
+	<string key="Status_Blunderbuss_FortifyCloseRange_Desc" rel_version="Weapon_Blunderbuss">La tua armatura aumenta di un {[Type_StatusEffectData.Blunderbuss_FortifyCloseRange.PhysicalArmor * 100]}%.</string>
 	<string key="Status_ShirkingFire" rel_version="MorePerksV2">Fiamme elusive</string>
 	<string key="Status_ShirkingFire_Description" rel_version="MorePerksV2">Il tuo prossimo attacco infliggerà danni da fuoco aggiuntivi.</string>
 	<string key="Status_ShirkingNature" rel_version="MorePerksV2">Natura elusiva</string>
@@ -1668,26 +1707,32 @@
 	<string key="StatusTestCrafting_DisplayName">Produzione di prova</string>
 	<string key="Status_Rune_StoneForm">Forma di pietra</string>
 	<string key="Status_Rune_StoneForm_Desc">Invulnerabile a tutti i CC.</string>
-	<string key="Status_Rune_StoneForm_Major_Desc">Assorbimento dei danni aumentato di un {[Type_StatusEffectData.Rune_StoneForm_Major.ABSStandard * 100]}%.</string>
+	<string key="Status_Rune_StoneForm_Major_Desc">La tua armatura aumenta di un {[Type_StatusEffectData.Rune_StoneForm_Major.PhysicalArmor * 100]}%.</string>
 	<string key="Status_Rune_StoneForm_Survivor_Desc">Sei invulnerabile a tutti i CC; guarisci dai danni da rune di un {[Type_StatusEffectData.Rune_StoneForm_Survivor.HealthModifierDamageBased * 100]}% al secondo.</string>
-	<string key="Status_Rune_StoneForm_Greater_Desc">Assorbimento dei danni aumentato di un {[Type_StatusEffectData.Rune_StoneForm_Greater.ABSStandard * 100]}%.</string>
+	<string key="Status_Rune_StoneForm_Greater_Desc">La tua armatura aumenta di un {[Type_StatusEffectData.Rune_StoneForm_Greater.PhysicalArmor * 100]}%.</string>
 	<string key="Status_Rune_CannonBlast_Major_Desc">Rovente per un {[Type_StatusEffectData.Rune_CannonBlast_Burn.HealthModifierDamageBased * -100]}% di danni da rune al secondo.</string>
 	<string key="Status_Rune_Detonate">Esplosiva</string>
 	<string key="Status_Rune_Detonate_Desc">Si carica per {[Type_StatusEffectData.Rune_Detonate.BaseDuration]} sec. e poi esplode, infliggendo ingenti danni da rune entro un raggio di {[SpellDataTable_Runes.Rune_Detonate_AoE.Radius]} m.</string>
 	<string key="Status_Rune_Detonate_Major_Desc">Si carica per {[Type_StatusEffectData.Rune_Detonate_Major.BaseDuration]} sec. guadagnando un {[Type_StatusEffectData.Rune_Detonate_Major.MoveSpeedMod * 100]}% di velocità di movimento e poi esplode, infliggendo ingenti danni da rune entro un raggio di {[SpellDataTable_Runes.Rune_Detonate_AoE.Radius]} m.</string>
 	<string key="Status_Rune_Detonate_Greater_Desc">Si carica per {[Type_StatusEffectData.Rune_Detonate_Greater.BaseDuration]} sec. guadagnando un {[Type_StatusEffectData.Rune_Detonate_Greater.MoveSpeedMod * 100]}% di velocità di movimento e un aumento dei danni di un {[Type_StatusEffectData.Rune_Detonate_Greater.DMGStandard * 100]}%, poi esplode, infliggendo danni ridotti entro un raggio di {[SpellDataTable_Runes.Rune_Detonate_AoE.Radius]} m.</string>
-	<string key="Status_Rune_Detonate_Dominator_Desc">Si carica per {[Type_StatusEffectData.Rune_Detonate_Greater.BaseDuration]} sec. guadagnando un {[Type_StatusEffectData.Rune_Detonate_Greater.MoveSpeedMod * 100]}% di velocità di movimento ma subendo un {[Type_StatusEffectData.Rune_Detonate_Dominator.ABSStandard * -100]}% in più di danni, poi esplode, infliggendo ingenti danni da rune entro un raggio di {[SpellDataTable_Runes.Rune_Detonate_AoE.Radius]} m.</string>
+	<string key="Status_Rune_Detonate_Dominator_Desc">Si carica per {[Type_StatusEffectData.Rune_Detonate_Greater.BaseDuration]} s, guadagnando un {[Type_StatusEffectData.Rune_Detonate_Greater.MoveSpeedMod * 100]}% di velocità di movimento ma ottenendo Lacerato, che riduce l'armatura di un {[Type_StatusEffectData.Rune_Detonate_Dominator.PhysicalArmor * -100]}%, poi esplode, infliggendo ingenti danni da rune entro un raggio di {[SpellDataTable_Runes.Rune_Detonate_AoE.Radius]} m.</string>
 	<string key="Status_Rune_GraspingVines_Major_Desc">Danni inflitti ridotti di un {[Type_StatusEffectData.Rune_GraspingVines_Major.DMGStandard * -100]}%.</string>
-	<string key="Status_Rune_GraspingVines_Survivor_Desc">Assorbimento dei danni aumentato di un {[Type_StatusEffectData.Rune_GraspingVines_Survivor.ABSStandard * 100]}%.</string>
-	<string key="Status_Rune_GraspingVines_Dominator_Rend_Desc">Assorbimento dei danni ridotto di un {[Type_StatusEffectData.Rune_GraspingVines_Dominator_Rend.ABSStandard * -100]}%.</string>
+	<string key="Status_Rune_GraspingVines_Survivor_Desc">La tua armatura aumenta di un {[Type_StatusEffectData.Rune_GraspingVines_Survivor.PhysicalArmor * 100]}%.</string>
+	<string key="Status_Rune_GraspingVines_Dominator_Rend_Desc">La tua armatura si riduce di un {[Type_StatusEffectData.Rune_GraspingVines_Dominator_Rend.PhysicalArmor * -100]}%.</string>
 	<string key="Status_Rune_GraspingVines_Dominator_ReducedStamRegen_Desc">Rigenerazione di energia ridotta di un {[Type_StatusEffectData.Rune_GraspingVines_Dominator_ReduceStamRegen.StaminaRate * -100]}%.</string>
 	<string key="Status_Rune_HereticsFall_Greater_Desc">Velocità di movimento ridotta di un {[Type_StatusEffectData.Rune_HereticsFall_Greater.MoveSpeedMod * -100]}%.</string>
-	<string key="Status_Rune_HereticsFall_Survivor_Desc">Assorbimento dei danni aumentato di un {[Type_StatusEffectData.Rune_HereticsFall_Survivor.ABSStandard * 100]}% ma con danni inflitti ridotti di un {[Type_StatusEffectData.Rune_HereticsFall_Survivor.DMGStandard * -100]}%.</string>
+	<string key="Status_Rune_HereticsFall_Survivor_Desc">Armatura aumentata di un {[Type_StatusEffectData.Rune_HereticsFall_Survivor.PhysicalArmor * 100]}% ma con danni inflitti ridotti di un {[Type_StatusEffectData.Rune_HereticsFall_Survivor.DMGStandard * -100]}%.</string>
 	<string key="Status_Rune_BileBomb_Desc" rel_version="Feature_Heartgems_BileBomb">Le cure ricevute sono ridotte di un {[Type_StatusEffectData.Rune_BileBomb.HealMod * -100]}% e subisci un {[Type_StatusEffectData.Rune_BileBomb.HealthModifierDamageBased * -100]}% dei danni della runa a cuore dell'attaccante al secondo.</string>
 	<string key="Status_Rune_BileBomb_Major_Desc" rel_version="Feature_Heartgems_BileBomb">Velocità di movimento ridotta di un {[Type_StatusEffectData.Rune_BileBomb_Major.MoveSpeedMod * -100]}%.</string>
 	<string key="Status_Rune_BileBomb_Greater_Desc" rel_version="Feature_Heartgems_BileBomb">Le cure ricevute sono ridotte di un {[Type_StatusEffectData.Rune_BileBomb_Greater.HealMod * -100]}%, la rigenerazione di energia è ridotta di un {[Type_StatusEffectData.Rune_BileBomb_Greater.StaminaRate * -100]}% e subisci un {[Type_StatusEffectData.Rune_BileBomb_Greater.HealthModifierDamageBased * -100]}% dei danni della runa a cuore dell'attaccante al secondo.</string>
 	<string key="Status_Rune_BileBomb_Survivor_Desc" rel_version="Feature_Heartgems_BileBomb">Le cure ricevute sono ridotte di un {[Type_StatusEffectData.Rune_BileBomb_Survivor.HealMod * -100]}% e i nemici che ti colpiscono vengono curati di un {[Type_StatusEffectData.Rune_BileBomb_Survivor_Heal.HealthModifierDamageBased * 100]}% dei danni inflitti.</string>
 	<string key="Status_Rune_BileBomb_Dominator_Desc" rel_version="Feature_Heartgems_BileBomb">Le cure ricevute sono ridotte di un {[Type_StatusEffectData.Rune_BileBomb_Dominator.HealMod * -100]}% e subisci un {[Type_StatusEffectData.Rune_BileBomb_Dominator.HealthModifierDamageBased * -100]}% dei danni della runa a cuore dell'attaccante al secondo.</string>
+	<string key="Status_FireStorm_DoT_Name" rel_version="Feature_Heartgems_FireStorm">Bruciatura da Tempesta di fuoco</string>
+	<string key="Status_Rune_FireStorm_DoT_Desc" rel_version="Feature_Heartgems_FireStorm">Rovente per un {[Type_StatusEffectData.Rune_FireStorm_DoT.HealthModifierDamageBased * -100]}% di danni da rune a cuore al secondo.</string>
+	<string key="Status_FireStorm_Survivor__DoT_Desc" rel_version="Feature_Heartgems_FireStorm">Rovente per un {[Type_StatusEffectData.Status_Rune_FireStorm_Survivor_DoT.HealthModifierDamageBased * -100]}% di danni da rune a cuore al secondo.</string>
+	<string key="Status_Rune_FireStorm_Empower_Desc" rel_version="Feature_Heartgems_FireStorm">Danni inflitti aumentati di un {[Type_StatusEffectData.Rune_FireStorm_Empower.DMGStandard * 100]}%.</string>
+	<string key="Status_FireStorm_Major_Desc" rel_version="Feature_Heartgems_FireStorm">Danni inflitti ridotti di un {[Type_StatusEffectData.Status_Rune_FireStorm_Major.DMGStandard * -100]}%.</string>
+	<string key="Status_FireStorm_Greater_Desc" rel_version="Feature_Heartgems_FireStorm">Velocità di movimento aumentata di un {[Type_StatusEffectData.Status_Rune_FireStorm_Greater.MoveSpeedMod * 100]}%.</string>
 	<string key="AI_AnubianGuardian_HorusBoss_InstrumentOfJudgement_Tracking_DisplayName">Giudizio divino</string>
 	<string key="AI_AnubianGuardian_HorusBoss_InstrumentOfJudgement_Tracking_Tooltip">Gli dei dell'Enneade stanno giudicando il tuo cuore.</string>
 	<string key="AI_AnubianGuardian_HorusBoss_InstrumentOfJudgement_Damage_DisplayName">Verdetto divino</string>
@@ -1695,5 +1740,16 @@
 	<string key="Status_TinctureAcidT5_DisplayName">Resistenza antiacido</string>
 	<string key="Status_TinctureAcidT5_Tooltip">Ottieni 20 di Resistenza antiacido.</string>
 	<string key="GruntFrenzy_DisplayName">Frenesia</string>
+	<string key="WeaponCoatingEffect_T5_Aeternian_DisplayName" rel_version="Season_1_Perm">Rivestimento armi contro umani impregnato</string>
+	<string key="WeaponCoatingEffect_T5_Aeternian_Description" rel_version="Season_1_Perm">Solo PvE: mentre quest'arma è attiva, infliggi un {[ConsumableItemDefinitions.CoatingAeternianT5.DMGVitalsCategory * 100]}% di danni in più agli umani.</string>
+	<string key="WeaponCoatingEffect_T4_Aeternian_DisplayName" rel_version="Season_1_Perm">Rivestimento armi contro umani formidabile</string>
+	<string key="WeaponCoatingEffect_T4_Aeternian_Description" rel_version="Season_1_Perm">Solo PvE: mentre quest'arma è attiva, infliggi un {[ConsumableItemDefinitions.CoatingAeternianT4.DMGVitalsCategory * 100]}% di danni in più agli umani.</string>
+	<string key="WeaponCoatingEffect_T3_Aeternian_DisplayName" rel_version="Season_1_Perm">Rivestimento armi contro umani potente</string>
+	<string key="WeaponCoatingEffect_T3_Aeternian_Description" rel_version="Season_1_Perm">Solo PvE: mentre quest'arma è attiva, infliggi un {[ConsumableItemDefinitions.CoatingAeternianT3.DMGVitalsCategory * 100]}% di danni in più agli umani.</string>
+	<string key="WeaponCoatingEffect_T2_Aeternian_DisplayName" rel_version="Season_1_Perm">Rivestimento armi contro umani comune</string>
+	<string key="WeaponCoatingEffect_T2_Aeternian_Description" rel_version="Season_1_Perm">Solo PvE: mentre quest'arma è attiva, infliggi un {[ConsumableItemDefinitions.CoatingAeternianT2.DMGVitalsCategory * 100]}% di danni in più agli umani.</string>
+	<string key="SpringtideBloom_SpringtideDram_MasterName">Pizzico primaverile</string>
+	<string key="SpringtideBloom_SpringtideCrumble_MasterName">Crumble primaverile</string>
+	<string key="SpringtideBloom_SpringtideWafer_MasterName">Cialda primaverile</string>
 </resources>
 

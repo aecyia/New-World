@@ -145,7 +145,7 @@
 	<string key="PerkID_MusicalInstrument_RakeReduction_Description" rel_version="Feature_MusicalPerformances">L'artista ora ottiene l'intero ammontare delle mance.</string>
 	<string key="PerkID_MusicalInstrument_FinalNotePerfectXPBonus_Description" rel_version="Feature_MusicalPerformances">Suonando perfettamente l'ultima nota, il giocatore ottiene un aumento del 10% dei PE musicali.</string>
 	<string key="PerkID_MusicalInstrument_GroupXPBonus_Description" rel_version="Feature_MusicalPerformances">Suonando in gruppo, il giocatore ottiene un aumento del 10% dei PE musicali.</string>
-	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Suonando in solitaria, il giocatore ottiene un aumento del 10% dei PE musicali.</string>
+	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Suonando in solitaria, il giocatore ottiene un aumento del 15% dei PE musicali.</string>
 	<string key="ui_music_guitar_part_1" rel_version="Feature_MusicalPerformances">Chitarra (parte 1)</string>
 	<string key="ui_music_guitar_part_2" rel_version="Feature_MusicalPerformances">Chitarra (parte 2)</string>
 	<string key="ui_music_guitar_part_3" rel_version="Feature_MusicalPerformances">Chitarra (parte 3)</string>
@@ -167,7 +167,7 @@
 	<string key="songtitle_Embark" rel_version="Feature_MusicalPerformances">Imbarco</string>
 	<string key="songtitle_The_Brightwood" rel_version="Feature_MusicalPerformances">Viaggio del Custode di anime</string>
 	<string key="songtitle_The_Butterfly" rel_version="Feature_MusicalPerformances">La farfalla</string>
-	<string key="songtitle_These_Old_Bones" rel_version="Feature_MusicalPerformances">Queste vecchie ossa</string>
+	<string key="songtitle_These_Old_Bones" rel_version="Feature_MusicalPerformances">Vecchie ossa</string>
 	<string key="songtitle_Young_King_Stanley" rel_version="Feature_MusicalPerformances">Giovane re Stanley</string>
 	<string key="songtitle_Ancient" rel_version="Feature_MusicalPerformances">Richiamo degli Antichi</string>
 	<string key="songtitle_Breathe" rel_version="Feature_MusicalPerformances">Ninna nanna delle onde</string>

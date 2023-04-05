@@ -139,5 +139,6 @@
 	<string key="AzureWellT1_Name">Pozo de azoth</string>
 	<string key="Defend_Sapling_Name">Plántula</string>
 	<string key="Defend_PowderKeg_Name">Barril de pólvora</string>
+	<string key="Season_01_Spriggan_Event_Flame_Brazier_MasterName" rel_version="Season_1_Temp">Brasero candente</string>
 </resources>
 

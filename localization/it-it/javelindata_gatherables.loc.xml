@@ -511,6 +511,7 @@
 	<string key="1102_StoneOrb_DisplayName">Sfera di pietra</string>
 	<string key="1103_CopperOrb_DisplayName">Sfera di rame</string>
 	<string key="1104_MedallionChest_DisplayName">Prendi i medaglioni</string>
+	<string key="1102_TelescopeChest_DisplayName">Prendi il telescopio</string>
 	<string key="1105_CorruptedTotem_DisplayName">Distruggi l'emblema corrotto</string>
 	<string key="1201_JamJar_DisplayName">Vasetto di marmellata di Arruda</string>
 	<string key="1202_AncientArtifact_DisplayName">Manufatto antico</string>
@@ -559,6 +560,7 @@
 	<string key="MSQ_SalvagePile_C_DisplayName">Cumulo di oggetti di recupero</string>
 	<string key="AzothWater_Displayname">Sorgente di Azoth</string>
 	<string key="AzothSeal_DisplayName">Sigillo antico di Azoth</string>
+	<string key="FireSeal_DisplayName">Sigillo infuocato antico</string>
 	<string key="HeartforgeEncounterBattery_DisplayName">Accendi il fuoco della Fucina dei cuori</string>
 	<string key="Anubian_Horus_Power_Source_DisplayName">Disattiva l'obelisco dell'Enneade</string>
 	<string key="PressurePlate_Ancient_DisplayName">Glifo antico di Azoth</string>
@@ -584,7 +586,7 @@
 	<string key="MSQ_0024_FightingPitDoor_DisplayName">Porta della Fossa di combattimento</string>
 	<string key="MSQ_0025_AmrineAzothBarrier_DisplayName">Sigillo del Custode di anime</string>
 	<string key="MSQ_0026_StormwallBattery_DisplayName">Indaga sulla fonte del Muro della tempesta</string>
-	<string key="MSQ_0027_StormwallBarrier_DisplayName">Barriera del Muro della tempesta</string>
+	<string key="MSQ_0027_StormwallBarrier_DisplayName">Attraversa la barriera della fontana logorata</string>
 	<string key="MSQ_0028_UrinePuddle_DisplayName">Pozza di escrementi maleodoranti</string>
 	<string key="MSQ_0037_PlanB_Water_01_DisplayName">Pozzo</string>
 	<string key="MSQ_0037_PlanB_Water_02_DisplayName">Barile d'acqua</string>
@@ -980,5 +982,79 @@
 	<string key="Dungeon_BrimstoneSands00_TranslateGlyph" rel_version="Territory_Brimstone_Sands">Attiva il quadro di comandi dei glifi</string>
 	<string key="Armadillo_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Armadillo</string>
 	<string key="Rat_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Ratto</string>
+	<string key="FireNaga_Miniboss_FlameVent_DisplayName" rel_version="Expedition_GreatCleave_01">Sfogo fiammeggiante</string>
+	<string key="95_s01_01_SkyeLetter" rel_version="Season_1_Temp">Leggi la lettera di Skye</string>
+	<string key="95_s01_01_CorruptedCampSupplies">Raccogli le provviste</string>
+	<string key="95_s01_01_CorruptedTent">Brucia la tenda dei Corrotti</string>
+	<string key="95_s01_01_CrowsNestCampBuild">Costruisci l'accampamento del Nido del corvo</string>
+	<string key="95_s01_02_AidynBrooch" rel_version="Season_1_Temp">Raccogli spilla e messaggio</string>
+	<string key="95_s01_02_BattleSite" rel_version="Season_1_Temp">Esamina il terreno</string>
+	<string key="95_s01_02_SkyeTrail" rel_version="Season_1_Temp">Segui le tracce di Skye</string>
+	<string key="95_s01_02_AidynTrail" rel_version="Season_1_Temp">Segui le tracce di Aidyn</string>
+	<string key="95_s01_02a_BoneCharmTable" rel_version="Season_1_Temp">Schiaccia il talismano di osso</string>
+	<string key="95_s01_09_FinalBoneCharmTable" rel_version="Season_1_Temp">Distruggi il talismano maledetto di Skye</string>
+	<string key="95_s01_03_HeroesPoster" rel_version="Season_1_Perm">Posiziona manifesto</string>
+	<string key="95_s01_05_BWFakeFundsCabinet" rel_version="Season_1_Perm">Deposita i fondi falsi</string>
+	<string key="95_s01_06_ExamineFrankTrail" rel_version="Season_1_Temp">Esamina le impronte</string>
+	<string key="95_s01_06_FrankTrail" rel_version="Season_1_Temp">Segui il sentiero del contrabbandiere</string>
+	<string key="95_s01_06_RescueWarrior" rel_version="Season_1_Temp">Salva il guerriero catturato</string>
+	<string key="95_s01_04_AzothSap">Estrai la linfa</string>
+	<string key="99C_MSQ2_WitchyGlyph_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Glifo distruttivo</string>
+	<string key="99C_MSQ2_RitualObject_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Ancora arcana</string>
+	<string key="99C_MSQ2_GlowingMushroom_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Studia le piante insolite</string>
+	<string key="99C_MSQ2_ShakingCoffin_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Esperimento della strega cadavere</string>
+	<string key="99C_MSQ2_CorpseTorch_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Torcia della strega cadavere</string>
+	<string key="99C_MSQ2_GlowingOrbs_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Fuoco fatuo</string>
+	<string key="99C_MSQ2_BlightBomb_DisplayName">Logoramento esplosivo</string>
+	<string key="99C_MSQ2_AncientDevice_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Disattiva il congegno antico</string>
+	<string key="99C_MSQ2_AncientConsole_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Esamina il quadro di comandi antico</string>
+	<string key="99C_MSQ2_AncientChest_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Apri il forziere antico</string>
+	<string key="99C_MSQ2_AncientShieldDevice_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Prendi il dispositivo protettivo antico</string>
+	<string key="99C_MorgainesTruth_CinematicStart_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Leggi del passato di Morgaine</string>
+	<string key="99C_MSQ2_MorgainesCaveDoor_Destroy_DisplayName">Distruggi le protezioni di Morgaine</string>
+	<string key="99C_MSQ2_MorgainesCaveDoor_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Attraversa la barriera di Morgaine</string>
+	<string key="99B_MSQ_01_BlessedCandle_DisplayName" rel_version="Quest_MSQ2_Brightwood">Raccogli la candela benedetta</string>
+	<string key="99B_MSQ_01_ReadGravestone_DisplayName" rel_version="Quest_MSQ2_Brightwood">Leggi la lapide</string>
+	<string key="99B_MSQ_02_BrightSigil_DisplayName" rel_version="Quest_MSQ2_Brightwood">Raccogli l'emblema dei Vigilanti brillanti</string>
+	<string key="99B_MSQ_03_CaerDunMap_DisplayName" rel_version="Quest_MSQ2_Brightwood">Prendi la mappa</string>
+	<string key="99B_MSQ_04_OrePiles_DisplayName" rel_version="Quest_MSQ2_Brightwood">Esamina il cumulo di minerali</string>
+	<string key="99B_MSQ_04_AzothDetectorA_DisplayName" rel_version="Quest_MSQ2_Brightwood">Piccola vasca di Azoth</string>
+	<string key="99B_MSQ_04_AzothDetectorB_DisplayName" rel_version="Quest_MSQ2_Brightwood">Meccanismo esposto</string>
+	<string key="99B_MSQ_04_AzothDetectorC_DisplayName" rel_version="Quest_MSQ2_Brightwood">Grande vasca di Azoth</string>
+	<string key="99B_MSQ_04_AzothDetectorD_DisplayName" rel_version="Quest_MSQ2_Brightwood">Piccola caldaia di Azoth</string>
+	<string key="99B_MSQ_04_AzothDetectorE_DisplayName" rel_version="Quest_MSQ2_Brightwood">Grande caldaia di Azoth</string>
+	<string key="99B_MSQ_05_DiscardedFishingPole_DisplayName" rel_version="Quest_MSQ2_Brightwood">Esamina la canna da pesca</string>
+	<string key="99B_MSQ_05_GracesLoot_DisplayName" rel_version="Quest_MSQ2_Brightwood">Cerca oggetti di valore</string>
+	<string key="99B_MSQ_06_MementoFind_DisplayName" rel_version="Quest_MSQ2_Brightwood">Prendi il cimelio perduto</string>
+	<string key="99B_MSQ_06_MementoPlaceA_DisplayName" rel_version="Quest_MSQ2_Brightwood">Offri il cimelio</string>
+	<string key="99B_MSQ_06_MementoPlaceB_DisplayName" rel_version="Quest_MSQ2_Brightwood">Offri il cimelio</string>
+	<string key="99B_MSQ_06_MementoPlaceC_DisplayName" rel_version="Quest_MSQ2_Brightwood">Offri il cimelio</string>
+	<string key="99B_MSQ_07_BurnCasket_DisplayName" rel_version="Quest_MSQ2_Brightwood">Brucia i cofanetti</string>
+	<string key="99B_MSQ_07_CleanseDarkness_DisplayName" rel_version="Quest_MSQ2_Brightwood">Rimuovi l'oscurità</string>
+	<string key="99B_MSQ_07_DigMoira_DisplayName" rel_version="Quest_MSQ2_Brightwood">Apri la tomba</string>
+	<string key="99B_MSQ_08_PurificationHerb_DisplayName" rel_version="Quest_MSQ2_Brightwood">Raccogli le erbe purificanti</string>
+	<string key="99B_MSQ_08_PureAzothWater_DisplayName" rel_version="Quest_MSQ2_Brightwood">Raccogli acqua pura di Azoth</string>
+	<string key="99B_MSQ_09_Keyring_DisplayName" rel_version="Quest_MSQ2_Brightwood">Prendi la chiave del sacrario</string>
+	<string key="99B_MSQ_09_SanctumDoor_DisplayName" rel_version="Quest_MSQ2_Brightwood">Apri la porta del sacrario</string>
+	<string key="99B_MSQ_10_PlaceHeartgem_DisplayName" rel_version="Quest_MSQ2_Brightwood">Posiziona la gemma a cuore</string>
+	<string key="99B_MSQ_10_SmashHeartgem_DisplayName" rel_version="Quest_MSQ2_Brightwood">Distruggi la gemma a cuore</string>
+	<string key="99B_MSQ_10_SealCurse_DisplayName" rel_version="Quest_MSQ2_Brightwood">Sigilla la maledizione</string>
+	<string key="99B_MSQ_10_FinalSeal_DisplayName" rel_version="Quest_MSQ2_Brightwood">Spezza la maledizione</string>
+	<string key="99B_MSQ_02_GalahadJournal_DisplayName" rel_version="Quest_MSQ2_Brightwood">Leggi il diario di Galahad</string>
+	<string key="99B_MSQ_08_AzothTree_DisplayName" rel_version="Quest_MSQ2_Brightwood">Tocca l'albero di Azoth</string>
+	<string key="99B_MSQ_11_BrightwatchHistory_DisplayName" rel_version="Quest_MSQ2_Brightwood">Leggi la storia</string>
+	<string key="Dungeon_GreatCleave_01_GemGather" rel_version="Expedition_GreatCleave_01">Aggregato di amirite</string>
+	<string key="95_s01_05_ChurchFundCabinet" rel_version="Season_1_Perm">Raccogli i fondi</string>
+	<string key="02A_Side08_CoffinA_DisplayName" rel_version="Quest_MSQ2_Brightwood">Apri la porta</string>
+	<string key="95_s01_06_TEMP_SupplyChain_Footprints">Indaga sulle impronte</string>
+	<string key="13A_SQ_01_FogBed_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Sgombra la nebbia magica</string>
+	<string key="13A_SQ_02_AnimalJar" rel_version="Quest_MSQ2_WeaversFen">Calcia il contenitore di resti animali</string>
+	<string key="FlameCore_Forge_DisplayName" rel_version="Season_1_Perm">Fucina del nucleo fiammeggiante</string>
+	<string key="SporePod_Type1_DisplayName">Baccello di spore di tipo 1</string>
+	<string key="SporePod_Type2_DisplayName">Baccello di spore di tipo 2</string>
+	<string key="SporePod_Type3_DisplayName">Baccello di spore di tipo 3</string>
+	<string key="SporePod_Type4_DisplayName">Baccello di spore di tipo 4</string>
+	<string key="SporePod_Type5_DisplayName">Baccello di spore di tipo 5</string>
+	<string key="BeastLordStatue_Type1_DisplayName">Statua del signore delle bestie di tipo 1</string>
 </resources>
 

@@ -85,11 +85,13 @@
 	<string key="objective_journey_desc" speaker="UI">Misiones adicionales</string>
 	<string key="objective_journey_empty" speaker="UI">Objetivo: viaje no cumplido</string>
 	<string key="objective_factionstory" speaker="UI">Historia de la facción</string>
-	<string key="objective_factionstory_desc" speaker="UI">Objetivos de la historia de la facción</string>
+	<string key="objective_factionstory_desc" speaker="UI">Misiones de la historia de facción</string>
+	<string key="objective_seasonquest" speaker="UI">Historia de la temporada</string>
+	<string key="objective_seasonquest_desc" speaker="UI">Objetivos de la historia de la temporada</string>
 	<string key="objective_skillprogression" speaker="UI">Progreso de habilidad</string>
 	<string key="objective_skillprogression_desc" speaker="UI">Objetivos de progreso de habilidad</string>
-	<string key="objective_epicequipment" speaker="UI">Armas y armaduras épicas</string>
-	<string key="objective_epicequipment_desc" speaker="UI">Objetivos de armas y armaduras épicas</string>
+	<string key="objective_epicequipment" speaker="UI">Equipamiento épico</string>
+	<string key="objective_epicequipment_desc" speaker="UI">Misiones de equipamiento épico</string>
 	<string key="objective_kill" speaker="UI">Mata a {enemy}</string>
 	<string key="objective_kill_p" speaker="UI">Mata a {amountCount} {enemy}s</string>
 	<string key="objective_location" speaker="UI">Ubicación</string>
@@ -147,7 +149,7 @@
 	<string key="objective_mission_title_merchant_courier" speaker="UI">Misión de entrega</string>
 	<string key="objective_mission_title_procurer_acquire" speaker="UI">Misión de adquisición</string>
 	<string key="objective_msq" speaker="UI">Historia principal</string>
-	<string key="objective_msq_desc" speaker="UI">Objetivos de la historia principal</string>
+	<string key="objective_msq_desc" speaker="UI">Misiones de la historia principal</string>
 	<string key="objective_get_msq_message" speaker="UI">Actualmente, no tienes misiones activas de la historia principal.\nBusca este ícono en el mapa para averiguar si está disponible la siguiente misión de la historia principal.</string>
 	<string key="M_procurer_craft_workorder_items" speaker="UI">Misión de fabricación</string>
 	<string key="objective_name_template" comment="Obsolete - Used to show above rewards on the conversation screen. {title} is the quest title." speaker="UI">Misión: "{title}"</string>
@@ -156,22 +158,23 @@
 	<string key="objective_rewards_proposal" comment="Rewards label when accepting a quest" speaker="UI">Completa la misión para recibir las recompensas</string>
 	<string key="objective_objective" speaker="UI">Objetivo</string>
 	<string key="objective_objectives" speaker="UI">Objetivos</string>
-	<string key="objectives_sort" speaker="UI">Ordenar:</string>
-	<string key="objective_sort_distance" speaker="UI">Distancia (lo más cercano primero)</string>
-	<string key="objective_sort_difficulty" speaker="UI">Dificultad (lo más fácil primero)</string>
+	<string key="objectives_sort" speaker="UI">Ordenar por:</string>
+	<string key="objective_sort_distance" speaker="UI">Distancia</string>
+	<string key="objective_sort_difficulty" speaker="UI">Dificultad</string>
 	<string key="objective_sort_territory" speaker="UI">Territorio (A a Z)</string>
 	<string key="objective_sort_type" speaker="UI">Tipo</string>
-	<string key="objective_active" speaker="UI">Objetivos activos</string>
+	<string key="objective_active" speaker="UI">Activo</string>
 	<string key="objective_ready_to_turn_in" speaker="UI">Listo para completar</string>
 	<string key="objective_location_name" speaker="UI">Nombre de la ubicación</string>
-	<string key="objective_has_location" speaker="UI">Con ubicaciones específicas</string>
-	<string key="objective_no_location" speaker="UI">Sin ubicaciones específicas</string>
+	<string key="objective_has_location" speaker="UI">Ubicación conocida</string>
+	<string key="objective_no_location" speaker="UI">Ubicación desconocida</string>
 	<string key="objective_main_story_quest" speaker="UI">Misión de historia principal</string>
 	<string key="objective_faction_story_quest" speaker="UI">Misión de historia de la facción</string>
+	<string key="objective_season_quest" speaker="UI">Misión de historia de la temporada</string>
 	<string key="objective_skill_progression_quest" speaker="UI">Misión de progreso de habilidades</string>
 	<string key="objective_side_quests" speaker="UI">Misiones secundarias</string>
 	<string key="objective_event" speaker="UI">Misiones del evento</string>
-	<string key="objective_event_desc" speaker="UI">Objetivos disponibles durante un evento</string>
+	<string key="objective_event_desc" speaker="UI">Misiones disponibles durante un evento</string>
 	<string key="objective_faction_missions" speaker="UI">Misiones de facción</string>
 	<string key="objective_community_goal" speaker="UI">Proyectos de pueblo</string>
 	<string key="objective_POI" speaker="UI">Punto de referencia</string>
@@ -213,7 +216,8 @@
 	<string key="objective_norewards" speaker="UI">Contribuye a la batalla para conseguir recompensas</string>
 	<string key="objective_salvage" speaker="UI">Desarma {itemName}</string>
 	<string key="objective_started" speaker="UI">Objetivo iniciado</string>
-	<string key="objective_daily_reward" speaker="UI" rel_version="Event_February_Temp">Contiene 1 recompensa diaria</string>
+	<string key="objective_daily_reward_one" speaker="UI" rel_version="Event_February_Perm">Contiene &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt; recompensa diaria</string>
+	<string key="objective_daily_reward_multiple" speaker="UI" rel_version="Feature_Seasons_Rewards">Contiene &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{amount}&lt;/font&gt; recompensas diarias</string>
 	<string key="objective_task_pvp" speaker="UI">Misión PVP</string>
 	<string key="objective_task_survive" speaker="UI">Sobrevive - Si mueres no cumples con la misión</string>
 	<string key="objective_story_task_getoffthebeach" speaker="UI">Encuentra el puesto de avanzada</string>

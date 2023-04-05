@@ -139,5 +139,6 @@
 	<string key="AzureWellT1_Name">Puits d'Azoth</string>
 	<string key="Defend_Sapling_Name">Jeune pousse</string>
 	<string key="Defend_PowderKeg_Name">Baril de poudre</string>
+	<string key="Season_01_Spriggan_Event_Flame_Brazier_MasterName" rel_version="Season_1_Temp">Brasero ardent</string>
 </resources>
 

@@ -1,12 +1,12 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="inv_DroppedItems">Objets jetés</string>
+	<string key="inv_DroppedItems">Objets lâchés</string>
 	<string key="inv_Storage">Rangement</string>
 	<string key="inv_itemDamaged">{num} objet(s) gravement endommagé(s) Des réparations sont nécessaires.</string>
 	<string key="inv_itemBroken">{num} objet(s) brisé(s)</string>
 	<string key="inv_broken">BRISÉ</string>
 	<string key="inv_unequip">Déséquip.</string>
-	<string key="inv_dropTargetMessage">Jeter les objets</string>
-	<string key="inv_discard_life_warning">Les autres joueurs ne peuvent pas voir ou prendre ces objets. Lorsque ce sac disparaîtra (au bout de 3 minutes), les objets disparaîtront définitivement avec lui.</string>
+	<string key="inv_dropTargetMessage">Lâcher objets</string>
+	<string key="inv_discard_life_warning">Les autres joueurs ne peuvent pas voir ou prendre des objets lâchés. Les objets disparaîtront définitivement au bout de 3 minutes.</string>
 	<string key="inv_encumbered">Encombrement</string>
 	<string key="inv_unencumbered">Pas d'encombrement</string>
 	<string key="inv_slotsfull">Limite d'objets atteinte</string>
@@ -58,38 +58,38 @@
 	<string key="inv_tooltipMessagePrimaryArrowInactive">Cliquez pour en faire vos munitions pour arc actives.</string>
 	<string key="inv_tooltipMessagePrimaryShotActive">Ces cartouches sont actuellement sélectionnées comme munitions actives de votre fusil.</string>
 	<string key="inv_tooltipMessagePrimaryShotInactive">Cliquez pour en faire vos munitions pour fusil actives.</string>
-	<string key="inv_tooltipMessageToolLevelRequirement">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Niveau {level}&lt;/font&gt; requis pour définir cet outil comme outil principal.</string>
+	<string key="inv_tooltipMessageToolLevelRequirement">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Niveau {level}&lt;/font&gt; requis pour définir cet outil comme outil principal.</string>
 	<string key="inv_tooltipCommandToolLevelRequirement">Utilisable au niveau {level}</string>
 	<string key="inv_equipLoad">Poids d'équipement</string>
 	<string key="inv_equipLoadFast">Léger</string>
 	<string key="inv_equipLoadNormal">Moyen</string>
 	<string key="inv_equipLoadSlow">Lourd</string>
 	<string key="inv_equipLoadOverburdened">Suréquipé</string>
-	<string key="inv_equipLoadTooltip">La charge combinée de l'armure et du bouclier que vous portez détermine votre poids d'équipement. Ce dernier procure une esquive unique et divers autres effets.</string>
-	<string key="inv_equipLoadFastTooltip">Votre esquive est une roulade rapide couvrant une grande distance. Ce poids d'équipement a les effets suivants : \n• Coût en vitalité de l'esquive : {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]} \n• Dégâts de base : augmentation de {[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]} % \n• Soins prodigués : augmentation de 30 % \n• Pendant {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Light.BaseDuration]}s après avoir pris un coup au corps à corps, la distance d'esquive est réduite de 20 % et vous ne pouvez pas courir.</string>
-	<string key="inv_equipLoadNormalTooltip">Votre esquive est un bond rapide. Ce poids d'équipement a les effets suivants : \n• Coût en vitalité de l'esquive : {[StaminaCosts_Player.Dodge_Roll.StaminaCost]} \n• Dégâts de base : augmentation de {[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]} % \n• Affaiblissements dus au contrôle de foule : augmentation de 10 % de la durée \n• Pendant {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Medium.BaseDuration]}s après avoir pris un coup au corps à corps, la distance d'esquive est réduite de 20 % et vous ne pouvez pas courir.</string>
-	<string key="inv_equipLoadSlowTooltip">Votre esquive est un pas chassé. Ce poids d'équipement a les effets suivants : \n• Coût en vitalité de l'esquive : {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]} \n• Capacité de blocage : augmentation de 15 % \n• Affaiblissements dus au contrôle de foule : augmentation de 20 % de la durée \n• Soins prodigués : réduction de 30 % \n• Pendant {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Heavy.BaseDuration]}s après avoir pris un coup au corps à corps, vous ne pouvez pas courir.</string>
+	<string key="inv_equipLoadTooltip">La charge combinée de l'armure et du bouclier que vous portez détermine votre poids d'équipement. Du poids d'équipement dépendent vos capacités d'esquive ainsi que d'autres effets.</string>
+	<string key="inv_equipLoadFastTooltip">• Dégâts de base : +{[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]} % \n• Soins prodigués : +30 % \n• Votre esquive consiste en une roulade rapide. \n• Coût en vitalité de l'esquive : {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]} \n• Pendant {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Light.BaseDuration]}s après avoir pris un coup au corps à corps, la distance d'esquive est réduite de 20 % et vous ne pouvez pas courir.</string>
+	<string key="inv_equipLoadNormalTooltip">• Dégâts de base : +{[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]} % \n• Durée du contrôle de foule subi : -10 % \n• Votre esquive consiste en un bond rapide. \n• Coût en vitalité de l'esquive : {[StaminaCosts_Player.Dodge_Roll.StaminaCost]} \n• Pendant {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Medium.BaseDuration]}s après avoir pris un coup au corps à corps, la distance d'esquive est réduite de 20 % et vous ne pouvez pas courir.</string>
+	<string key="inv_equipLoadSlowTooltip">• Robustesse des parades : +15 % \n• Durée du contrôle de foule subi : -20 % \n• Soins prodigués : -30 % \n• Votre esquive consiste en un pas chassé. \n• Coût en vitalité de l'esquive : {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]} \n• Pendant {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Heavy.BaseDuration]}s après avoir pris un coup au corps à corps, vous ne pouvez pas courir.</string>
 	<string key="inv_equipLoadOverburdenedTooltip">Lorsque vous dépassez le poids d'équipement maximal, vous ne pouvez plus esquiver, courir ou utiliser de capacités. Vous devriez déséquiper quelques objets.</string>
-	<string key="inv_equipLoadEncumberedTooltip">Vous avez trop d'objets dans votre inventaire. Lorsque l'inventaire est encombré, les effets subis sont indépendants de votre poids d'équipement. Vous ne pouvez ni courir ou esquiver et vous perdez davantage de vitalité en parant. Retirez quelques objets de votre havresac.</string>
+	<string key="inv_equipLoadEncumberedTooltip">Si vous dépassez la limite de poids de l'inventaire, vous serez encombré(e) et vos mouvements ainsi que vos actions seront réduits. Vous perdrez également davantage de vitalité en parant.</string>
 	<string key="inv_equipLoadOverburdened_Tooltip" comment="This tooltip is for the status effect icon near vitals">Vous dépassez le poids d'équipement maximal : Impossible d'esquiver ou de courir et la vitesse de régénération de la vitalité est bien plus lente. Vous devriez déséquiper quelques objets.</string>
 	<string key="inv_equipLoadFastNotification">Poids d'équipement léger</string>
 	<string key="inv_equipLoadNormalNotification">Poids d'équipement moyen</string>
 	<string key="inv_equipLoadSlowNotification">Poids d'équipement lourd</string>
 	<string key="inv_equipLoadOverburdenedNotification">Suréquipé - Impossible d'esquiver ou de courir</string>
 	<string key="inv_equipLoadEncumberedNotification">Encombré - Impossible d'esquiver, de sauter ou de courir</string>
-	<string key="inv_encumbranceTooltip">Votre encombrement correspond au poids total de ce que contient votre sac. Les objets équipés ne l'affectent pas. Utilisez des sacs pour augmenter l'encombrement maximal de l'inventaire.</string>
-	<string key="inv_encumbranceUnencumberedTooltip">Si le poids des objets est inférieur à la limite de l'inventaire, vous n'êtes pas encombré.</string>
-	<string key="inv_encumbranceEncumberedTooltip">Lorsque vous avez trop d'objets dans votre inventaire, vous ne pouvez pas esquiver ou courir. Une fois l'encombrement maximal atteint, vous ne pouvez plus vous déplacer ni attaquer. Retirez quelques objets de votre havresac.</string>
+	<string key="inv_encumbranceTooltip">Le poids de l'inventaire influe sur votre déplacement et vos actions. Améliorez vos sacs pour augmenter sa limite de poids. Si la limite est dépassée, vous serez encombré(e). Si celle-ci est largement dépassée, vous serez en surcharge.</string>
+	<string key="inv_encumbranceUnencumberedTooltip">Vous pouvez effectuer librement toutes les actions puisque le poids de votre inventaire est inférieur à la limite.</string>
+	<string key="inv_encumbranceEncumberedTooltip">• Encombrement : Course, esquive et saut impossibles.\n• Surcharge : Déplacement, esquive, saut et attaque impossibles.</string>
 	<string key="inv_does_not_meet_weapon_requirements">Caractéristiques insuffisantes</string>
-	<string key="inv_encumbranceAttackNotification">Encombré : impossible d'attaquer</string>
+	<string key="inv_encumbranceAttackNotification">Surcharge – Attaque impossible</string>
 	<string key="inv_insufficientManaNotification">Mana insuffisant</string>
 	<string key="inv_OutOfRangeNotification">Cible hors de portée</string>
-	<string key="inv_compareTo">Comparer avec {location}</string>
+	<string key="inv_compareTo">Comparer ({location})</string>
 	<string key="inv_additionalItems">{count} objets supplémentaires</string>
 	<string key="inv_repairparts_quantity">{count} pièce(s) de réparation</string>
 	<string key="inv_repairparts_tooltip_name">PIÈCES DE RÉPARATION</string>
 	<string key="ui_repairparts">Pièces de réparation</string>
-	<string key="inv_repairparts_tooltip_description">Les pièces de réparation servent à réparer les objets.\n\nElles ne peuvent être échangées, vendues ou achetées. Pour en obtenir davantage, recyclez les armes et armures superflues.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Obtenues via :&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ffffff"&gt; armes, armures&lt;/font&gt;</string>
+	<string key="inv_repairparts_tooltip_description">Les pièces de réparation servent à réparer les objets.\n\nElles ne peuvent être échangées, vendues ou achetées. Pour en obtenir plus, recyclez des armes et armures superflues.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Source :&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ebe3d6"&gt; armes, armures&lt;/font&gt;</string>
 	<string key="inv_repairparts_tooltip_drivedfrom">Armes et armures</string>
 	<string key="inv_azoth_tooltip_drivedfrom">Foyers d'altération, Quêtes</string>
 	<string key="inv_repairparts_nearlimit">&lt;font color="#f25d5d"&gt;Vous êtes sur le point d'atteindre la limite de pièces de réparation.&lt;/font&gt;</string>
@@ -153,26 +153,26 @@
 	<string key="ui_dropall">Tout lâcher</string>
 	<string key="ui_dropall_in_trade">Impossible de lâcher des objets lors des échanges</string>
 	<string key="ui_transfer_all_filtered">Impossible de déplacer tous les objets de cette section tant qu'un filtre est appliqué.</string>
-	<string key="ui_storeall">Tout stocker</string>
-	<string key="ui_filterDescription">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;UTILISATION DU FILTRE&lt;/font&gt;&lt;/font&gt;\n\n&lt;font color="#a6a6a6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Filtrer par&lt;/font&gt;&lt;/font&gt;\n\n- Nom d'objet\n- Score d'équipement minimum (ex : 100)\n- Palier d'objet minimum (ex : P1)\n\n&lt;font color="#a6a6a6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Exemples&lt;/font&gt;&lt;/font&gt;\n\nÉpée 200\nHache P1\nPiolet -fer</string>
+	<string key="ui_storeall">Tout déplacer dans un abri de rangement</string>
+	<string key="ui_filterDescription">&lt;font color={headerColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;UTILISATION DU FILTRE&lt;/font&gt;\n\n&lt;font color={subheaderColor} face="lyshineui/fonts/Nimbus_semibold.font"&gt;Filtrer par&lt;/font&gt;\n• Nom d'objet\n• Score d'équipement minimum (par ex. : 100)\n• Palier minimum (par ex. : I)\n\n&lt;font color={subheaderColor} face="lyshineui/fonts/Nimbus_semibold.font"&gt;Exemples&lt;/font&gt;\n• Épée 200\n• Hache I\n• Piolet -fer</string>
 	<string key="ui_filterText">Chercher</string>
 	<string key="ui_filterHeader">Filtrer objet</string>
 	<string key="ui_sort">Trier</string>
-	<string key="ui_sort_weight">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Trier par &lt;font color="#ffffff"&gt;poids :&lt;/font&gt;&lt;/font&gt; Lourd - Léger</string>
-	<string key="ui_sort_weight_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Trier par &lt;font color="#ffffff"&gt;poids :&lt;/font&gt;&lt;/font&gt; Léger - Lourd</string>
-	<string key="ui_sort_tier">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Trier par &lt;font color="#ffffff"&gt;palier :&lt;/font&gt;&lt;/font&gt; Élevé- bas</string>
-	<string key="ui_sort_tier_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Trier par &lt;font color="#ffffff"&gt;palier :&lt;/font&gt;&lt;/font&gt; Bas - Élevé</string>
-	<string key="ui_sort_gearscore">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Trier par &lt;font color="#ffffff"&gt;score d'équipement :&lt;/font&gt;&lt;/font&gt; Élevé - bas</string>
-	<string key="ui_sort_gearscore_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Trier par &lt;font color="#ffffff"&gt;score d'équipement :&lt;/font&gt;&lt;/font&gt; Bas - Élevé</string>
-	<string key="ui_sort_chrono">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Trier par &lt;font color="#ffffff"&gt;ordre chronologique :&lt;/font&gt;&lt;/font&gt; Plus récent - Plus ancien</string>
-	<string key="ui_sort_chrono_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Trier par &lt;font color="#ffffff"&gt;ordre chronologique :&lt;/font&gt;&lt;/font&gt; Plus ancien - Plus récent</string>
+	<string key="ui_sort_weight">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Trier par &lt;font color="#ebe3d6"&gt;poids :&lt;/font&gt;&lt;/font&gt; Lourd - Léger</string>
+	<string key="ui_sort_weight_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Trier par &lt;font color="#ebe3d6"&gt;poids :&lt;/font&gt;&lt;/font&gt; Léger - Lourd</string>
+	<string key="ui_sort_tier">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Trier par &lt;font color="#ebe3d6"&gt;palier :&lt;/font&gt;&lt;/font&gt; Élevé- bas</string>
+	<string key="ui_sort_tier_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Trier par &lt;font color="#ebe3d6"&gt;palier :&lt;/font&gt;&lt;/font&gt; Bas - Élevé</string>
+	<string key="ui_sort_gearscore">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Trier par &lt;font color="#ebe3d6"&gt;score d'équipement :&lt;/font&gt;&lt;/font&gt; Élevé - bas</string>
+	<string key="ui_sort_gearscore_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Trier par &lt;font color="#ebe3d6"&gt;score d'équipement :&lt;/font&gt;&lt;/font&gt; Bas - Élevé</string>
+	<string key="ui_sort_chrono">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Trier par &lt;font color="#ebe3d6"&gt;ordre chronologique :&lt;/font&gt;&lt;/font&gt; Plus récent - Plus ancien</string>
+	<string key="ui_sort_chrono_asc">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Trier par &lt;font color="#ebe3d6"&gt;ordre chronologique :&lt;/font&gt;&lt;/font&gt; Plus ancien - Plus récent</string>
 	<string key="inv_equipmentstatrow_modifiertemplate">({baseValue} &lt;font color={modifierColor}&gt;{operator} {modifierValue}&lt;/font&gt;)</string>
 	<string key="ui_attributemodifier_pending_value">(+{pendingValue})</string>
-	<string key="ui_attributemodifier_tooltip">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color={color}&gt;{attributeValue}&lt;/font&gt; &lt;font color="#dddddd" face="lyshineui/fonts/Nimbus_Regular.font"&gt;points de caractéristiques&lt;/font&gt; en {attributeName}</string>
-	<string key="ui_attributemodifier_tooltip_committed">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;(Points assignés : {value})&lt;/font&gt;</string>
-	<string key="ui_attributemodifier_tooltip_equipment">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;(Équipement : {value})&lt;/font&gt;</string>
-	<string key="ui_attributemodifier_tooltip_buffs">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;(Améliorations d'objet : &lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={modifierColor}&gt;{modifierOperator}{value}&lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;)&lt;/font&gt;</string>
-	<string key="ui_attributemodifier_tooltip_pending">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;(Points en attente : {value})&lt;/font&gt;</string>
+	<string key="ui_attributemodifier_tooltip">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color={color}&gt;{attributeValue} {attributeName}&lt;/font&gt;</string>
+	<string key="ui_attributemodifier_tooltip_committed">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;Assignés : {value}&lt;/font&gt;</string>
+	<string key="ui_attributemodifier_tooltip_equipment">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;Équipement : {value}&lt;/font&gt;</string>
+	<string key="ui_attributemodifier_tooltip_buffs">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;Améliorations d'objet : &lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={modifierColor}&gt;{modifierOperator}{value}&lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;)&lt;/font&gt;</string>
+	<string key="ui_attributemodifier_tooltip_pending">&lt;font face="lyshineui/fonts/Nimbus_regular.font" color={color}&gt;En attente : {value}&lt;/font&gt;</string>
 	<string key="ui_attributemodifier_required_points">Points requis :</string>
 	<string key="ui_physical_defense_short">PHYS</string>
 	<string key="ui_physical_defense_full">Résistance aux dégâts physiques</string>
@@ -192,5 +192,54 @@
 	<string key="inv_TargetDeadNotification">La cible est morte.</string>
 	<string key="inv_TargetOutsideLos">Aucune cible dans le champ de vision</string>
 	<string key="inv_moreItems">&lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;{value}&lt;/font&gt; objets de plus</string>
+	<string key="lo_name" comment="This key needs to be short to be used directly as a loadout name." rel_version="Feature_Gear_Set_Storage">Ens. équip.</string>
+	<string key="loadout_window_title" rel_version="Feature_Gear_Set_Storage">ENSEMBLES D'ÉQUIPEMENT</string>
+	<string key="loadout_storage_title" rel_version="Feature_Gear_Set_Storage">ENSEMBLES D'ÉQUIPEMENT</string>
+	<string key="loadout_storage_info" rel_version="Feature_Gear_Set_Storage">Les objets dans les ensembles d'équipement ne font pas partie de votre inventaire et ne sont pas pris en compte dans votre poids d'inventaire ou de rangement.</string>
+	<string key="loadout_addto_command" rel_version="Feature_Gear_Set_Storage">Ajouter à l'ensemble d'équipement</string>
+	<string key="loadout_addfrom_command" rel_version="Feature_Gear_Set_Storage">Ajouter de l'ensemble d'équipement</string>
+	<string key="loadout_addtoall_command" rel_version="Feature_Gear_Set_Storage">Ajouter à tous les ensembles d'équipement</string>
+	<string key="loadout_removefrom_command" rel_version="Feature_Gear_Set_Storage">Retirer de l'ensemble d'équipement</string>
+	<string key="loadout_removefromall_command" rel_version="Feature_Gear_Set_Storage">Retirer de tous les ensembles d'équipement</string>
+	<string key="loadout_store_callout" rel_version="Feature_Gear_Set_Storage">Déverrouiller des ens. d'équipement suppl.</string>
+	<string key="loadout_store_button" rel_version="Feature_Gear_Set_Storage">Ouvrir boutique</string>
+	<string key="loadout_import_current" rel_version="Feature_Gear_Set_Storage">Importer objets équipés</string>
+	<string key="loadout_unequipall_tooltip" rel_version="Feature_Gear_Set_Storage">Enlever tous les objets</string>
+	<string key="loadout_unequipall_title" rel_version="Feature_Gear_Set_Storage">Enlever objets</string>
+	<string key="loadout_unequipall_message" rel_version="Feature_Gear_Set_Storage">Voulez-vous vraiment replacer tous les objets de cet ensemble d'équipement dans votre inventaire ?</string>
+	<string key="loadout_importall_title" rel_version="Feature_Gear_Set_Storage">Tout importer</string>
+	<string key="loadout_importall_message" rel_version="Feature_Gear_Set_Storage">Voulez-vous vraiment ajouter tous les objets équipés à cet ensemble d'équipement ?</string>
+	<string key="loadout_locked_message" rel_version="Feature_Gear_Set_Storage">Se déverrouille au niveau {level}</string>
+	<string key="loadout_currently_equipped" rel_version="Feature_Gear_Set_Storage">Ensemble d'équipement : {loadoutName}</string>
+	<string key="loadout_error" rel_version="Feature_Gear_Set_Storage">Erreur d'ensemble d'équipement</string>
+	<string key="loadout_notification_equip_success" rel_version="Feature_Gear_Set_Storage">{loadoutName} : équipé</string>
+	<string key="loadout_notification_equip_failure" rel_version="Feature_Gear_Set_Storage">Impossible de s'équiper de : {loadoutName}</string>
+	<string key="loadout_notification_incombat" rel_version="Feature_Gear_Set_Storage">Impossible de changer d'ensemble d'équipement en combat.</string>
+	<string key="loadout_notification_restricted" rel_version="Feature_Gear_Set_Storage">Impossible de changer d'ensemble d'équipement actuellement.</string>
+	<string key="loadout_notification_renamefail" rel_version="Feature_Gear_Set_Storage">Échec du renommage de l'ensemble d'équipement</string>
+	<string key="loadout_notification_renameinvalid" rel_version="Feature_Gear_Set_Storage">Nom d'ensemble d'équipement invalide</string>
+	<string key="loadout_notification_itemlinked" rel_version="Feature_Gear_Set_Storage">Objet non replacé (dans un autre ensemble d'équipement ou équipé)</string>
+	<string key="loadout_notification_itemslinked" rel_version="Feature_Gear_Set_Storage">Certains objets n'ont pas été replacés dans votre inventaire (dans un autre ensemble d'équipement ou équipé).</string>
+	<string key="loadout_notification_itemadd_success" rel_version="Feature_Gear_Set_Storage">Objet ajouté à : {loadoutName}</string>
+	<string key="loadout_notification_itemadd_failure" rel_version="Feature_Gear_Set_Storage">Impossible d'ajouter l'objet à : {loadoutName}</string>
+	<string key="loadout_notification_itemadd_failure_existing_slot" rel_version="Feature_Gear_Set_Storage">Impossible d'ajouter l'objet à : {loadoutName} car l'objet est déjà dans cet emplacement.</string>
+	<string key="loadout_notification_itemaddall_success" rel_version="Feature_Gear_Set_Storage">Objet ajouté à tous les ensembles d'équipement</string>
+	<string key="loadout_notification_itemaddall_failure" rel_version="Feature_Gear_Set_Storage">Impossible d'ajouter l'objet à tous les ensembles d'équipement</string>
+	<string key="loadout_notification_switch_loadout_on_cooldown" rel_version="Feature_Gear_Set_Storage">Vous devez attendre {timeRemaining} avant de pouvoir changer d'ensemble d'équipement.</string>
+	<string key="loadout_tutorial" rel_version="Feature_Gear_Set_Storage">Ensembles d'équipement disponibles !\nCréez et changez d'ensemble d'équipement selon votre activité.</string>
+	<string key="loadout_notification_itemremove_space_failure" rel_version="Feature_Gear_Set_Storage">Impossible de replacer les objets de l'ensemble d'équipement dans l'inventaire à cause du manque de place.</string>
+	<string key="loadout_notification_return_space_fail" rel_version="Feature_Gear_Set_Storage">Impossible de replacer les objets de l'ensemble d'équipement dans l'inventaire à cause du manque de place. Veuillez faire de la place et déconnectez-vous plusieurs minutes avant de réessayer.</string>
+	<string key="incompatible_elemental_perk">Incompatible avec l'atout élémentaire</string>
+	<string key="incompatible_socket_item">Ceci ne peut pas être serti dans un objet de ce type.</string>
+	<string key="ui_effect_failed_Invalid">Impossible d'appliquer l'effet</string>
+	<string key="ui_effect_failed_Disabled">Impossible d'appliquer l'effet temporairement désactivé</string>
+	<string key="ui_effect_failed_OnCooldown">Impossible d'appliquer l'effet pendant le temps de recharge</string>
+	<string key="ui_effect_failed_GameModePaused">Impossible d'appliquer l'effet dans le mode de jeu actuel</string>
+	<string key="ui_effect_failed_Dead">Impossible d'appliquer l'effet quand vous avez péri</string>
+	<string key="ui_effect_failed_VitalsIgnored">Impossible d'appliquer l'effet</string>
+	<string key="ui_effect_failed_MultipleFromSource">Impossible d'appliquer des effets redondants</string>
+	<string key="ui_effect_failed_AntirequisiteActive">Impossible d'appliquer en raison d'autres effets contradictoires : {competingEffect}</string>
+	<string key="ui_effect_failed_AntirequisiteActive_Multiple">Impossible d'appliquer en raison de multiples effets contradictoires</string>
+	<string key="ui_effect_failed_Success">Effet disponible</string>
 </resources>
 

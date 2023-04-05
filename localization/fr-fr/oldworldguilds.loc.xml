@@ -42,7 +42,7 @@
 	<string key="owg_drop_item_notification">Objet de mission lâché</string>
 	<string key="owg_drop_item_title">Lâcher l'objet de mission</string>
 	<string key="owg_drop_item_warning">Lâcher ou ranger cet objet entraînera sa destruction.</string>
-	<string key="owg_entershop_button">Acheter des récompenses</string>
+	<string key="owg_entershop_button">Récompenses</string>
 	<string key="owg_price_update">L'activité de la faction a fait évoluer les prix.</string>
 	<string key="owg_faction_select_no">Non. Je dois d'abord y réfléchir.</string>
 	<string key="owg_faction_select_title">Rejoindre cette faction ?</string>
@@ -116,8 +116,9 @@
 	<string key="owg_factiontokens_1">Jetons de l'Ombre</string>
 	<string key="owg_factiontokens_2">Jetons des Maraudeurs</string>
 	<string key="owg_factiontokens_3">Jetons des Engagés</string>
-	<string key="owg_shopitemsavailable">{numItems} objets disponibles</string>
-	<string key="owg_newshopitems">{numItems} nouveaux objets de boutique</string>
+	<string key="owg_faction_unlock_tooltip">Atteindre un rang plus élevé permet aux joueurs d'entreprendre plus de missions de faction et acheter du matériel de meilleure qualité dans la boutique de faction.</string>
+	<string key="owg_shopitemsavailable">Objets disponibles : {numItems}</string>
+	<string key="owg_newshopitems">Nouveaux objets dans la boutique : {numItems}</string>
 	<string key="owg_hunter_guildname">Missions de foyers d'altération</string>
 	<string key="owg_explorer_desc">Des champions divins qui luttent avec conviction pour la droiture et la justice</string>
 	<string key="owg_explorer_sub_desc">« Défendre l'étincelle de l'espoir est notre devoir sacré... »</string>
@@ -131,7 +132,7 @@
 	<string key="owg_mission_item">Objet de mission</string>
 	<string key="owg_missionlist_title">Missions disponibles</string>
 	<string key="owg_missions_header">Missions de : {guildName}</string>
-	<string key="owg_multiple_items_purchased">Vous avez acheté : {itemName}x{amount}</string>
+	<string key="owg_multiple_items_purchased">Vous avez acheté : &lt;font color="#f7bc41"&gt;{itemName}&lt;/font&gt;(x {amount}) !</string>
 	<string key="owg_rank">Rang</string>
 	<string key="owg_rank_bounty_1" xsi:nil="true"/>
 	<string key="owg_rank_bounty_2" xsi:nil="true"/>
@@ -244,6 +245,8 @@
 	<string key="owg_pvp_cannotacceptmission_nosanctuary">Vous ne pouvez pas accepter une &lt;font color="#eaeaea"&gt;mission JcJ&lt;/font&gt; si vous n'êtes pas dans un sanctuaire.</string>
 	<string key="owg_pvp_cannotacceptmission_typeblocked">Vous ne pouvez pas accepter une &lt;font color="#eaeaea"&gt;mission JcJ&lt;/font&gt; de ce type pour le moment.</string>
 	<string key="owg_pvp_cannotacceptmission_ingroupfindergroup" rel_version="Feature_Group_Finder">Vous ne pouvez pas accepter de &lt;font color="#eaeaea"&gt;mission JcJ&lt;/font&gt; lorsque vous êtes dans un salon JcE qui empêche l'activation du mode JcJ.</string>
+	<string key="owg_pvp_cannotacceptmission_pvpinactive_canswitch" rel_version="Feature_Alt_Character_Protection">Vous ne pouvez pas accepter de &lt;font color="#eaeaea"&gt;mission JcJ&lt;/font&gt; si vous n'avez pas activé le mode JcJ. Voulez-vous activer le mode JcJ ?</string>
+	<string key="owg_pvp_cannotacceptmission_pvpinactive" rel_version="Feature_Alt_Character_Protection">Vous ne pouvez pas accepter de &lt;font color="#eaeaea"&gt;mission JcJ&lt;/font&gt; si vous n'avez pas activé le mode JcJ. Vous pourrez passer en mode JcJ dans : {timeRemaining}</string>
 	<string key="owg_pvp_cannotacceptmission_pendinggroupfinderapplications" rel_version="Feature_Group_Finder">Vous ne pouvez pas accepter de &lt;font color="#eaeaea"&gt;mission JcJ&lt;/font&gt; tant que vous avez des invitations dans un salon qui empêchent l'activation du mode JcJ.</string>
 	<string key="owg_pvp_cannotacceptmission_unknown">Vous ne pouvez pas accepter une &lt;font color="#eaeaea"&gt;mission JcJ&lt;/font&gt; pour le moment.</string>
 	<string key="owg_tooltip_warning">Une seule mission peut être active à la fois.</string>
@@ -297,11 +300,11 @@
 	<string key="ui_stats_friends_in_faction">{friendCountInFaction} amis en faction</string>
 	<string key="ui_stats_faction_tokens">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{factionTokens}&lt;/font&gt; jetons</string>
 	<string key="ui_stats_faction_rep">Réputation de faction : {factionRep}</string>
-	<string key="ui_faction_items_label">Accomplir des missions pour obtenir des objets comme</string>
+	<string key="ui_faction_items_label">Accomplissez des missions pour recevoir des récompenses !</string>
 	<string key="ui_faction_unaligned">Non aligné</string>
 	<string key="ui_unlocks_pvp">Déverrouille le JcJ</string>
 	<string key="CMissionExplore_Name">Explorateurs requis</string>
-	<string key="CMissionExplore_Desc">Cherchez : &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; à : &lt;font color="#eaeaea"&gt;{POITags}.&lt;/font&gt;Revenez ici pour la livraison.</string>
+	<string key="CMissionExplore_Desc">Cherchez &lt;font color="#eaeaea"&gt;{itemName} (x{itemAmount})&lt;/font&gt; à : &lt;font color="#eaeaea"&gt;{POITags}.&lt;/font&gt; Revenez ici pour la livraison.</string>
 	<string key="CMissionAcquireBlock_Name">Tailleurs de pierre requis</string>
 	<string key="CMissionAcquireTimber_Name">Charpentiers requis</string>
 	<string key="CMissionAcquireCloth_Name">Tisseurs requis</string>
@@ -400,10 +403,10 @@
 	<string key="FactionMission_PRESERVE_title">Conservation (JcJ)</string>
 	<string key="FactionMission_PRESERVE_desc">Que l'Étincelle bénisse {POITags}.</string>
 	<string key="FactionMission_EXPEDITIONRAID_title">Assaut : {POITags}</string>
-	<string key="FactionMission_EXPEDITIONRAID_desc">Allez à : {POITags} pour le compte des Maraudeurs et venez à bout du moindre &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; qui y rôde. \n\n &lt;font color="#eaeaea"&gt;(Expédition)&lt;/font&gt;</string>
-	<string key="FactionMission_EXPEDITIONRAID_desc_singular">Allez à : {POITags} pour le compte des Maraudeurs et terrassez : &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt;. \n\n &lt;font color="#eaeaea"&gt;(Expédition)&lt;/font&gt;</string>
+	<string key="FactionMission_EXPEDITIONRAID_desc">Allez à : {POITags} pour le compte de l'Ombre et venez à bout du moindre &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; qui y rôde. \n\n &lt;font color="#eaeaea"&gt;(Expédition)&lt;/font&gt;</string>
+	<string key="FactionMission_EXPEDITIONRAID_desc_singular">Allez à : {POITags} pour le compte de l'Ombre et terrassez : &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt;. \n\n &lt;font color="#eaeaea"&gt;(Expédition)&lt;/font&gt;</string>
 	<string key="FactionMission_EXPEDITIONLOOT_title">Rapine : {POITags}</string>
-	<string key="FactionMission_EXPEDITIONLOOT_desc">Allez à : {POITags} pour le compte des Maraudeurs et récupérez : &lt;font color="#eaeaea"&gt;{itemName}&lt;/font&gt;. \n\n&lt;font color="#eaeaea"&gt;(Expédition)&lt;/font&gt;</string>
+	<string key="FactionMission_EXPEDITIONLOOT_desc">Allez à : {POITags} pour le compte de l'Ombre et récupérez chaque &lt;font color="#eaeaea"&gt;{itemName}&lt;/font&gt; qui s'y trouve. \n\n&lt;font color="#eaeaea"&gt;(Expédition)&lt;/font&gt;</string>
 	<string key="FactionMission_INTERCEPT_title">Domination (JcJ)</string>
 	<string key="FactionMission_INTERCEPT_desc">Éliminez des membres de l'&lt;font color="#eaeaea"&gt;Ombre&lt;/font&gt; ou des &lt;font color="#eaeaea"&gt;Engagés&lt;/font&gt; pour la gloire des Maraudeurs.\n\n(Votre progression est conservée dans cette mission, même si vous mourez.)</string>
 	<string key="FactionMission_S_INTERCEPT_title">Éradication (JcJ)</string>
@@ -544,8 +547,8 @@
 	<string key="ui_cant_switch_faction_sanctuary">Vous devez vous trouver dans un sanctuaire pour changer de faction.</string>
 	<string key="ui_cant_switch_faction_war">Impossible de changer de faction lorsque vous devez participer à une guerre.</string>
 	<string key="ui_cant_switch_faction_intro">Vous n'avez pas encore fait vos preuves envers cette faction. Parlez à un représentant de faction pour la rejoindre.</string>
-	<string key="ui_cant_switch_faction_incompany" rel_version="Feature_Unfactioned_Company_Members">Vous êtes actuellement dans une compagnie associée à une faction différente. Si vous continuez, vous ne pourrez plus faire partie de cette compagnie.\n\nVous ne pourrez rejoindre qu'une compagnie dont les joueurs sont de la même faction. En mode JcJ, vous ne pouvez faire équipe qu'avec des joueurs de la même faction. Avant de rejoindre cette faction, il est conseillé de vérifier les choix de faction de vos amis dans New World.\n\nVotre choix n'est pas définitif : il est possible de changer de faction une fois via votre biographie. Puis, vous pourrez en changer de nouveau tous les &lt;font color="#FFD45F"&gt;60 jours&lt;/font&gt;.</string>
+	<string key="ui_cant_switch_faction_incompany" rel_version="Feature_Unfactioned_Company_Members">Vous êtes actuellement dans une compagnie associée à une faction différente. Si vous continuez, vous ne pourrez plus faire partie de cette compagnie.\n\nVous ne pouvez rejoindre qu'une compagnie alignée avec votre faction. En mode JcJ, vous ne pouvez faire équipe qu'avec des joueurs de la même faction. Avant de rejoindre cette faction, vérifiez les choix de faction de vos amis.\n\nVotre choix n'est pas définitif : il est possible de changer de faction une fois via votre biographie. Puis, vous pourrez en changer de nouveau tous les &lt;font color="#FFD45F"&gt;60 jours&lt;/font&gt;.</string>
 	<string key="ui_join">Rejoindre</string>
-	<string key="ui_faction_join_restrictions">Vous ne pourrez changer de faction qu'une fois tous les 60 jours. Vous ne pourrez rejoindre que des compagnies de votre propre faction.</string>
+	<string key="ui_faction_join_restrictions">Vous pouvez changer de faction tous les 60 jours et ne pouvez rejoindre qu'une compagnie alignée avec votre faction.</string>
 </resources>
 

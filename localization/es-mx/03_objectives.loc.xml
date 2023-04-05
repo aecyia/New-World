@@ -524,7 +524,7 @@
 	<string key="0325_0101_RL_00_objective_desc" speaker="UI">Recolecta componentes para fabricar la legendaria manopla de hielo Rimelash.</string>
 	<string key="0325_0101_RL_01_objective_desc" speaker="UI">Recolecta los ribetes corrompidos que unirán la manopla de Patrick, general legado, en Defensa de los svikin. Habla con Madaki, la arquera, en Montaña destruida.</string>
 	<string key="0325_0101_RL_02_objective_desc" speaker="UI">Recolecta el revestimiento de oricalco congelado de la corona helada de Myrkgard norte, Tribulación Mayor.</string>
-	<string key="0325_0101_RL_03_objective_desc" speaker="UI">Recolecta los hongos helados que frecen sobre los guardianes alcazareños de élite de Malevolencia para un toque especial de escarcha.</string>
+	<string key="0325_0101_RL_03_objective_desc" speaker="UI">Recolecta los hongos helados que crecen sobre los guardianes alcazareños de élite de Malevolencia para disfrutar de un toque especial de escarcha.</string>
 	<string key="0325_0101_RL_04_objective_desc" speaker="UI">Mata a los corrompidos de camino a recolectar el corazón retorcido y helado de S'ylanx, el oculto, para hacer el núcleo de la manopla.</string>
 	<string key="0325_0101_RL_05_objective_desc" speaker="UI">Recolecta guantes forjados por la escarcha para formar la mano de la manopla de los corrompidos de Caminus.</string>
 	<string key="0325_0101_RL_06_objective_desc" speaker="UI">Recolecta ectoplasma por siempre congelado de los espectros del frígido Periville, su frío perpetuo en la muerte en vida.</string>
@@ -554,7 +554,7 @@
 	<string key="0325_0103_RL_task_01_TaskGoToPOITag" speaker="UI">Busca revestimiento de oricalco congelado de {POITags} en Myrkgard</string>
 	<string key="0325_0103_RL_task_02a_TaskKillContribution">Derrota a los {targetName} corrompidos</string>
 	<string key="0325_0103_RL_task_02b_TaskHaveAndReturnItems" speaker="UI">Busca en cofres dentro de {POITags} para encontrar {itemName}</string>
-	<string key="0325_0104_RL_task_01_TaskGoToPOITag" speaker="UI">Recolecta los hongos helados que crecen sobre los guardianes dríades de {POITags}</string>
+	<string key="0325_0104_RL_task_01_TaskGoToPOITag" speaker="UI">Recolecta los hongos helados que crecen sobre los guardianes dríades de {POITags}.</string>
 	<string key="0325_0104_RL_task_02a_TaskKillContribution">Derrota a {targetName} dríades</string>
 	<string key="0325_0104_RL_task_02b_TaskHaveAndReturnItems" speaker="UI">Derrota a los {targetName}s, enormes creaciones parecidas a osos, para conseguir {itemName}</string>
 	<string key="0325_0104_RL_task_02c_TaskGameEvent">Derriba las vides encantadas en los muros de Malevolencia</string>

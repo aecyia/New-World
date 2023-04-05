@@ -145,7 +145,7 @@
 	<string key="PerkID_MusicalInstrument_RakeReduction_Description" rel_version="Feature_MusicalPerformances">Wykonawca otrzymuje pełną kwotę napiwku.</string>
 	<string key="PerkID_MusicalInstrument_FinalNotePerfectXPBonus_Description" rel_version="Feature_MusicalPerformances">Jeśli ostatnia nuta będzie doskonała, otrzymasz 10% premii do muzycznych PD.</string>
 	<string key="PerkID_MusicalInstrument_GroupXPBonus_Description" rel_version="Feature_MusicalPerformances">Granie w grupie zapewnia 10% premii do muzycznych PD.</string>
-	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Granie w pojedynkę zapewnia 10% premii do muzycznych PD.</string>
+	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Granie w pojedynkę zapewnia 15% premii do muzycznych PD.</string>
 	<string key="ui_music_guitar_part_1" rel_version="Feature_MusicalPerformances">Gitara (część 1)</string>
 	<string key="ui_music_guitar_part_2" rel_version="Feature_MusicalPerformances">Gitara (część 2)</string>
 	<string key="ui_music_guitar_part_3" rel_version="Feature_MusicalPerformances">Gitara (część 3)</string>

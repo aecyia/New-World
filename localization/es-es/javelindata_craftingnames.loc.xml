@@ -12,6 +12,7 @@
 	<string key="LeatherT2_Down_Name">Degradar cuero resistente a cuero grueso</string>
 	<string key="LeatherT3_Down_Name">Degradar cuero con capas a cuero resistente</string>
 	<string key="LeatherT4_Down_Name">Degradar cuero imbuido a cuero con capas</string>
+	<string key="LeatherT4_Down_Name">Degradar cuero imbuido a cuero con capas</string>
 	<string key="ClothT2_Down_Name">Degradar satén a lino</string>
 	<string key="ClothT3_Down_Name">Degradar seda a satén</string>
 	<string key="ClothT4_Down_Name">Degradar seda imbuida a seda</string>
@@ -1973,5 +1974,12 @@
 	<string key="LightHands_ChitinT5">Guantes de tela de quitina</string>
 	<string key="LightLegs_ChitinT5">Calzas de tela de quitina</string>
 	<string key="LightFeet_ChitinT5">Botas de tela de quitina</string>
+	<string key="PotionFamilyWardAeternianT3" rel_version="Season_1_Perm">Poción de protección contra humanos fuerte</string>
+	<string key="PotionFamilyWardAeternianT4" rel_version="Season_1_Perm">Poción de protección contra humanos potente</string>
+	<string key="PotionFamilyWardAeternianT5" rel_version="Season_1_Perm">Poción de protección contra humanos imbuida</string>
+	<string key="Procedural_CoatingAeternianT2" rel_version="Season_1_Perm">Revestimiento contra humanos común</string>
+	<string key="Procedural_CoatingAeternianT3" rel_version="Season_1_Perm">Revestimiento contra humanos fuerte</string>
+	<string key="Procedural_CoatingAeternianT4" rel_version="Season_1_Perm">Revestimiento contra humanos potente</string>
+	<string key="Procedural_CoatingAeternianT5" rel_version="Season_1_Perm">Revestimiento contra humanos imbuido</string>
 </resources>
 

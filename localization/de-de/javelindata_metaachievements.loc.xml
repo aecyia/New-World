@@ -90,8 +90,8 @@
 	<string key="ui_metachievement_pve_namedkills_corrupted_title1_SHE">Das ist noch nicht tot</string>
 	<string key="ui_metachievement_pve_namedkills_corrupted_title1_THEY">Das ist noch nicht tot</string>
 	<string key="ui_metachievement_pve_namedkills_corrupted_title2">Der ewige Ruhe findet</string>
-	<string key="ui_metachievement_pve_namedkills_corrupted_title2_SHE">Die ewige Ruhe findet</string>
-	<string key="ui_metachievement_pve_namedkills_corrupted_title2_THEY">Xier ewige Ruhe findet</string>
+	<string key="ui_metachievement_pve_namedkills_corrupted_title2_SHE">Der ewige Ruhe findet</string>
+	<string key="ui_metachievement_pve_namedkills_corrupted_title2_THEY">Der ewige Ruhe findet</string>
 	<string key="ui_metachievement_pve_namedkills_corrupted_title3">Mit seltsamen Äonen</string>
 	<string key="ui_metachievement_pve_namedkills_corrupted_title3_SHE">Mit seltsamen Äonen</string>
 	<string key="ui_metachievement_pve_namedkills_corrupted_title3_THEY">Mit seltsamen Äonen</string>
@@ -227,9 +227,9 @@
 	<string key="ui_metachievement_pve_gatherlogging_title1">Bessere Fähigkeiten bedeuten mehr Geschwindigkeit</string>
 	<string key="ui_metachievement_pve_gatherlogging_title1_SHE">Bessere Fähigkeiten bedeuten mehr Geschwindigkeit</string>
 	<string key="ui_metachievement_pve_gatherlogging_title1_THEY">Bessere Fähigkeiten bedeuten mehr Geschwindigkeit</string>
-	<string key="ui_metachievement_pve_gatherlogging_title2">Baumschubsen will gelernt sein</string>
-	<string key="ui_metachievement_pve_gatherlogging_title2_SHE">Baumschubsen will gelernt sein</string>
-	<string key="ui_metachievement_pve_gatherlogging_title2_THEY">Baumschubsen will gelernt sein</string>
+	<string key="ui_metachievement_pve_gatherlogging_title2">Richtiges Trinkgeldgeben will gelernt sein</string>
+	<string key="ui_metachievement_pve_gatherlogging_title2_SHE">Richtiges Trinkgeldgeben will gelernt sein</string>
+	<string key="ui_metachievement_pve_gatherlogging_title2_THEY">Richtiges Trinkgeldgeben will gelernt sein</string>
 	<string key="ui_metachievement_pve_gatherlogging_title3">Muskeln auf Muskeln bekommen</string>
 	<string key="ui_metachievement_pve_gatherlogging_title3_SHE">Muskeln auf Muskeln bekommen</string>
 	<string key="ui_metachievement_pve_gatherlogging_title3_THEY">Muskeln auf Muskeln bekommen</string>
@@ -311,6 +311,9 @@
 	<string key="ui_metachievement_pve_bossKill_dungeon_ennead_title" rel_version="Expedition_BrimstoneSands_00">Zwei zum Preis von Einem</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_ennead_title_SHE" rel_version="Expedition_BrimstoneSands_00">Zwei zum Preis von Einem</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_ennead_title_THEY" rel_version="Expedition_BrimstoneSands_00">Zwei zum Preis von Einem</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_forge_title" rel_version="Expedition_GreatCleave_01">Das war heiß</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_forge_title_SHE" rel_version="Expedition_GreatCleave_01">Das war heiß</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_forge_title_THEY" rel_version="Expedition_GreatCleave_01">Das war heiß</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1" rel_version="Feature_Dungeon_Mutators">Aufregung bei der Ausgrabung</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1_SHE" rel_version="Feature_Dungeon_Mutators">Aufregung bei der Ausgrabung</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1_THEY" rel_version="Feature_Dungeon_Mutators">Aufregung bei der Ausgrabung</string>
@@ -365,6 +368,12 @@
 	<string key="ui_metachievement_pve_mutate_dungeon_ennead_title2" rel_version="Expedition_BrimstoneSands_00">Reichtum und Ruhm</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_ennead_title2_SHE" rel_version="Expedition_BrimstoneSands_00">Reichtum und Ruhm</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_ennead_title2_THEY" rel_version="Expedition_BrimstoneSands_00">Reichtum und Ruhm</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_forge_title1" rel_version="Expedition_GreatCleave_01">Das Metall flüssig halten</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_forge_title1_SHE" rel_version="Expedition_GreatCleave_01">Das Metall flüssig halten</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_forge_title1_THEY" rel_version="Expedition_GreatCleave_01">Das Metall flüssig halten</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_forge_title2" rel_version="Expedition_GreatCleave_01">Metallkopf</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_forge_title2_SHE" rel_version="Expedition_GreatCleave_01">Metallkopf</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_forge_title2_THEY" rel_version="Expedition_GreatCleave_01">Metallkopf</string>
 	<string key="ui_metachievement_pve_arenascompleted_title">Arenakampf</string>
 	<string key="ui_metachievement_pve_arenascompleted_title_SHE">Arenakampf</string>
 	<string key="ui_metachievement_pve_arenascompleted_title_THEY">Arenakampf</string>
@@ -512,7 +521,7 @@
 	<string key="ui_metachievement_pvp_pvparenawin_sixth_desc" rel_version="Feature_PVP_Arenas">Gewinne 500 Arenakämpfe.</string>
 	<string key="ui_metachievement_pvp_pvparenawin_seventh_desc" rel_version="Feature_PVP_Arenas">Gewinne 1.000 Arenakämpfe.</string>
 	<string key="ui_metachievement_pvp_pvparenawin_flawless_desc" rel_version="Feature_PVP_Arenas">Gewinne 100 Arenakämpfe, ohne dass jemand aus deinem Team stirbt.</string>
-	<string key="ui_meta_achievements_pvp_rewards_track" rel_version="PvP_Rewards_Track">PvP-Belohnungsserie</string>
+	<string key="ui_meta_achievements_pvp_rewards_track" rel_version="PvP_Rewards_Track">PvP-Rang</string>
 	<string key="ui_metachievement_PvP_rank_title1" rel_version="PvP_Rewards_Track">Stahlvogel</string>
 	<string key="ui_metachievement_PvP_rank_title2" rel_version="PvP_Rewards_Track">Bronzekoloss</string>
 	<string key="ui_metachievement_PvP_rank_title3" rel_version="PvP_Rewards_Track">Silberheld</string>
@@ -534,6 +543,18 @@
 	<string key="ui_metachievement_questarc_brightwood_title3">Das Herz der Dunkelheit</string>
 	<string key="ui_metachievement_questarc_brightwood_title3_SHE">Das Herz der Dunkelheit</string>
 	<string key="ui_metachievement_questarc_brightwood_title3_THEY">Das Herz der Dunkelheit</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title1">Helle Hölzer, düstere Vergangenheit</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title1_SHE">Helle Hölzer, düstere Vergangenheit</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title1_THEY">Helle Hölzer, düstere Vergangenheit</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title2">Das Herz der Dunkelheit</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title2_SHE">Das Herz der Dunkelheit</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title2_THEY">Das Herz der Dunkelheit</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title3">Das Leid der Verlorenen</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title3_SHE">Das Leid der Verlorenen</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title3_THEY">Das Leid der Verlorenen</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title4">Ein Meisterwerk der Farbe</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title4_SHE">Ein Meisterwerk der Farbe</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title4_THEY">Ein Meisterwerk der Farbe</string>
 	<string key="ui_metachievement_questarc_brimstonesands_title1" rel_version="Territory_Brimstone_Sands">Die verfluchte Expedition</string>
 	<string key="ui_metachievement_questarc_brimstonesands_title1_SHE" rel_version="Territory_Brimstone_Sands">Die verfluchte Expedition</string>
 	<string key="ui_metachievement_questarc_brimstonesands_title1_THEY" rel_version="Territory_Brimstone_Sands">Die verfluchte Expedition</string>
@@ -672,6 +693,18 @@
 	<string key="ui_metachievement_questarc_weaversfen_title3">Opfer an das Moor</string>
 	<string key="ui_metachievement_questarc_weaversfen_title3_SHE">Opfer an das Moor</string>
 	<string key="ui_metachievement_questarc_weaversfen_title3_THEY">Opfer an das Moor</string>
+	<string key="ui_metachievement_quest_weaversfen_crone">Leichenhexe gefangen!</string>
+	<string key="ui_metachievement_quest_weaversfen_crone_SHE">Leichenhexe gefangen!</string>
+	<string key="ui_metachievement_quest_weaversfen_crone_THEY">Leichenhexe gefangen!</string>
+	<string key="ui_metachievement_quest_weaversfen_prison">Gefängnisausbruch</string>
+	<string key="ui_metachievement_quest_weaversfen_prison_SHE">Gefängnisausbruch</string>
+	<string key="ui_metachievement_quest_weaversfen_prison_THEY">Gefängnisausbruch</string>
+	<string key="ui_metachievement_quest_weaversfen_color">Ein Spritzer Lokalkolorit</string>
+	<string key="ui_metachievement_quest_weaversfen_color_SHE">Ein Spritzer Lokalkolorit</string>
+	<string key="ui_metachievement_quest_weaversfen_color_THEY">Ein Spritzer Lokalkolorit</string>
+	<string key="ui_metachievement_quest_weaversfen_bear">Unerträglich</string>
+	<string key="ui_metachievement_quest_weaversfen_bear_SHE">Unerträglich</string>
+	<string key="ui_metachievement_quest_weaversfen_bear_THEY">Unerträglich</string>
 	<string key="ui_metachievement_questarc_windsward_title1">Sezierung der Verderbnis</string>
 	<string key="ui_metachievement_questarc_windsward_title1_SHE">Sezierung der Verderbnis</string>
 	<string key="ui_metachievement_questarc_windsward_title1_THEY">Sezierung der Verderbnis</string>
@@ -714,228 +747,232 @@
 	<string key="ui_metachievement_questtotals_title5">Ich rechnete mit einer Gralssuche</string>
 	<string key="ui_metachievement_questtotals_title5_SHE">Ich rechnete mit einer Gralssuche</string>
 	<string key="ui_metachievement_questtotals_title5_THEY">Ich rechnete mit einer Gralssuche</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_title">Dynastie-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_title_SHE">Dynastie-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_title_THEY">Dynastie-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_title">Dynastie-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_title_SHE">Dynastie-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_title_THEY">Dynastie-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_title">Ursprungs-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_title_SHE">Ursprungs-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_title_THEY">Ursprungs-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_title">Ursprungs-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_title_SHE">Ursprungs-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_title_THEY">Ursprungs-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_title">Lazarus-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_title_SHE">Lazarus-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_title_THEY">Lazarus-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_title">Lazarus-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_title_SHE">Lazarus-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_title_THEY">Lazarus-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_score_title">Sturmwind-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_score_title_SHE">Sturmwind-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_score_title_THEY">Sturmwind-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_score_title">Sturmwind-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_score_title_SHE">Sturmwind-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_score_title_THEY">Sturmwind-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_score_title">Seepocken-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_score_title_SHE">Seepocken-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_score_title_THEY">Seepocken-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_score_title">Seepocken-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_score_title_SHE">Seepocken-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_score_title_THEY">Seepocken-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_score_title">Enneaden-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_score_title_SHE">Enneaden-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_score_title_THEY">Enneaden-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_score_title">Enneaden-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_score_title_SHE">Enneaden-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_score_title_THEY">Enneaden-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_score_title">Untiefen-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_score_title_SHE">Untiefen-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_score_title_THEY">Untiefen-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_score_title">Untiefen-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_score_title_SHE">Untiefen-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_score_title_THEY">Untiefen-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_score_title">Sternenstein-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_score_title_SHE">Sternenstein-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_score_title_THEY">Sternenstein-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_score_title">Sternenstein-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_score_title_SHE">Sternenstein-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_score_title_THEY">Sternenstein-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_title">Schnellster Dynastie-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_title_SHE">Schnellste Dynastie-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_title_THEY">Schnellste*r Dynastie-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_title">Schnellster Dynastie-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_title_SHE">Schnellste Dynastie-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_title_THEY">Schnellste*r Dynastie-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_title">Schnellster Ursprungs-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_title_SHE">Schnellste Ursprungs-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_title_THEY">Schnellste*r Ursprungs-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_title">Schnellster Ursprungs-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_title_SHE">Schnellste Ursprungs-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_title_THEY">Schnellste*r Ursprungs-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_time_title">Schnellster Lazarus-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_time_title_SHE">Schnellste Lazarus-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1__title_THEY">Schnellste*r Lazarus-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_title">Schnellster Lazarus-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_title_SHE">Schnellste Lazarus-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_title_THEY">Schnellste*r Lazarus-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_time_title">Schnellster Sturmwind-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_time_title_SHE">Schnellste Sturmwind-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_time_title_THEY">Schnellste*r Sturmwind-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_time_title">Schnellster Sturmwind-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_time_title_SHE">Schnellste Sturmwind-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_time_title_THEY">Schnellste*r Sturmwind-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_time_title">Schnellster Seepocken-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_time_title_SHE">Schnellste Seepocken-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_time_title_THEY">Schnellste*r Seepocken-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_time_title">Schnellster Seepocken-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_time_title_SHE">Schnellste Seepocken-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_time_title_THEY">Schnellste*r Seepocken-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_time_title">Schnellster Enneaden-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_time_title_SHE">Schnellste Enneaden-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_time_title_THEY">Schnellste*r Enneaden-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_time_title">Schnellster Enneaden-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_time_title_SHE">Schnellste Enneaden-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_time_title_THEY">Schnellste*r Enneaden-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_time_title">Schnellster Untiefen-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_time_title_SHE">Schnellste Untiefen-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_time_title_THEY">Schnellste*r Untiefen-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_time_title">Schnellster Untiefen-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_time_title_SHE">Schnellste Untiefen-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_time_title_THEY">Schnellste*r Untiefen-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_time_title">Schnellster Sternenstein-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_time_title_SHE">Schnellste Sternenstein-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_time_title_THEY">Schnellste*r Sternenstein-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_time_title">Schnellster Sternenstein-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_time_title_SHE">Schnellste Sternenstein-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_time_title_THEY">Schnellste*r Sternenstein-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top1_completion_title">Sirenenkönigin-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top1_completion_title_SHE">Sirenenkönigin-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top1_completion_title_THEY">Sirenenkönigin-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top10_completion_title">Sirenenkönigin-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top10_completion_title_SHE">Sirenenkönigin-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top10_completion_title_THEY">Sirenenkönigin-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_title">Ewige-Weiher-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_title_SHE">Ewige-Weiher-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_title_THEY">Ewige-Weiher-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_title">Ewige-Weiher-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_title_SHE">Ewige-Weiher-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_title_THEY">Ewige-Weiher-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_title">Einhauskluft-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_title_SHE">Einhauskluft-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_title_THEY">Einhauskluft-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_title">Einhauskluft-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_title_SHE">Einhauskluft-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_title_THEY">Einhauskluft-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_title">Einfluss-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_title_SHE">Einfluss-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_title_THEY">Einfluss-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_title">Einfluss-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_title_SHE">Einfluss-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_title_THEY">Einfluss-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top1_score_title">Außenpostensturm-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top1_score_title_SHE">Außenpostensturm-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top1_score_title_THEY">Außenpostensturm-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top10_score_title">Außenpostensturm-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top10_score_title_SHE">Außenpostensturm-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top10_score_title_THEY">Außenpostensturm-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top1_score_title">Ausbruch-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top1_score_title_SHE">Ausbruch-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top1_score_title_THEY">Ausbruch-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top10_score_title">Ausbruch-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top10_score_title_SHE">Ausbruch-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top10_score_title_THEY">Ausbruch-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top1_score_title">Invasions-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top1_score_title_SHE">Invasions-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top1_score_title_THEY">Invasions-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top10_score_title">Invasions-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top10_score_title_SHE">Invasions-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top10_score_title_THEY">Invasions-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top1_score_title">Kriegs-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top1_score_title_SHE">Kriegs-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top1_score_title_THEY">Kriegs-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top10_score_title">Kriegs-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top10_score_title_SHE">Kriegs-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top10_score_title_THEY">Kriegs-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_title">Entermesserriff-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_title_SHE">Entermesserriff-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_title_THEY">Entermesserriff-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_title">Entermesserriff-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_title_SHE">Entermesserriff-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_title_THEY">Entermesserriff-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top1_company_score_title">Erstes-Licht-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top1_company_score_title_SHE">Erstes-Licht-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top1_company_score_title_THEY">Erstes-Licht-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top10_company_score_title">Erstes-Licht-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top10_company_score_title_SHE">Erstes-Licht-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top10_company_score_title_THEY">Erstes-Licht-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top1_company_score_title">Windkreis-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top1_company_score_title_SHE">Windkreis-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top1_company_score_title_THEY">Windkreis-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top10_company_score_title">Windkreis-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top10_company_score_title_SHE">Windkreis-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top10_company_score_title_THEY">Windkreis-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top1_company_score_title">Brackwasser-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top1_company_score_title_SHE">Brackwasser-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top1_company_score_title_THEY">Brackwasser-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top10_company_score_title">Brackwasser-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top10_company_score_title_SHE">Brackwasser-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top10_company_score_title_THEY">Brackwasser-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top1_company_score_title">Immerfall-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top1_company_score_title_SHE">Immerfall-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top1_company_score_title_THEY">Immerfall-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top10_company_score_title">Immerfall-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top10_company_score_title_SHE">Immerfall-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top10_company_score_title_THEY">Immerfall-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_title">Webermoor-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_title_SHE">Webermoor-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_title_THEY">Webermoor-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_title">Webermoor-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_title_SHE">Webermoor-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_title_THEY">Webermoor-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_title">Unstete-Küste-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_title_SHE">Unstete-Küste-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_title_THEY">Unstete-Küste-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_title">Unstete-Küste-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_title_SHE">Unstete-Küste-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_title_THEY">Unstete-Küste-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_title">Klagental-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_title_SHE">Klagental-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_title_THEY">Klagental-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_title">Klagental-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_title_SHE">Klagental-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_title_THEY">Klagental-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top1_company_score_title">Lichtholz-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top1_company_score_title_SHE">Lichtholz-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top1_company_score_title_THEY">Lichtholz-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top10_company_score_title">Lichtholz-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top10_company_score_title_SHE">Lichtholz-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top10_company_score_title_THEY">Lichtholz-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_title">Ebenmaß-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_title_SHE">Ebenmaß-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_title_THEY">Ebenmaß-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_title">Ebenmaß-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_title_SHE">Ebenmaß-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_title_THEY">Ebenmaß-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_bluffs_leaderboard_top1_company_score_title">Monarchensieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_bluffs_leaderboard_top1_company_score_title_SHE">Monarchensiegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_bluffs_leaderboard_top1_company_score_title_THEY">Monarchensieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_bluffs_leaderboard_top10_company_score_title">Monarchen-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_bluffs_leaderboard_top10_company_score_title_SHE">Monarchen-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_bluffs_leaderboard_top10_company_score_title_THEY">Monarchen-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_sands_leaderboard_top1_company_score_title">Schwefelsieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_sands_leaderboard_top1_company_score_title_SHE">Schwefelsiegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_sands_leaderboard_top1_company_score_title_THEY">Schwefelsieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_sands_leaderboard_top10_company_score_title">Schwefel-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_sands_leaderboard_top10_company_score_title_SHE">Schwefel-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_sands_leaderboard_top10_company_score_title_THEY">Schwefel-Medaillengewinner*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top1_company_score_title">Gebietskontrolle-Sieger</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top1_company_score_title_SHE">Gebietskontrolle-Siegerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top1_company_score_title_THEY">Gebietskontrolle-Sieger*in</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title">Gebietskontrolle-Medaillengewinner</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title_SHE">Gebietskontrolle-Medaillengewinnerin</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title_THEY">Gebietskontrolle-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_title" rel_version="Feature_Leaderboards">Dynastie-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_title_SHE" rel_version="Feature_Leaderboards">Dynastie-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_title_THEY" rel_version="Feature_Leaderboards">Dynastie-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_title" rel_version="Feature_Leaderboards">Dynastie-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_title_SHE" rel_version="Feature_Leaderboards">Dynastie-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_title_THEY" rel_version="Feature_Leaderboards">Dynastie-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_title" rel_version="Feature_Leaderboards">Ursprungs-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_title_SHE" rel_version="Feature_Leaderboards">Ursprungs-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_title_THEY" rel_version="Feature_Leaderboards">Ursprungs-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_title" rel_version="Feature_Leaderboards">Ursprungs-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_title_SHE" rel_version="Feature_Leaderboards">Ursprungs-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_title_THEY" rel_version="Feature_Leaderboards">Ursprungs-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_title" rel_version="Feature_Leaderboards">Lazarus-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_title_SHE" rel_version="Feature_Leaderboards">Lazarus-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_title_THEY" rel_version="Feature_Leaderboards">Lazarus-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_title" rel_version="Feature_Leaderboards">Lazarus-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_title_SHE" rel_version="Feature_Leaderboards">Lazarus-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_title_THEY" rel_version="Feature_Leaderboards">Lazarus-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_score_title" rel_version="Feature_Leaderboards">Sturmwind-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_score_title_SHE" rel_version="Feature_Leaderboards">Sturmwind-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_score_title_THEY" rel_version="Feature_Leaderboards">Sturmwind-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_score_title" rel_version="Feature_Leaderboards">Sturmwind-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_score_title_SHE" rel_version="Feature_Leaderboards">Sturmwind-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_score_title_THEY" rel_version="Feature_Leaderboards">Sturmwind-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_score_title" rel_version="Feature_Leaderboards">Seepocken-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_score_title_SHE" rel_version="Feature_Leaderboards">Seepocken-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_score_title_THEY" rel_version="Feature_Leaderboards">Seepocken-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_score_title" rel_version="Feature_Leaderboards">Seepocken-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_score_title_SHE" rel_version="Feature_Leaderboards">Seepocken-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_score_title_THEY" rel_version="Feature_Leaderboards">Seepocken-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_score_title" rel_version="Feature_Leaderboards">Enneaden-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_score_title_SHE" rel_version="Feature_Leaderboards">Enneaden-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_score_title_THEY" rel_version="Feature_Leaderboards">Enneaden-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_score_title" rel_version="Feature_Leaderboards">Enneaden-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_score_title_SHE" rel_version="Feature_Leaderboards">Enneaden-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_score_title_THEY" rel_version="Feature_Leaderboards">Enneaden-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_forge_top5_score_title" rel_version="Expedition_GreatCleave_01">Schmiede-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_forge_top25_score_title" rel_version="Expedition_GreatCleave_01">Schmiede-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_score_title" rel_version="Feature_Leaderboards">Untiefen-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_score_title_SHE" rel_version="Feature_Leaderboards">Untiefen-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_score_title_THEY" rel_version="Feature_Leaderboards">Untiefen-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_score_title" rel_version="Feature_Leaderboards">Untiefen-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_score_title_SHE" rel_version="Feature_Leaderboards">Untiefen-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_score_title_THEY" rel_version="Feature_Leaderboards">Untiefen-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_score_title" rel_version="Feature_Leaderboards">Sternenstein-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_score_title_SHE" rel_version="Feature_Leaderboards">Sternenstein-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_score_title_THEY" rel_version="Feature_Leaderboards">Sternenstein-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_score_title" rel_version="Feature_Leaderboards">Sternenstein-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_score_title_SHE" rel_version="Feature_Leaderboards">Sternenstein-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_score_title_THEY" rel_version="Feature_Leaderboards">Sternenstein-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_title" rel_version="Feature_Leaderboards">Schnellster Dynastie-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_title_SHE" rel_version="Feature_Leaderboards">Schnellste Dynastie-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_title_THEY" rel_version="Feature_Leaderboards">Schnellste*r Dynastie-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_title" rel_version="Feature_Leaderboards">Schnellster Dynastie-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_title_SHE" rel_version="Feature_Leaderboards">Schnellste Dynastie-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_title_THEY" rel_version="Feature_Leaderboards">Schnellste*r Dynastie-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_title" rel_version="Feature_Leaderboards">Schnellster Ursprungs-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_title_SHE" rel_version="Feature_Leaderboards">Schnellste Ursprungs-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_title_THEY" rel_version="Feature_Leaderboards">Schnellste*r Ursprungs-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_title" rel_version="Feature_Leaderboards">Schnellster Ursprungs-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_title_SHE" rel_version="Feature_Leaderboards">Schnellste Ursprungs-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_title_THEY" rel_version="Feature_Leaderboards">Schnellste*r Ursprungs-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_time_title" rel_version="Feature_Leaderboards">Schnellster Lazarus-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_time_title_SHE" rel_version="Feature_Leaderboards">Schnellste Lazarus-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1__title_THEY" rel_version="Feature_Leaderboards">Schnellste*r Lazarus-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_title" rel_version="Feature_Leaderboards">Schnellster Lazarus-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_title_SHE" rel_version="Feature_Leaderboards">Schnellste Lazarus-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_title_THEY" rel_version="Feature_Leaderboards">Schnellste*r Lazarus-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_time_title" rel_version="Feature_Leaderboards">Schnellster Sturmwind-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_time_title_SHE" rel_version="Feature_Leaderboards">Schnellste Sturmwind-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_time_title_THEY" rel_version="Feature_Leaderboards">Schnellste*r Sturmwind-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_time_title" rel_version="Feature_Leaderboards">Schnellster Sturmwind-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_time_title_SHE" rel_version="Feature_Leaderboards">Schnellste Sturmwind-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_time_title_THEY" rel_version="Feature_Leaderboards">Schnellste*r Sturmwind-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_time_title" rel_version="Feature_Leaderboards">Schnellster Seepocken-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_time_title_SHE" rel_version="Feature_Leaderboards">Schnellste Seepocken-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_time_title_THEY" rel_version="Feature_Leaderboards">Schnellste*r Seepocken-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_time_title" rel_version="Feature_Leaderboards">Schnellster Seepocken-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_time_title_SHE" rel_version="Feature_Leaderboards">Schnellste Seepocken-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_time_title_THEY" rel_version="Feature_Leaderboards">Schnellste*r Seepocken-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_time_title" rel_version="Feature_Leaderboards">Schnellster Enneaden-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_time_title_SHE" rel_version="Feature_Leaderboards">Schnellste Enneaden-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_time_title_THEY" rel_version="Feature_Leaderboards">Schnellste*r Enneaden-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_time_title" rel_version="Feature_Leaderboards">Schnellster Enneaden-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_time_title_SHE" rel_version="Feature_Leaderboards">Schnellste Enneaden-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_time_title_THEY" rel_version="Feature_Leaderboards">Schnellste*r Enneaden-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_time_title" rel_version="Feature_Leaderboards">Schnellster Untiefen-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_time_title_SHE" rel_version="Feature_Leaderboards">Schnellste Untiefen-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_time_title_THEY" rel_version="Feature_Leaderboards">Schnellste*r Untiefen-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_time_title" rel_version="Feature_Leaderboards">Schnellster Untiefen-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_time_title_SHE" rel_version="Feature_Leaderboards">Schnellste Untiefen-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_time_title_THEY" rel_version="Feature_Leaderboards">Schnellste*r Untiefen-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_time_title" rel_version="Feature_Leaderboards">Schnellster Sternenstein-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_time_title_SHE" rel_version="Feature_Leaderboards">Schnellste Sternenstein-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_time_title_THEY" rel_version="Feature_Leaderboards">Schnellste*r Sternenstein-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_time_title" rel_version="Feature_Leaderboards">Schnellster Sternenstein-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_time_title_SHE" rel_version="Feature_Leaderboards">Schnellste Sternenstein-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_time_title_THEY" rel_version="Feature_Leaderboards">Schnellste*r Sternenstein-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_forge_top5_time_title" rel_version="Expedition_GreatCleave_01">Schnellster Schmiede-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_forge_top25_time_title" rel_version="Expedition_GreatCleave_01">Schnellster Schmiede-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top1_completion_title" rel_version="Feature_Leaderboards">Sirenenkönigin-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top1_completion_title_SHE" rel_version="Feature_Leaderboards">Sirenenkönigin-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top1_completion_title_THEY" rel_version="Feature_Leaderboards">Sirenenkönigin-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top10_completion_title" rel_version="Feature_Leaderboards">Sirenenkönigin-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top10_completion_title_SHE" rel_version="Feature_Leaderboards">Sirenenkönigin-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top10_completion_title_THEY" rel_version="Feature_Leaderboards">Sirenenkönigin-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_title" rel_version="Feature_Leaderboards">Ewige-Weiher-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_title_SHE" rel_version="Feature_Leaderboards">Ewige-Weiher-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_title_THEY" rel_version="Feature_Leaderboards">Ewige-Weiher-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_title" rel_version="Feature_Leaderboards">Ewige-Weiher-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_title_SHE" rel_version="Feature_Leaderboards">Ewige-Weiher-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_title_THEY" rel_version="Feature_Leaderboards">Ewige-Weiher-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_title" rel_version="Feature_Leaderboards">Einhauskluft-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_title_SHE" rel_version="Feature_Leaderboards">Einhauskluft-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_title_THEY" rel_version="Feature_Leaderboards">Einhauskluft-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_title" rel_version="Feature_Leaderboards">Einhauskluft-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_title_SHE" rel_version="Feature_Leaderboards">Einhauskluft-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_title_THEY" rel_version="Feature_Leaderboards">Einhauskluft-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_title" rel_version="Feature_Leaderboards">Einfluss-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_title_SHE" rel_version="Feature_Leaderboards">Einfluss-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_title_THEY" rel_version="Feature_Leaderboards">Einfluss-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_title" rel_version="Feature_Leaderboards">Einfluss-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_title_SHE" rel_version="Feature_Leaderboards">Einfluss-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_title_THEY" rel_version="Feature_Leaderboards">Einfluss-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top1_score_title" rel_version="Feature_Leaderboards">Außenpostensturm-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top1_score_title_SHE" rel_version="Feature_Leaderboards">Außenpostensturm-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top1_score_title_THEY" rel_version="Feature_Leaderboards">Außenpostensturm-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top10_score_title" rel_version="Feature_Leaderboards">Außenpostensturm-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top10_score_title_SHE" rel_version="Feature_Leaderboards">Außenpostensturm-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top10_score_title_THEY" rel_version="Feature_Leaderboards">Außenpostensturm-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top1_score_title" rel_version="Feature_Leaderboards">Ausbruch-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top1_score_title_SHE" rel_version="Feature_Leaderboards">Ausbruch-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top1_score_title_THEY" rel_version="Feature_Leaderboards">Ausbruch-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top10_score_title" rel_version="Feature_Leaderboards">Ausbruch-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top10_score_title_SHE" rel_version="Feature_Leaderboards">Ausbruch-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top10_score_title_THEY" rel_version="Feature_Leaderboards">Ausbruch-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top1_score_title" rel_version="Feature_Leaderboards">Invasions-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top1_score_title_SHE" rel_version="Feature_Leaderboards">Invasions-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top1_score_title_THEY" rel_version="Feature_Leaderboards">Invasions-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top10_score_title" rel_version="Feature_Leaderboards">Invasions-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top10_score_title_SHE" rel_version="Feature_Leaderboards">Invasions-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top10_score_title_THEY" rel_version="Feature_Leaderboards">Invasions-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_leaderboard_war_top1_score_title" rel_version="Feature_Leaderboards">Kriegs-Sieger</string>
+	<string key="ui_metaachievement_leaderboard_war_top1_score_title_SHE" rel_version="Feature_Leaderboards">Kriegs-Siegerin</string>
+	<string key="ui_metaachievement_leaderboard_war_top1_score_title_THEY" rel_version="Feature_Leaderboards">Kriegs-Sieger*in</string>
+	<string key="ui_metaachievement_leaderboard_war_top10_score_title" rel_version="Feature_Leaderboards">Kriegs-Medaillengewinner</string>
+	<string key="ui_metaachievement_leaderboard_war_top10_score_title_SHE" rel_version="Feature_Leaderboards">Kriegs-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_leaderboard_war_top10_score_title_THEY" rel_version="Feature_Leaderboards">Kriegs-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Entermesserriff-Sieger</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Entermesserriff-Siegerin</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Entermesserriff-Sieger*in</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Entermesserriff-Medaillengewinner</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Entermesserriff-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Entermesserriff-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Erstes-Licht-Sieger</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Erstes-Licht-Siegerin</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Erstes-Licht-Sieger*in</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Erstes-Licht-Medaillengewinner</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Erstes-Licht-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Erstes-Licht-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Windkreis-Sieger</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Windkreis-Siegerin</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Windkreis-Sieger*in</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Windkreis-Medaillengewinner</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Windkreis-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Windkreis-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Brackwasser-Sieger</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Brackwasser-Siegerin</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Brackwasser-Sieger*in</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Brackwasser-Medaillengewinner</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Brackwasser-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Brackwasser-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Immerfall-Sieger</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Immerfall-Siegerin</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Immerfall-Sieger*in</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Immerfall-Medaillengewinner</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Immerfall-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Immerfall-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Webermoor-Sieger</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Webermoor-Siegerin</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Webermoor-Sieger*in</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Webermoor-Medaillengewinner</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Webermoor-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Webermoor-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Unstete-Küste-Sieger</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Unstete-Küste-Siegerin</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Unstete-Küste-Sieger*in</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Unstete-Küste-Medaillengewinner</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Unstete-Küste-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Unstete-Küste-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Klagental-Sieger</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Klagental-Siegerin</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Klagental-Sieger*in</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Klagental-Medaillengewinner</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Klagental-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Klagental-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Lichtholz-Sieger</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Lichtholz-Siegerin</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Lichtholz-Sieger*in</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Lichtholz-Medaillengewinner</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Lichtholz-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Lichtholz-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Ebenmaß-Sieger</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Ebenmaß-Siegerin</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Ebenmaß-Sieger*in</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Ebenmaß-Medaillengewinner</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Ebenmaß-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Ebenmaß-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_monarchs_bluffs_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Monarchensieger</string>
+	<string key="ui_metaachievement_monarchs_bluffs_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Monarchensiegerin</string>
+	<string key="ui_metaachievement_monarchs_bluffs_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Monarchensieger*in</string>
+	<string key="ui_metaachievement_monarchs_bluffs_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Monarchen-Medaillengewinner</string>
+	<string key="ui_metaachievement_monarchs_bluffs_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Monarchen-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_monarchs_bluffs_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Monarchen-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_brimstone_sands_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Schwefelsieger</string>
+	<string key="ui_metaachievement_brimstone_sands_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Schwefelsiegerin</string>
+	<string key="ui_metaachievement_brimstone_sands_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Schwefelsieger*in</string>
+	<string key="ui_metaachievement_brimstone_sands_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Schwefel-Medaillengewinner</string>
+	<string key="ui_metaachievement_brimstone_sands_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Schwefel-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_brimstone_sands_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Schwefel-Medaillengewinner*in</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Gebietskontrolle-Sieger</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Gebietskontrolle-Siegerin</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Gebietskontrolle-Sieger*in</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Gebietskontrolle-Medaillengewinner</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Gebietskontrolle-Medaillengewinnerin</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Gebietskontrolle-Medaillengewinner*in</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_title1">Arkana-Versorger</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_title1_SHE">Arkana-Versorgerin</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_title1_THEY">Arkana-Versorger*in</string>
@@ -1764,7 +1801,7 @@
 	<string key="ui_metachievement_skilllevelcooking_title3_SHE">Kochgesellin</string>
 	<string key="ui_metachievement_skilllevelcooking_title3_THEY">Kochgesell*in</string>
 	<string key="ui_metachievement_skilllevelcooking_title4">Kochexperte</string>
-	<string key="ui_metachievement_skilllevelcooking_title4_SHE">Kochexpertin</string>
+	<string key="ui_metachievement_skilllevelcooking_title4_SHE">Kochexperte</string>
 	<string key="ui_metachievement_skilllevelcooking_title4_THEY">Kochexpert*in</string>
 	<string key="ui_metachievement_skilllevelcooking_title5">Kochmeister</string>
 	<string key="ui_metachievement_skilllevelcooking_title5_SHE">Kochmeisterin</string>
@@ -2227,7 +2264,7 @@
 	<string key="ui_metachievement_factionrank_covenant_title2_THEY">Tempelritter*in des Bündnisses: Beschützer*in der Menschen</string>
 	<string key="ui_metachievement_factionrank_covenant_title3">Bündnis-Excubitor: Seelenverteidiger</string>
 	<string key="ui_metachievement_factionrank_covenant_title3_SHE">Bündnis-Excubitorin: Seelenverteidigerin</string>
-	<string key="ui_metachievement_factionrank_covenant_title3_THEY">Bündnis-Excubitor*in: Seelenverteidiger*in</string>
+	<string key="ui_metachievement_factionrank_covenant_title3_THEY">Bündnis-Excubitor*in: Seelenverteidiger</string>
 	<string key="ui_metachievement_factionrank_covenant_title4">Bündnis-Luminus: Himmlischer Justikar</string>
 	<string key="ui_metachievement_factionrank_covenant_title4_SHE">Bündnis-Luminus: Himmlische Justikarin</string>
 	<string key="ui_metachievement_factionrank_covenant_title4_THEY">Bündnis-Luminus: Himmlische*r Justikar*in</string>
@@ -2315,9 +2352,9 @@
 	<string key="ui_metachievement_weaponmastery_lifestaff_title2">Schenke meinen Schöpfungen leben!</string>
 	<string key="ui_metachievement_weaponmastery_lifestaff_title2_SHE">Schenke meinen Schöpfungen leben!</string>
 	<string key="ui_metachievement_weaponmastery_lifestaff_title2_THEY">Schenke meinen Schöpfungen leben!</string>
-	<string key="ui_metachievement_weaponmastery_lifestaff_title3">Ein Stab der Beinahe-Unsterblichkeit</string>
-	<string key="ui_metachievement_weaponmastery_lifestaff_title3_SHE">Ein Stab der Beinahe-Unsterblichkeit</string>
-	<string key="ui_metachievement_weaponmastery_lifestaff_title3_THEY">Ein Stab der Beinahe-Unsterblichkeit</string>
+	<string key="ui_metachievement_weaponmastery_lifestaff_title3">Ein Stab, der Beinahe-Unsterblichkeit</string>
+	<string key="ui_metachievement_weaponmastery_lifestaff_title3_SHE">Ein Stab, der Beinahe-Unsterblichkeit</string>
+	<string key="ui_metachievement_weaponmastery_lifestaff_title3_THEY">Ein Stab, der Beinahe-Unsterblichkeit</string>
 	<string key="ui_metachievement_weaponmastery_musket_title1">Lernen, den Abzug &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;zu drücken&lt;/font&gt;</string>
 	<string key="ui_metachievement_weaponmastery_musket_title1_SHE">Lernen, den Abzug &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;zu drücken&lt;/font&gt;</string>
 	<string key="ui_metachievement_weaponmastery_musket_title1_THEY">Lernen, den Abzug &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;zu drücken&lt;/font&gt;</string>
@@ -2771,9 +2808,9 @@
 	<string key="ui_metachievement_lore_pagescount_aeternumlegend_title">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Legenden aus Aeternum&lt;/font&gt; bergen</string>
 	<string key="ui_metachievement_lore_pagescount_aeternumlegend_title_SHE">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Legenden aus Aeternum&lt;/font&gt; bergen</string>
 	<string key="ui_metachievement_lore_pagescount_aeternumlegend_title_THEY">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Legenden aus Aeternum&lt;/font&gt; bergen</string>
-	<string key="ui_metachievement_lore_pagescount_dividedisland_title">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Geschichte einer gespaltenen Insel&lt;/font&gt; bergen</string>
-	<string key="ui_metachievement_lore_pagescount_dividedisland_title_SHE">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Geschichte einer gespaltenen Insel&lt;/font&gt; bergen</string>
-	<string key="ui_metachievement_lore_pagescount_dividedisland_title_THEY">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Geschichte einer gespaltenen Insel&lt;/font&gt; bergen</string>
+	<string key="ui_metachievement_lore_pagescount_dividedisland_title">Birg &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Geschichte einer gespaltenen Insel&lt;/font&gt;</string>
+	<string key="ui_metachievement_lore_pagescount_dividedisland_title_SHE">Birg &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Geschichte einer gespaltenen Insel&lt;/font&gt;</string>
+	<string key="ui_metachievement_lore_pagescount_dividedisland_title_THEY">Birg &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Geschichte einer gespaltenen Insel&lt;/font&gt;</string>
 	<string key="ui_metachievement_firstnamedcraft_sword_title">Stelle ein benanntes Schwert her.</string>
 	<string key="ui_metachievement_firstnamedcraft_sword_title_SHE">Stelle ein benanntes Schwert her.</string>
 	<string key="ui_metachievement_firstnamedcraft_sword_title_THEY">Stelle ein benanntes Schwert her.</string>
@@ -3080,8 +3117,9 @@
 	<string key="ui_metachievement_pve_bossKill_dungeon_genesis_desc">Besiege den Verfaulten Gartenwächter im Garten des Ursprungs.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_lazarus_desc">Besiege Chardis im Lazarus-Instrumentarium.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_shipyard_desc">Besiege Kaiserin Zhou in der Schiffswerft der Dynastie.</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_forge_desc">Besiege Sir Marius in der Empyreum-Schmiede.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_isabellalair_desc" rel_version="Expedition_ShatterMtn_00">Besiege Isabella im Herz des Sturmwinds.</string>
-	<string key="ui_metachievement_pve_bossKill_dungeon_barnacles_desc" rel_version="Expedition_CutlassKeys_00">Besiege die Sirenenkönigin in Seepocken und Schwarzpulver</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_barnacles_desc" rel_version="Expedition_CutlassKeys_00">Besiege Nereide in Seepocken und Schwarzpulver.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_ennead_desc" rel_version="Expedition_BrimstoneSands_00">Besiege die Goliaths von Enneade in der Enneade.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_generic_desc" rel_version="Feature_Dungeon_Mutators">Schließe Amrhein-Ausgrabung auf Schwierigkeit {number} ab.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_obelisk_generic_desc" rel_version="Feature_Dungeon_Mutators">Schließe Sternensteingrabhügel auf Schwierigkeit {number} ab.</string>
@@ -3092,6 +3130,7 @@
 	<string key="ui_metachievement_pve_mutate_dungeon_isabellalair_generic_desc" rel_version="Expedition_ShatterMtn_00">Schließe !undefined dungeon! ab, Schwierigkeit {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_barnacle_generic_desc" rel_version="Expedition_CutlassKeys_00">Schließe Seepocken und Schwarzpulver auf Schwierigkeit {number} ab.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_ennead_generic_desc" rel_version="Expedition_BrimstoneSands_00">Schließe die Enneade auf Schwierigkeit {number} ab.</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_forge_generic_desc" rel_version="Expedition_GreatCleave_01">Schließe die Empyreum-Schmiede auf Schwierigkeitsgrad {number} ab.</string>
 	<string key="ui_metachievement_pve_arenascompleted_desc">Schließe {number} Arenakämpfe ab.</string>
 	<string key="ui_metachievement_pvp_killbyfaction_covenant_desc">Besiege persönlich {number} Bündnisspieler.</string>
 	<string key="ui_metachievement_pvp_killbyfaction_marauder_desc">Besiege persönlich {number} Marodeursspieler.</string>
@@ -3108,6 +3147,10 @@
 	<string key="ui_metachievement_questarc_brightwood_desc1">Schließe den Lichtholz-Handlungsbogen ab, der mit &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Vermächtnis des Inquisitors&lt;/font&gt; beginnt.</string>
 	<string key="ui_metachievement_questarc_brightwood_desc2">Schließe den Lichtholz-Handlungsbogen ab, der mit &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Geheimnisse der Erde&lt;/font&gt; beginnt.</string>
 	<string key="ui_metachievement_questarc_brightwood_desc3">Schließe den Lichtholz-Handlungsbogen ab, der mit &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Ein dunkles Vermächtnis&lt;/font&gt; beginnt.</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_desc1">Schließe den Lichtholz-Handlungsbogen ab, der mit &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Dunkelheit in Lichtholz&lt;/font&gt; beginnt.</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_desc2">Schließe den Lichtholz-Handlungsbogen ab, der mit &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Die Tore der Tiefen Schlucht&lt;/font&gt; beginnt.</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_desc3">Schließe den Lichtholz-Handlungsbogen ab, der mit &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Irdische Schätze&lt;/font&gt; beginnt.</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_desc4">Schließe den Lichtholz-Handlungsbogen ab, der mit &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Späher&lt;/font&gt; beginnt.</string>
 	<string key="ui_metachievement_questarc_brimstonesands_desc1" rel_version="Territory_Brimstone_Sands">Schließe den Schwefelsandwüste-Handlungsbogen ab, der mit &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Geheimnisse im Sand&lt;/font&gt; beginnt.</string>
 	<string key="ui_metachievement_questarc_brimstonesands_desc2" rel_version="Territory_Brimstone_Sands">Schließe den Schwefelsandwüste-Handlungsbogen ab, der mit &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Ein gefallener Held&lt;/font&gt; beginnt.</string>
 	<string key="ui_metachievement_questarc_brimstonesands_desc3" rel_version="Territory_Brimstone_Sands">Schließe den Schwefelsandwüste-Handlungsbogen ab, der mit &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Die verschwundenen Prätorianer&lt;/font&gt; beginnt.</string>
@@ -3154,6 +3197,10 @@
 	<string key="ui_metachievement_questarc_weaversfen_desc1">Schließe den Webermoor-Handlungsbogen ab, der mit &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Fischige Plage&lt;/font&gt; beginnt.</string>
 	<string key="ui_metachievement_questarc_weaversfen_desc2">Schließe den Webermoor-Handlungsbogen ab, der mit &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Verräterische Gespenster&lt;/font&gt; beginnt.</string>
 	<string key="ui_metachievement_questarc_weaversfen_desc3">Schließe den Webermoor-Handlungsbogen ab, der mit &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Sumpfhexer&lt;/font&gt; beginnt.</string>
+	<string key="ui_metachievement_quest_weaversfen_crone_desc">Du hast die Identität der Leichenhexe herausgefunden.</string>
+	<string key="ui_metachievement_quest_weaversfen_prison_desc">Du hast Fulgoris versehentlich bei Andrometus freigelassen.</string>
+	<string key="ui_metachievement_quest_weaversfen_color_desc">Du hast vielen der bunten Einheimischen in Webermoor geholfen.</string>
+	<string key="ui_metachievement_quest_weaversfen_bear_desc">Du hast allen Forschern Bärenurin mitgebracht.</string>
 	<string key="ui_metachievement_questarc_windsward_desc1">Schließe den Windkreis-Handlungsbogen ab, der mit &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Hohe Erwartungen&lt;/font&gt; beginnt.</string>
 	<string key="ui_metachievement_questarc_windsward_desc2">Schließe den Windkreis-Handlungsbogen ab, der mit &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Kein Sicherheitseintopf&lt;/font&gt; beginnt.</string>
 	<string key="ui_metachievement_questarc_windsward_desc3">Schließe den Windkreis-Handlungsbogen ab, der mit &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Jäger und Gejagte&lt;/font&gt; beginnt.</string>
@@ -3164,81 +3211,84 @@
 	<string key="ui_metachievement_quest_windsward_mercy_desc">Du hast Medea davon überzeugt, Windkreis eine zweite Chance zu geben.</string>
 	<string key="ui_metachievement_questarc_fishingtraining_desc">Schließe den Angelaufgaben-Handlungsbogen ab, der mit &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Angeln mit Schilden&lt;/font&gt; beginnt.</string>
 	<string key="ui_metachievement_questtotals_generic_desc">Schließe {number} Aufgaben ab.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Punkte) der Schiffswerft der Dynastie auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Punkte) der Schiffswerft der Dynastie auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Punkte) des Garten des Ursprungs auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Punkte) des Garten des Ursprungs auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Punkte) des Lazarus-Instrumentariums auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Punkte) des Lazarus-Instrumentariums auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Punkte) des Herz des Sturmwinds auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Punkte) des Herz des Sturmwinds auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Punkte) für Seepocken und Schwarzpulver auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Punkte) für Seepocken und Schwarzpulver auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Punkte) der Enneade auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Punkte) der Enneade auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Punkte) der Untiefen auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Punkte) der Untiefen auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Punkte) der Sternensteingrabhügel auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Punkte) der Sternensteingrabhügel auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_desc">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Abschlusszeit) der Schiffswerft der Dynastie auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_desc">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Abschlusszeit) der Schiffswerft der Dynastie auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_desc">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Abschlusszeit) des Garten des Ursprungs auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_desc">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Abschlusszeit) des Garten des Ursprungs auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_time_desc">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Abschlusszeit) des Lazarus-Instrumentariums auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_desc">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Abschlusszeit) des Lazarus-Instrumentariums auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_time_desc">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Abschlusszeit) des Herz des Sturmwinds auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_time_desc">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Abschlusszeit) des Herz des Sturmwinds auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_time_desc">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Abschlusszeit) für Seepocken und Schwarzpulver auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_time_desc">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Abschlusszeit) für Seepocken und Schwarzpulver auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_time_desc">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Abschlusszeit) der Enneade auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_time_desc">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Abschlusszeit) der Enneade auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_time_desc">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Abschlusszeit) der Untiefen auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_time_desc">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Abschlusszeit) der Untiefen auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_time_desc">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Abschlusszeit) der Sternensteingrabhügel auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_time_desc">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Abschlusszeit) der Sternensteingrabhügel auf Schwierigkeitsgrad 10 belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top1_completion_desc">Titel, den du erhältst, indem du einen Platz in den Top 10 der Quartalsbestenliste der Sirenenkönigin belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top10_completion_desc">Titel, den du erhältst, indem du einen Platz in den Top 50 der Quartalsbestenliste der Sirenenkönigin belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_desc">Titel, den du erhältst, indem du einen Platz in den Top 10 der Quartalsbestenliste der Ewigen Weiher belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_desc">Titel, den du erhältst, indem du einen Platz in den Top 50 der Quartalsbestenliste der Ewigen Weiher belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_desc">Titel, den du erhältst, indem du einen Platz in den Top 10 der Quartalsbestenliste von Einhauskluft belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_desc">Titel, den du erhältst, indem du einen Platz in den Top 50 der Quartalsbestenliste von Einhauskluft belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_desc">Titel, den du erhältst, indem du einen Platz in den Top 10 der Quartalsbestenliste des verdienten Einflusses belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_desc">Titel, den du erhältst, indem du einen Platz in den Top 50 der Quartalsbestenliste des verdienten Einflusses belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top1_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 10 der Quartalsbestenliste (Punkte) für Außenpostenstürme belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top10_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 50 der Quartalsbestenliste (Punkte) für Außenpostenstürme belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top1_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 10 der Quartalsbestenliste (Punkte) für Verderbnisausbrüche belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top10_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 50 der Quartalsbestenliste (Punkte) für Verderbnisausbrüche belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top1_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 10 der Quartalsbestenliste (Punkte) für Invasionen belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top10_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 50 der Quartalsbestenliste (Punkte) für Invasionen belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top1_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 10 der Quartalsbestenliste (Punkte) für Kriege belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top10_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 50 der Quartalsbestenliste (Punkte) für Kriege belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 3 der Quartalsbestenliste (Herrschaftszeit in Tagen) von Entermesserriff belegst. </string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 6 der Quartalsbestenliste (Herrschaftszeit in Tagen) von Entermesserriff belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top1_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) von Erstes Licht belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top10_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Kompaniepunkte) von Erstes Licht belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top1_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) von Erstes Licht belegst. </string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top1_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) von Windkreis belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top10_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) von Windkreis belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top1_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) von Brackwasser belegst. </string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top10_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) von Brackwasser belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top1_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) von Immerfall belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top10_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) von Immerfall belegst. </string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) von Webermoor belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) von Webermoor belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) von Unstete Küste belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) von Unstete Küste belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) von Klagental belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) von Klagental belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top1_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) von Lichtholz belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top10_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) von Lichtholz belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) von Ebenmaß belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) von Ebenmaß belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_leaderboard_top1_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) von Königsfels belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_leaderboard_top10_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) von Königsfels belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_leaderboard_top1_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) der Schwefelsandwüste belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_leaderboard_top10_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) der Schwefelsandwüste belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top1_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) für alle Gebiete belegst.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top10_company_score_desc">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) für alle Gebiete belegst.</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Punkte) der Schiffswerft der Dynastie auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Punkte) der Schiffswerft der Dynastie auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Punkte) des Garten des Ursprungs auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Punkte) des Garten des Ursprungs auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Punkte) des Lazarus-Instrumentariums auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Punkte) des Lazarus-Instrumentariums auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Punkte) des Herz des Sturmwinds auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Punkte) des Herz des Sturmwinds auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Punkte) für Seepocken und Schwarzpulver auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Punkte) für Seepocken und Schwarzpulver auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Punkte) der Enneade auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Punkte) der Enneade auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Punkte) der Untiefen auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Punkte) der Untiefen auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Punkte) der Sternensteingrabhügel auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Punkte) der Sternensteingrabhügel auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_forge_top5_score_desc" rel_version="Expedition_GreatCleave_01">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Punkte) der Empyreum-Schmiede auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_forge_top25_score_desc" rel_version="Expedition_GreatCleave_01">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Punkte) der Empyreum-Schmiede auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Abschlusszeit) der Schiffswerft der Dynastie auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Abschlusszeit) der Schiffswerft der Dynastie auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Abschlusszeit) des Garten des Ursprungs auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Abschlusszeit) des Garten des Ursprungs auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_time_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Abschlusszeit) des Lazarus-Instrumentariums auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Abschlusszeit) des Lazarus-Instrumentariums auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_time_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Abschlusszeit) des Herz des Sturmwinds auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_time_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Abschlusszeit) des Herz des Sturmwinds auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_time_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Abschlusszeit) für Seepocken und Schwarzpulver auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_time_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Abschlusszeit) für Seepocken und Schwarzpulver auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_time_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Abschlusszeit) der Enneade auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_time_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Abschlusszeit) der Enneade auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_time_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Abschlusszeit) der Untiefen auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_time_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Abschlusszeit) der Untiefen auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_time_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Abschlusszeit) der Sternensteingrabhügel auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_time_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Abschlusszeit) der Sternensteingrabhügel auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_forge_top5_time_desc" rel_version="Expedition_GreatCleave_01">Titel, den du erhältst, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Abschlusszeit) der Empyreum-Schmiede auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_forge_top25_time_desc" rel_version="Expedition_GreatCleave_01">Titel, den du erhältst, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Abschlusszeit) der Empyreum-Schmiede auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top1_completion_desc" rel_version="Feature_Leaderboards">Diesen Titel erhältst du, indem du einen Platz in den Top 10 der Saisonbestenliste der Sirenenkönigin belegst.</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top10_completion_desc" rel_version="Feature_Leaderboards">Diesen Titel erhältst du, indem du einen Platz in den Top 50 der Saisonbestenliste der Sirenenkönigin belegst.</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_desc" rel_version="Feature_Leaderboards">Diesen Titel erhältst du, indem du einen Platz in den Top 10 der Saisonbestenliste der Ewigen Weiher belegst.</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_desc" rel_version="Feature_Leaderboards">Diesen Titel erhältst du, indem du einen Platz in den Top 50 der Saisonbestenliste der Ewigen Weiher belegst.</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_desc" rel_version="Feature_Leaderboards">Diesen Titel erhältst du, indem du einen Platz in den Top 10 der Saisonbestenliste von Einhauskluft belegst.</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_desc" rel_version="Feature_Leaderboards">Diesen Titel erhältst du, indem du einen Platz in den Top 50 der Saisonbestenliste von Einhauskluft belegst.</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_desc" rel_version="Feature_Leaderboards">Diesen Titel erhältst du, indem du einen Platz in den Top 10 der Saisonbestenliste des verdienten Einflusses belegst.</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_desc" rel_version="Feature_Leaderboards">Diesen Titel erhältst du, indem du einen Platz in den Top 50 der Saisonbestenliste des verdienten Einflusses belegst.</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top1_score_desc" rel_version="Feature_Leaderboards">Diesen Titel erhältst du, indem du einen Platz in den Top 10 der Saisonbestenliste (Punkte) für Außenpostenstürme belegst.</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top10_score_desc" rel_version="Feature_Leaderboards">Diesen Titel erhältst du, indem du einen Platz in den Top 50 der Saisonbestenliste (Punkte) für Außenpostenstürme belegst.</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top1_score_desc" rel_version="Feature_Leaderboards">Diesen Titel erhältst du, indem du einen Platz in den Top 10 der Saisonbestenliste (Punkte) für Verderbnisausbrüche belegst.</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top10_score_desc" rel_version="Feature_Leaderboards">Diesen Titel erhältst du, indem du einen Platz in den Top 50 der Saisonbestenliste (Punkte) für Verderbnisausbrüche belegst.</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top1_score_desc" rel_version="Feature_Leaderboards">Diesen Titel erhältst du, indem du einen Platz in den Top 10 der Saisonbestenliste (Punkte) für Invasionen belegst.</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top10_score_desc" rel_version="Feature_Leaderboards">Diesen Titel erhältst du, indem du einen Platz in den Top 50 der Saisonbestenliste (Punkte) für Invasionen belegst.</string>
+	<string key="ui_metaachievement_leaderboard_war_top1_score_desc" rel_version="Feature_Leaderboards">Diesen Titel erhältst du, indem du einen Platz in den Top 10 der Saisonbestenliste (Punkte) für Kriege belegst.</string>
+	<string key="ui_metaachievement_leaderboard_war_top10_score_desc" rel_version="Feature_Leaderboards">Diesen Titel erhältst du, indem du einen Platz in den Top 50 der Saisonbestenliste (Punkte) für Kriege belegst.</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Diesen Titel erhältst du, indem du einen Platz in den Top 3 der Saisonbestenliste (Herrschaftszeit in Tagen) von Entermesserriff belegst.</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Diesen Titel erhältst du, indem du einen Platz in den Top 6 der Saisonbestenliste (Herrschaftszeit in Tagen) von Entermesserriff belegst.</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) von Erstes Licht belegst.</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) von Erstes Licht belegst.</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) von Windkreis belegst.</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) von Windkreis belegst.</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) von Brackwasser belegst.</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) von Brackwasser belegst.</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) von Immerfall belegst.</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) von Immerfall belegst.</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) von Webermoor belegst.</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) von Webermoor belegst.</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) von Unstete Küste belegst.</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) von Unstete Küste belegst.</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) von Klagental belegst.</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) von Klagental belegst.</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) von Lichtholz belegst.</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) von Lichtholz belegst.</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) von Ebenmaß belegst.</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) von Ebenmaß belegst.</string>
+	<string key="ui_metaachievement_monarchs_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) von Königsfels belegst.</string>
+	<string key="ui_metaachievement_monarchs_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) von Königsfels belegst.</string>
+	<string key="ui_metaachievement_brimstone_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) der Schwefelsandwüste belegst.</string>
+	<string key="ui_metaachievement_brimstone_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) der Schwefelsandwüste belegst.</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) für alle Gebiete belegst.</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 6 der Bestenliste (Herrschaftszeit in Tagen) für alle Gebiete belegst.</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_generic_desc">Erfülle {number} Arkana-PvE-Fraktionsmissionen.</string>
 	<string key="ui_metachievement_pvefactionmissions_armory_generic_desc">Erfülle {number} Rüstungsschmiedekunst-PvE-Fraktionsmissionen.</string>
 	<string key="ui_metachievement_pvefactionmissions_cook_generic_desc">Erfülle {number} Kochkunst-PvE-Fraktionsmissionen.</string>
@@ -3289,7 +3339,7 @@
 	<string key="ui_metachievement_pvpfactionmissions_shatteredmtn_generic_desc">Erfülle {number} PvP-Fraktionsmissionen am Bruchberg.</string>
 	<string key="ui_metachievement_pvpfactionmissions_weaversfen_generic_desc">Erfülle {number} PvP-Fraktionsmissionen in Webermoor.</string>
 	<string key="ui_metachievement_pvpfactionmissions_windsward_generic_desc">Erfülle {number} PvP-Fraktionsmissionen in Windkreis.</string>
-	<string key="ui_metachievement_factionmissionscompleted_generic_desc">Erfülle {number} beliebige Fraktionsmissionen an beliebigen Orten.</string>
+	<string key="ui_metachievement_factionmissionscompleted_generic_desc">Schließe {number} Fraktionsmissionen ab.</string>
 	<string key="ui_metachievement_progression_characterlevel_generic_desc">Erreiche Charakterstufe {number}.</string>
 	<string key="ui_metachievement_totaltimeplayed_generic_desc">Spiele für {number} Stunden.</string>
 	<string key="ui_metachievement_skilllevelarcana_generic_desc">Erreiche Arkanastufe {number}.</string>
@@ -3320,7 +3370,7 @@
 	<string key="ui_metachievement_housecount_desc1">Kaufe dein erstes Haus.</string>
 	<string key="ui_metachievement_housecount_desc2">Besitze zwei Häuser gleichzeitig.</string>
 	<string key="ui_metachievement_housecount_desc3">Besitze drei Häuser, zwischen denen du hin- und herreisen kannst.</string>
-	<string key="ui_metachievement_territorystanding_generic_desc">Erreiche einen Gebietsruf von {number}.</string>
+	<string key="ui_metachievement_territorystanding_generic_desc">Erreiche eine Gebietsrufstufe von {number}.</string>
 	<string key="ui_metachievement_factionrank_joined_generic_desc">Tritt der Fraktion bei.</string>
 	<string key="ui_metachievement_factionrank_advance_generic_desc">Erreiche den nächsten Fraktionsrang.</string>
 	<string key="ui_metachievement_weaponmastery_hammer_generic_desc">Erreiche Kriegshammermeisterschaftsstufe {number}.</string>
@@ -3366,8 +3416,8 @@
 	<string key="ui_metachievement_refining_stonecut_generic_desc">Veredle {number} Gegenstände auf einem Steinmetztisch.</string>
 	<string key="ui_metachievement_refining_weaving_generic_desc">Veredle {number} Gegenstände mit einem Webstuhl.</string>
 	<string key="ui_metachievement_refining_wood_generic_desc">Veredle {number} Gegenstände in einer Holzwerkstatt.</string>
-	<string key="ui_metachievement_lore_pagescount_single_desc">Erlange {number} Seite der Weltgeschichte, um den Band zu vervollständigen.</string>
-	<string key="ui_metachievement_lore_pagescount_generic_desc">Erlange {number} Seiten der Weltgeschichte, um den Band zu vervollständigen.</string>
+	<string key="ui_metachievement_lore_pagescount_single_desc">Erlange {number} Seite der Weltgeschichte.</string>
+	<string key="ui_metachievement_lore_pagescount_generic_desc">Erlange {number} Seite der Weltgeschichte.</string>
 	<string key="ui_metachievement_firstnamedcraft_generic_desc">Stelle eine benannte Waffe von diesem Typ her.</string>
 	<string key="ui_metachievement_craft_namedweaponcount_generic_desc">Stelle {number} benannte Waffen her.</string>
 	<string key="ui_metachievement_craft_foundpermanentrecipe_desc">Finde dein erstes aufspürbares Permanentrezept.</string>
@@ -3388,7 +3438,7 @@
 	<string key="ui_metachievement_poivisitedcount_generic_desc">Finde {number} benannte Sehenswürdigkeiten.</string>
 	<string key="ui_metachievement_elitepoivisited_generic_desc">Besuche {number} Elite-Bollwerke.</string>
 	<string key="ui_metachievement_territorypoicount_generic_desc">Entdecke {number} benannte Sehenswürdigkeiten in diesem Gebiet.</string>
-	<string key="ui_metachievement_reached_generic_hamlet_desc">Finde diesen trendigen und unwiderstehlichen Urlaubsort.</string>
+	<string key="ui_metachievement_reached_generic_hamlet_desc">Finde diesen Ort.</string>
 	<string key="ui_metachievement_hidden_generic">Spiele weiter, um diesen versteckten Erfolg zu erreichen.</string>
 	<string key="ui_metachievement_hidden_generic_SHE">Spiele weiter, um diesen versteckten Erfolg zu erreichen.</string>
 	<string key="ui_metachievement_hidden_generic_THEY">Spiele weiter, um diesen versteckten Erfolg zu erreichen.</string>
@@ -3401,9 +3451,9 @@
 	<string key="ui_metachievement_hidden_pve_preykills_rabbits">Die Baseballsaison läuft gerade.</string>
 	<string key="ui_metachievement_hidden_pve_preykills_rabbits_SHE">Die Baseballsaison läuft gerade.</string>
 	<string key="ui_metachievement_hidden_pve_preykills_rabbits_THEY">Die Baseballsaison läuft gerade.</string>
-	<string key="ui_metachievement_hidden_pve_preykills_cows">So muh-ss es sein</string>
-	<string key="ui_metachievement_hidden_pve_preykills_cows_SHE">So muh-ss es sein</string>
-	<string key="ui_metachievement_hidden_pve_preykills_cows_THEY">So muh-ss es sein</string>
+	<string key="ui_metachievement_hidden_pve_preykills_cows">Machen wir besser weiter, nicht wahr?</string>
+	<string key="ui_metachievement_hidden_pve_preykills_cows_SHE">Machen wir besser weiter, nicht wahr?</string>
+	<string key="ui_metachievement_hidden_pve_preykills_cows_THEY">Machen wir besser weiter, nicht wahr?</string>
 	<string key="ui_metachievement_hidden_pve_preykills_boars">Du meinst, die sind öde?</string>
 	<string key="ui_metachievement_hidden_pve_preykills_boars_SHE">Du meinst, die sind öde?</string>
 	<string key="ui_metachievement_hidden_pve_preykills_boars_THEY">Du meinst, die sind öde?</string>
@@ -3443,51 +3493,51 @@
 	<string key="ui_metachievement_questarc_generic_desc">Schließ die Aufträge im Handlungsbogen ab.</string>
 	<string key="ui_meta_achievements">Erfolge</string>
 	<string key="ui_meta_achievements_summary">Zusammenfassung</string>
-	<string key="ui_meta_achievements_completed_achievements">Erreichte Erfolge</string>
-	<string key="ui_meta_achievements_pve">Spieler gegen Umgebung (PvE)</string>
+	<string key="ui_meta_achievements_completed_achievements">Abgeschlossen</string>
+	<string key="ui_meta_achievements_pve">PvE</string>
 	<string key="ui_meta_achievements_enemies_by_type">Feinde nach Typ</string>
 	<string key="ui_meta_achievements_enemies_by_name">Feinde nach Name</string>
 	<string key="ui_meta_achievements_invasions_and_breaches">Invasionen und Ausbrüche</string>
-	<string key="ui_meta_achievements_kill_counts">Abschusszähler</string>
+	<string key="ui_meta_achievements_kill_counts">Tötungen</string>
 	<string key="ui_meta_achievements_gathering">Gesammelt</string>
 	<string key="ui_meta_achievements_dungeon_bosses">Expeditionsbosse</string>
 	<string key="ui_meta_achievements_dungeon_runs">Expeditionsdurchläufe</string>
 	<string key="ui_meta_achievements_arenas">Arenen</string>
-	<string key="ui_meta_achievements_pvp">Spieler gegen Spieler (PvP)</string>
+	<string key="ui_meta_achievements_pvp">PvP</string>
 	<string key="ui_meta_achievements_factions">Fraktionen</string>
 	<string key="ui_meta_achievements_duels">Duelle</string>
 	<string key="ui_meta_achievements_wars">Kriege</string>
 	<string key="ui_meta_achievements_outpost_rush">Außenpostensturm</string>
 	<string key="ui_meta_achievements_control_points">Kontrollpunkte</string>
 	<string key="ui_meta_achievements_pvp_arenas">3-gegen-3-Arenen</string>
-	<string key="ui_meta_achievements_kill_counts_cristina">Abschusszähler</string>
+	<string key="ui_meta_achievements_kill_counts_cristina">Tötungen</string>
 	<string key="ui_meta_achievements_quests">Aufgaben</string>
 	<string key="ui_meta_achievements_territory_stories">Gebietsgeschichten</string>
-	<string key="ui_meta_achievements_total_completed">Insgesamt abgeschlossen</string>
-	<string key="ui_meta_achievements_missions">Missionen</string>
-	<string key="ui_meta_achievements_pve_skill_based">Basierend auf PvE-Fähigkeiten</string>
+	<string key="ui_meta_achievements_total_completed">Abgeschlossen</string>
+	<string key="ui_meta_achievements_missions">Fraktionsmissionen</string>
+	<string key="ui_meta_achievements_pve_skill_based">PvE-Jagd</string>
 	<string key="ui_meta_achievements_pve_support">PvE-Unterstützung</string>
 	<string key="ui_meta_achievements_pve_by_territory">PvE nach Gebiet</string>
-	<string key="ui_meta_achievements_pvp_stir_the_pot">PvP-Feuer am Brennen halten</string>
+	<string key="ui_meta_achievements_pvp_stir_the_pot">PvP-Missionen</string>
 	<string key="ui_meta_achievements_pvp_by_territory">PvP nach Gebiet</string>
-	<string key="ui_meta_achievements_mission_total_count">Insgesamt abgeschlossen</string>
+	<string key="ui_meta_achievements_mission_total_count">Abgeschlossen</string>
 	<string key="ui_meta_achievements_progression">Fortschritt</string>
-	<string key="ui_meta_achievements_overall">Insgesamt</string>
-	<string key="ui_meta_achievements_skill_levels">Fähigkeitenstufen</string>
-	<string key="ui_meta_achievements_gear_bonuses">Ausrüstungsboni</string>
+	<string key="ui_meta_achievements_overall">Charakter</string>
+	<string key="ui_meta_achievements_skill_levels">Fähigkeiten</string>
+	<string key="ui_meta_achievements_gear_bonuses">Ausrüstung</string>
 	<string key="ui_meta_achievements_housing">Behausung</string>
-	<string key="ui_meta_achievements_territory_standing">Gebietsruf</string>
-	<string key="ui_meta_achievements_faction_ranking">Fraktionsrang</string>
+	<string key="ui_meta_achievements_territory_standing">Gebiete</string>
+	<string key="ui_meta_achievements_faction_ranking">Fraktionen</string>
 	<string key="ui_meta_achievements_weapon_mastery">Waffenbeherrschung</string>
 	<string key="ui_meta_achievements_general">Allgemein</string>
-	<string key="ui_meta_achievements_crafting_count">Herstellungszähler</string>
-	<string key="ui_meta_achievements_refining_count">Veredelungszähler</string>
-	<string key="ui_meta_achievements_gather_count">Sammelzähler</string>
-	<string key="ui_meta_achievements_named_item_crafting">Herstellung von Gegenständen</string>
+	<string key="ui_meta_achievements_crafting_count">Herstellung</string>
+	<string key="ui_meta_achievements_refining_count">Veredeln</string>
+	<string key="ui_meta_achievements_gather_count">Sammeln</string>
+	<string key="ui_meta_achievements_named_item_crafting">Benannte Gegenstände</string>
 	<string key="ui_meta_achievements_repairs">Reparaturen</string>
-	<string key="ui_meta_achievements_instanced_teamplay">Instanz-Teamspiel</string>
-	<string key="ui_meta_achievements_lore_pages">Weltgeschichtsseiten</string>
-	<string key="ui_meta_achievements_player_actions">Spieleraktionen</string>
+	<string key="ui_meta_achievements_instanced_teamplay">Modi</string>
+	<string key="ui_meta_achievements_lore_pages">Dokumente</string>
+	<string key="ui_meta_achievements_player_actions">Spiel</string>
 	<string key="ui_meta_achievements_camping">Zeltlager</string>
 	<string key="ui_meta_achievements_fishing">Angeln</string>
 	<string key="ui_meta_achievements_looting">Plündern</string>
@@ -3502,28 +3552,28 @@
 	<string key="ui_meta_achievements_versus_player" rel_version="Feature_Leaderboards">gegen Spieler</string>
 	<string key="ui_meta_achievements_trade_skills" rel_version="Feature_Leaderboards">Fähigkeiten</string>
 	<string key="ui_meta_achievements_territory_control" rel_version="Feature_Leaderboards">Gebietskontrolle</string>
-	<string key="ui_meta_achievements_destinations">Ziele</string>
-	<string key="ui_meta_achievements_places_discovered">Entdeckte Orte</string>
+	<string key="ui_meta_achievements_destinations">Entdecken</string>
+	<string key="ui_meta_achievements_places_discovered">Sehenswürdigkeiten</string>
 	<string key="ui_meta_achievements_specific_named_places">Bestimmte benannte Orte</string>
-	<string key="ui_meta_achievements_per_territory">Pro Gebiet</string>
+	<string key="ui_meta_achievements_per_territory">Gebiet</string>
 	<string key="ui_meta_achievements_hamlets">Dörfchen &amp; Außenposten</string>
-	<string key="ui_meta_achievements_summary_total_completion">Abschlussfortschritt insgesamt</string>
-	<string key="ui_meta_achievements_summary_recently_completed">Kürzlich abgeschlossen</string>
+	<string key="ui_meta_achievements_summary_total_completion">Zusammenfassung</string>
+	<string key="ui_meta_achievements_summary_recently_completed">Letzte Erfolge</string>
 	<string key="ui_meta_achievements_summary_nearly_completed">Fast abgeschlossen</string>
-	<string key="ui_meta_achievements_summary_progress_overview">Fortschrittsüberblick</string>
+	<string key="ui_meta_achievements_summary_progress_overview">Nach Kategorie</string>
 	<string key="ui_meta_achievements_summary_fraction">&lt;font color={numeratorColor}&gt;{numerator}&lt;/font&gt; &lt;font color={denominatorColor}&gt;/{denominator}&lt;/font&gt;</string>
 	<string key="ui_meta_achievements_completed">Abgeschlossen</string>
-	<string key="ui_meta_achievements_reward">Belohnung: {type} {title}</string>
-	<string key="ui_meta_achievements_reward_mult">Belohnung: {num} {type}</string>
-	<string key="ui_meta_achievements_reward_list">Belohnungen: {list}</string>
-	<string key="ui_meta_achievements_unlocked">Erfolg freigeschaltet!</string>
-	<string key="ui_meta_achievements_view_detail">Details ansehen</string>
+	<string key="ui_meta_achievements_reward">{type} {title}</string>
+	<string key="ui_meta_achievements_reward_mult">{num} {type}</string>
+	<string key="ui_meta_achievements_reward_list">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Belohnungen&lt;/font&gt;{list}</string>
+	<string key="ui_meta_achievements_unlocked">Erfolg freigeschaltet</string>
+	<string key="ui_meta_achievements_view_detail">Betrachten</string>
 	<string key="ui_meta_achievements_threshold_reached_text">Erfolg zu {percentage} % abgeschlossen. {description}</string>
-	<string key="ui_meta_achievements_claim_reward">Belohnung annehmen</string>
-	<string key="ui_meta_achievements_claim_rewards">Belohnungen annehmen</string>
+	<string key="ui_meta_achievements_claim_reward">Betrachten</string>
+	<string key="ui_meta_achievements_claim_rewards">Betrachten</string>
 	<string key="ui_meta_achievements_claim_reward_desc_one">Öffne das Erfolgsmenü, um &lt;font color={color}&gt;1 Belohnung&lt;/font&gt; anzunehmen!</string>
 	<string key="ui_meta_achievements_claim_reward_desc_mult">Öffne das Erfolgsmenü, um &lt;font color={color}&gt;{number} Belohnungen&lt;/font&gt; anzunehmen.</string>
-	<string key="ui_meta_achievements_rewards_available">Erfolgsbelohnungen verfügbar!</string>
+	<string key="ui_meta_achievements_rewards_available">Belohnungen verfügbar</string>
 	<string key="ui_meta_achievements_rewards_available_desc_mult">&lt;font color={color}&gt;{number} Erfolgsbelohnungen&lt;/font&gt; warten auf ihre Annahme!</string>
 	<string key="ui_meta_achievements_rewards_available_desc_one">&lt;font color={color}&gt;Eine Erfolgsbelohnung&lt;/font&gt; wartet auf ihre Annahme!</string>
 	<string key="ui_meta_achievements_claim_all">Alle annehmen</string>
@@ -3542,7 +3592,7 @@
 	<string key="ui_meta_achievements_roman_numeral_vii">VII</string>
 	<string key="ui_meta_achievements_no_completed">Noch keine erreichten Erfolge</string>
 	<string key="ui_meta_achievements_no_nearly_completed">Noch keine fast erreichten Erfolge</string>
-	<string key="ui_meta_achievements_Musical_Instruments">Musikinstrumente</string>
+	<string key="ui_meta_achievements_Musical_Instruments">Musik</string>
 	<string key="ui_metaachievement_Music_Easy1_title">Kulissenschieber</string>
 	<string key="ui_metaachievement_Music_Easy1_title_SHE">Kulissenschieberin</string>
 	<string key="ui_metaachievement_Music_Easy1_title_THEY">Kulissenschieber*in</string>
@@ -3606,5 +3656,6 @@
 	<string key="ui_metachievement_hidden_monarchs">Spiele weiter in Königsfels, um diesen versteckten Erfolg zu erreichen.</string>
 	<string key="ui_metachievement_hidden_windsward">Spiele weiter in Windkreis, um diesen versteckten Erfolg zu erreichen.</string>
 	<string key="ui_metachievement_hidden_everfall">Spiele weiter in Immerfall, um diesen versteckten Erfolg zu erreichen.</string>
+	<string key="ui_metachievement_hidden_weaversfen">Spiele weiter in Webermoor, um diesen versteckten Erfolg zu erreichen.</string>
 </resources>
 

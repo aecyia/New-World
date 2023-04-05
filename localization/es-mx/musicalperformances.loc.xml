@@ -16,7 +16,7 @@
 	<string key="ui_musical_performances_incooldown" rel_version="Feature_MusicalPerformances">No puedes ubicar otra zona de función durante {time}.</string>
 	<string key="ui_musical_performances_recently_selected_sheet" rel_version="Feature_MusicalPerformances">Debes esperar 2 segundos antes de intentar seleccionar un instrumento nuevo.</string>
 	<string key="ui_musical_performances_restrictedarea" rel_version="Feature_MusicalPerformances">Estás muy cerca de otra zona de función.</string>
-	<string key="ui_musical_performances_instrument_required_to_create" rel_version="Feature_MusicalPerformances">Necesitar tener un instrumento equipado para crear una función.</string>
+	<string key="ui_musical_performances_instrument_required_to_create" rel_version="Feature_MusicalPerformances">Necesitas tener un instrumento equipado para crear una función.</string>
 	<string key="ui_musical_performances_instrument_broken" rel_version="Feature_MusicalPerformances">El instrumento equipado está roto.</string>
 	<string key="ui_musical_performances_instrument_not_equipped" rel_version="Feature_MusicalPerformances">No hay ningún instrumento equipado.</string>
 	<string key="ui_musical_performances_instrument_required_to_start" rel_version="Feature_MusicalPerformances">Necesitas seleccionar al menos dos partes para comenzar con una función.</string>
@@ -145,7 +145,7 @@
 	<string key="PerkID_MusicalInstrument_RakeReduction_Description" rel_version="Feature_MusicalPerformances">El intérprete ahora recibirá toda la propina.</string>
 	<string key="PerkID_MusicalInstrument_FinalNotePerfectXPBonus_Description" rel_version="Feature_MusicalPerformances">Tocar la nota final perfecta recompensa al jugador con un potenciador de EXP de música del 10 %</string>
 	<string key="PerkID_MusicalInstrument_GroupXPBonus_Description" rel_version="Feature_MusicalPerformances">Tocar en grupo recompensa al jugador con un potenciador de EXP de música del 10 %</string>
-	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Tocar como solista recompensa al jugador con un potenciador de EXP de música del 10 %</string>
+	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Tocar como solista recompensa al jugador con un potenciador de EXP de música del 15 %</string>
 	<string key="ui_music_guitar_part_1" rel_version="Feature_MusicalPerformances">Guitarra (parte 1)</string>
 	<string key="ui_music_guitar_part_2" rel_version="Feature_MusicalPerformances">Guitarra (parte 2)</string>
 	<string key="ui_music_guitar_part_3" rel_version="Feature_MusicalPerformances">Guitarra (parte 3)</string>
@@ -167,7 +167,7 @@
 	<string key="songtitle_Embark" rel_version="Feature_MusicalPerformances">La expedición</string>
 	<string key="songtitle_The_Brightwood" rel_version="Feature_MusicalPerformances">El viaje del guardián de almas</string>
 	<string key="songtitle_The_Butterfly" rel_version="Feature_MusicalPerformances">La mariposa</string>
-	<string key="songtitle_These_Old_Bones" rel_version="Feature_MusicalPerformances">Estos viejos huesos</string>
+	<string key="songtitle_These_Old_Bones" rel_version="Feature_MusicalPerformances">Huesos viejos</string>
 	<string key="songtitle_Young_King_Stanley" rel_version="Feature_MusicalPerformances">El joven rey Stanley</string>
 	<string key="songtitle_Ancient" rel_version="Feature_MusicalPerformances">El llamado de los antiguos</string>
 	<string key="songtitle_Breathe" rel_version="Feature_MusicalPerformances">Canción de cuna gastada por las olas</string>

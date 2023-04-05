@@ -265,7 +265,7 @@
 	<string key="1334_0201_olfactoryoptimization_proposal_prompt" speaker="UI - Player Prompt">"No pasa desapercibido".</string>
 	<string key="1334_0201_olfactoryoptimization_proposal_next" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_proposal_next" VO_Status="Recorded" dialogue-prompt="@1334_0201_olfactoryoptimization_proposal_prompt">¿Y? Si te quedas solo con lo inofensivo, te pierdes gran parte de la vida.\n\nPor favor, debo capturar esta fragancia. Tráeme los aromas del pantano, infusiónalos y embotéllalos, y te recompensaré con creces, ¿qué dices?</string>
 	<string key="1334_0201_olfactoryoptimization_incomplete" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_incomplete" VO_Status="Recorded">¿Podrá la fragancia única del Pantano del tejedor ser replicada por manos humanas? Espero tu regreso con el alma en vilo.</string>
-	<string key="1334_0201_olfactoryoptimization_complete" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_complete" VO_Status="Recorded" dialogue-next="@1334_0201_olfactoryoptimization_complete_next" comment="coughing">Uhm, sí... Lujoso, almizclado, con un toque sulfúrico que resuena hasta las notas de cierre... Has capturado el Pantano del tejedor a la perfección. \n\n¡Tienes talento para esto, de verdad! Ah, ¡se me humedecen los ojos de la emoción!</string>
+	<string key="1334_0201_olfactoryoptimization_complete" comment="coughing" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_complete" VO_Status="Recorded" dialogue-next="@1334_0201_olfactoryoptimization_complete_next">Uhm, sí... Lujoso, almizclado, con un toque sulfúrico que resuena hasta las notas de cierre... Has capturado el Pantano del tejedor a la perfección. \n\n¡Tienes talento para esto, de verdad! Ah, ¡se me humedecen los ojos de la emoción!</string>
 	<string key="1334_0201_olfactoryoptimization_complete_prompt" speaker="UI - Player Prompt">"El aroma es... sorprendente".</string>
 	<string key="1334_0201_olfactoryoptimization_complete_next" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_complete_next" VO_Status="Recorded" dialogue-prompt="@1334_0201_olfactoryoptimization_complete_prompt">¿Tan impactante es? ¡Ah! Ojalá las damas de Nueva Córcega supieran con qué se han embadurnado las muñecas.\n\nEl arte del perfume es como la vida: el total es más que la suma de las partes. Gracias por tus contribuciones.</string>
 	<string key="1334_0201_d_00_01a_GiveRecipe" speaker="UI">Toma {itemName}</string>
@@ -314,79 +314,6 @@
 	<string key="1335_0204_reunion_proposal_next" speaker="Nora Roggeveen" name="NoraRoggeveen" VO="1335_0204_reunion_proposal_next" VO_Status="Recorded" dialogue-prompt="@1335_0204_reunion_proposal_prompt">Sí, por suerte ya estaba bien escondida cuando los guardianes empezaron a invadir el lugar. ¡Menos mal que has venido! Empezaba a tener hambre.\n\nEn fin, volvamos. Tengo ganas de ver a Leonie.</string>
 	<string key="1335_0204_reunion_incomplete" speaker="Nora Roggeveen" name="NoraRoggeveen" VO="1335_0204_reunion_incomplete" VO_Status="Recorded">Los veré a ti y a Leonie de vuelta en la carretera. Me escabulliré mientras los distraes.</string>
 	<string key="1335_0204_reunion_complete" speaker="Dr. Leonie Roggeveen" name="LeonieRoggeveen" VO="1335_0204_reunion_complete" VO_Status="Recorded">¡Has regresado! Nora me lo ha contado todo. Estoy muy aliviada.\n\nVoy a tener que hablar con ella para que vaya con más cuidado la próxima vez. Pero ha sido un buen juego y tú fuiste de enorme ayuda. ¡Gracias!</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Title" speaker="UI - Quest Title">Sino protector</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Description" speaker="UI – Quest Description">Recupera los componentes y recetas necesarios para montar la armadura del sino protector. Luego, vuelve a hablar con Severino, la sobreviviente, en el asentamiento de Pantano del tejedor.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Prompt" speaker="UI - Player Prompt">"Honraste su memoria".</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_ProposalResponse" VO_Status="Recorded" dialogue-next="@1303_1311_Protective_Wyrd_Gear_Proposal_Next">Siempre hay algo más que podemos hacer, es por eso que tengo un regalo para ti.\n\nHazel habló alguna vez sobre una armadura que protege a la persona que la viste contra todo tipo de destinos.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Prompt" speaker="UI - Player Prompt">"¿Una protección contra el destino?"</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Next" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_CompleteNext" VO_Status="Recorded" dialogue-next="@1303_1311_Protective_Wyrd_Gear_Proposal_Next2" dialogue-prompt="@1303_1311_Protective_Wyrd_Gear_Proposal_Prompt">Así dice. Hazel afirmaba que la solía llevar una gran sanadora, una hechicera como ella.\n\nA pesar de su material ligero, la armadura nunca falló, y la hechicera atravesó todo Aeternum sin sufrir siquiera un rasguño.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Prompt2" speaker="UI - Player Prompt">"Suena demasiado bueno para ser verdad".</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Next2" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@1303_1311_Protective_Wyrd_Gear_Proposal_Prompt2">Necesitamos historias como estas para poder superar los tiempos oscuros. Aun así, Hazel me garantizó que era verdad y me entregó este patrón.\n\nSe llama el Sino protector. Reúne estos materiales y podrías hacerte con una armadura así.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Incomplete" speaker="Survivalist Severino – Weaver's Fen">En Aeternum nada se pierde de verdad, o eso suelo decir yo.\n\nCuando llegue el momento, verás que tienes que fabricar el Sino protector. Sé que lo harás.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Complete" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_AvailResponse" VO_Status="Recorded" dialogue-next="@1303_1311_Protective_Wyrd_Gear_Complete_Next">Hay algo acerca de ti… ¡Oh! ¡Has encontrado todo lo que necesitabas!\n\nEs el atuendo más impresionante que he visto en mi vida. Ya siento el poder del Sino protector desde aquí.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Complete_Prompt" speaker="UI - Player Prompt">"¿Puedes?"</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Complete_Next" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_CompleteNext3" VO_Status="Recorded" dialogue-prompt="@1303_1311_Protective_Wyrd_Gear_Complete_Prompt">Me reconforta saber que las historias que me contó Hazel no solo resultaron ser verdaderas, sino también útiles.\n\nSi sus demás historias son también ciertas, puede que aún haya esperanza.</string>
-	<string key="1303_1311_01_container_Protective_Wyrd_questComplete_1">Completar la misión: Un paso en la buena dirección</string>
-	<string key="1303_1311_02_container_Protective_Wyrd_questComplete_2">Completar la misión: Envuelto en protecciones</string>
-	<string key="1303_1311_03_container_Protective_Wyrd_questComplete_3">Completar la misión: Peligros predestinados</string>
-	<string key="1303_1311_04_container_Protective_Wyrd_questComplete_4">Completar la misión: Al alcance del destino</string>
-	<string key="1303_1311_05_container_Protective_Wyrd_questComplete_5">Completar la misión: Enfrentándose al destino</string>
-	<string key="1303_1311_01_Shoes_Title">Un paso en la buena dirección</string>
-	<string key="1303_1311_01_Shoes_Description">Consigue tejido sagrado del caserío de Fenton, esencia de los muertos vivientes de Caverna del degollador y lanzamiento purificado de Isla de deshechos. Luego, visita la estación de equipamiento de nivel 3 para fabricar los zapatos de Sino protector.</string>
-	<string key="1303_1311_01_Shoes_task_01">Receta entregada.</string>
-	<string key="1303_1311_01_Shoes_task_02">Viaja a {POITags} en Pantano del tejedor para conseguir tejido sagrado</string>
-	<string key="1303_1311_01_Shoes_task_03">Consigue {itemName} de los fantasmas, demonios y empaladores enemigos</string>
-	<string key="1303_1311_01_Shoes_task_04">Viaja a {POITags} en Costa agitada para conseguir esencia de los muertos vivientes</string>
-	<string key="1303_1311_01_Shoes_task_05">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="1303_1311_01_Shoes_task_06">Viaja a {POITags} en Costa agitada para conseguir lanzamiento purificado</string>
-	<string key="1303_1311_01_Shoes_task_07">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="1303_1311_01_Shoes_task_08">Visita una estación de equipamiento</string>
-	<string key="1303_1311_01_Shoes_task_09">Fabrica {itemName}</string>
-	<string key="1303_1311_02_Shirt_Title">Envuelto en protecciones</string>
-	<string key="1303_1311_02_Shirt_Description">Consigue hebillas neptunianas de Furia de Neptuno, filamento consagrado de Cementerio de la soledad y trozos de armadura antigua de Pilares de Gelida. Luego, visita la estación de equipamiento de nivel 3 para fabricar la camisa de Sino protector.</string>
-	<string key="1303_1311_02_Shirt_task_01">Receta entregada.</string>
-	<string key="1303_1311_02_Shirt_task_02">Viaja a {POITags} en Costa agitada para conseguir hebillas neptunianas</string>
-	<string key="1303_1311_02_Shirt_task_03">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="1303_1311_02_Shirt_task_04">Viaja a {POITags} en Costa agitada para conseguir filamento consagrado</string>
-	<string key="1303_1311_02_Shirt_task_05">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="1303_1311_02_Shirt_task_06">Viaja a {POITags} en Gran surco para conseguir trozos de armadura antigua</string>
-	<string key="1303_1311_02_Shirt_task_07">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="1303_1311_02_Shirt_task_08">Visita una estación de equipamiento</string>
-	<string key="1303_1311_02_Shirt_task_09">Fabrica {itemName}</string>
-	<string key="1303_1311_03_Pants_Title">Peligros predestinados</string>
-	<string key="1303_1311_03_Pants_Description">Consigue protectores cosidos de Cementerio de Eeriedune, lana trabajada ceremonial de Eridanus y forro imbuido de Lunaryth. Luego, visita la estación de equipamiento de nivel 3 para fabricar los pantalones de Sino protector.</string>
-	<string key="1303_1311_03_Pants_task_01">Receta entregada.</string>
-	<string key="1303_1311_03_Pants_task_02">Viaja a {POITags} en Gran surco para conseguir protectores cosidos</string>
-	<string key="1303_1311_03_Pants_task_03">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="1303_1311_03_Pants_task_04">Viaja a {POITags} en Costa agitada para conseguir lana trabajada ceremonial</string>
-	<string key="1303_1311_03_Pants_task_05">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="1303_1311_03_Pants_task_06">Viaja a {POITags} en Mourningdale para conseguir forro imbuido</string>
-	<string key="1303_1311_03_Pants_task_07">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="1303_1311_03_Pants_task_08">Visita una estación de equipamiento</string>
-	<string key="1303_1311_03_Pants_task_09">Fabrica {itemName}</string>
-	<string key="1303_1311_04_Gloves_Title">Al alcance del destino</string>
-	<string key="1303_1311_04_Gloves_Description">Consigue tejido reforzado de Cragview de Cragview, amuletos de madera rara de Blisteroot y fibras purificadas de Shambhala de Shambhala. Luego, visita la estación de equipamiento de nivel 3 para fabricar los guantes de Sino protector.</string>
-	<string key="1303_1311_04_Gloves_task_01">Receta entregada.</string>
-	<string key="1303_1311_04_Gloves_task_02">Viaja a {POITags} en Mourningdale para conseguir tejido reforzado de Cragview</string>
-	<string key="1303_1311_04_Gloves_task_03">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="1303_1311_04_Gloves_task_04">Viaja a {POITags} en Mourningdale para conseguir amuletos de madera rara</string>
-	<string key="1303_1311_04_Gloves_task_05">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="1303_1311_04_Gloves_task_06">Viaja a {POITags} en Edengrove para conseguir fibras purificadas</string>
-	<string key="1303_1311_04_Gloves_task_07">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="1303_1311_04_Gloves_task_08">Visita una estación de equipamiento</string>
-	<string key="1303_1311_04_Gloves_task_09">Fabrica {itemName}</string>
-	<string key="1303_1311_05_Hat_Title">Enfrentándose al destino</string>
-	<string key="1303_1311_05_Hat_Description">Consigue presagios con el brillo del alba de Pavo, resina virid de Bramblecliff y Tela espectral de mina de escoria superior. Luego, visita la estación de equipamiento de nivel 3 para fabricar el sombrero de Sino protector.</string>
-	<string key="1303_1311_05_Hat_task_01">Receta entregada.</string>
-	<string key="1303_1311_05_Hat_task_02">Viaja a {POITags} en Edengrove para conseguir presagios con el brillo del alba</string>
-	<string key="1303_1311_05_Hat_task_03">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="1303_1311_05_Hat_task_04">Viaja a {POITags} en Edengrove para conseguir resina virid</string>
-	<string key="1303_1311_05_Hat_task_05">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="1303_1311_05_Hat_task_06">Viaja a {POITags} en Edengrove para conseguir tela espectral</string>
-	<string key="1303_1311_05_Hat_task_07">Recolecta {itemName} de enemigos {targetName}</string>
-	<string key="1303_1311_05_Hat_task_08">Visita una estación de equipamiento</string>
-	<string key="1303_1311_05_Hat_task_09">Fabrica {itemName}</string>
-	<string key="1302_1312_d_01_Task_Goto" speaker="UI">Viaja a {POITags}</string>
 	<string key="1302_1312_d_02_Task_KillSpriggan" speaker="UI">Derrota a {targetName}</string>
 	<string key="1302_1312_d_03_Task_GetSpores" speaker="UI">Consigue {itemName}</string>
 	<string key="1302_1312_a_Title" speaker="UI">Esporas curativas</string>
@@ -397,64 +324,5 @@
 	<string key="1302_1312_c_Proposal_next" speaker="Magistrate Allen - Weaver's Fen" name="MagistrateAllen" VO="Magistrate_1302_1312_Spores_CompleteNext" VO_Status="Recorded" dialogue-prompt="@1302_1312_c_Proposal_prompt">Solo porque demostraste ser tan capaz. En Eridanus hay un spriggan del bosque muy poderoso, Teceros, un bégimo de la tierra que ha cobrado vida. \n\nSi se mezclan adecuadamente con nuestras hierbas antiguas, las esporas de Teceros curarán a la gente del Pantano del tejedor de una vez por todas.</string>
 	<string key="1302_1312_e_Incomplete" speaker="Magistrate Allen - Weaver's Fen">Rubis, la alquimista, me asegura que las esporas de Teceros serán la cura definitiva que hemos estado buscando. \n\nYa nos has ayudado muchísimo, pero esto salvará a nuestro pueblo de verdad.</string>
 	<string key="1302_1312_f_Complete" speaker="Magistrate Allen - Weaver's Fen" name="MagistrateAllen" VO="Magistrate_1302_1312_Spores_AvailResponse" VO_Status="Recorded">¿Las esporas del monstruo? Son un poco... inquietantes, pero se las daré a Rubis, la alquimista.\n\nGracias, {playerName}. Por fin tenemos una cura. Puedes llevarte esto como recompensa.</string>
-	<string key="1310_1314_L40Bow_Huntress_Title" speaker="UI - Quest Title">A la caza de la cazadora</string>
-	<string key="1310_1314_L40Bow_Huntress_Description" speaker="UI – Quest Description">Consigue madera antigua de Rafflesia, resina de madera rara de Ascenso verdoso, pluma de halcón de Propus y una pata de conejo de la suerte de Hondonada Echowhine para fabricar el arco conocido como "La cazadora". Luego, vuelve a hablar con Flores, el cantinero, en el asentamiento de Pantano del tejedor.</string>
-	<string key="1310_1314_L40Bow_Huntress_Prompt" speaker="UI - Player Prompt">"Eso me interesaría".</string>
-	<string key="1310_1314_L40Bow_Huntress_Proposal" speaker="Barkeep Flores - Weaver's Fen" name="BarkeepFlores" VO="Barkeep_1310_1314_L40Bow_Huntress_ProposalResponse" VO_Status="Recorded">Ya me parecía. Tendrás que hacer tú todo el trabajo físico.\n\nSi puedes conseguir todos los materiales de la lista, creo que este arco, "La cazadora", será la envidia de toda la ciudad. ¡Buena suerte!</string>
-	<string key="1310_1314_L40Bow_Huntress_Incomplete" speaker="Barkeep Flores - Weaver's Fen">Ah, sigues a la caza de La cazadora, ¿verdad?\n\nTe llevará algo de tiempo, supongo.</string>
-	<string key="1310_1314_L40Bow_Huntress_Complete" speaker="Barkeep Flores - Weaver's Fen" name="BarkeepFlores" VO="Barkeep_1310_1314_L40Bow_Huntress_AvailResponse" VO_Status="Recorded">Mírate: acabas de llegar del entorno salvaje y ya rastreas de forma legendaria, al menos a mi juicio. Encontrar todos los materiales no puede haber sido fácil. \n\nPero La cazadora te va a cuidar, ya verás. No dejes que se te vacíe el carcaj por ahí fuera.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Title" speaker="UI - Quest Title">Furia de Falmea</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Description" speaker="UI – Quest Description">Consigue ramas chamuscadas de Amphus, cenizas de madera rara de Fornax, agua no consagrada de Furia de Neptuno y el corazón de puras llamas de New Balefire para fabricar el bastón ígneo llamado "Furia de Falmea". Luego, vuelve a hablar con Erasmus, el artesano, en el asentamiento de Pantano del tejedor.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Prompt" speaker="UI - Player Prompt">"Definitivamente".</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Proposal" speaker="Artificer Erasmus - Weaver's Fen" name="ArtificerErasmus" VO="Artificer_1305_1315_L40FStaff_FalmeasWrath_ProposalResponse" VO_Status="Recorded">Perfecto. He estado trabajado en unos esquemas durante bastante tiempo. Los llamo "Furia de Falmea".\n\nSi puedes conseguir todos los elementos necesarios, este bastón te permitirá dominar las llamas. Buena suerte.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Incomplete" speaker="Artificer Erasmus - Weaver's Fen">¿Sigues buscando los elementos necesarios para "Furia de Falmea"?\n\nSigue intentándolo. Creo que te resultará una inversión rentable.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Complete" speaker="Artificer Erasmus - Weaver's Fen" name="ArtificerErasmus" VO="Artificer_1305_1315_L40FStaff_FalmeasWrath_AvailResponse" VO_Status="Recorded">¡Ah, observa! Tu diligencia ha dado sus frutos. ¡Debes de haber recorrido todo Aeternum!\n\nPero ahora, disfruta de los beneficios. ¡La Furia de Falmea! ¡Nunca ha habido otro bastón tan excelso! Empúñalo con orgullo, {playerName}.</string>
-	<string key="1310_1314_AncientWood_Quest_objective_title" speaker="UI">Consigue los elementos utilizados para fabricar la Cazadora</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_objective_title" speaker="UI">Consigue los elementos utilizados para fabricar la Cazadora</string>
-	<string key="1310_1314_HawkFeathers_Quest_objective_title" speaker="UI">Consigue los elementos utilizados para fabricar la Cazadora</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_objective_title" speaker="UI">Consigue los elementos y luego fabrica la Cazadora</string>
-	<string key="1310_1314_AncientWood_Quest_description" speaker="UI">Se oculta entre los árboles. Entre las secuoyas se siente en casa.</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_description" speaker="UI">La resina del árbol perfuma el aire. Si estás a solas y notas su olor, ten cuidado.</string>
-	<string key="1310_1314_HawkFeathers_Quest_description" speaker="UI">Con ojos de halcón, ve a leguas de distancia. Su visión está clara.</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_description" speaker="UI">Se acerca a su presa y tensa la cuerda lentamente. La libertad que siente es como la de una flecha.</string>
-	<string key="1305_1315_SingedBranches_Quest_objective_title" speaker="UI">Consigue los elementos utilizados para fabricar la Furia de Falmea</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_objective_title" speaker="UI">Consigue los elementos utilizados para fabricar la Furia de Falmea</string>
-	<string key="1305_1315_UnhallowedWater_Quest_objective_title" speaker="UI">Consigue los elementos utilizados para fabricar la Furia de Falmea</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_objective_title" speaker="UI">Consigue los elementos utilizados y luego fabrica la Furia de Falmea</string>
-	<string key="1305_1315_SingedBranches_Quest_description" speaker="UI">Falmea quemó la madera del sino en el aire, y lo dejó lamentándose con gran pesar.</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_description" speaker="UI">Falmea dejó que las cenizas de la madera del sino cayeran. Un punto blanco en el suelo, talado.</string>
-	<string key="1305_1315_UnhallowedWater_Quest_description" speaker="UI">Falmea reveló sus aguas no consagradas y salpicó con ellas la ceniza.</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_description" speaker="UI">Falmea pronunció lo impronunciable y, desde un tornado de llamas, recuperó un bastón.</string>
-	<string key="1310_1314_Combine_Quest_task_03">Receta entregada.</string>
-	<string key="1310_1314_Combine_Quest_task_04">Visita una estación de ingeniería</string>
-	<string key="1310_1314_Combine_Quest_task_05">Crea {itemName}</string>
-	<string key="1305_1315_Combine_Quest_task_03">Receta entregada.</string>
-	<string key="1305_1315_Combine_Quest_task_04">Visita una estación arcana</string>
-	<string key="1305_1315_Combine_Quest_task_05">Crea {itemName}</string>
-	<string key="1310_1314_AncientWood_Quest_task_01">Viaja a {POITags} en Edengrove para conseguir madera antigua</string>
-	<string key="1310_1314_AncientWood_Quest_task_02">Obtén {itemName} de los enemigos {targetName}</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_task_01">Viaja a {POITags} en Costa agitada para conseguir resina de madera rara</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_task_02">Obtén {itemName} de los enemigos {targetName}</string>
-	<string key="1310_1314_HawkFeathers_Quest_task_01">Viaja a {POITags} en Mourningdale para conseguir pluma de halcón</string>
-	<string key="1310_1314_HawkFeathers_Quest_task_02">Obtén {itemName} de los enemigos {targetName}</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_task_01">Viaja a {POITags} en Mourningdale para conseguir una pata de conejo de la suerte</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_task_02">Obtén {itemName} de {targetName}</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_task_04">Crea {itemName}</string>
-	<string key="1305_1315_SingedBranches_Quest_task_01">Viaja a {POITags} en Edengrove para conseguir ramas chamuscadas</string>
-	<string key="1305_1315_SingedBranches_Quest_task_02">Obtén {itemName} de los enemigos {targetName}</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_task_01">Viaja a {POITags} en Costa agitada para conseguir cenizas de madera rara</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_task_02">Obtén {itemName} de los enemigos {targetName}</string>
-	<string key="1305_1315_UnhallowedWater_Quest_task_01">Viaja a {POITags} en Costa agitada para conseguir agua no consagrada</string>
-	<string key="1305_1315_UnhallowedWater_Quest_task_02">Obtén {itemName} de los enemigos {targetName}</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_task_01">Viaja a {POITags} en Mourningdale para conseguir el corazón de puras llamas</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_task_02">Obtén {itemName} de {targetName}</string>
-	<string key="1310_1314_01_container_Weapon_Huntress_questComplete_1">Completar la misión: Como la madera en el bosque</string>
-	<string key="1310_1314_02_container_Weapon_Huntress_questComplete_2">Completar la misión: Buena resina, buen razonamiento</string>
-	<string key="1310_1314_03_container_Weapon_Huntress_questComplete_3">Completar la misión: Plumas de halcón</string>
-	<string key="1310_1314_04_container_Weapon_Huntress_questComplete_4">Completar la misión: A la caza de un conejo que llega tarde</string>
-	<string key="1305_1315_01_container_Weapon_Hope_FalmeasWrath_questComplete_1">Completar la misión: Consecuencias ardientes</string>
-	<string key="1305_1315_02_container_Weapon_Hope_FalmeasWrath_questComplete_2">Completar la misión: Solo cenizas candentes</string>
-	<string key="1305_1315_03_container_Weapon_Hope_FalmeasWrath_questComplete_3">Completar la misión: Emponzoñar las aguas</string>
-	<string key="1305_1315_04_container_Weapon_Hope_FalmeasWrath_questComplete_4">Completar la misión: Cáliz del sacrificio</string>
 </resources>
 

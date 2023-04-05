@@ -8,6 +8,8 @@
 	<string key="GypsumRaw_GroupName">Orbes de Gipsita</string>
 	<string key="GypsumCasts_GroupName">Moldes de Gipsita</string>
 	<string key="InfusedCasts_GroupName">Moldes Infusos</string>
+	<string key="FlameCoreCasting_GroupName">Moldes de Núcleo de Fogo</string>
+	<string key="FlameCoreCast_GroupName">Molde de Núcleo de Fogo</string>
 	<string key="GemstoneT2_GroupName">Gemas Regulares</string>
 	<string key="GemstoneT3_GroupName">Gemas Brilhantes</string>
 	<string key="GemstoneT4_GroupName">Gemas Puras</string>
@@ -152,17 +154,17 @@
 	<string key="Wreath_GroupDesc" comment="Housing Furniture - Trading Post - OLD">Decorações de Alojamento.</string>
 	<string key="Wreath_GroupName" comment="Housing Furniture - Trading Post - OLD">Grinaldas</string>
 	<string key="CategoryData_Furnishings" comment="Housing Furniture - Trading Post - TradingCategory">Mobílias para Casa</string>
-	<string key="CategoryData_HousingTrdF_Decorations" comment="Housing Furniture - Trading Post - TradingFamily">Decorações de Alojamento</string>
-	<string key="CategoryData_HousingTrdF_Furniture" comment="Housing Furniture - Trading Post - TradingFamily">Mobília para Alojamento</string>
-	<string key="CategoryData_HousingTrdF_Misc" comment="Housing Furniture - Trading Post - TradingFamily">Itens Diversos de Alojamento</string>
-	<string key="CategoryData_HousingTrdF_Trophies" comment="Housing Furniture - Trading Post - TradingFamily">Troféus de Buff</string>
-	<string key="CategoryData_SchematicsFurnishing" comment="Housing Furniture - Trading Post - TradingFamily">Esquemas de Mobília</string>
+	<string key="CategoryData_HousingTrdF_Decorations" comment="Housing Furniture - Trading Post - TradingFamily">Decorações</string>
+	<string key="CategoryData_HousingTrdF_Furniture" comment="Housing Furniture - Trading Post - TradingFamily">Mobília</string>
+	<string key="CategoryData_HousingTrdF_Misc" comment="Housing Furniture - Trading Post - TradingFamily">Diversos</string>
+	<string key="CategoryData_HousingTrdF_Trophies" comment="Housing Furniture - Trading Post - TradingFamily">Troféus</string>
+	<string key="CategoryData_SchematicsFurnishing" comment="Housing Furniture - Trading Post - TradingFamily">Diagramas</string>
 	<string key="HousingTrdG_Animals_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Animais de Alojamento</string>
-	<string key="HousingTrdG_Animals_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Animais de Alojamento</string>
+	<string key="HousingTrdG_Animals_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Animais</string>
 	<string key="HousingTrdG_Beds_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Camas de Alojamento</string>
-	<string key="HousingTrdG_Beds_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Camas de Alojamento</string>
+	<string key="HousingTrdG_Beds_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Camas</string>
 	<string key="HousingTrdG_BooksPaper_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Livros e Papéis de Alojamento</string>
-	<string key="HousingTrdG_BooksPaper_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Livros e Papéis de Alojamento</string>
+	<string key="HousingTrdG_BooksPaper_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Livros e Papel</string>
 	<string key="HousingTrdG_BuffCombat_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Buffs de Combate</string>
 	<string key="HousingTrdG_BuffCombat_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Buffs de Combate</string>
 	<string key="HousingTrdG_BuffCrafting_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Buffs de Confecção</string>
@@ -172,35 +174,35 @@
 	<string key="HousingTrdG_BuffOther_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Outros Buffs</string>
 	<string key="HousingTrdG_BuffOther_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Outros Buffs</string>
 	<string key="HousingTrdG_Chairs_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Cadeiras de Alojamento</string>
-	<string key="HousingTrdG_Chairs_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Cadeiras de Alojamento</string>
+	<string key="HousingTrdG_Chairs_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Cadeiras</string>
 	<string key="HousingTrdG_Curtains_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Cortinas de Alojamento</string>
-	<string key="HousingTrdG_Curtains_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Cortinas de Alojamento</string>
+	<string key="HousingTrdG_Curtains_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Cortinas</string>
 	<string key="HousingTrdG_DecorOther_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Outras Decorações</string>
-	<string key="HousingTrdG_DecorOther_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Outras Decorações</string>
-	<string key="HousingTrdG_Dishes_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Louça de Alojamento</string>
-	<string key="HousingTrdG_Dishes_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Louça de Alojamento</string>
+	<string key="HousingTrdG_DecorOther_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Outros</string>
+	<string key="HousingTrdG_Dishes_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Louça do Alojamento</string>
+	<string key="HousingTrdG_Dishes_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Louça</string>
 	<string key="HousingTrdG_Food_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Alimentos de Alojamento</string>
-	<string key="HousingTrdG_Food_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Alimentos de Alojamento</string>
+	<string key="HousingTrdG_Food_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Comida</string>
 	<string key="HousingTrdG_Lighting_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Iluminação de Alojamento</string>
-	<string key="HousingTrdG_Lighting_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Iluminação de Alojamento</string>
+	<string key="HousingTrdG_Lighting_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Iluminação</string>
 	<string key="HousingTrdG_MiscOther_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Outros Itens Diversos</string>
-	<string key="HousingTrdG_MiscOther_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Outros Itens Diversos</string>
+	<string key="HousingTrdG_MiscOther_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Outro</string>
 	<string key="HousingTrdG_Paintings_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Quadros de Alojamento</string>
-	<string key="HousingTrdG_Paintings_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Quadros de Alojamento</string>
+	<string key="HousingTrdG_Paintings_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Quadros</string>
 	<string key="HousingTrdG_Rugs_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Tapetes de Alojamento</string>
-	<string key="HousingTrdG_Rugs_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Tapetes de Alojamento</string>
+	<string key="HousingTrdG_Rugs_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Tapetes</string>
 	<string key="HousingTrdG_Shelves_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Estantes de Alojamento</string>
-	<string key="HousingTrdG_Shelves_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Estantes de Alojamento</string>
+	<string key="HousingTrdG_Shelves_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Prateleiras</string>
 	<string key="HousingTrdG_Storage_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Baús de Armazenamento de Alojamento</string>
-	<string key="HousingTrdG_Storage_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Baús de Armazenamento de Alojamento</string>
+	<string key="HousingTrdG_Storage_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Baús de Armazenamento</string>
 	<string key="HousingTrdG_Stoves_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Fogões de Alojamento</string>
-	<string key="HousingTrdG_Stoves_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Fogões de Alojamento</string>
+	<string key="HousingTrdG_Stoves_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Fogões</string>
 	<string key="HousingTrdG_Tables_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Mesas de Alojamento</string>
-	<string key="HousingTrdG_Tables_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Mesas de Alojamento</string>
+	<string key="HousingTrdG_Tables_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Mesas</string>
 	<string key="HousingTrdG_Veg_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Vegetação de Alojamento</string>
-	<string key="HousingTrdG_Cabinets_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Gaveteiros de Alojamento</string>
+	<string key="HousingTrdG_Cabinets_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Gaveteiros</string>
 	<string key="HousingTrdG_Cabinets_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Gaveteiros de Alojamento</string>
-	<string key="HousingTrdG_Veg_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Vegetação de Alojamento</string>
+	<string key="HousingTrdG_Veg_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Vegetação</string>
 	<string key="1hHatchet_GroupDesc">Uma arma diversificada que permite ataques de arremesso a distância ou ataques rápidos de curto alcance. Ideal para combate corpo a corpo agressivo e de empenho total ou para combate tático a distância média.\n\n•Ataque Leve: Causa {[DamageTable.Hatchet_Damage_PrimaryAttack.DmgCoef * 100]}% de Dano Cortante.\n•Finalizador Leve: Causa {[DamageTable.Hatchet_Damage_PrimaryAttack_Ender.DmgCoef * 100]}% de Dano Cortante.\n•Ataque Pesado: Causa {[DamageTable.Hatchet_Damage_HeavyAttack.DmgCoef * 100]}% de Dano Cortante.\n•Ataque Pesado Carregado: Causa {[DamageTable.Hatchet_Damage_HeavyAttack_Charged.DmgCoef * 100]}% de Dano Cortante.</string>
 	<string key="1hHatchet_GroupName">Machadinhas Confeccionadas</string>
 	<string key="1hHatchetAngryEarth_GroupName">Machadinhas Primitivas</string>
@@ -506,6 +508,7 @@
 	<string key="ArrowB_GroupName">Flechas a Frio</string>
 	<string key="Arrows_GroupName">Flechas</string>
 	<string key="AttributeItem_GroupName">Itens de Atributo</string>
+	<string key="AzothStaves_GroupName">Bastões de Azoth</string>
 	<string key="AzothVial_GroupName">Azoth em Suspensão</string>
 	<string key="azure_GroupName">Azoth</string>
 	<string key="BagA_GroupDesc">Algibeiras desenvolvidas para melhorar a Carga sem impactar a mobilidade.</string>
@@ -692,11 +695,11 @@
 	<string key="CategoryData_ShieldsRound">Escudos Circulares</string>
 	<string key="CategoryData_shots">Cartuchos</string>
 	<string key="CategoryData_SiegeTools">Itens de Cerco</string>
-	<string key="CategoryData_SlotChest">Armadura de Peitoral</string>
-	<string key="CategoryData_SlotFeet">Armadura de Pé</string>
-	<string key="CategoryData_SlotHands">Armadura de Mão</string>
-	<string key="CategoryData_SlotHead">Armadura de Cabeça</string>
-	<string key="CategoryData_SlotLegs">Armadura de Perna</string>
+	<string key="CategoryData_SlotChest">Proteção de Peito</string>
+	<string key="CategoryData_SlotFeet">Calçado</string>
+	<string key="CategoryData_SlotHands">Luvas</string>
+	<string key="CategoryData_SlotHead">Proteção de Cabeça</string>
+	<string key="CategoryData_SlotLegs">Proteção de Perna</string>
 	<string key="CategoryData_specialresources">Modificadores de Confecção</string>
 	<string key="CategoryData_StavesFire">Bastões Flamejantes</string>
 	<string key="CategoryData_StavesLife">Bastões Vitais</string>
@@ -850,7 +853,7 @@
 	<string key="DungeonRangedWeapons_GroupName">Armas a Distância de Expedição</string>
 	<string key="DungeonReplicas_GroupName">Réplicas de Expedição</string>
 	<string key="DungeonReps1_GroupName">Réplicas da Escavação de Amrine</string>
-	<string key="DungeonReps10_GroupName">NOME PENDENTE</string>
+	<string key="DungeonReps10_GroupName">Réplicas da Forja Empírea</string>
 	<string key="DungeonReps2_GroupName">Réplicas do Obelisco Despedaçado</string>
 	<string key="DungeonReps3_GroupName">NOME PENDENTE</string>
 	<string key="DungeonReps4_GroupName">Réplicas das Profundezas</string>
@@ -1421,8 +1424,8 @@
 	<string key="OpalCut_GroupName">Opala Lapidada</string>
 	<string key="ore_GroupName">Minérios</string>
 	<string key="oreprecious_GroupName">Minérios Preciosos</string>
-	<string key="PerkItem_CategoryName">Qualquer Modificador de Confecção</string>
-	<string key="PerkItem_GroupName">Recursos Confeccionados Especiais</string>
+	<string key="PerkItem_CategoryName">Modificadores de Confecção</string>
+	<string key="PerkItem_GroupName">Materiais de Confecção Especiais</string>
 	<string key="picnicbasket_GroupName">Cestas de Piquenique</string>
 	<string key="PigmentBlack_GroupName">Pigmento Preto</string>
 	<string key="PigmentBlue_GroupName">Pigmento Azul</string>
@@ -1453,13 +1456,13 @@
 	<string key="PotionFocus_GroupDesc">Regenera Mana por um curto prazo.</string>
 	<string key="PotionFocus_GroupName">Poções de Foco</string>
 	<string key="PotionHealth_GroupDesc">Restaura Saúde.</string>
-	<string key="PotionHealth_GroupName">Extratos Curativos</string>
+	<string key="PotionHealth_GroupName">Poções de Cura</string>
 	<string key="PotionHealthB_GroupDesc">Restaura Saúde.</string>
 	<string key="PotionHealthB_GroupName">Gotícula Curativa</string>
 	<string key="PotionLightningAbs_GroupName">Poções de Absorção de Eletricidade</string>
 	<string key="PotionMagicAbs_GroupName">Poções de Absorção de Magia</string>
 	<string key="PotionMana_GroupDesc">Restaura Mana.</string>
-	<string key="PotionMana_GroupName">Extratos de Mana</string>
+	<string key="PotionMana_GroupName">Poções de Mana</string>
 	<string key="PotionPurify_GroupDesc">Remove completamente a Aflição de Corrupção.</string>
 	<string key="PotionPurify_GroupName">Extratos de Purificação</string>
 	<string key="PotionPurifyB_GroupName">Extrato de Corrupção</string>
@@ -1908,12 +1911,12 @@
 	<string key="GoldenScarabInt_GroupName">Escaravelho Dourado: Inteligência</string>
 	<string key="GoldenScarabFoc_GroupName">Escaravelho Dourado: Foco</string>
 	<string key="GoldenScarabCon_GroupName">Escaravelho Dourado: Constituição</string>
-	<string key="Scarab_GroupName">Escaravelho</string>
+	<string key="Scarab_GroupName">Escaravelho Dourado</string>
 	<string key="Sulfur_GroupName">Enxofre</string>
 	<string key="Rune_GroupName">Runas</string>
 	<string key="DungeonNamedReplicas_GroupName">Réplicas Únicas de Expedição</string>
 	<string key="UniqueDungeonReps1_GroupName">Réplicas Únicas da Escavação de Amrine</string>
-	<string key="UniqueDungeonReps10_GroupName">NOME PENDENTE</string>
+	<string key="UniqueDungeonReps10_GroupName">Réplicas Únicas da Forja Empírea</string>
 	<string key="UniqueDungeonReps2_GroupName">Réplicas Únicas do Obelisco Despedaçado</string>
 	<string key="UniqueDungeonReps3_GroupName">NOME PENDENTE</string>
 	<string key="UniqueDungeonReps4_GroupName">Réplicas Únicas das Profundezas</string>
@@ -1927,11 +1930,11 @@
 	<string key="CategoryData_ArmorHeavy">Armadura Pesada</string>
 	<string key="CategoryData_ArmorMedium">Armadura Média</string>
 	<string key="CategoryData_ArmorLight">Armadura Leve</string>
-	<string key="SlotChest_GroupName">Armadura de Peitoral</string>
-	<string key="SlotFeet_GroupName">Armadura de Pé</string>
-	<string key="SlotHands_GroupName">Armadura de Mão</string>
-	<string key="SlotHead_GroupName">Armadura de Cabeça</string>
-	<string key="SlotLegs_GroupName">Armadura de Perna</string>
+	<string key="SlotChest_GroupName">Proteção de Peito</string>
+	<string key="SlotFeet_GroupName">Calçado</string>
+	<string key="SlotHands_GroupName">Luvas</string>
+	<string key="SlotHead_GroupName">Proteção de Cabeça</string>
+	<string key="SlotLegs_GroupName">Proteção de Perna</string>
 	<string key="ScarabAmulets_GroupName">Amuletos: Escaravelho Dourado</string>
 	<string key="ScarabRings_GroupName">Anéis: Escaravelho Dourado</string>
 	<string key="ScarabEarrings_GroupName">Brincos: Escaravelho Dourado</string>
@@ -1951,7 +1954,10 @@
 	<string key="WinterConvergence_GroupName">(Evento) Convergência de Inverno</string>
 	<string key="NightveilHallow_GroupName">(Evento) Relíquia do Véu Noturno</string>
 	<string key="SummerMedleyfaire_GroupName">(Evento) Feira de Variedades do Verão</string>
+	<string key="SpringtideBloom_GroupName">(Evento) Primavera do Florescer</string>
 	<string key="Greatsword_GroupName">Espada Grande</string>
+	<string key="CoatingAeternian_GroupDesc" rel_version="Season_1_Perm">Apenas PvE: Revestimentos que aumentam o dano contra Humanos (que não são Perdidos ou Corrompidos).</string>
+	<string key="CoatingAeternian_GroupName" rel_version="Season_1_Perm">Revestimento de Humano</string>
 	<string key="OverchargedCasts_GroupName">Moldes de Gipsita Sobrecarregados</string>
 </resources>
 

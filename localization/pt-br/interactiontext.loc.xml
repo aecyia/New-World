@@ -46,17 +46,17 @@
 	<string key="ui_attachments_interact">Configurar Construção</string>
 	<string key="ui_generator_interact">Gerenciar Conteúdos</string>
 	<string key="ui_territory_interact">Gerenciar Assentamento</string>
-	<string key="ui_storage_interact">Visualizar Conteúdos</string>
+	<string key="ui_storage_interact">Abrir</string>
 	<string key="ui_paint_interact">Pintar</string>
 	<string key="ui_prefab_refinery_interact">Refinar</string>
 	<string key="ui_rest">Descansar</string>
 	<string key="ui_add_to_journal">Adicionar ao Diário</string>
-	<string key="ui_journal_notification_title">Nova Página Descoberta</string>
-	<string key="ui_journal_notification_body">A página: {loreTitle} foi adicionada ao seu diário.</string>
-	<string key="ui_journal_notification_info">Capítulo: {chapterTitle}, Página {currentPage} de {totalPages}</string>
+	<string key="ui_journal_notification_title">Documento Descoberto</string>
+	<string key="ui_journal_notification_body">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{loreTitle}&lt;/font&gt; adicionado ao Diário.</string>
+	<string key="ui_journal_notification_info">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{chapterTitle}&lt;/font&gt;, {currentPage}/{totalPages}</string>
 	<string key="ui_chapter_discovered_title">NOVO CAPÍTULO DESCOBERTO</string>
 	<string key="ui_chapter_complete_title">CAPÍTULO CONCLUÍDO</string>
-	<string key="ui_view_mission_board">Ver Quadro de Missões</string>
+	<string key="ui_view_mission_board">Exibir Missões</string>
 	<string key="ui_view_armory">Ver Armaria</string>
 	<string key="ui_view_territory_progression">Ver Progressão de Território</string>
 	<string key="ui_view_town_projects">Ver Projetos da Vila</string>
@@ -102,5 +102,6 @@
 	<string key="ui_reset_available_in">Disponível em {time}</string>
 	<string key="ui_emote_gather">[{keybind}] Use o Gesto de {tagName} para Coletar</string>
 	<string key="ui_emotetag_dance">Dançar</string>
+	<string key="ui_use_item">Usar</string>
 </resources>
 

@@ -2,50 +2,70 @@
 	<string key="ui_entrance_dungeon_description">Esplora la modalità Spedizione</string>
 	<string key="ui_enter_dungeon">Entra</string>
 	<string key="ui_enter_solo_trial">Entra</string>
+	<string key="ui_enter_raid_trial">Entra</string>
 	<string key="ui_open_dungeon_menu">Apri il menu Spedizione</string>
 	<string key="ui_open_dungeon_menu_solo">Apri il menu Prova dell'anima</string>
+	<string key="ui_open_dungeon_menu_raidtrial">Apri il menu Prova élite</string>
 	<string key="join_group_in_dungeon">Partecipa alla spedizione</string>
 	<string key="join_group_in_dungeon_solo">Accedi alla Prova dell'anima</string>
+	<string key="join_group_in_dungeon_raidtrial">Accedi alla Prova élite</string>
 	<string key="ui_dungeon_leave">Abbandona la Spedizione</string>
 	<string key="ui_dungeon_leave_solo">Abbandona la Prova dell'anima</string>
+	<string key="ui_dungeon_leave_raidtrial">Abbandona la Prova élite</string>
 	<string key="ui_dungeon_screen_header">Ingresso Spedizione</string>
 	<string key="ui_dungeon_screen_header_solo">Ingresso Prova dell'anima</string>
+	<string key="ui_dungeon_screen_header_raidtrial">Ingresso Prova élite</string>
 	<string key="ui_dungeon_requirements">&lt;img src="LyShineUI/Images/icons/misc/icon_level_simple" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; Livello consigliato: {level} &lt;img src="LyShineUI/Images/icons/misc/icon_character" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; Numero minimo giocatori: {players}</string>
 	<string key="ui_dungeon_requirements_groupsize">Numero minimo giocatori: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{players}&lt;/font&gt;</string>
 	<string key="ui_dungeon_requirements_groupsize_single">Numero massimo di giocatori: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
 	<string key="ui_dungeon_requirements_gearscore">Livello consigliato: {level}</string>
 	<string key="ui_flyout_recommended_groupsize">Giocatori consigliati: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{players}&lt;/font&gt;</string>
-	<string key="ui_dungeon_requirements_equipment_warning">Per completare questa Spedizione, il tuo gruppo deve avere almeno: &lt;font color="#ffffff"&gt;{item}&lt;/font&gt;.</string>
-	<string key="ui_dungeon_requirements_equipment_warning_solo">Per completare questa Prova dell'anima, devi avere almeno: &lt;font color="#ffffff"&gt;{item}&lt;/font&gt;.</string>
-	<string key="ui_dungeon_reward_level">La qualità complessiva del bottino aumenta con l'aumentare del livello di difficoltà.\n\nGli oggetti che trovi possono variare rispetto a quelli elencati in base al proprio punteggio attrezzatura.</string>
+	<string key="ui_dungeon_requirements_equipment_warning">Il tuo gruppo deve avere almeno: &lt;font color="#ffffff"&gt;{item}&lt;/font&gt;.</string>
+	<string key="ui_dungeon_requirements_equipment_warning_solo">Devi avere almeno: &lt;font color="#ffffff"&gt;{item}&lt;/font&gt;.</string>
+	<string key="ui_dungeon_requirements_equipment_warning_raidtrial">Devi avere almeno: &lt;font color="#ffffff"&gt;{item}&lt;/font&gt;.</string>
+	<string key="ui_dungeon_reward_level">La qualità complessiva del bottino aumenta con l'aumentare del livello di difficoltà.\n\nGli oggetti che trovi possono variare rispetto a quelli elencati in base al punteggio attrezzatura.</string>
 	<string key="ui_dungeon_level_requirement">Livello richiesto: {level}</string>
 	<string key="ui_dungeon_elapsed_time">Tempo trascorso:</string>
 	<string key="ui_dungeon_estimated_time_remaining">Tempo di attesa previsto:</string>
 	<string key="ui_dungeon_activate">Apri spedizione</string>
 	<string key="ui_dungeon_activate_solo">Apri Prova dell'anima</string>
+	<string key="ui_dungeon_activate_raidtrial">Apri Prova élite</string>
 	<string key="ui_dungeon_leave_group">Abbandona gruppo</string>
 	<string key="ui_dungeon_leave_group_sufficient_members">Se lasci il gruppo, non sarai più in coda.\nVuoi procedere?</string>
 	<string key="ui_dungeon_group_in_queue">In attesa della Spedizione...</string>
 	<string key="ui_dungeon_group_in_queue_solo">In attesa della Prova dell'anima...</string>
+	<string key="ui_dungeon_group_in_queue_raidtrial">In attesa della Prova élite</string>
 	<string key="ui_dungeon_group_proximity">Membro del gruppo troppo lontano</string>
 	<string key="ui_dungeon_group_already_in_queue_dungeon">Il tuo gruppo è già in coda per un'altra Spedizione. Crea un nuovo gruppo per aprire questa Spedizione.</string>
 	<string key="ui_dungeon_group_already_in_queue_dungeon_solo">Il tuo gruppo è già in coda per un'altra Spedizione. Crea un nuovo gruppo per aprire questa Prova.</string>
+	<string key="ui_dungeon_group_already_in_queue_dungeon_raidtrial">Il tuo gruppo è già in coda per un'altra Spedizione. Crea un nuovo gruppo per aprire questa Prova élite.</string>
 	<string key="ui_dungeon_group_in_active_dungeon">Il tuo gruppo ha già una Spedizione o una Prova attiva. Tutti i membri del gruppo devono uscire dall'istanza attiva per aprire questa Spedizione.</string>
 	<string key="ui_dungeon_group_in_active_dungeon_solo">Il tuo gruppo ha già una Spedizione o una Prova attiva. Tutti i membri del gruppo devono uscire dall'istanza attiva per aprire questa Prova dell'anima.</string>
+	<string key="ui_dungeon_group_in_active_dungeon_raidtrial">Il tuo gruppo ha già una Spedizione o una Prova attiva. Tutti i membri del gruppo devono uscire dall'istanza attiva per aprire questa Prova élite.</string>
 	<string key="ui_dungeon_group_dead">Il membro del gruppo è morto</string>
 	<string key="ui_dungeon_activating">Accesso alla Spedizione...</string>
 	<string key="ui_dungeon_activating_solo">Accesso alla Prova dell'anima...</string>
+	<string key="ui_dungeon_activating_raidtrial">Accesso alla Prova élite...</string>
 	<string key="ui_dungeon_not_enough_members">Membri del gruppo insufficienti</string>
 	<string key="ui_dungeon_disabled">Al momento questa Spedizione è disattivata</string>
 	<string key="ui_dungeon_disabled_solo">Al momento questa Prova dell'anima è disattivata</string>
+	<string key="ui_dungeon_disabled_raidtrial">Al momento questa Prova élite è disattivata</string>
 	<string key="ui_dungeon_activate_failure">Impossibile avviare la Spedizione</string>
 	<string key="ui_dungeon_activate_failure_solo">Impossibile avviare la Prova dell'anima</string>
+	<string key="ui_dungeon_activate_failure_raidtrial">Impossibile avviare la Prova élite</string>
 	<string key="ui_dungeon_not_ready">Spedizione non pronta</string>
 	<string key="ui_dungeon_opened_title">Spedizione avviata</string>
 	<string key="ui_dungeon_opened_title_solo">Prova dell'anima avviata</string>
+	<string key="ui_dungeon_opened_title_raidtrial">Prova élite avviata</string>
 	<string key="ui_dungeon_removed_from_queue">Non sei più nella coda di accesso alla Spedizione</string>
+	<string key="ui_dungeon_removed_from_queue_solo">Non sei più nella coda di accesso alla Prova dell'anima</string>
+	<string key="ui_dungeon_removed_from_queue_raidtrial">Non sei più nella coda di accesso alla Prova élite</string>
 	<string key="ui_dungeon_entry_expired">Ingresso alla Spedizione scaduto</string>
+	<string key="ui_dungeon_entry_expired_solo">Ingresso alla Prova dell'anima scaduto</string>
+	<string key="ui_dungeon_entry_expired_raidtrial">Ingresso alla Prova élite scaduto</string>
 	<string key="ui_dungeon_closed">Spedizione chiusa</string>
+	<string key="ui_dungeon_closed_solo">Prova dell'anima chiusa</string>
+	<string key="ui_dungeon_closed_raidtrial">Prova élite chiusa</string>
 	<string key="ui_dungeon_required_item">{quantity} {item} (costo di partecipazione)</string>
 	<string key="ui_dungeon_required_item_started">{item}</string>
 	<string key="ui_dungeon_required_item_tooltip">Richiesto: {quantity} {item}</string>
@@ -56,33 +76,46 @@
 	<string key="ui_dungeon_entrance_respawn_location">Ingresso</string>
 	<string key="dungeon">Spedizione</string>
 	<string key="dungeon_solo">Prova dell'anima</string>
+	<string key="dungeon_raidtrial">Prova élite</string>
 	<string key="dungeon_started">Spedizione attivata</string>
 	<string key="dungeon_teleport_title">Preparati al teletrasporto</string>
 	<string key="dungeon_teleport_desc">Il tuo gruppo verrà teletrasportato nella Spedizione.</string>
 	<string key="dungeon_enter">Avvia Spedizione</string>
 	<string key="dungeon_enter_solo">Accedi alla Prova dell'anima</string>
+	<string key="dungeon_enter_raidtrial">Accedi alla Prova élite</string>
 	<string key="dungeon_flyout">Spedizione</string>
 	<string key="dungeon_success">Missione completata</string>
 	<string key="dungeon_fail">Missione fallita</string>
 	<string key="dungeon_completed">Spedizione completata</string>
 	<string key="dungeon_completed_solo">Prova dell'anima completata</string>
+	<string key="dungeon_completed_raidtrial">Prova élite completata</string>
 	<string key="ui_dungeon_find_group" rel_version="Feature_Group_Finder">Trova gruppo</string>
 	<string key="ui_dungeon_manage_group" rel_version="Feature_Group_Finder">Gestisci la mia lobby</string>
 	<string key="ui_dungeon_view_group" rel_version="Feature_Group_Finder">Visualizza la mia lobby</string>
 	<string key="ui_dungeon_opened_pvpwarning_title">Abbandona il PvP per entrare</string>
 	<string key="ui_dungeon_enter_pvpwarning_info">Entrando in una Spedizione &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;abbandonerai tutte le missioni PvP&lt;/font&gt;. Continuare?</string>
+	<string key="ui_dungeon_enter_pvpwarning_info_solo">Entrando nella Prova dell'anima &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;abbandonerai tutte le missioni PvP&lt;/font&gt;. Continuare?</string>
+	<string key="ui_dungeon_enter_pvpwarning_info_raidtrial">Entrando in una Prova élite &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;abbandonerai tutte le missioni PvP&lt;/font&gt;. Continuare?</string>
 	<string key="ui_dungeon_full_header">Al momento la Spedizione è al completo. Unisciti alla coda per avviare la Spedizione.</string>
+	<string key="ui_dungeon_full_header_solo">Al momento la Prova dell'anima è al completo. Unisciti alla coda per avviare la Prova dell'anima.</string>
+	<string key="ui_dungeon_full_header_raidtrial">Al momento la Prova élite è al completo. Unisciti alla coda per avviare la Prova élite.</string>
 	<string key="ui_dungeon_player_average_gear_score">&lt;font color="#c3b79f"&gt;Punteggio attrezzatura medio: &lt;/font&gt; &lt;font color="#ffffff" face="lyshineui/fonts/CaslonAnt.font"&gt;{gearscore}&lt;/font&gt;</string>
 	<string key="ui_dungeon_queued_blocked">Impossibile avviare la Spedizione</string>
 	<string key="ui_dungeon_queued_blocked_solo">Impossibile avviare la Prova dell'anima</string>
+	<string key="ui_dungeon_queued_blocked_raidtrial">Impossibile avviare la Prova élite</string>
 	<string key="ui_dungeon_outpost_rush">Sei già in una coda per la Carica all'avamposto</string>
 	<string key="ui_dungeon_expiring">Abbandona la Spedizione tra</string>
+	<string key="ui_dungeon_expiring_solo">Abbandona la Prova dell'anima tra</string>
+	<string key="ui_dungeon_expiring_raidtrial">Abbandona la Prova élite tra</string>
 	<string key="ui_dungeon_cooldown">Si apre tra &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{timeRemaining}&lt;/font&gt;</string>
 	<string key="ui_dungeon_cooldown_flyout">Puoi avviare questa Spedizione tra {timeRemaining}</string>
 	<string key="ui_dungeon_cooldown_flyout_solo">Puoi avviare questa Prova dell'anima tra {timeRemaining}</string>
+	<string key="ui_dungeon_cooldown_flyout_raidtrial">Puoi avviare questa Prova élite tra {timeRemaining}</string>
 	<string key="ui_dungeon_map_flyout_button">Visualizza Spedizione</string>
 	<string key="ui_dungeon_remaining_label">Spedizioni normali rimaste</string>
+	<string key="ui_dungeon_remaining_label_raidtrial">Prove élite normali rimaste</string>
 	<string key="ui_dungeon_remaining_tooltip">Puoi partecipare a un massimo di {amount} spedizioni normali al giorno.</string>
+	<string key="ui_dungeon_remaining_tooltip_raidtrial">Puoi partecipare a un massimo di {amount} Prove élite al giorno.</string>
 	<string key="ui_dungeon_mutation_remaining_label" rel_version="Feature_Dungeon_Mutators">Spedizioni mutate rimaste</string>
 	<string key="ui_dungeon_mutation_remaining_tooltip" rel_version="Feature_Dungeon_Mutators">Puoi partecipare a un massimo di {amount} spedizioni mutate a settimana.</string>
 	<string key="ui_dungeon_mutation_flyout_tooltip" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Mutazione settimanale&lt;/font&gt;\nMutazioni elementali, promozioni e maledizioni vengono selezionate casualmente ogni settimana per le Spedizioni mutate.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Mutazione&lt;/font&gt;\nAffronta le mutazioni elementali\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Promozione&lt;/font&gt;\nPromozioni élite per i nemici\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Maledizioni&lt;/font&gt;\nEffetti in tutta la Spedizione</string>
@@ -158,15 +191,15 @@
 	<string key="ui_dungeon_mutator_difficulty_plain" rel_version="Feature_Dungeon_Mutators">Difficoltà&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_appended_difficulty" rel_version="Feature_Dungeon_Mutators">Difficoltà &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{difficulty}&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_appended_difficulty_bold" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Difficoltà {difficulty}&lt;/font&gt;</string>
-	<string key="ui_dungeon_next_unlock_requirement" rel_version="Feature_Dungeon_Mutators">Per sbloccare il &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;prossimo livello di difficoltà&lt;/font&gt;, devi completare questa Spedizione con il &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;grado {rank}&lt;/font&gt;.</string>
+	<string key="ui_dungeon_next_unlock_requirement" rel_version="Feature_Dungeon_Mutators">Per sbloccare il &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;prossimo livello di difficoltà&lt;/font&gt;, devi completare questa Spedizione con il grado &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{rank}&lt;/font&gt;.</string>
 	<string key="ui_dungeon_mutator_unlock_requirement" rel_version="Feature_Dungeon_Mutators">Per sbloccare il &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;prossimo livello di difficoltà&lt;/font&gt;, devi completare questa Spedizione.</string>
 	<string key="ui_dungeon_mutator_active" rel_version="Feature_Dungeon_Mutators">&lt;font color="#00ffa8"&gt;Attivo &lt;img src="LyShineUI/Images/icons/misc/icon_question_orange" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; &lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_inactive" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ff9393"&gt;Inattivo &lt;img src="LyShineUI/Images/icons/misc/icon_question_orange" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; &lt;/font&gt;</string>
-	<string key="ui_dungeon_mutator_rotation_notice" rel_version="Feature_Dungeon_Mutators">Ogni settimana sarà selezionata casualmente una Spedizione per la mutazione. Solo la Spedizione selezionata può essere affrontata a un livello di difficoltà aumentato.</string>
+	<string key="ui_dungeon_mutator_rotation_notice" rel_version="Feature_Dungeon_Mutators">Ogni settimana viene selezionata casualmente una Spedizione per la mutazione. Solo la Spedizione selezionata può essere affrontata a un livello di difficoltà aumentato.</string>
 	<string key="ui_dungeon_mutation_rewards_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Gli oggetti&lt;/font&gt; lasciati potrebbero presentare questi &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;vantaggi:&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_standard_reward_count" rel_version="Feature_Dungeon_Mutators">Oggetti spedizione: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_difficulty_reward_count" rel_version="Feature_Dungeon_Mutators">Oggetti difficoltà: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt;</string>
-	<string key="ui_dungeon_mutator_special_reward_tooltip" rel_version="Feature_Dungeon_Mutators">Oltre agli oggetti che ottieni come ricompensa, completando spedizioni riceverai fino a {value} schegge dell'ombra, a seconda del grado.\n\n Se ottieni il grado Argento alla fine della spedizione, sbloccherai il livello di difficoltà successivo.</string>
+	<string key="ui_dungeon_mutator_special_reward_tooltip" rel_version="Feature_Dungeon_Mutators">Al completamento della Spedizione, la quantità di schegge dell'ombra che riceverai dipenderà dal grado raggiunto.\n\nRaggiungi il grado argento o superiore per sbloccare la difficoltà successiva della Spedizione.</string>
 	<string key="ui_dungeon_mutator_hud_points_shorthand" rel_version="Feature_Dungeon_Mutators"> &lt;font color="#aaaaaa" &gt;p.ti&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_difficulty_not_unlocked" rel_version="Feature_Dungeon_Mutators">Questo livello di difficoltà non è ancora stato sbloccato.</string>
 	<string key="Mut_Disease_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">I nemici applicano afflizione da malattia cumulabile quando colpiscono, riducendo la guarigione di un {[Type_StatusEffectData.Mut_Disease_1.HealMod * -100]}% per accumulo.</string>
@@ -248,41 +281,53 @@
 	<string key="Mut_Curse1_Fir_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Instabile</string>
 	<string key="Mut_Curse1_Fir_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Quando schivano, i giocatori subiscono un effetto nel tempo dei danni da fuoco che infligge danni pari a un {[Type_StatusEffectData.Mut_Curse1_Fir_Minor_Damage.HealthModifierPercent * -100]}% della loro salute massima ogni secondo per {[Type_StatusEffectData.Mut_Curse1_Fir_Minor_Damage.BaseDuration]} s. Cumulabile fino a {[Type_StatusEffectData.Mut_Curse1_Fir_Minor_Damage.StackMax]} volte. (Questo effetto non può essere purificato dalle abilità del giocatore).</string>
 	<string key="Mut_Curse1_Fir_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Sovraccarico</string>
-	<string key="Mut_Curse1_Fir_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Se Instabile si esaurisce con {[Type_StatusEffectData.Mut_Curse1_Fir_Minor_Damage.StackMax]} accumuli attivi, si attiva una zona di {[SpellDataTable_Global.Mut_Fir_Curse1_Major.Radius]} m di raggio che dura {[SpellDataTable_Global.Mut_Fir_Curse1_Major.Duration / 1000]} secondi. I giocatori al suo interno subiscono danni pari a un {[Type_StatusEffectData.Mut_Curse1_Fir_Major_Damage_DoT.HealthModifierPercent * -100]}% della loro salute massima ogni secondo. L'ingresso nell'area d'effetto consumerà tutti gli accumuli di Instabile, infliggendo danni pari a un {[Type_StatusEffectData.Mut_Curse1_Fir_Major_Damage_Cleanse.HealthModifierPercent * -100]}% della salute massima. (Questo effetto non può essere purificato dalle abilità del giocatore).</string>
+	<string key="Mut_Curse1_Fir_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Se Instabile si esaurisce con {[Type_StatusEffectData.Mut_Curse1_Fir_Minor_Damage.StackMax]} accumuli attivi, si attiva una zona di {[SpellDataTable_Global.Mut_Fir_Curse1_Major.Radius]} m di raggio che dura {[SpellDataTable_Global.Mut_Fir_Curse1_Major.Duration / 1000]} secondi. I giocatori al suo interno subiscono danni pari a un {[Type_StatusEffectData.Mut_Curse1_Fir_Major_Damage_DoT.HealthModifierPercent * -100]}% della loro salute massima ogni secondo. L'ingresso nell'area d'effetto consuma tutti gli accumuli di Instabile, infliggendo danni pari a un {[Type_StatusEffectData.Mut_Curse1_Fir_Major_Damage_Cleanse.HealthModifierPercent * -100]}% della salute massima. (Questo effetto non può essere purificato dalle abilità del giocatore).</string>
 	<string key="Mut_Curse1_Lig_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Instabile</string>
 	<string key="Mut_Curse1_Lig_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Quando schivano, i giocatori subiscono un effetto nel tempo dei danni da fulmine che infligge danni pari a un {[Type_StatusEffectData.Mut_Curse1_Lig_Minor_Damage.HealthModifierPercent * -100]}% della loro salute massima ogni secondo per {[Type_StatusEffectData.Mut_Curse1_Lig_Minor_Damage.BaseDuration]} s. Cumulabile fino a {[Type_StatusEffectData.Mut_Curse1_Lig_Minor_Damage.StackMax]} volte. (Questo effetto non può essere purificato dalle abilità del giocatore).</string>
 	<string key="Mut_Curse1_Lig_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Sovraccarico</string>
-	<string key="Mut_Curse1_Lig_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Se Instabile si esaurisce con {[Type_StatusEffectData.Mut_Curse1_Lig_Minor_Damage.StackMax]} accumuli attivi, si attiva una zona di {[SpellDataTable_Global.Mut_Lig_Curse1_Major.Radius]} m di raggio che dura {[SpellDataTable_Global.Mut_Lig_Curse1_Major.Duration / 1000]} secondi. I giocatori al suo interno subiscono danni pari a un {[Type_StatusEffectData.Mut_Curse1_Lig_Major_Damage_DoT.HealthModifierPercent * -100]}% della loro salute massima ogni secondo. L'ingresso nell'area d'effetto consumerà tutti gli accumuli di Instabile, infliggendo danni pari a un {[Type_StatusEffectData.Mut_Curse1_Lig_Major_Damage_Cleanse.HealthModifierPercent * -100]}% della salute massima. (Questo effetto non può essere purificato dalle abilità del giocatore).</string>
+	<string key="Mut_Curse1_Lig_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Se Instabile si esaurisce con {[Type_StatusEffectData.Mut_Curse1_Lig_Minor_Damage.StackMax]} accumuli attivi, si attiva una zona di {[SpellDataTable_Global.Mut_Lig_Curse1_Major.Radius]} m di raggio che dura {[SpellDataTable_Global.Mut_Lig_Curse1_Major.Duration / 1000]} secondi. I giocatori al suo interno subiscono danni pari a un {[Type_StatusEffectData.Mut_Curse1_Lig_Major_Damage_DoT.HealthModifierPercent * -100]}% della loro salute massima ogni secondo. L'ingresso nell'area d'effetto consuma tutti gli accumuli di Instabile, infliggendo danni pari a un {[Type_StatusEffectData.Mut_Curse1_Lig_Major_Damage_Cleanse.HealthModifierPercent * -100]}% della salute massima. (Questo effetto non può essere purificato dalle abilità del giocatore).</string>
 	<string key="Mut_Curse1_Voi_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Instabile</string>
 	<string key="Mut_Curse1_Voi_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Quando schivano, i giocatori subiscono un effetto nel tempo dei danni da Vuoto che infligge danni pari a un {[Type_StatusEffectData.Mut_Curse1_Voi_Minor_Damage.HealthModifierPercent * -100]}% della loro salute massima ogni secondo per {[Type_StatusEffectData.Mut_Curse1_Voi_Minor_Damage.BaseDuration]} s. Cumulabile fino a {[Type_StatusEffectData.Mut_Curse1_Voi_Minor_Damage.StackMax]} volte. (Questo effetto non può essere purificato dalle abilità del giocatore).</string>
 	<string key="Mut_Curse1_Voi_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Sovraccarico</string>
-	<string key="Mut_Curse1_Voi_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Se Instabile si esaurisce con {[Type_StatusEffectData.Mut_Curse1_Voi_Minor_Damage.StackMax]} accumuli attivi, si attiva una zona di {[SpellDataTable_Global.Mut_Voi_Curse1_Major.Radius]} m di raggio che dura {[SpellDataTable_Global.Mut_Voi_Curse1_Major.Duration / 1000]} secondi. I giocatori al suo interno subiscono danni pari a un {[Type_StatusEffectData.Mut_Curse1_Voi_Major_Damage_DoT.HealthModifierPercent * -100]}% della loro salute massima ogni secondo. L'ingresso nell'area d'effetto consumerà tutti gli accumuli di Instabile, infliggendo danni pari a un {[Type_StatusEffectData.Mut_Curse1_Voi_Major_Damage_Cleanse.HealthModifierPercent * -100]}% della salute massima. (Questo effetto non può essere purificato dalle abilità del giocatore).</string>
+	<string key="Mut_Curse1_Voi_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Se Instabile si esaurisce con {[Type_StatusEffectData.Mut_Curse1_Voi_Minor_Damage.StackMax]} accumuli attivi, si attiva una zona di {[SpellDataTable_Global.Mut_Voi_Curse1_Major.Radius]} m di raggio che dura {[SpellDataTable_Global.Mut_Voi_Curse1_Major.Duration / 1000]} secondi. I giocatori al suo interno subiscono danni pari a un {[Type_StatusEffectData.Mut_Curse1_Voi_Major_Damage_DoT.HealthModifierPercent * -100]}% della loro salute massima ogni secondo. L'ingresso nell'area d'effetto consuma tutti gli accumuli di Instabile, infliggendo danni pari a un {[Type_StatusEffectData.Mut_Curse1_Voi_Major_Damage_Cleanse.HealthModifierPercent * -100]}% della salute massima. (Questo effetto non può essere purificato dalle abilità del giocatore).</string>
 	<string key="Mut_Curse1_Nat_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Instabile</string>
 	<string key="Mut_Curse1_Nat_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Quando schivano, i giocatori subiscono un effetto nel tempo dei danni da natura che infligge danni pari a un {[Type_StatusEffectData.Mut_Curse1_Nat_Minor_Damage.HealthModifierPercent * -100]}% della loro salute massima ogni secondo per {[Type_StatusEffectData.Mut_Curse1_Nat_Minor_Damage.BaseDuration]} s. Cumulabile fino a {[Type_StatusEffectData.Mut_Curse1_Nat_Minor_Damage.StackMax]} volte. (Questo effetto non può essere purificato dalle abilità del giocatore).</string>
 	<string key="Mut_Curse1_Nat_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Sovraccarico</string>
-	<string key="Mut_Curse1_Nat_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Se Instabile si esaurisce con {[Type_StatusEffectData.Mut_Curse1_Nat_Minor_Damage.StackMax]} accumuli attivi, si attiva una zona di {[SpellDataTable_Global.Mut_Nat_Curse1_Major.Radius]} m di raggio che dura {[SpellDataTable_Global.Mut_Nat_Curse1_Major.Duration / 1000]} secondi. I giocatori al suo interno subiscono danni pari a un {[Type_StatusEffectData.Mut_Curse1_Nat_Major_Damage_DoT.HealthModifierPercent * -100]}% della loro salute massima ogni secondo. L'ingresso nell'area d'effetto consumerà tutti gli accumuli di Instabile, infliggendo danni pari a un {[Type_StatusEffectData.Mut_Curse1_Nat_Major_Damage_Cleanse.HealthModifierPercent * -100]}% della salute massima. (Questo effetto non può essere purificato dalle abilità del giocatore).</string>
+	<string key="Mut_Curse1_Nat_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Se Instabile si esaurisce con {[Type_StatusEffectData.Mut_Curse1_Nat_Minor_Damage.StackMax]} accumuli attivi, si attiva una zona di {[SpellDataTable_Global.Mut_Nat_Curse1_Major.Radius]} m di raggio che dura {[SpellDataTable_Global.Mut_Nat_Curse1_Major.Duration / 1000]} secondi. I giocatori al suo interno subiscono danni pari a un {[Type_StatusEffectData.Mut_Curse1_Nat_Major_Damage_DoT.HealthModifierPercent * -100]}% della loro salute massima ogni secondo. L'ingresso nell'area d'effetto consuma tutti gli accumuli di Instabile, infliggendo danni pari a un {[Type_StatusEffectData.Mut_Curse1_Nat_Major_Damage_Cleanse.HealthModifierPercent * -100]}% della salute massima. (Questo effetto non può essere purificato dalle abilità del giocatore).</string>
 	<string key="Mut_Curse1_Ice_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Instabile</string>
 	<string key="Mut_Curse1_Ice_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Quando schivano, i giocatori subiscono un effetto nel tempo dei danni da ghiaccio che infligge danni pari a un {[Type_StatusEffectData.Mut_Curse1_Ice_Minor_Damage.HealthModifierPercent * -100]}% della loro salute massima ogni secondo per {[Type_StatusEffectData.Mut_Curse1_Ice_Minor_Damage.BaseDuration]} s. Cumulabile fino a {[Type_StatusEffectData.Mut_Curse1_Ice_Minor_Damage.StackMax]} volte. (Questo effetto non può essere purificato dalle abilità del giocatore).</string>
 	<string key="Mut_Curse1_Ice_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Sovraccarico</string>
-	<string key="Mut_Curse1_Ice_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Se Instabile si esaurisce con {[Type_StatusEffectData.Mut_Curse1_Ice_Minor_Damage.StackMax]} accumuli attivi, si attiva una zona di {[SpellDataTable_Global.Mut_Ice_Curse1_Major.Radius]} m di raggio che dura {[SpellDataTable_Global.Mut_Ice_Curse1_Major.Duration / 1000]} secondi. I giocatori al suo interno subiscono danni pari a un {[Type_StatusEffectData.Mut_Curse1_Ice_Major_Damage_DoT.HealthModifierPercent * -100]}% della loro salute massima ogni secondo. L'ingresso nell'area d'effetto consumerà tutti gli accumuli di Instabile, infliggendo danni pari a un {[Type_StatusEffectData.Mut_Curse1_Ice_Major_Damage_Cleanse.HealthModifierPercent * -100]}% della salute massima. (Questo effetto non può essere purificato dalle abilità del giocatore).</string>
+	<string key="Mut_Curse1_Ice_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Se Instabile si esaurisce con {[Type_StatusEffectData.Mut_Curse1_Ice_Minor_Damage.StackMax]} accumuli attivi, si attiva una zona di {[SpellDataTable_Global.Mut_Ice_Curse1_Major.Radius]} m di raggio che dura {[SpellDataTable_Global.Mut_Ice_Curse1_Major.Duration / 1000]} secondi. I giocatori al suo interno subiscono danni pari a un {[Type_StatusEffectData.Mut_Curse1_Ice_Major_Damage_DoT.HealthModifierPercent * -100]}% della loro salute massima ogni secondo. L'ingresso nell'area d'effetto consuma tutti gli accumuli di Instabile, infliggendo danni pari a un {[Type_StatusEffectData.Mut_Curse1_Ice_Major_Damage_Cleanse.HealthModifierPercent * -100]}% della salute massima. (Questo effetto non può essere purificato dalle abilità del giocatore).</string>
 	<string key="ui_dungeon_mutator_highest_rank_tooltip" rel_version="Feature_Dungeon_Mutators">Il grado più alto che hai raggiunto a questo livello di difficoltà: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{rank}&lt;/font&gt;</string>
 	<string key="ui_dungeon_survive_for">Sopravvivi per</string>
 	<string key="ui_dungeon_possible_rewards_header" rel_version="Feature_Dungeon_Mutators">Possibili ricompense</string>
 	<string key="ui_dungeon_no_possible_rewards" rel_version="Feature_Dungeon_Mutators">Nessuna ricompensa possibile</string>
 	<string key="ui_dungeon_orb_explanation" rel_version="Feature_Dungeon_Mutators">Ricompensa una tantum. Le sfere di sintonia per le spedizioni mutate sono disponibili anche nel negozio della fazione.</string>
 	<string key="ui_dungeon_gearscore_recommendation_tooltip" rel_version="Feature_Dungeon_Mutators">
-	&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Punteggio attrezzatura consigliato&lt;/font&gt;\n\nLa differenza tra il punteggio attrezzatura medio e il punteggio attrezzatura consigliato influisce sui combattimenti.\n\nSe il tuo punteggio attrezzatura medio è &lt;font color="#ff9393"&gt;inferiore&lt;/font&gt; al punteggio attrezzatura minimo consigliato, &lt;font color="#ffffff"&gt;infliggerai meno danni&lt;/font&gt; e &lt;font color="#ffffff"&gt;ne subirai di più&lt;/font&gt; dai nemici nella spedizione.</string>
+	&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Punteggio attrezzatura consigliato&lt;/font&gt;\n\nLa differenza tra il punteggio attrezzatura medio e il punteggio attrezzatura consigliato influisce sui combattimenti.\n\nSe il tuo punteggio attrezzatura medio è &lt;font color="#ff9393"&gt;inferiore&lt;/font&gt; al punteggio attrezzatura minimo consigliato, &lt;font color="#ffffff"&gt;infliggerai meno danni&lt;/font&gt; e &lt;font color="#ffffff"&gt;ne subirai di più&lt;/font&gt; dai nemici nella Spedizione.</string>
+	<string key="ui_dungeon_gearscore_recommendation_tooltip_raidtrial" rel_version="Feature_Dungeon_Mutators">
+	&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Punteggio attrezzatura consigliato&lt;/font&gt;\n\nLa differenza tra il punteggio attrezzatura medio e il punteggio attrezzatura consigliato influisce sui combattimenti.\n\nSe il tuo punteggio attrezzatura medio è &lt;font color="#ff9393"&gt;inferiore&lt;/font&gt; al punteggio attrezzatura minimo consigliato, &lt;font color="#ffffff"&gt;infliggerai meno danni&lt;/font&gt; e &lt;font color="#ffffff"&gt;ne subirai di più&lt;/font&gt; dai nemici nella Prova élite.</string>
 	<string key="ui_dungeon_gearscore_underlevel_warning" rel_version="Feature_Dungeon_Mutators">&lt;font color={color} face="lyshineui/fonts/Nimbus_Bold.font"&gt;ATTENZIONE:&lt;/font&gt; punteggio attrezzatura medio troppo basso per questa spedizione.</string>
+	<string key="ui_dungeon_gearscore_underlevel_warning_raidtrial" rel_version="Feature_Dungeon_Mutators">&lt;font color={color} face="lyshineui/fonts/Nimbus_Bold.font"&gt;ATTENZIONE:&lt;/font&gt; punteggio attrezzatura medio troppo basso per questa Prova élite.</string>
 	<string key="ui_dungeon_mutator_max_warning" rel_version="Feature_Dungeon_Mutators">Hai raggiunto il limite settimanale di partecipazioni alle spedizioni mutate. &lt;font color="#ffffff"&gt;({amount} a settimana)&lt;/font&gt;</string>
+	<string key="ui_dungeon_mutator_max_warning_raidtrial" rel_version="Feature_Dungeon_Mutators">Hai raggiunto il limite settimanale di partecipazioni alle Prove élite mutate. &lt;font color="#ffffff"&gt;({amount} a settimana)&lt;/font&gt;</string>
 	<string key="ui_dungeon_max_warning">Hai raggiunto il limite giornaliero di partecipazioni alle spedizioni normali. &lt;font color="#ffffff"&gt;({amount} al giorno)&lt;/font&gt;</string>
+	<string key="ui_dungeon_max_warning_raidtrial">Hai raggiunto il limite giornaliero di partecipazioni alle Prove élite normali. &lt;font color="#ffffff"&gt;({amount} al giorno)&lt;/font&gt;</string>
 	<string key="ui_dungeon_limit_refresh_enter">Partecipazione possibile: {date}</string>
 	<string key="ui_dungeon_limit_refresh_open">Apertura possibile: {date}</string>
 	<string key="ui_dungeon_characters_at_limit_title">Impossibile aprire la spedizione</string>
+	<string key="ui_dungeon_characters_at_limit_title_raidtrial">Impossibile avviare la Prova élite</string>
 	<string key="ui_dungeon_characters_at_limit_desc_regular">I seguenti membri del gruppo hanno raggiunto il limite giornaliero di spedizioni normali e non possono partecipare a questa spedizione.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Apertura possibile: {date})&lt;/font&gt;</string>
+	<string key="ui_dungeon_characters_at_limit_desc_regular_raidtrial">I seguenti membri del gruppo hanno raggiunto il limite giornaliero di Prove élite normali e non possono partecipare a questa Prova élite.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Apertura possibile: {date})&lt;/font&gt;</string>
 	<string key="ui_dungeon_characters_at_limit_desc_mutated" rel_version="Feature_Dungeon_Mutators">I seguenti membri del gruppo hanno raggiunto il limite settimanale di spedizioni mutate e non possono partecipare a questa spedizione.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Apertura possibile: {date})&lt;/font&gt;</string>
+	<string key="ui_dungeon_characters_at_limit_desc_mutated_raidtrial" rel_version="Feature_Dungeon_Mutators">I seguenti membri del gruppo hanno raggiunto il limite settimanale di Prove élite mutate e non possono partecipare a questa Prova élite.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Apertura possibile: {date})&lt;/font&gt;</string>
 	<string key="ui_dungeon_enter_warning_mutated" rel_version="Feature_Dungeon_Mutators">Questa settimana hai partecipato a {amount} spedizioni mutate. Il limite è di {max} a settimana.</string>
+	<string key="ui_dungeon_enter_warning_mutated_raidtrial" rel_version="Feature_Dungeon_Mutators">Questa settimana hai partecipato a {amount} Prove élite mutate. Il limite è di {max} a settimana.</string>
 	<string key="ui_dungeon_enter_warning_regular">Oggi hai partecipato a {amount} spedizioni normali. Il limite è di {max} al giorno.</string>
+	<string key="ui_dungeon_enter_warning_regular_raidtrial">Oggi hai partecipato a {amount} Prove élite normali. Il limite è di {max} al giorno.</string>
 	<string key="ui_dungeon_enter_warning_notification_regular">Hai quasi raggiunto il limite giornaliero di spedizioni normali. (&lt;font color={color}&gt;{remaining}&lt;/font&gt;/{max} rimanenti)</string>
+	<string key="ui_dungeon_enter_warning_notification_regular_raidtrial">Hai quasi raggiunto il limite giornaliero di Prove élite normali. (&lt;font color={color}&gt;{remaining}&lt;/font&gt;/{max} rimanenti)</string>
 	<string key="ui_dungeon_enter_warning_notification_mutated" rel_version="Feature_Dungeon_Mutators">Hai quasi raggiunto il limite settimanale di spedizioni mutate. (&lt;font color={color}&gt;{remaining}&lt;/font&gt;/{max} rimanenti)</string>
+	<string key="ui_dungeon_enter_warning_notification_mutated_raidtrial" rel_version="Feature_Dungeon_Mutators">Hai quasi raggiunto il limite settimanale di Prove élite mutate. (&lt;font color={color}&gt;{remaining}&lt;/font&gt;/{max} rimanenti)</string>
 </resources>
 

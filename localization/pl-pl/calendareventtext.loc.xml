@@ -5,7 +5,7 @@
 	<string key="ui_calendar_event_button_go">Zaczynamy!</string>
 	<string key="ui_calendar_event_button_view_details">Szczegóły</string>
 	<string key="ui_rewardtype_event_progress">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{displayName}&lt;/font&gt;</string>
-	<string key="ui_news_button">Aktualności</string>
+	<string key="ui_news_button">Aktualności i wydarzenia</string>
 	<string key="ui_news_button_no_news">Brak dostępnych aktualności.</string>
 	<string key="ui_event_progress_name">Reputacja w wydarzeniu</string>
 	<string key="ui_event">Wydarzenie</string>
@@ -19,21 +19,21 @@
 	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Azothowa sól jest walutą służącą do zdobywania nagród na ścieżce PvP. Możesz ją pozyskać, biorąc udział w wojnach, napadach na posterunek, starciach na arenach 3 na 3, wykonując misje PvP i zabijając graczy w otwartym świecie, a także zdobywając PD z aktywnym oznaczeniem do PvP.</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">NAGRODY</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Wybieraj spośród wyjątkowych nagród, takich jak prestiżowa broń i pancerz, gesty, waluty czy przedmioty użytkowe.</string>
-	<string key="ui_event_weapon_xp_tabname">Premia PD do broni</string>
-	<string key="ui_event_weapon_xp_title">PREMIA PD DO BRONI W TYM TYGODNIU</string>
-	<string key="ui_event_weapon_xp_desc">Premia aktywna od:</string>
-	<string key="ui_event_gathering_xp_tabname">Premia PD do zbieractwa</string>
-	<string key="ui_event_gathering_xp_title">PREMIA PD DO ZBIERACTWA W TYM TYGODNIU</string>
-	<string key="ui_event_gathering_xp_desc">Premia aktywna od:</string>
-	<string key="ui_event_character_xp_tabname">Premia PD do poz. postaci</string>
-	<string key="ui_event_character_xp_title">WYDARZENIE PREMII PD DO POZIOMU POSTACI</string>
-	<string key="ui_event_character_xp_desc">Premia aktywna od:</string>
-	<string key="ui_event_refining_xp_tabname">Premia PD do przetwarzania</string>
-	<string key="ui_event_refining_xp_title">PREMIA PD DO PRZETWARZANIA W TYM TYGODNIU</string>
-	<string key="ui_event_refining_xp_desc">Premia aktywna od:</string>
-	<string key="ui_event_extravaganza_tabname">Święto premii PD</string>
-	<string key="ui_event_extravaganza_title">ŚWIĘTO PREMII PD</string>
-	<string key="ui_event_extravaganza_desc">Premia aktywna od:</string>
+	<string key="ui_event_weapon_xp_tabname">Wydarzenie dot. PD</string>
+	<string key="ui_event_weapon_xp_title">WYDARZENIE Z PREMIĄ PD DO BRONI</string>
+	<string key="ui_event_weapon_xp_desc">Aktywne premie:</string>
+	<string key="ui_event_gathering_xp_tabname">Wydarzenie dot. PD</string>
+	<string key="ui_event_gathering_xp_title">WYDARZENIE Z PREMIĄ PD DO ZBIERACTWA</string>
+	<string key="ui_event_gathering_xp_desc">Aktywne premie:</string>
+	<string key="ui_event_character_xp_tabname">Wydarzenie dot. PD</string>
+	<string key="ui_event_character_xp_title">WYDARZENIE Z PREMIĄ PD DO POZIOMU POSTACI</string>
+	<string key="ui_event_character_xp_desc">Aktywne premie:</string>
+	<string key="ui_event_refining_xp_tabname">Wydarzenie dot. PD</string>
+	<string key="ui_event_refining_xp_title">WYDARZENIE Z PREMIĄ PD DO PRZETWARZANIA</string>
+	<string key="ui_event_refining_xp_desc">Aktywne premie:</string>
+	<string key="ui_event_extravaganza_tabname">Wydarzenie dot. PD</string>
+	<string key="ui_event_extravaganza_title">ŚWIĘTO PD</string>
+	<string key="ui_event_extravaganza_desc">Aktywne premie:</string>
 	<string key="ui_news_end_game_tabname">Końcowa faza gry</string>
 	<string key="ui_news_end_game_description">Na 60. poziomie możesz &lt;font color="#ffdb7a"&gt;ulepszać swoje wyposażenie&lt;/font&gt;, zwiększając liczbę punktów wyposażenia. By to zrobić, musisz zdobyć gips w lokacjach i podczas aktywności przeznaczonych dla postaci na 60. poziomie. Odwiedź &lt;font color="#ffdb7a"&gt;piec do obróbki gipsu&lt;/font&gt;, by dowiedzieć się więcej.</string>
 	<string key="ui_end_game_panel1_title">AKTYWNOŚCI KOŃCOWEJ FAZY GRY</string>
@@ -84,7 +84,7 @@
 	<string key="ui_news_modal_display_end_datetime">Data zakończenia: {endTime}, {endDate}</string>
 	<string key="ui_event_free_weekend_event_message_title" rel_version="Feature_FreeWeekend">Darmowy weekend</string>
 	<string key="ui_event_free_weekend_event_message_description" rel_version="Feature_FreeWeekend">Darmowy weekend trwa.</string>
-	<string key="ui_event_free_weekend_description" rel_version="Feature_FreeWeekend">Podczas tego ograniczonego czasowo wydarzenia możesz za darmo zapoznać się z nowym terytorium – Piaskobrzegami, odświeżonymi zadaniami z wątku głównego oraz najnowszymi aktualizacjami gry New World!\n\nJeśli chcesz zagrać ze znajomymi, wasze postaci muszą być w tym samym świecie. Osoby grające za darmo mogą cieszyć się nieograniczonym czasem sesji, o ile nie ma kolejki do danego świata (na końcu sesji gracze ci będą poproszeni o ponowne dołączenie do kolejki).\n\nNowi gracze mogą także zaoszczędzić 50% na wersji standardowej lub Edycji Deluxe, jeśli zostaną one zakupione pomiędzy 19:00 dnia 15 grudnia a 19:00 dnia 26 grudnia.</string>
+	<string key="ui_event_free_weekend_description" rel_version="Feature_FreeWeekend">Podczas tego ograniczonego czasowo wydarzenia możesz za darmo zapoznać się z nowym terytorium – Piaskobrzegami, odświeżonymi zadaniami z wątku głównego oraz najnowszymi aktualizacjami gry New World!\n\nJeśli chcesz zagrać ze znajomymi, wasze postaci muszą być w tym samym świecie. Osoby grające za darmo mogą cieszyć się nieograniczonym czasem sesji, o ile nie ma kolejki do danego świata (na końcu sesji gracze ci będą poproszeni o ponowne dołączenie do kolejki).\n\nNowi gracze mogą także zaoszczędzić 50% na wersji standardowej lub Edycji Deluxe, jeśli zostaną one zakupione pomiędzy 19:00 dnia 15 grudnia a 19:00 dnia 5 stycznia.</string>
 	<string key="ui_event_free_weekend" rel_version="Feature_FreeWeekend">Darmowy weekend</string>
 	<string key="ui_event_free_weekend_in_progress_panel1_bullet1_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 1 Title</string>
 	<string key="ui_event_free_weekend_in_progress_panel1_bullet1_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 1 Text</string>
@@ -120,7 +120,7 @@
 	<string key="ui_event_dec_mtx_tabname" rel_version="Entitlements_WinterConvergence_MTX">Sklep</string>
 	<string key="ui_event_dec_mtx_title" rel_version="Entitlements_WinterConvergence_MTX">Zimowa Konwergencja</string>
 	<string key="ui_event_dec_mtx_description" rel_version="Entitlements_WinterConvergence_MTX">Ochroń się przed srogą Wieczną Zimą dzięki nowym przedmiotom kosmetycznym dostępnym w sklepie! Dnie stają się coraz krótsze, a długie noce kryją w sobie wiele strachów. Nie zwlekaj, wyposaż się w najnowsze zimowe bronie i odzienie. Regularnie zaglądaj w grudniu do sklepu, by zdobyć darmowe prezenty i skorzystać z zimowych wyprzedaży! Specjalnie przygotowana na tę okazję oferta pojawi się 13 grudnia, a wyposażenie z Zimowej Konwergencji ubiegłego roku powróci 20 grudnia!</string>
-	<string key="ui_event_dec_mtx_button_about" rel_version="Entitlements_WinterConvergence_MTX">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Zimowa Konwergencja</string>
+	<string key="ui_event_dec_mtx_button_about" rel_version="Entitlements_WinterConvergence_MTX">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; O Zimowej Konwergencji</string>
 	<string key="ui_news_store_tabname">Sklep</string>
 	<string key="ui_event_jan_mtx_title" rel_version="Entitlements_WinterDragon">Zimowy Smok</string>
 	<string key="ui_event_jan_mtx_description" rel_version="Entitlements_WinterDragon">Czy zima ma kształt smoczego cienia? Odwiedź sklep, gdzie znajdziesz nowe przedmioty kosmetyczne owiane mroźnym oddechem węża! Nie daj się zaskoczyć, kiedy wywiąże się mniej zabójcza walka! Zdobądź gest Policzkowanie lub skorzystaj z Chodu na paluszkach, by prześliznąć się obok agresywnych utarczek!</string>
@@ -131,11 +131,21 @@
 	<string key="ui_event_feb_mtx_bullet1" rel_version="Entitlements_OmensOfWinter">Skórki</string>
 	<string key="ui_event_feb_mtx_bullet2" rel_version="Entitlements_OmensOfWinter">Gesty</string>
 	<string key="ui_event_feb_mtx_button_about" rel_version="Entitlements_OmensOfWinter">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; O zimowych omenach</string>
-	<string key="ui_event_legacy_of_crassus_tabname" rel_version="Event_February_Temp">Dziedzictwo Krassusa</string>
-	<string key="ui_event_legacy_of_crassus_title" rel_version="Event_February_Temp">Dziedzictwo Krassusa</string>
-	<string key="ui_event_legacy_of_crassus_description" rel_version="Event_February_Temp">Potęga Rzymu zagraża Aeternum! Dorwij Decimusa i Lukana, potwornych kapitanów generała Krassusa, i przepędź złowrogi cień rzymskiej tyranii. Oprócz nagród za pokonanie tych okrutnych brutali możesz też odebrać dzienne nagrody w Lśniącej Kniei, na Tkackich Mokradłach, w Żałobnicy, Czarnej Łusce i Rajskim Gaju.</string>
-	<string key="ui_event_legacy_of_crassus_about" rel_version="Event_February_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; O Dziedzictwie Krassusa</string>
-	<string key="ui_event_legacy_of_crassus_bullet1" rel_version="Event_February_Temp">Dzienna broń</string>
-	<string key="ui_event_legacy_of_crassus_bullet2" rel_version="Event_February_Temp">Dzienne elementy pancerza</string>
+	<string key="ui_event_empyrean_forge_tabname" rel_version="Expedition_GreatCleave_01">Empirejska Kuźnia</string>
+	<string key="ui_event_empyrean_forge_title" rel_version="Expedition_GreatCleave_01">Empirejska Kuźnia</string>
+	<string key="ui_event_empyrean_forge_description" rel_version="Expedition_GreatCleave_01">Legendarna odlewnia, w której pradawni tworzyli niszczycielskie machiny wojenne. Pradawna moc skrywająca się w tych kolosalnych ruinach pociąga tych, którzy pałają żądzą władzy.</string>
+	<string key="ui_event_empyrean_forge_about" rel_version="Expedition_GreatCleave_01">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Informacje o Empirejskiej Kuźni</string>
+	<string key="ui_event_season_one_tabname" rel_version="Season_1_Perm">Sezony</string>
+	<string key="ui_event_season_one_title" rel_version="Season_1_Perm">Sezony</string>
+	<string key="ui_event_season_one_description" rel_version="Season_1_Perm">Podejmij się nowego wyzwania razem z Grace O'Malley, która ma ambicję stworzyć nową kompanię najemników o nazwie Srebrne Wrony.</string>
+	<string key="ui_event_season_one_about" rel_version="Season_1_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Informacje o sezonach</string>
+	<string key="ui_event_season_one_bullet1" rel_version="Season_1_Perm">Przepustka sezonowa</string>
+	<string key="ui_event_season_one_bullet2" rel_version="Season_1_Perm">Srebrne Wrony</string>
+	<string key="ui_event_mar_mtx_title" rel_version="Entitlements_FirelightSeason">Firelight</string>
+	<string key="ui_event_mar_mtx_description" rel_version="Entitlements_FirelightSeason">Ognie Kuźni płoną jasno w nowych przedmiotach dodanych do sklepu w tym miesiącu! Dzięki nowym skórkom i ozdobom odczujesz żar na własnej skórze! Możesz też poczuć ducha rywalizacji za sprawą nowych gestów podkreślających twój triumf lub pocieszających twoich biednych, pokonanych wrogów! Nie czekaj, bierz, póki są gorące!</string>
+	<string key="ui_event_mar_mtx_about" rel_version="Entitlements_FirelightSeason">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Informacje o Ognistym świetle</string>
+	<string key="ui_event_mar_mtx_bullet1" rel_version="Entitlements_FirelightSeason">Pancerz</string>
+	<string key="ui_event_mar_mtx_bullet2" rel_version="Entitlements_FirelightSeason">Broń</string>
+	<string key="ui_event_mar_mtx_bullet3" rel_version="Entitlements_FirelightSeason">Gesty</string>
 </resources>
 

@@ -27,7 +27,7 @@
 	<string key="ui_chat_name_faction_upper_3" comment="Covenant">FAZIONE (PATTO)</string>
 	<string key="ui_chat_name_whisper">Messaggio privato</string>
 	<string key="ui_chat_name_whisper_upper">DIRETTO</string>
-	<string key="ui_chat_name_whisperto">Invia messaggio privato</string>
+	<string key="ui_chat_name_whisperto">Messaggio privato</string>
 	<string key="ui_chat_name_officer">Consoli</string>
 	<string key="ui_chat_name_officer_upper">CONSOLI</string>
 	<string key="ui_chat_name_recruitment">Reclutamento</string>
@@ -212,10 +212,10 @@
 	<string key="ui_conquest_in">La conquista inizia tra</string>
 	<string key="ui_online_num">{Num} online</string>
 	<string key="ui_noFriend_header">L'elenco dei tuoi amici è vuoto.</string>
-	<string key="ui_noFriend_body">Puoi aggiungere un amico usando il suo nome giocatore.</string>
-	<string key="ui_noOnline_group_header">Non hai amici online da invitare in un gruppo.</string>
+	<string key="ui_noFriend_body">Per aggiungere giocatori, cercali inserendone il nome.</string>
+	<string key="ui_noOnline_group_header">Non hai amici online da invitare nel gruppo.</string>
 	<string key="ui_noOnline_group_body">Puoi cercare un giocatore usando il suo nome.</string>
-	<string key="ui_noOnline_guild_header">Non hai amici da invitare in una compagnia.</string>
+	<string key="ui_noOnline_guild_header">Non hai amici da invitare nella compagnia.</string>
 	<string key="ui_noOnline_guild_body">Puoi cercare un giocatore usando il suo nome.</string>
 	<string key="ui_report_player">Segnala giocatore</string>
 	<string key="ui_report">Segnala</string>
@@ -330,15 +330,15 @@
 	<string key="ui_waypoint_set_to_ping">Punto di riferimento impostato su avviso</string>
 	<string key="ui_chat_name_raid">Esercito</string>
 	<string key="ui_chat_name_raid_upper">ESERCITO</string>
-	<string key="ui_error_raidchat" comment="An error when you try to talk in raid chat">Non fai parte di un esercito</string>
-	<string key="ui_error_guildchat" comment="An error when you try to talk in guild chat">Non fai parte di una compagnia</string>
-	<string key="ui_notification_pvp_enabled">PvP ATTIVO</string>
-	<string key="ui_notification_pvp_flagged">PvP ATTIVO</string>
-	<string key="ui_notification_pvp_disabled">PvP DISATTIVO</string>
-	<string key="ui_notification_pvp_countdown">AVVIATO CONTO ALLA ROVESCIA PROTEZIONE PvP</string>
-	<string key="ui_notification_pvp_flagging_title">ATTIVAZIONE PvP</string>
+	<string key="ui_error_raidchat" comment="An error when you try to talk in raid chat">Non fai parte di un esercito.</string>
+	<string key="ui_error_guildchat" comment="An error when you try to talk in guild chat">Non fai parte di una compagnia.</string>
+	<string key="ui_notification_pvp_enabled">PvP attivato.</string>
+	<string key="ui_notification_pvp_flagged">PvP attivo.</string>
+	<string key="ui_notification_pvp_disabled">PvP disattivato.</string>
+	<string key="ui_notification_pvp_countdown">Avviato conto alla rovescia protezione PvP.</string>
+	<string key="ui_notification_pvp_flagging_title">Attivazione PvP.</string>
 	<string key="ui_notification_pvp_flagging_message">Quando attivi il PvP, puoi attaccare altri giocatori con PvP attivo, tuttavia gli altri giocatori con il PvP attivo possono comportarsi allo stesso modo con te. Ricevi un &lt;font color="#ff9900"&gt;bonus PE del 10%&lt;/font&gt; con PvP attivo. \n\nQuando esci dal santuario avrai una &lt;font color="#ff9900"&gt;protezione di 30 secondi&lt;/font&gt;.</string>
-	<string key="ui_notification_pvp_track_flagging_message">Quando attivi il PvP, puoi attaccare ed essere attaccato da altri giocatori con PvP attivo. &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Le uccisioni possono fruttarti sale di Azoth e PE PvP.&lt;/font&gt; Ricevi un &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;10% di PE bonus&lt;/font&gt; con PvP attivo. \n\nQuando esci dal santuario avrai una &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;protezione di 30 secondi&lt;/font&gt;.</string>
+	<string key="ui_notification_pvp_track_flagging_message">Quando attivi il PvP, puoi attaccare ed essere attaccato da altri giocatori con PvP attivo. &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Le uccisioni possono fruttarti sale di Azoth e PE PvP.&lt;/font&gt; \nRiceverai anche i seguenti bonus: &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;+10% PE, +3% di fortuna nella raccolta, +1% di fortuna globale&lt;/font&gt; per forzieri grandi/élite. \n\nQuando esci dal santuario avrai una &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;protezione di 30 secondi&lt;/font&gt;.</string>
 	<string key="ui_notification_pvp_checkpoint_unlocked">Checkpoint sbloccato</string>
 	<string key="ui_notification_pvp_reward_options">Visualizza ricompense</string>
 	<string key="ui_pvp_rank_name_0">Recluta</string>
@@ -351,16 +351,23 @@
 	<string key="ui_signup_selected">Selezionato</string>
 	<string key="ui_signup_standby">In attesa</string>
 	<string key="ui_signup_not_signed_up">Non iscritto</string>
+	<string key="ui_signup_cannot_pvpinactive" rel_version="Feature_Alt_Character_Protection">Non puoi iscriverti a questa guerra perché sei inattivo nel PvP.</string>
 	<string key="ui_signup_attacker" comment="You are on the Attacking Team">Attaccante</string>
 	<string key="ui_signup_defender" comment="You are on the Defending Team">Difensore</string>
 	<string key="ui_signup_siege_window">Periodo d'assedio</string>
 	<string key="ui_signup_starts_in" comment="Time until the siege starts">Inizia tra</string>
 	<string key="ui_signup_your_status">Il tuo stato</string>
-	<string key="ui_signup_restriction_cooldown">A causa del tempo di ricarica della guerra, se vieni scelto sarai considerato un mercenario.\nPotrai partecipare come non mercenario dopo: {cooldownTime}</string>
+	<string key="ui_signup_restriction_cooldown">A causa del tempo di ricarica della guerra, se vieni scelto sarai considerato un mercenario.\nPotrai partecipare come non mercenario dopo: {cooldownTime}.</string>
+	<string key="ui_signup_restriction_pvpinactive_tooltip" rel_version="Feature_Alt_Character_Protection" comment="">Al momento non puoi iscriverti a questa guerra perché sei inattivo nel PvP.</string>
+	<string key="ui_signup_restriction_pvpinactive_title" rel_version="Feature_Alt_Character_Protection" comment="">Iscrizione impossibile</string>
+	<string key="ui_signup_restriction_pvpinactive" rel_version="Feature_Alt_Character_Protection" comment="">Al momento non puoi iscriverti a questa guerra perché sei inattivo nel PvP. Potrai passare allo stato attivo nel PvP tra: {cooldownTime}.</string>
+	<string key="ui_signup_restriction_pvpinactive_canswitch" rel_version="Feature_Alt_Character_Protection" comment="">Al momento non puoi iscriverti a questa guerra perché sei inattivo nel PvP. Se passi allo stato attivo nel PvP su questo account, gli altri personaggi che hai su questo server verranno resi inattivi nel PvP. \n Vuoi passare allo stato attivo nel PvP?</string>
+	<string key="ui_made_pvp_inactive_title" rel_version="Feature_Alt_Character_Protection">Inattivo nel PvP</string>
+	<string key="ui_made_pvp_inactive_body" rel_version="Feature_Alt_Character_Protection">Ora questo personaggio è inattivo nel PvP di questo mondo. Le iscrizioni alle guerre e le missioni PvP non sono più attive.</string>
 	<string key="ui_no_permission_alert">Non hai il permesso di inviare un avviso.</string>
 	<string key="ui_title_alpha">Fondatore</string>
 	<string key="ui_title_preorder">Spedizione Uno</string>
-	<string key="ui_player_levelup_chat">{playerName} ha raggiunto il &lt;font color="#ff9900"&gt;livello {param0}&lt;/font&gt;</string>
+	<string key="ui_player_levelup_chat">{playerName} ha raggiunto il &lt;font color="#ff9900"&gt;livello {param0}&lt;/font&gt;.</string>
 	<string key="ui_transcribed_audio_message">(RV) {transcribedMessage}</string>
 	<string key="ui_company_upkeep_due">I bonus compagnia e fazione sono stati disattivati perché la compagnia che governa il territorio di {territoryName} non ha pagato la manutenzione.</string>
 	<string key="ui_territory_bonus_active_buffs">Potenziamenti attivi</string>
@@ -407,8 +414,8 @@
 	<string key="ui_social">Social</string>
 	<string key="ui_social_friends">Amici</string>
 	<string key="ui_social_twitch">Twitch</string>
-	<string key="ui_streamermode_enabled">Modalità Non disturbare attivata</string>
-	<string key="ui_streamermode_disabled">Modalità Non disturbare disattivata</string>
+	<string key="ui_streamermode_enabled">Modalità Non disturbare attivata.</string>
+	<string key="ui_streamermode_disabled">Modalità Non disturbare disattivata.</string>
 	<string key="ui_moderation">Moderazione</string>
 	<string key="ui_group_moderation">Moderazione gruppo</string>
 	<string key="ui_subarmy_join_tooltip">Invia una richiesta allo streamer per entrare a far parte della sua sessione Subscriber Army.</string>
@@ -629,7 +636,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_chat_lobby_created">{playerName} ha creato la lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_chat_lobby_joined">{playerName} ora fa parte della lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_chat_lobby_left">{playerName} ha abbandonato la lobby.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_error_group_finder_group_chat" comment="An error when you try to talk in group finder group chat">Non sei in una lobby</string>
+	<string rel_version="Feature_Group_Finder" key="ui_error_group_finder_group_chat" comment="An error when you try to talk in group finder group chat">Non sei in una lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_create_limit_title">Impossibile creare la lobby</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_create_limit_desc_regular">I seguenti membri del gruppo hanno raggiunto il limite giornaliero di spedizioni normali e non possono unirsi a questa lobby.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Unione possibile: {date})&lt;/font&gt;</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_create_limit_desc_mutated">I seguenti membri del gruppo hanno raggiunto il limite settimanale di spedizioni mutate e non possono unirsi a questa lobby.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Unione possibile: {date})&lt;/font&gt;</string>

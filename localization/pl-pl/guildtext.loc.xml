@@ -18,7 +18,7 @@
 	<string key="ui_deleterankwithmembersconfirm">Usunąć stopień {rankName}?\nCzłonkowie mający ten stopień zostaną przeniesieni na stopień {newRankName}.</string>
 	<string key="ui_demote">Zdegraduj</string>
 	<string key="ui_enterrankname">wpisz nazwę stopnia</string>
-	<string key="ui_currentrank">Aktualny stopień: {rankName}</string>
+	<string key="ui_currentrank">{rankName}</string>
 	<string key="ui_friendjoinedmessage">Gracz &lt;font color="#9e947e"&gt;{playerName}&lt;/font&gt; dołącza do gry!</string>
 	<string key="ui_friendleftmessage">Gracz &lt;font color="#9e947e"&gt;{playerName}&lt;/font&gt; opuszcza grę!</string>
 	<string key="ui_friendremovedmessage">{playerName} nie jest już twoim znajomym.</string>
@@ -36,14 +36,14 @@
 	<string key="ui_guilderrortitle">Błąd tworzenia kompanii</string>
 	<string key="ui_enter_guild_name">Wprowadź nazwę kompanii</string>
 	<string key="ui_create_company_with_faction">By stworzyć kompanię, dołącz do frakcji.</string>
-	<string key="guild_create_title">KOMPANIE W NEW WORLD</string>
-	<string key="guild_create_desc">Kompanie to grupy graczy działających wspólnie, co pozwala czerpać jeszcze większą przyjemność z gry. Walcz u boku znajomych przeciwko skażonym i atakuj terytoria wrogich frakcji. Dołącz do kompanii lub stwórz własną i zaproś do niej znajomych!</string>
-	<string key="guild_create_info1">PRZYNALEŻNOŚĆ FRAKCYJNA</string>
-	<string key="guild_create_info1_desc">Kompania, którą stworzysz, będzie należeć do wybranej przez ciebie frakcji. Możesz zapraszać do kompanii innych graczy należących do tej samej frakcji co ty.</string>
-	<string key="guild_create_info2">ZARZĄDZANIE TERYTORIUM I WOJNA</string>
-	<string key="guild_create_info2_desc">Tylko kompanie mogą wypowiedzieć wojnę i atakować terytoria, by je przejąć. Jako zarządca terytorium, twoja kompania pozyskuje środki z podatków, otrzymuje ogromne zniżki na szybką podróż i wzmacnia pozycję frakcji.</string>
-	<string key="guild_create_info3">INNE KORZYŚCI PŁYNĄCE Z KOMPANII</string>
-	<string key="guild_create_info3_desc">Komunikuj się i grupuj z członkami kompanii, sprawdzaj, kiedy byli ostatnio dostępni, i zyskaj dostęp do wspólnych pieniędzy w skarbcu kompanii.</string>
+	<string key="guild_create_title">KOMPANIE</string>
+	<string key="guild_create_desc">Kompanie na Aeternum to grupy graczy działających wspólnie, które walczą przeciwko skażonym i atakują terytoria wrogich frakcji. Dołącz do kompanii lub stwórz własną i zaproś do niej znajomych!</string>
+	<string key="guild_create_info1">FRAKCJE</string>
+	<string key="guild_create_info1_desc">Kompania, którą stworzysz, będzie należeć do twojej frakcji. Możesz zapraszać do kompanii innych graczy należących do tej samej frakcji co ty.</string>
+	<string key="guild_create_info2">TERYTORIUM I WOJNA</string>
+	<string key="guild_create_info2_desc">Tylko kompanie mogą wypowiedzieć wojnę i atakować terytoria, by je przejąć. Jako zarządca terytorium twoja kompania pozyskuje środki z podatków, otrzymuje zniżki na szybką podróż i wzmacnia pozycję frakcji.</string>
+	<string key="guild_create_info3">INNE KORZYŚCI</string>
+	<string key="guild_create_info3_desc">Komunikuj się i grupuj z członkami kompanii, sprawdzaj, kiedy byli ostatnio dostępni, i zyskaj dostęp do złota w skarbcu kompanii.</string>
 	<string key="ui_faction_label">Frakcja:</string>
 	<string key="ui_create_company">Stwórz kompanię</string>
 	<string key="ui_create_company_invalid_name">Niewłaściwa nazwa</string>
@@ -79,9 +79,9 @@
 	<string key="ui_guildmemberjoinedmessage">{playerName} dołącza do kompanii.</string>
 	<string key="ui_guildmemberleftmessage">{playerName} opuszcza kompanię.</string>
 	<string key="ui_guildmemberremovedmessage">Gracz {playerName} został usunięty z kompanii.</string>
-	<string key="ui_guildmembersonline">Członkowie online: {onlineMembers}</string>
-	<string key="ui_guildmemberstotal">Łączna liczba członków: {members}</string>
-	<string key="ui_factionalignment">PRZYNALEŻNOŚĆ FRAKCYJNA</string>
+	<string key="ui_guildmembersonline">{onlineMembers} online</string>
+	<string key="ui_guildmemberstotal">Członkowie: {members}</string>
+	<string key="ui_factionalignment">FRAKCJA</string>
 	<string key="ui_guildname">NazwaKompanii</string>
 	<string key="ui_guildnamechangemessage">Zmieniono nazwę kompanii na &lt;font color="#9e947e"&gt;{guildName}&lt;/font&gt;.</string>
 	<string key="ui_guildnamechangetitle">Zmiana nazwy kompanii</string>
@@ -107,14 +107,14 @@
 	<string key="ui_guildsiegetab">Okres oblężenia</string>
 	<string key="ui_guildtreasurytab">Skarbiec</string>
 	<string key="ui_guildtreasurytab_balance">{balance} {coinImage}</string>
-	<string key="ui_treasury_totalbalance">Saldo całkowite</string>
+	<string key="ui_treasury_totalbalance">Saldo</string>
 	<string key="ui_treasury_dailywithdrawallimit">Dzienny limit wypłat</string>
 	<string key="ui_treasury_dailywithdrawallimitsmall">Dzienny limit wypłat:</string>
 	<string key="ui_treasury_availablewithdrawallimit">Dostępny limit wypłat</string>
 	<string key="ui_treasury_deposit">Wpłata</string>
 	<string key="ui_treasury_withdraw">Podejmij</string>
 	<string key="ui_treasury_withdrawal">Wypłata</string>
-	<string key="ui_treasury_changedailywithdrawallimit">Zmień dzienny limit wypłat</string>
+	<string key="ui_treasury_changedailywithdrawallimit">Zmień limit</string>
 	<string key="ui_treasury_recenttransactions">Niedawne transakcje (dostępne wkrótce)</string>
 	<string key="ui_treasury_popup_tocompanytreasury">Do skarbca kompanii</string>
 	<string key="ui_treasury_popup_fromcompanytreasury">Ze skarbca kompanii</string>
@@ -122,9 +122,9 @@
 	<string key="ui_treasury_popup_availablelimit">Dostępny limit wypłat:</string>
 	<string key="ui_treasury_popup_newtreasurybalance">Nowe saldo skarbca kompanii:</string>
 	<string key="ui_treasury_popup_setdailylimit_title">Dzienny limit wypłat</string>
-	<string key="ui_treasury_popup_setdailylimit_current">Obecny dzienny limit wypłat</string>
-	<string key="ui_treasury_popup_setdailylimit_new">Nowy dzienny limit wypłat</string>
-	<string key="ui_treasury_popup_setdailylimit_nolimit">Brak dziennego limitu</string>
+	<string key="ui_treasury_popup_setdailylimit_current">Obecny limit</string>
+	<string key="ui_treasury_popup_setdailylimit_new">Nowy limit</string>
+	<string key="ui_treasury_popup_setdailylimit_nolimit">Bez limitu</string>
 	<string key="ui_treasury_popup_invalidamount">Wprowadź prawidłową kwotę.</string>
 	<string key="ui_treasury_tooltip_deposit_nopermissons">Nie masz pozwolenia na dokonywanie wpłat.</string>
 	<string key="ui_treasury_tooltip_withdrawal_nopermissons">Nie masz pozwolenia na dokonywanie wypłat.</string>
@@ -140,13 +140,13 @@
 	<string key="ui_treasury_notification_setdailylimitsuccessinfinite">Dzienny limit wypłat wynosi {infinityImage}.</string>
 	<string key="ui_treasury_notification_cointransferaldisabled">Musisz być przynajmniej na poziomie {minLevel}, by móc skorzystać ze skarbca kompanii.</string>
 	<string key="ui_treasury_notification_error_generic">Operacja dotycząca skarbca nie powiodła się. Spróbuj ponownie.</string>
-	<string key="ui_setSiegeWindow">Ustaw okres oblężenia</string>
+	<string key="ui_setSiegeWindow">Okres oblężenia</string>
 	<string key="ui_forDefending">Obrona twoich terytoriów</string>
-	<string key="ui_guildsiegetabdescription">&lt;font color="#ffffff"&gt;Gdy twoja kompania posiada terytorium:&lt;/font&gt; Jeśli ktoś wypowie ci wojnę, przejęte przez ciebie ziemie\nautomatycznie przestają być chronione na czas tego konfliktu.\n\nPamiętaj, żeby bronić wówczas swoich ziem.</string>
+	<string key="ui_guildsiegetabdescription">Jeśli twoja kompania posiada terytorium i ktoś wypowie wam wojnę, ochrona przejętych przez was ziem będzie automatycznie zmniejszona podczas okresu oblężenia. Pamiętaj, żeby bronić wówczas swoich ziem.</string>
 	<string key="ui_guildsiegetimezonewarninganddisclaimer">{timezone}</string>
 	<string key="ui_guildsiegetimezonewarning">{timezone}</string>
-	<string key="ui_mycompanysiegewindow">Obecny okres oblężenia</string>
-	<string key="ui_setsiegebutton_canchange">Zmień okres oblężenia</string>
+	<string key="ui_mycompanysiegewindow">Obecnie</string>
+	<string key="ui_setsiegebutton_canchange">Zastosuj</string>
 	<string key="ui_setsiegebutton_nopermission">Nie masz pozwolenia na zmianę</string>
 	<string key="ui_setsiegebutton_atwar">Zmiana niemożliwa w trakcie wojny</string>
 	<string key="ui_setsiegebutton_changein">Zmiana możliwa za &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{timeRemaining}&lt;/font&gt;&lt;/font&gt;</string>
@@ -156,9 +156,9 @@
 	<string key="ui_siegewindow_tooltip_atwar">Nie można zmienić okresu oblężenia w trakcie wojny.</string>
 	<string key="ui_siegewindow_tooltip_disabled">Nie możesz ponownie zmienić okresu oblężenia przez {timeRemaining}.</string>
 	<string key="ui_siegewindowtime">{beginHour}:{minutes} – {endHour}:{minutes} ({timeZone})</string>
-	<string key="ui_siegeclaimsowned">Przejęte terytoria: {numClaims}</string>
-	<string key="ui_siegenoclaimsowned">Nie ma potrzeby ustalania okresu oblężenia.</string>
-	<string key="ui_setsiegeswindowpopup_title">Zmienić okres oblężenia?</string>
+	<string key="ui_siegeclaimsowned">Posiadane terytoria: {numClaims}</string>
+	<string key="ui_siegenoclaimsowned">Okres oblężenia nie jest wymagany.</string>
+	<string key="ui_setsiegeswindowpopup_title">Potwierdź zmianę</string>
 	<string key="ui_setsiegeswindowpopup_message">Czy na pewno chcesz ustawić okres oblężenia na &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{siegeWindow}&lt;/font&gt;&lt;/font&gt;?\nNie będzie można tego zmienić ponownie przez &lt;font color="#cf0000"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{cooldownTime}.&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_flyoutsiegewindow">Okres oblężenia: {siegeWindow}</string>
 	<string key="ui_flyout_viewwardetail">Wyświetl szczegóły wojny</string>
@@ -167,7 +167,7 @@
 	<string key="ui_flyout_nolongeratwar">Ta kompania nie toczy już wojny.</string>
 	<string key="ui_guildscreenclosetooltip">Zamknij to okno.</string>
 	<string key="ui_guildscreentitle">Kompania</string>
-	<string key="ui_guildui">interfejs kompanii</string>
+	<string key="ui_guildui">Kompania</string>
 	<string key="ui_guildclaimtitle">Przejęcie kompanii</string>
 	<string key="ui_guildclaimmessage">Twoja kompania przejęła terytorium &lt;font color="#9e947e"&gt;{territoryName}&lt;/font&gt;.</string>
 	<string key="ui_guildrequestthrottledmessage">Prośba odrzucona w ramach ograniczania żądań. Spróbuj ponownie później.</string>
@@ -213,10 +213,10 @@
 	<string key="ui_guild_influence_cooldown_body">Niedawno opuszczono kompanię – wciąż obowiązuje cię czas odnowienia dotyczący wkładu straży przedniej i zdobywania wpływów dla twojej frakcji.\n Zdobyte przez ciebie wpływy przysłużą się twojej frakcji, ale nie pomogą twojej kompanii w zyskaniu statusu straży przedniej w przypadku wypowiedzenia wojny. \n Ten czas odnowienia skończy się za: {cooldownTime}</string>
 	<string key="ui_cannot_leaveguild_ownwarsignup">Nie możesz opuścić kompanii, gdy bierzesz udział w wojnie wraz z nią. Najpierw musisz zrezygnować z wojny.</string>
 	<string key="ui_leftguildmessage">Opuszczono kompanię.</string>
-	<string key="ui_modifycrest">Zmień herb</string>
-	<string key="ui_guildcrestsaved">Zapisano nowy herb</string>
-	<string key="ui_modifyguildname">Zmień nazwę</string>
-	<string key="ui_modifymessageoftheday">Zmień wiadomość dnia</string>
+	<string key="ui_modifycrest">Edytuj herb kompanii</string>
+	<string key="ui_guildcrestsaved">Zapisano herb kompanii</string>
+	<string key="ui_modifyguildname">Edytuj nazwę kompanii</string>
+	<string key="ui_modifymessageoftheday">Edytuj wiadomość</string>
 	<string key="ui_myguildtab">Moja kompania</string>
 	<string key="ui_myguildtabtooltip">Przeglądaj swoją kompanię lub wprowadzaj zmiany.</string>
 	<string key="ui_noneinthisrank">Brak graczy o tym stopniu</string>
@@ -254,12 +254,12 @@
 	<string key="ui_permission_demolish_structures">Niszczenie konstrukcji kompanii: {allowed}</string>
 	<string key="ui_permission_demolish_territories">Likwidowanie terytoriów kompanii: {allowed}</string>
 	<string key="ui_permission_declare_war">Wypowiadanie wojen i ustalanie okresu oblężenia: {allowed}</string>
-	<string key="ui_permission_treasury_deposit">Wpłaty do skarbca kompanii: {allowed}</string>
-	<string key="ui_permission_treasury_withdraw">Wypłaty ze skarbca kompanii w ramach limitu dziennego: {allowed}</string>
-	<string key="ui_permission_treasury_withdraw_unlimited">Wypłaty ze skarbca kompanii w dowolnej kwocie: {allowed}</string>
-	<string key="ui_permission_treasury_set_daily_limit">Ustawianie dziennego limitu wypłat ze skarbca: {allowed}</string>
+	<string key="ui_permission_treasury_deposit">Wpłaty do skarbca: {allowed}</string>
+	<string key="ui_permission_treasury_withdraw">Wypłaty ze skarbca w ramach limitu dziennego: {allowed}</string>
+	<string key="ui_permission_treasury_withdraw_unlimited">Wypłaty ze skarbca w dowolnej kwocie: {allowed}</string>
+	<string key="ui_permission_treasury_set_daily_limit">Dzienny limit wypłat: {allowed}</string>
 	<string key="ui_permission_territory_project_management">Rozpoczynanie i anulowanie ulepszeń terytorium: {allowed}</string>
-	<string key="ui_permission_territory_taxation">Zmienianie opodatkowania terytorium: {allowed}</string>
+	<string key="ui_permission_territory_taxation">Modyfikowanie wartości opodatkowania terytorium: {allowed}</string>
 	<string key="ui_permission_war_raid_manage">Zarządzanie grupami armii oraz zapisami: {allowed}</string>
 	<string key="ui_permission_build_defensive_structures">Tworzenie i zamienianie budowli w forcie kompanii: {allowed}</string>
 	<string key="ui_playeralreadyinguildmessage">{playerName} jest już członkiem twojej kompanii.</string>
@@ -377,8 +377,8 @@
 	<string key="ui_warframe_marker_warend">KONIEC WOJNY</string>
 	<string key="ui_warframe_siegeinfo_label">NASTĘPNY DOSTĘPNY OKRES OBLĘŻENIA</string>
 	<string key="ui_myguildtitle">Moja kompania</string>
-	<string key="ui_otherguildstitlewithworld">Wszystkie kompanie ze świata {worldName}</string>
-	<string key="ui_otherguildstitle">Wszystkie kompanie</string>
+	<string key="ui_otherguildstitlewithworld">Kompanie: {worldName}</string>
+	<string key="ui_otherguildstitle">Świat</string>
 	<string key="ui_otherguildssubtitle">Ze świata {worldName}</string>
 	<string key="ui_guildsinworld">{number} w świecie {worldName}</string>
 	<string key="ui_warstitle">Wojny</string>
@@ -400,7 +400,7 @@
 	<string key="ui_otherguilds_pagenumber">Strona {number}</string>
 	<string key="ui_otherguilds_previousbutton">Wstecz</string>
 	<string key="ui_otherguilds_nextbutton">Dalej</string>
-	<string key="ui_nowarsmessage">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Twoja kompania nie prowadzi wojny.&lt;/font&gt; \n\n Aby wypowiedzieć wojnę na terytorium, otwórz mapę i kliknij ikonę osady.</string>
+	<string key="ui_nowarsmessage">Twoja kompania nie prowadzi wojny.\n\nWypowiedz wojnę, wybierając na mapie osadę terytorium.</string>
 	<string key="ui_warnotification_title">Nadchodzące wojny</string>
 	<string key="ui_warnotification_scouting_phase_warning">Faza przygotowań kończy się za {timeRemaining}!</string>
 	<string key="ui_warnotification_resolution_phase_warning">Wojna zakończy się za</string>
@@ -442,7 +442,7 @@
 	<string key="ui_cycle_permission_interaction">{interactionName}: {ownershipPermissionType}</string>
 	<string key="ui_permission_deposit_in_structure">Umieszczanie przedmiotów w konstrukcjach magazynowych: {allowed}</string>
 	<string key="ui_permission_withdraw_from_structure">Zabieranie przedmiotów z konstrukcji magazynowych: {allowed}</string>
-	<string key="ui_permissioncategory_members">Zarządzanie kompanią</string>
+	<string key="ui_permissioncategory_members">Zarządzanie</string>
 	<string key="ui_permissioncategory_communications">Komunikaty</string>
 	<string key="ui_permissioncategory_structures">Konstrukcje</string>
 	<string key="ui_permissioncategory_treasury">Skarbiec</string>
@@ -484,7 +484,7 @@
 	<string key="ui_guildnamewithrank">{guildName} ({rankName})</string>
 	<string key="ui_guildnamewithrankandtitle">{guildName} ({rankName}) | "{playerTitle}"</string>
 	<string key="ui_noguildonlytitle">"{playerTitle}"</string>
-	<string key="ui_refreshpage">Odśwież stronę</string>
+	<string key="ui_refreshpage">Odśwież</string>
 	<string key="ui_setconquest">Ustaw okres oblężenia</string>
 	<string key="ui_setconquestwindowtitle">Zaproponuj długość trwania okresu oblężenia</string>
 	<string key="ui_setconquestwindowsubtitle">Po wypowiedzeniu wojny wroga kompania skróci ten czas do okresu wynoszącego {time} godz.</string>
@@ -520,7 +520,7 @@
 	<string key="ui_siege_hud_siege_parts">Części oblężenia</string>
 	<string key="ui_siege_hud_inventory">Ekwipunek</string>
 	<string key="ui_siege_hud_camp">Obóz</string>
-	<string key="ui_siege_changeto">Zmień na</string>
+	<string key="ui_siege_changeto">Nowe</string>
 	<string key="ui_siege_signup">Zapisz się</string>
 	<string key="ui_siege_signup_as_attacker">Zapisz się do atakujących</string>
 	<string key="ui_siege_signup_as_defender">Zapisz się do obrońców</string>
@@ -571,8 +571,8 @@
 	<string key="ui_siege_signup_failed_territory_not_unlocked_yet">Nie masz jeszcze dostępu do tego terytorium.</string>
 	<string key="ui_siege_signup_failed_warinprogress">Wojna lub inwazja już się rozpoczęła, więc zapisy nie są już przyjmowane.</string>
 	<string key="ui_siege_signup_failed">Wystąpił problem podczas zapisywania się na wojnę.</string>
-	<string key="ui_siege_signup_dailywarlimit_attacker_refreshlabel">Limit wojen po stronie atakujących odświeża się za:</string>
-	<string key="ui_siege_signup_dailywarlimit_defender_refreshlabel">Limit wojen po stronie obrońców odświeża się za:</string>
+	<string key="ui_siege_signup_dailywarlimit_attacker_refreshlabel">Odświeża się za:</string>
+	<string key="ui_siege_signup_dailywarlimit_defender_refreshlabel">Odświeża się za:</string>
 	<string key="ui_siege_signup_dailywarlimit_attacker_available">Udało ci się zapisać do wojen po stronie atakujących.</string>
 	<string key="ui_siege_signup_dailywarlimit_attacker_limitreached">Wyczerpujesz dzienny limit po stronie atakujących i nie możesz zapisać się do kolejnych wojen po tej stronie.</string>
 	<string key="ui_siege_signup_dailywarlimit_defender_available">Udało ci się zapisać do wojen po stronie obrońców.</string>

@@ -46,11 +46,11 @@
 	<string key="ui_protection_available_in">Verfügbar in {time}</string>
 	<string key="ui_protection_fail_resources">Nicht genug Rohstoffe und Guthaben.</string>
 	<string key="ui_protection_price">Preis pro {protectionDuration}</string>
-	<string key="ui_projects_will_refresh_in">Alle Missionen werden aktualisiert in </string>
+	<string key="ui_projects_will_refresh_in">Missionen werden aktualisiert in </string>
 	<string key="ui_daily_bonuses_faction_mission">Du erhältst täglich einen Bonus für die ersten drei Fraktionsmissionen, die du abschließt.</string>
 	<string key="ui_daily_bonuses_available">Tägliche Boni verfügbar </string>
 	<string key="ui_daily_mission_bonus_awarded">Täglichen Missionsbonus erhalten!</string>
-	<string key="ui_no_active_projects">Kein aktives Projekt dieser Kategorie vorhanden.</string>
+	<string key="ui_no_active_projects">Keine aktiven Projekte</string>
 	<string key="ui_territory_manage_header">Siedlung verwalten</string>
 	<string key="ui_territory_manage_settlement_name">Siedlungsname</string>
 	<string key="ui_territory_manage_change_name">Demnächst verfügbar</string>
@@ -114,7 +114,7 @@
 	<string key="ui_town_project_started">Stadtprojekt begonnen!</string>
 	<string key="ui_project_started_info">An dem Stadtprojekt können nun alle Leute in der Stadt arbeiten.\nSchau dir das Projekt auf der &lt;font color='#e1ae3f'&gt;Stadtprojekt-Tafel&lt;/font&gt; im Stadtzentrum an.</string>
 	<string key="ui_territory_planning_board">Gebietsplanungstafel</string>
-	<string key="ui_territory_planning_board_desc">Herstellungs-/Veredelungsstationen, Geschütze, Tore für Forts können über diese Tafel aufgerüstet werden.</string>
+	<string key="ui_territory_planning_board_desc">Hier kannst du Herstellungs- und Veredelungsstationen, Türme und Forttore aktualisieren.</string>
 	<string key="ui_trading_tax">Handelssteuer</string>
 	<string key="ui_crafting_fee">Herst.-Gebühr</string>
 	<string key="ui_refining_fee">Veredelungsgebühr</string>
@@ -126,13 +126,14 @@
 	<string key="ui_taxes_extreme">&lt;font color='#ea5a5a'&gt;Extrem&lt;/font&gt;</string>
 	<string key="ui_housing_units">{units} Gebäude</string>
 	<string key="ui_transactions">{units} Transaktionen</string>
-	<string key="ui_current_period">Zeitraum (stündlich aktualisiert)</string>
+	<string key="ui_current_period">Aktueller Zeitraum</string>
+	<string key="ui_updated_hourly">Wird stündlich aktualisiert</string>
 	<string key="ui_paycheck_adjustment">Gehaltsanpassung</string>
 	<string key="ui_resources_refined">{units} veredelte Rohstoffe</string>
 	<string key="ui_items_crafted">{units} hergestellte Gegenstände</string>
 	<string key="ui_start_date_to_current">Einkommen seit: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{start}&lt;/font&gt;</string>
 	<string key="ui_statement_period">{start} - Heute</string>
-	<string key="ui_pay_territory_upkeep">GEBIETSUNTERHALTUNGSKOSTEN BEZAHLEN</string>
+	<string key="ui_pay_territory_upkeep">Grundstückssteuer</string>
 	<string key="ui_upkeep_penalty_description">Wenn die Gebietsunterhaltungskosten nicht rechtzeitig beglichen werden,\nwird ein zufälliger Teil des Gebiets herabgestuft.</string>
 	<string key="ui_select_payment_option">Zahlungsweise festlegen</string>
 	<string key="ui_payment_options">Zahlungsweisen</string>
@@ -212,7 +213,7 @@
 	<string key="ui_project_territory_not_claimed">Gebiet muss im Fort beansprucht werden!</string>
 	<string key="ui_inprogress">Läuft</string>
 	<string key="ui_fortressinfo_name">Fort {name}</string>
-	<string key="ui_fortressinfo_description">Eine Festung, die das Gebiet {name} kontrolliert. Kriege und Verderbteninvasionen laufen an diesem Ort ab.</string>
+	<string key="ui_fortressinfo_description">Eine Festung, die das Gebiet {name} kontrolliert. Kriege und Verderbteninvasionen laufen hier ab.</string>
 	<string key="ui_fortressinfo_siegewindow">Belagerungszeitfenster</string>
 	<string key="ui_fortressinfo_governedby">Beherrscht von</string>
 	<string key="ui_fortressinfo_controlledby">Kontrolliert von</string>
@@ -259,7 +260,7 @@
 	<string key="ui_outpost_header">Außenposten {name}</string>
 	<string key="ui_governing_company">Beherrscht von &lt;font color='#e1ddd4'&gt;{name}&lt;/font&gt;</string>
 	<string key="ui_controlling_faction">Kontrolliert von &lt;font color='#e1ddd4'&gt;{name}&lt;/font&gt;</string>
-	<string key="ui_territory_ownership_benefits">Vorteile des Gebietsbesitzes</string>
+	<string key="ui_territory_ownership_benefits">Gebietsboni</string>
 	<string key="ui_how_to_run_a_town">Wie verwaltet man eine Stadt?</string>
 	<string key="ui_community_points">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt; +{amount}&lt;/font&gt;</string>
 	<string key="ui_community_points_detail">{amount}&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt; Projektpunkte&lt;/font&gt;</string>
@@ -269,7 +270,7 @@
 	<string key="ui_upgradebutton_tooltip_settlement">Rüste Herstellungs- und Veredelungsstationen in der Stadt auf.</string>
 	<string key="ui_upgradebutton_label_fort">Fort aufrüsten</string>
 	<string key="ui_upgradebutton_tooltip_fort">Rüste Tore, Montagepunkte und Waffen in dem Fort auf.</string>
-	<string key="ui_upgradebutton_label_lifestyle">Lebensqualität verbessern</string>
+	<string key="ui_upgradebutton_label_lifestyle">Lebensqualitätsverbesserungen</string>
 	<string key="ui_upgradebutton_tooltip_lifestyle">Verbessere die Lebensqualität in dem Gebiet, indem du Boni aktivierst.</string>
 	<string key="ui_upgradebutton_label_weakeninvasions">Invasionen abschwächen</string>
 	<string key="ui_upgradebutton_tooltip_weakeninvasions">Aktiviere Boni, die dir während Invasionen helfen können.</string>
@@ -469,9 +470,9 @@
 	<string key="ui_upgrade_desc_HornProjectId2">Kriegshörner auf Rang 3 aufrüsten. Nach der Aufrüstung werden alle existierenden Kriegshörner (aufgestellt oder nicht) ebenfalls aufgerüstet.</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId">Kanonen auf Rang 2 aufrüsten. Nach der Aufrüstung werden alle existierenden Kanonen (aufgestellt oder nicht) ebenfalls aufgerüstet.</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId2">Rüste die Kanonen auf Rang 3 auf. Nach der Aufrüstung werden alle existierenden Kanonen (aufgestellt oder nicht) ebenfalls aufgerüstet.</string>
-	<string key="ui_event_project_endless" rel_version="Event_Summer_Temp">Endlos</string>
+	<string key="ui_event_project_endless">Endlos</string>
 	<string key="ui_territory_level">Gebietsstufe: {level}</string>
-	<string key="ui_enter_house">Hausmenü öffnen</string>
+	<string key="ui_enter_house">Haus ansehen</string>
 	<string key="ui_purchase_house">Haus kaufen</string>
 	<string key="ui_housing">Behausung</string>
 	<string key="ui_trading_post">Handelsposten</string>
@@ -539,14 +540,14 @@
 	<string key="ui_medium">&lt;font color="#e47f35"&gt;Mittel&lt;/font&gt;</string>
 	<string key="ui_hard">&lt;font color="#eb5050"&gt;Schwer&lt;/font&gt;</string>
 	<string key="ui_project_townprojectboard">Übersicht aller aktuellen Stadtprojekte</string>
-	<string key="ui_view_statement">Mitteilung ansehen</string>
+	<string key="ui_view_statement">Betrachten</string>
 	<string key="ui_items_posted_for_sale">Gegenstände werden zum Kauf und Verkauf angeboten</string>
-	<string key="ui_no_project_active">Es gibt kein aktives Stadtprojekt.\n&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Die herrschende Kompanie muss ein neues Stadtprojekt beginnen.&lt;/font&gt;</string>
+	<string key="ui_no_project_active">Kein aktives Stadtprojekt.\n&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Die herrschende Kompanie muss ein neues Stadtprojekt beginnen.&lt;/font&gt;</string>
 	<string key="ui_view_current_goal">Aktuelles Ziel ansehen</string>
 	<string key="ui_governorsdesk">Büro des Gouverneurs</string>
-	<string key="ui_governorsdesk_desc">Die herrschende Kompanie legt hier für dieses Gebiet die Höhe der Steuern fest und entrichtet die Gebietsunterhaltungskosten.</string>
+	<string key="ui_governorsdesk_desc">Hier legt die herrschende Kompanie die Gebietssteuer fest und entrichtet die Unterhaltskosten.</string>
 	<string key="ui_upkeep_tooltip">Sollte die herrschende Kompanie die Unterhaltungskosten nicht rechtzeitig entrichten, &lt;font color="#e8a015"&gt;wird ein zufälliger Teil des Gebiets herabgestuft.&lt;/font&gt;</string>
-	<string key="ui_payroll_title">Kompaniegehaltsangabe</string>
+	<string key="ui_payroll_title">Kompaniegehälter</string>
 	<string key="ui_payroll_tooltip">Die herrschende Kompanie erhält Einnahmen aus Steuern und Gebühren.</string>
 	<string key="ui_firstdayofcycle">Erster Tag des Zyklus</string>
 	<string key="ui_nextupkeepdue">Nächste Unterhaltungskosten fällig</string>
@@ -562,9 +563,9 @@
 	<string key="ui_territory_downgrade_title">Gebiet herabgestuft</string>
 	<string key="ui_territory_board_faction_mission">Fraktionsmissionstafel</string>
 	<string key="ui_territory_board_town_project">Stadtprojektübersicht</string>
-	<string key="ui_territory_board_town_project_desc">Auf der Tafel findest du verfügbare Missionen zu Stadtprojekten.</string>
+	<string key="ui_territory_board_town_project_desc">Hier findest du verfügbare Missionen zu Stadtprojekten.</string>
 	<string key="ui_territory_board_war">Kriegsübersicht</string>
-	<string key="ui_territory_board_war_desc">Spieler können sich für einen Krieg eintragen, wenn in dem Gebiet ein Krieg läuft.</string>
+	<string key="ui_territory_board_war_desc">Trage dich für einen aktiven Krieg in diesem Gebiet ein.</string>
 	<string key="ui_territory_war_camp">Kriegslager</string>
 	<string key="ui_territory_war_camp_desc">Ein Sammelpunkt für den Krieg.</string>
 	<string key="ui_active_project">Aktuelles Projekt</string>
@@ -585,24 +586,25 @@
 	<string key="ui_town_project_allCompleted">Vollständig &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;abgeschlossen&lt;/font&gt;</string>
 	<string key="ui_territory_standing_no_bonuses">Du hast keine Boni in {territory}.</string>
 	<string key="ui_territory_standing_upgrade_description_generic">Erhalte EINIGE FÄHIGKEITEN in {territory}.</string>
-	<string key="ui_territory_standing_upgrade_description_increase_stat">Erhöht &lt;font color='#e1ddd4'&gt;{stat}&lt;/font&gt; in {territory}.</string>
-	<string key="ui_territory_standing_upgrade_description_increase_rate">&lt;font color='#e1ddd4'&gt;{stat}&lt;/font&gt; wird weiter erhöht, solange du in {territory} bist.</string>
-	<string key="ui_territory_standing_upgrade_description_increase_stat_no_territory">Erhöht &lt;font color='#e1ddd4'&gt;{stat}&lt;/font&gt;.</string>
-	<string key="ui_territory_standing_upgrade_description_decrease_stat">&lt;font color='#e1ddd4'&gt;{stat}&lt;/font&gt; in {territory} wird verringert.</string>
+	<string key="ui_territory_standing_upgrade_description_increase_stat">Erhöht &lt;font color={color}&gt;{stat}&lt;/font&gt; in {territory}.</string>
+	<string key="ui_territory_standing_upgrade_description_increase_rate">&lt;font color={color}&gt;{stat}&lt;/font&gt; wird weiter erhöht, solange du in {territory} bist.</string>
+	<string key="ui_territory_standing_upgrade_description_increase_stat_no_territory">Erhöht &lt;font color={color}&gt;{stat}&lt;/font&gt;.</string>
+	<string key="ui_territory_standing_upgrade_description_decrease_stat">&lt;font color={color}&gt;{stat}&lt;/font&gt; in {territory} wird verringert.</string>
 	<string key="ui_territory_standing_upgrade_description_own_house">Du kannst in {territory} ein Haus besitzen.</string>
 	<string key="ui_territory_standing_upgrade_value">&lt;font color='#e1ddd4'&gt; ({current}&lt;/font&gt;&lt;img src="lyshineui/images/icons/misc/arrow_right" xPadding="8" scale="0.8" yOffset="-0.4"&gt;&lt;/img&gt;&lt;font color='#e1ddd4'&gt;{value})&lt;/font&gt;</string>
-	<string key="ui_territory_standing_upgrade_category_generic">Eine Kategorie</string>
-	<string key="ui_territory_standing_upgrade_category_reputation">Fraktionsruf</string>
-	<string key="ui_territory_standing_upgrade_category_housepoint">Hausgegenstände</string>
-	<string key="ui_territory_standing_upgrade_category_trading_tax">Handelssteuer</string>
-	<string key="ui_territory_standing_upgrade_category_crafting_fee">Stationsgebühr</string>
-	<string key="ui_territory_standing_upgrade_category_property_tax">Grundstückssteuer</string>
-	<string key="ui_territory_standing_upgrade_category_xp_gain">EP-Zugewinn</string>
-	<string key="ui_territory_standing_upgrade_category_standing_gain">Rufzugewinn</string>
-	<string key="ui_territory_standing_upgrade_category_gather">Sammeln</string>
-	<string key="ui_territory_standing_upgrade_category_house_ownership">Hauseigentum</string>
-	<string key="ui_territory_standing_upgrade_category_storage">Aufbewahrung</string>
-	<string key="ui_territory_standing_upgrade_category_darkness_hunt">Verderbte Jagd</string>
+	<string key="ui_territory_standing_upgrade_category_generic">Kategorie{info}</string>
+	<string key="ui_territory_standing_upgrade_category_reputation">Fraktionsruf{info}</string>
+	<string key="ui_territory_standing_upgrade_category_housepoint">Hausgegenstände{info}</string>
+	<string key="ui_territory_standing_upgrade_category_trading_tax">Handelssteuer{info}</string>
+	<string key="ui_territory_standing_upgrade_category_crafting_fee">Stationsgebühr{info}</string>
+	<string key="ui_territory_standing_upgrade_category_property_tax">Grundstückssteuer{info}</string>
+	<string key="ui_territory_standing_upgrade_category_xp_gain">EP-Zugewinn{info}</string>
+	<string key="ui_territory_standing_upgrade_category_standing_gain">Rufzugewinn{info}</string>
+	<string key="ui_territory_standing_upgrade_category_gather">Sammeln{info}</string>
+	<string key="ui_territory_standing_upgrade_category_house_ownership">Hauseigentum{info}</string>
+	<string key="ui_territory_standing_upgrade_category_storage">Aufbewahrung{info}</string>
+	<string key="ui_territory_standing_upgrade_category_darkness_hunt">Verderbte Jagd{info}</string>
+	<string key="ui_territory_standing_upgrade_bonus">: &lt;font color={color}&gt;{operator}{bonus}&lt;/font&gt;</string>
 	<string key="ui_territory_standing_upgrade_stat_xp_gain">EP-Zugewinn</string>
 	<string key="ui_territory_standing_upgrade_stat_storage">Aufbewahrung</string>
 	<string key="ui_territory_standing_upgrade_stat_house_point">Die maximale Anzahl der Hausgegenstände, die du platzieren kannst</string>
@@ -631,7 +633,7 @@
 	<string key="ui_reward_FortHardPointsProjectId2">+8 Geschützstellungspunkte</string>
 	<string key="ui_standing_title_display">{standing} &lt;font color="#959595"&gt;in {territory}&lt;/font&gt;</string>
 	<string key="ui_standing_title_of">{standing} in </string>
-	<string key="ui_redeem_token">Gebietsbelohnung kaufen</string>
+	<string key="ui_redeem_token">Gebietsruf-Bonus freischalten</string>
 	<string key="ui_require_standing_level">{territory}-Rufrang {level} erforderlich, um den Bonus freizuschalten.</string>
 	<string key="ui_territory_standing_blank">{territory}\nRuf</string>
 	<string key="ui_territory_bonus_redeemed">&lt;font color="#ffffff"&gt;{territory}:&lt;/font&gt; Gebietsbonus hinzugefügt</string>

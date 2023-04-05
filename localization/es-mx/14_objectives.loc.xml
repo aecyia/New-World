@@ -401,7 +401,7 @@
 	<string key="1418_0107_RD_task_03_TaskHaveAndReturnItems" speaker="UI">Derrota a {targetName} para obtener {itemName}</string>
 	<string key="1418_0108_RD_task_01_TaskGoToPOITag" speaker="UI">Consigue recubrimiento de escudo corrompido de Oseguera, el alto sacerdote, en Cumbres destrozadas</string>
 	<string key="1418_0108_RD_task_02_TaskHaveAndReturnItems" speaker="UI">Derrota a {targetName} para obtener {itemName}</string>
-	<string key="1418_0109_RD_task_01_TaskGoToPOITag" speaker="UI">Viaja a Opulencia y saquea tacos de oricalco de los corrompidos</string>
+	<string key="1418_0109_RD_task_01_TaskGoToPOITag" speaker="UI">Viaja a {POITags} y saquea tacos de oricalco de los corrompidos</string>
 	<string key="1418_0109_RD_task_02_TaskHaveAndReturnItems" speaker="UI">Derrota a {targetName} para obtener {itemName}</string>
 	<string key="1403A_0301_d_01_Task" speaker="UI">Ve a {POITags}</string>
 	<string key="1403A_0301_d_02_Task" speaker="UI">Derrota a {targetName}</string>

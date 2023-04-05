@@ -5,7 +5,7 @@
 	<string key="ui_calendar_event_button_go">C'est parti !</string>
 	<string key="ui_calendar_event_button_view_details">Afficher les détails</string>
 	<string key="ui_rewardtype_event_progress">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{displayName}&lt;/font&gt;</string>
-	<string key="ui_news_button">Actualités</string>
+	<string key="ui_news_button">Actualités et événements</string>
 	<string key="ui_news_button_no_news">Aucune nouvelle actualité disponible.</string>
 	<string key="ui_event_progress_name">Réputation de l'événement</string>
 	<string key="ui_event">Événement</string>
@@ -19,21 +19,21 @@
 	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Le sel d'Azoth est la monnaie vous permettant d'acquérir des récompenses de la chaîne JcJ. Vous pouvez obtenir du sel d'Azoth en menant des guerres, en vous battant en Déferlante, en participant aux arènes 3 contre 3, en accomplissant des missions JcJ, en tuant des joueurs dans le monde ouvert et en gagnant de l'EXP en mode JcJ.</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">RÉCOMPENSES</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Choisissez entre des récompenses uniques telles que des armures et des armes de prestige, des émotes, de la monnaie et des consommables.</string>
-	<string key="ui_event_weapon_xp_tabname">Boost d'EXP d'arme</string>
-	<string key="ui_event_weapon_xp_title">SEMAINE BONUS D'EXP D'ARMES</string>
-	<string key="ui_event_weapon_xp_desc">Début du bonus le :</string>
-	<string key="ui_event_gathering_xp_tabname">Boost d'EXP d'exploitation</string>
-	<string key="ui_event_gathering_xp_title">SEMAINE BONUS D'EXP DE RÉCOLTE</string>
-	<string key="ui_event_gathering_xp_desc">Début du bonus le :</string>
-	<string key="ui_event_character_xp_tabname">Boost d'EXP de niveau</string>
-	<string key="ui_event_character_xp_title">ÉVÉNEMENT BONUS D'EXP DE NIVEAU DE PERSONNAGE</string>
-	<string key="ui_event_character_xp_desc">Début du bonus le :</string>
-	<string key="ui_event_refining_xp_tabname">Boost d'EXP de transformation</string>
-	<string key="ui_event_refining_xp_title">SEMAINE BONUS D'EXP DE TRANSFORMATION</string>
-	<string key="ui_event_refining_xp_desc">Début du bonus le :</string>
-	<string key="ui_event_extravaganza_tabname">Fête des bonus d'EXP</string>
+	<string key="ui_event_weapon_xp_tabname">Événement d'EXP</string>
+	<string key="ui_event_weapon_xp_title">ÉVÉNEMENT BONUS D'EXP D'ARME</string>
+	<string key="ui_event_weapon_xp_desc">Bonus actifs :</string>
+	<string key="ui_event_gathering_xp_tabname">Événement d'EXP</string>
+	<string key="ui_event_gathering_xp_title">ÉVÉNEMENT BONUS D'EXP D'EXPLOITATION</string>
+	<string key="ui_event_gathering_xp_desc">Bonus actifs :</string>
+	<string key="ui_event_character_xp_tabname">Événement d'EXP</string>
+	<string key="ui_event_character_xp_title">ÉVÉNEMENT BONUS D'EXP DE NIVEAU</string>
+	<string key="ui_event_character_xp_desc">Bonus actifs :</string>
+	<string key="ui_event_refining_xp_tabname">Événement d'EXP</string>
+	<string key="ui_event_refining_xp_title">ÉVÉNEMENT BONUS D'EXP DE TRANSFORMATION</string>
+	<string key="ui_event_refining_xp_desc">Bonus actifs :</string>
+	<string key="ui_event_extravaganza_tabname">Événement d'EXP</string>
 	<string key="ui_event_extravaganza_title">LA FÊTE DES BONUS D'EXP</string>
-	<string key="ui_event_extravaganza_desc">Début du bonus le :</string>
+	<string key="ui_event_extravaganza_desc">Bonus actifs :</string>
 	<string key="ui_news_end_game_tabname">Fin de jeu</string>
 	<string key="ui_news_end_game_description">Au niveau 60, vous pouvez&lt;font color="#ffdb7a"&gt; améliorer votre équipement &lt;/font&gt;à des scores d'équipement plus élevés. Pour ce faire, vous devrez récupérer du gypse via divers lieux et activités de niveau 60. Rendez-vous à un&lt;font color="#ffdb7a"&gt; four à gypses &lt;/font&gt;pour en savoir plus.</string>
 	<string key="ui_end_game_panel1_title">ACTIVITÉS DE FIN DE JEU</string>
@@ -84,7 +84,7 @@
 	<string key="ui_news_modal_display_end_datetime">Se termine à {endTime} le {endDate}</string>
 	<string key="ui_event_free_weekend_event_message_title" rel_version="Feature_FreeWeekend">Week-end gratuit</string>
 	<string key="ui_event_free_weekend_event_message_description" rel_version="Feature_FreeWeekend">Le week-end gratuit est en cours.</string>
-	<string key="ui_event_free_weekend_description" rel_version="Feature_FreeWeekend">Découvrez lors de cet événement limité dans le temps la nouvelle zone de Sulfure, des quêtes de l'histoire principale revisitées et les dernières mises à jour de New World. Et tout ça, gratuitement !\n\nPour pouvoir jouer avec vos amis, les personnages doivent être dans le même monde. Les joueurs de la version gratuite peuvent profiter de sessions de jeu illimitées à moins qu'une file d'attente se forme pour entrer dans le monde (à la fin de leur session, les joueurs de la version gratuite se verront proposer d'entrer à nouveau dans la file d'attente).</string>
+	<string key="ui_event_free_weekend_description" rel_version="Feature_FreeWeekend">Découvrez lors de cet événement limité dans le temps la nouvelle zone de Sulfure, des quêtes de l'histoire principale revisitées et les dernières mises à jour de New World. Et tout ça, gratuitement !\nPour pouvoir jouer avec vos amis, les personnages doivent être dans le même monde. Les joueurs de la version gratuite peuvent profiter de sessions de jeu illimitées à moins qu'une file d'attente se forme pour entrer dans le monde (à la fin de leur session, les joueurs de la version gratuite se verront proposer d'entrer à nouveau dans la file d'attente).\nLes nouveaux joueurs peuvent également profiter d'une réduction de 50 % sur le prix des éditions Standard et Deluxe de New World en achetant le jeu entre le 15 décembre à 19 h (heure de Paris) et le 5 janvier à 19 h (heure de Paris).</string>
 	<string key="ui_event_free_weekend" rel_version="Feature_FreeWeekend">Week-end gratuit</string>
 	<string key="ui_event_free_weekend_in_progress_panel1_bullet1_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 1 Title</string>
 	<string key="ui_event_free_weekend_in_progress_panel1_bullet1_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 1 Text</string>
@@ -120,7 +120,7 @@
 	<string key="ui_event_dec_mtx_tabname" rel_version="Entitlements_WinterConvergence_MTX">Boutique</string>
 	<string key="ui_event_dec_mtx_title" rel_version="Entitlements_WinterConvergence_MTX">La Convergence hivernale</string>
 	<string key="ui_event_dec_mtx_description" rel_version="Entitlements_WinterConvergence_MTX">Protégez-vous des ravages de l'Hiver éternel avec de nouveaux objets cosmétiques disponibles dans la boutique ! Pensez à équiper les derniers vêtements et armes d'hiver... les jours raccourcissent et de longues nuits de terreur vous attendent ! Visitez régulièrement la boutique pour mettre la main sur de beaux cadeaux et profiter de nos soldes d'hiver ! Du contenu spécial dévoilé sera mis en vente le 13/12 et l'équipement de la Convergence hivernale de l'année dernière arrivera le 20/12 !</string>
-	<string key="ui_event_dec_mtx_button_about" rel_version="Entitlements_WinterConvergence_MTX">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Convergence hivernale</string>
+	<string key="ui_event_dec_mtx_button_about" rel_version="Entitlements_WinterConvergence_MTX">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; À propos de la Convergence hivernale</string>
 	<string key="ui_news_store_tabname">Boutique</string>
 	<string key="ui_event_jan_mtx_title" rel_version="Entitlements_WinterDragon">Dragon d'hiver</string>
 	<string key="ui_event_jan_mtx_description" rel_version="Entitlements_WinterDragon">La forme de l'hiver est-elle l'ombre d'un dragon ? Visitez la boutique pour découvrir de nouveaux objets cosmétiques touchés par le souffle glacé du serpent ! Ne vous laissez pas surprendre si le combat devient moins meurtrier ! Adoptez l'émote Gifle de défi ou optez pour la Marche sur la pointe des pieds pour esquiver les bagarres !</string>
@@ -131,11 +131,21 @@
 	<string key="ui_event_feb_mtx_bullet1" rel_version="Entitlements_OmensOfWinter">Apparences</string>
 	<string key="ui_event_feb_mtx_bullet2" rel_version="Entitlements_OmensOfWinter">Émotes</string>
 	<string key="ui_event_feb_mtx_button_about" rel_version="Entitlements_OmensOfWinter">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; À propos de l'augure hivernal</string>
-	<string key="ui_event_legacy_of_crassus_tabname" rel_version="Event_February_Temp">Héritage de Crassus</string>
-	<string key="ui_event_legacy_of_crassus_title" rel_version="Event_February_Temp">Héritage de Crassus</string>
-	<string key="ui_event_legacy_of_crassus_description" rel_version="Event_February_Temp">La toute-puissance de Rome menace Aeternum ! Traquez Decimus et Lucanus, les monstrueux capitaines de Crassus, et bannissez l'emprise de la tyrannie romaine. Récupérez des récompenses quotidiennes en plus des autres récompenses en éliminant ces brutes violentes à Boisclair, au marais des Trames, au Val des Larmes, au bief de Nerécaille et à Bois-Éden.</string>
-	<string key="ui_event_legacy_of_crassus_about" rel_version="Event_February_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; À propos de l'Héritage de Crassus</string>
-	<string key="ui_event_legacy_of_crassus_bullet1" rel_version="Event_February_Temp">Armes quotidiennes</string>
-	<string key="ui_event_legacy_of_crassus_bullet2" rel_version="Event_February_Temp">Parties d'armure quotidiennes</string>
+	<string key="ui_event_empyrean_forge_tabname" rel_version="Expedition_GreatCleave_01">FORGE EMPYRÉENNE</string>
+	<string key="ui_event_empyrean_forge_title" rel_version="Expedition_GreatCleave_01">FORGE EMPYRÉENNE</string>
+	<string key="ui_event_empyrean_forge_description" rel_version="Expedition_GreatCleave_01">Une fonderie légendaire où les Anciens forgeaient leurs redoutables machines de guerre. Celles et ceux qui sont avides de pouvoir convoitent la sombre magie qui sévit dans ces gigantesques ruines.</string>
+	<string key="ui_event_empyrean_forge_about" rel_version="Expedition_GreatCleave_01">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; À propos de la forge empyréenne</string>
+	<string key="ui_event_season_one_tabname" rel_version="Season_1_Perm">Saisons</string>
+	<string key="ui_event_season_one_title" rel_version="Season_1_Perm">Saisons</string>
+	<string key="ui_event_season_one_description" rel_version="Season_1_Perm">Lancez-vous dans une nouvelle aventure avec Grace O'Malley dans sa tentative de fonder une nouvelle compagnie de mercenaires à Aeternum : les Corbeaux d'argent.</string>
+	<string key="ui_event_season_one_about" rel_version="Season_1_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; À propos des saisons</string>
+	<string key="ui_event_season_one_bullet1" rel_version="Season_1_Perm">Passe de saison</string>
+	<string key="ui_event_season_one_bullet2" rel_version="Season_1_Perm">Les Corbeaux d'argent</string>
+	<string key="ui_event_mar_mtx_title" rel_version="Entitlements_FirelightSeason">Firelight</string>
+	<string key="ui_event_mar_mtx_description" rel_version="Entitlements_FirelightSeason">Les feux de la forge brûlent intensément avec les nouveaux objets du mois dans la boutique ! Ressentez la brûlure avec ces tout nouveaux objets de décoration et apparences. Adoptez l'esprit compétitif avec les nouvelles émotes qui pourront souligner votre triomphe ou réconforter vos pauvres ennemis humiliés ! Récupérez-les pendant qu'il est encore temps !</string>
+	<string key="ui_event_mar_mtx_about" rel_version="Entitlements_FirelightSeason">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; À propos de la lueur-du-feu</string>
+	<string key="ui_event_mar_mtx_bullet1" rel_version="Entitlements_FirelightSeason">Armures</string>
+	<string key="ui_event_mar_mtx_bullet2" rel_version="Entitlements_FirelightSeason">Armes</string>
+	<string key="ui_event_mar_mtx_bullet3" rel_version="Entitlements_FirelightSeason">Émotes</string>
 </resources>
 

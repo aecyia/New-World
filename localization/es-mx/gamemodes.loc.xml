@@ -11,12 +11,16 @@
 	<string key="ui_game_mode_disabled">Este modo de juego no está disponible ahora mismo</string>
 	<string key="ui_dungeon_enter_info">Debe entrar &lt;font color={color}&gt;al menos una persona&lt;/font&gt; para mantener la expedición abierta. ¿Quieres teletransportarte ahora?</string>
 	<string key="ui_dungeon_enter_info_solo">&lt;font color={color}&gt;La prueba de alma está lista&lt;/font&gt;. ¿Quieres teletransportarte ahora?</string>
+	<string key="ui_dungeon_enter_info_raidtrial">Debe entrar &lt;font color={color}&gt;al menos una persona&lt;/font&gt; para mantener la prueba de élite abierta. ¿Quieres teletransportarte ahora?</string>
 	<string key="ui_dungeon_enter_info_entered">¡La expedición ya está abierta!\n&lt;font color={color}&gt;¿Quieres teletransportarte ahora?&lt;/font&gt;</string>
+	<string key="ui_dungeon_enter_info_entered_solo">&lt;font color={color}&gt;La prueba de alma está lista&lt;/font&gt;. ¿Quieres teletransportarte ahora?</string>
+	<string key="ui_dungeon_enter_info_entered_raidtrial">¡La prueba de élite ya está abierta!\n&lt;font color={color}&gt;¿Quieres teletransportarte ahora?&lt;/font&gt;</string>
 	<string key="ui_duel_player">Duelo con jugador</string>
 	<string key="ui_duel_failmessage_invalidname">{playerName} no es un nombre de jugador válido.</string>
 	<string key="ui_duel_failmessage_outofrange">No puedes batirte en duelo con un jugador a más de {distance} metros de distancia.</string>
 	<string key="ui_duel_failmessage_alreadyinduel">Ya estás en un duelo.</string>
 	<string key="ui_duel_failmessage_in_dungeon">No puedes batirte en duelo en medio de una expedición.</string>
+	<string key="ui_duel_failmessage_in_dungeon_raidtrial">No puedes batirte en duelo en medio de una prueba de élite.</string>
 	<string key="ui_duel_failmessage_in_other_gamemode">No puedes batirte en duelo ahora mismo.</string>
 	<string key="ui_duel_failmessage_pendinginvite">Ya tienes una invitación a duelo pendiente.</string>
 	<string key="ui_duel_failmessage_deathsdoor">No puedes batirte en duelo en la puerta de la muerte.</string>
@@ -85,11 +89,11 @@
 	<string key="ui_outpost_rush_title">Puesto de avanzada</string>
 	<string key="ui_outpost_rush_invite_status">¡Acepta para unirte a la batalla!</string>
 	<string key="ui_outpost_rush_signup_title">PUESTO DE AVANZADA</string>
-	<string key="ui_outpost_rush_signup_desc">&lt;font color="#ffe940"&gt;El Avance a puesto de avanzada&lt;/font&gt; es un enfrentamiento de 20v20 que se lleva a cabo en una isla con tres puestos de avanzada.\nLos equipos compiten por ocuparlos y defenderlos para aumentar la puntuación de su equipo.</string>
-	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#ffe940"&gt;El Avance a puesto de avanzada&lt;/font&gt; es un enfrentamiento de 20v20 que se lleva a cabo en una isla con tres puestos de avanzada.\nLos equipos compiten por ocuparlos y defenderlos para aumentar la puntuación de su equipo.\nEste modo tiene &lt;font color="#ffe940"&gt;escalado de puntuación de equipo&lt;/font&gt;, lo que hace que todos los equipos con menos de 600 de puntuación del equipo pasen a tener 600.</string>
-	<string key="ui_outpost_rush_signup_goal1">Captura y defiende puestos de avanzada para aumentar la puntuación de tu equipo.</string>
-	<string key="ui_outpost_rush_signup_goal2">El primer equipo en llegar a 1000 puntos gana.</string>
-	<string key="ui_outpost_rush_signup_goal3">Utiliza los recursos especiales repartidos por la isla para atacar y defender</string>
+	<string key="ui_outpost_rush_signup_desc">&lt;font color="#ffe940"&gt;El Avance a un puesto de avanzada&lt;/font&gt; es un enfrentamiento 20 vs. 20 que se lleva a cabo en una extensa isla con tres puestos de avanzada que los equipos compiten para capturar y defender.</string>
+	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#ffe940"&gt;El Avance a un puesto de avanzada&lt;/font&gt; es un enfrentamiento 20 vs. 20 que se lleva a cabo en una extensa isla con tres puestos de avanzada que los equipos compiten para capturar y defender.\nEste modo tiene &lt;font color="#ffe940"&gt;escalado de puntuación de equipo&lt;/font&gt;, lo que hace que todos los equipos con menos de 600 de puntuación de equipo pasen a tener 600.</string>
+	<string key="ui_outpost_rush_signup_goal1">Captura y defiende puestos de avanzada para conseguir puntos</string>
+	<string key="ui_outpost_rush_signup_goal2">El primer equipo en llegar a 1000 puntos gana</string>
+	<string key="ui_outpost_rush_signup_goal3">Utiliza recursos especiales para atacar y defender.</string>
 	<string key="ui_outpost_rush_signup_points_number">1000</string>
 	<string key="ui_outpost_rush_signup_points_text">PUNTOS</string>
 	<string key="ui_outpost_rush_signup_joinsolo">Jugar</string>
@@ -98,11 +102,11 @@
 	<string key="ui_outpost_rush_signup_playercount">{playerCount} jugadores</string>
 	<string key="ui_outpost_rush_signup_failsolo">Estás en un grupo ahora mismo, por lo que no puedes unirte en solitario</string>
 	<string key="ui_outpost_rush_signup_failgroup">No estás en ningún grupo ahora mismo</string>
-	<string key="ui_outpost_rush_signup_failgroupinvite">Ahora mismo tienes una invitación a la sala de espera de la expedición</string>
+	<string key="ui_outpost_rush_signup_failgroupinvite">Tienes una invitación pendiente a la sala de espera de una expedición o una prueba de élite.</string>
 	<string key="ui_outpost_rush_signup_faillevel">Es &lt;font color="#f10000"&gt;necesario&lt;/font&gt; haber alcanzado el nivel {levelRequirement}</string>
 	<string key="ui_outpost_rush_signup_failwar">No puedes registrarte porque ya lo has hecho en una guerra que empieza en una hora.</string>
 	<string key="ui_outpost_rush_signup_failqueue">No puedes registrarte porque lo has hecho en {matchname}</string>
-	<string key="ui_outpost_rush_signup_faildungeon">No puedes registrarte porque estás en cola para una expedición.</string>
+	<string key="ui_outpost_rush_signup_faildungeon">No puedes registrarte porque estás en cola para una expedición o una prueba de élite.</string>
 	<string key="ui_outpost_rush_signup_failevent">No puedes registrarte porque actualmente estás en un evento.</string>
 	<string key="ui_outpost_rush_signup_failgeneric">No puedes registrarte en este momento.</string>
 	<string key="ui_outpost_rush_signup_failgrouptitle">No puedes unirte</string>
@@ -174,12 +178,15 @@
 	<string key="ui_or_outpost_b">PUESTO DE AVANZADA SOL</string>
 	<string key="ui_or_outpost_c">PUESTO DE AVANZADA ASTRA</string>
 	<string key="ui_or_kills">BAJAS</string>
+	<string key="ui_outpost_rush_storage_message">Solo artículos de avance a puesto de avanzada.</string>
 	<string key="ui_outpost_rush_summoning_circle">Círculo de invocación</string>
 	<string key="ui_outpost_rush_summoning_circle_desc">Usa una piedra de invocación en este obelisco para agregar un aliado monstruoso a tu equipo durante un tiempo limitado.</string>
 	<string key="ui_outpost_rush_portal">PORTAL</string>
 	<string key="ui_outpost_rush_portal_score">{current}/{total} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="-3" scale="1.4" yOffset="1"&gt;&lt;/img&gt;</string>
 	<string key="ui_pinning_disabled_while_in_or">Fijar/quitar objetivos desactivado durante Avance a puesto de avanzada.</string>
 	<string key="ui_pinning_disabled_expeditions">No se pueden fijar o quitar objetivos en las expediciones.</string>
+	<string key="ui_pinning_disabled_expeditions_solo">Fijar/Quitar objetivos está desactivado para los objetivos de pruebas de alma.</string>
+	<string key="ui_pinning_disabled_expeditions_raidtrial">Fijar/Quitar objetivos está desactivado para los objetivos de pruebas de élite.</string>
 	<string key="ui_or_commandpost_buff_on">La estructura le ofrece potenciadores al equipo</string>
 	<string key="ui_or_commandpost_buff_off">Construir para conseguir potenciadores para el equipo</string>
 	<string key="or_azoth_portal">Portal de azoth</string>
@@ -227,6 +234,8 @@
 	<string key="ui_durability_loss_war">Estás en una guerra (o invasión), tu equipo no se dañó con la muerte.</string>
 	<string key="ui_item_durability_loss">Tu equipo recibió daño con la muerte.</string>
 	<string key="ui_item_durability_dungeon">Estás en una expedición, tu equipo no se dañó con la muerte.</string>
+	<string key="ui_item_durability_dungeon_solo">Estás en una prueba de alma. Aunque hayas muerto, tu equipo no ha sufrido daños.</string>
+	<string key="ui_item_durability_dungeon_raidtrial">Estás en una prueba de élite. Aunque hayas muerto, tu equipo no ha sufrido daños.</string>
 	<string key="ui_item_durability_arena" rel_version="Feature_PVP_Arenas">Estás en una arena, tu equipo no se dañó con la muerte.</string>
 	<string key="ui_item_durability_loss_pvp">Te mató otro jugador, tu equipo recibió daño reducido.</string>
 	<string key="ui_in_spectators_box">En la tribuna de espectadores</string>
@@ -247,5 +256,7 @@
 	<string key="ui_rounds_won">Rondas ganadas</string>
 	<string key="ui_see_through_label">Modo transparente</string>
 	<string key="ui_invasion_leave">Abandonar invasión</string>
+	<string key="ui_matchmaking_ready_title">Partida lista</string>
+	<string key="ui_matchmaking_ready_text">Tu &lt;font color={color}&gt;partida ya está lista&lt;/font&gt;. ¿Quieres teletransportarte ahora?</string>
 </resources>
 

@@ -27,7 +27,7 @@
 	<string key="ui_chat_name_faction_upper_3" comment="Covenant">FACTION (ENGAGÉS)</string>
 	<string key="ui_chat_name_whisper">Message privé</string>
 	<string key="ui_chat_name_whisper_upper">PRIVÉ</string>
-	<string key="ui_chat_name_whisperto">Message privé à</string>
+	<string key="ui_chat_name_whisperto">Message privé</string>
 	<string key="ui_chat_name_officer">Consul</string>
 	<string key="ui_chat_name_officer_upper">CONSUL</string>
 	<string key="ui_chat_name_recruitment">Recrutement</string>
@@ -212,8 +212,8 @@
 	<string key="ui_conquest_in">Début de la conquête dans</string>
 	<string key="ui_online_num">{Num} en ligne</string>
 	<string key="ui_noFriend_header">Votre liste d'amis est vide.</string>
-	<string key="ui_noFriend_body">Vous pouvez ajouter un ami à l'aide de son nom de joueur.</string>
-	<string key="ui_noOnline_group_header">Vous n'avez aucun ami en ligne à inviter dans un groupe.</string>
+	<string key="ui_noFriend_body">Cherchez des amis à ajouter à l'aide de leur nom de joueur.</string>
+	<string key="ui_noOnline_group_header">Vous n'avez aucun ami en ligne à inviter dans le groupe.</string>
 	<string key="ui_noOnline_group_body">Vous pouvez chercher quelqu'un à l'aide de son nom de joueur.</string>
 	<string key="ui_noOnline_guild_header">Vous n'avez pas d'amis à inviter dans la compagnie.</string>
 	<string key="ui_noOnline_guild_body">Vous pouvez chercher quelqu'un à l'aide de son nom de joueur.</string>
@@ -330,15 +330,15 @@
 	<string key="ui_waypoint_set_to_ping">Point de passage défini sur une indication</string>
 	<string key="ui_chat_name_raid">Armée</string>
 	<string key="ui_chat_name_raid_upper">ARMÉE</string>
-	<string key="ui_error_raidchat" comment="An error when you try to talk in raid chat">Vous n'êtes pas dans une armée</string>
+	<string key="ui_error_raidchat" comment="An error when you try to talk in raid chat">Vous n'êtes pas dans une armée.</string>
 	<string key="ui_error_guildchat" comment="An error when you try to talk in guild chat">Vous ne faites pas partie d'une compagnie.</string>
-	<string key="ui_notification_pvp_enabled">JCJ ACTIVÉ</string>
-	<string key="ui_notification_pvp_flagged">EN MODE JCJ</string>
-	<string key="ui_notification_pvp_disabled">JCJ DÉSACTIVÉ</string>
-	<string key="ui_notification_pvp_countdown">PROTECTION TEMPORAIRE EN JCJ ENCLENCHÉE</string>
-	<string key="ui_notification_pvp_flagging_title">PASSAGE EN MODE JCJ</string>
+	<string key="ui_notification_pvp_enabled">Mode JcJ activé.</string>
+	<string key="ui_notification_pvp_flagged">En mode JcJ.</string>
+	<string key="ui_notification_pvp_disabled">Mode JcJ désactivé.</string>
+	<string key="ui_notification_pvp_countdown">Protection temporaire en JcJ enclenchée.</string>
+	<string key="ui_notification_pvp_flagging_title">Passage en mode JcJ.</string>
 	<string key="ui_notification_pvp_flagging_message">Une fois en mode JcJ, vous pouvez attaquer d'autres joueurs participants, mais ces derniers peuvent également s'en prendre à vous. Vous recevez un &lt;font color="#ff9900"&gt;bonus de 10 % d'EXP&lt;/font&gt; en mode JcJ. \n\nLorsque vos quittez le sanctuaire, vous bénéficierez d'une &lt;font color="#ff9900"&gt;durée de protection de 30 secondes&lt;/font&gt;.</string>
-	<string key="ui_notification_pvp_track_flagging_message">Une fois en mode JcJ, vous pouvez attaquer ou subir des attaques des autres joueurs ayant également activé leur mode JcJ. &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Les éliminations réussies peuvent vous rapporter du sel d'Azoth et de l'EXP JcJ.&lt;/font&gt; Vous recevez un &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;bonus de 10 % d'EXP&lt;/font&gt; avec le mode JcJ activé. \n\nLorsque vous quitterez le sanctuaire, vous bénéficierez d'une &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;durée de protection de 30 secondes&lt;/font&gt;.</string>
+	<string key="ui_notification_pvp_track_flagging_message">Une fois en mode JcJ, vous pouvez attaquer ou subir des attaques des autres joueurs ayant également activé leur mode JcJ. &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Les éliminations réussies peuvent vous rapporter du sel d'Azoth et de l'EXP JcJ.&lt;/font&gt; \nVous recevez également les bonus suivants : &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;+10 % d'EXP, +3 % de chance d'exploitation, +1 % de chance générale&lt;/font&gt; pour les grands coffres et coffres d'élite. \n\nLorsque vous quitterez le sanctuaire, vous bénéficierez d'une &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;durée de protection de 30 secondes&lt;/font&gt;.</string>
 	<string key="ui_notification_pvp_checkpoint_unlocked">Jalon déverrouillé</string>
 	<string key="ui_notification_pvp_reward_options">Voir les options de récompense</string>
 	<string key="ui_pvp_rank_name_0">Recrue</string>
@@ -351,12 +351,19 @@
 	<string key="ui_signup_selected">Sélectionné(e)</string>
 	<string key="ui_signup_standby">En attente</string>
 	<string key="ui_signup_not_signed_up">Non inscrit(e)</string>
+	<string key="ui_signup_cannot_pvpinactive" rel_version="Feature_Alt_Character_Protection">Vous ne pouvez pas vous inscrire pour cette guerre car votre mode JcJ est inactif.</string>
 	<string key="ui_signup_attacker" comment="You are on the Attacking Team">Assaillant</string>
 	<string key="ui_signup_defender" comment="You are on the Defending Team">Défenseur</string>
 	<string key="ui_signup_siege_window">Fenêtre de siège</string>
 	<string key="ui_signup_starts_in" comment="Time until the siege starts">Commence dans</string>
 	<string key="ui_signup_your_status">Votre statut</string>
-	<string key="ui_signup_restriction_cooldown">Si le choix se porte sur vous, vous compterez comme mercenaire en raison du délai d'attente de la guerre.\nVous pourrez participer aux guerres en tant que non-mercenaire dans : {cooldownTime}</string>
+	<string key="ui_signup_restriction_cooldown">Si le choix se porte sur vous, vous serez considéré comme mercenaire en raison du délai d'attente de la guerre.\nVous pourrez participer aux guerres en tant que non-mercenaire dans : {cooldownTime}.</string>
+	<string key="ui_signup_restriction_pvpinactive_tooltip" rel_version="Feature_Alt_Character_Protection" comment="">Vous ne pouvez actuellement pas vous inscrire pour une guerre car votre mode JcJ est inactif.</string>
+	<string key="ui_signup_restriction_pvpinactive_title" rel_version="Feature_Alt_Character_Protection" comment="">Inscription impossible</string>
+	<string key="ui_signup_restriction_pvpinactive" rel_version="Feature_Alt_Character_Protection" comment="">Vous ne pouvez actuellement pas vous inscrire pour une guerre car votre mode JcJ est inactif. Vous pourrez passer en mode JcJ dans : {cooldownTime}.</string>
+	<string key="ui_signup_restriction_pvpinactive_canswitch" rel_version="Feature_Alt_Character_Protection" comment="">Vous ne pouvez actuellement pas vous inscrire pour une guerre car votre mode JcJ est inactif. Si vous activez le mode JcJ sur ce compte, cela désactivera le mode JcJ de tout autre personnage que vous possédez sur ce serveur. \n Voulez-vous activer le mode JcJ ?</string>
+	<string key="ui_made_pvp_inactive_title" rel_version="Feature_Alt_Character_Protection">JcJ inactif</string>
+	<string key="ui_made_pvp_inactive_body" rel_version="Feature_Alt_Character_Protection">Le mode JcJ de ce personnage est à présent inactif dans ce monde. Toute inscription à une guerre ainsi que toutes les missions JcJ ont été abandonnées.</string>
 	<string key="ui_no_permission_alert">Impossible d'envoyer une alerte.</string>
 	<string key="ui_title_alpha">Pionnier/Pionnière</string>
 	<string key="ui_title_preorder">Expédition I</string>
@@ -407,8 +414,8 @@
 	<string key="ui_social">Social</string>
 	<string key="ui_social_friends">Amis</string>
 	<string key="ui_social_twitch">Twitch</string>
-	<string key="ui_streamermode_enabled">Mode Ne pas déranger activé</string>
-	<string key="ui_streamermode_disabled">Mode Ne pas déranger désactivé</string>
+	<string key="ui_streamermode_enabled">Mode Ne pas déranger activé.</string>
+	<string key="ui_streamermode_disabled">Mode Ne pas déranger désactivé.</string>
 	<string key="ui_moderation">Modération</string>
 	<string key="ui_group_moderation">Modération de groupe</string>
 	<string key="ui_subarmy_join_tooltip">Envoyez une demande au streameur pour rejoindre son armée d'abonnés.</string>

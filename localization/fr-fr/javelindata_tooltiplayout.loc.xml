@@ -3316,5 +3316,12 @@
 	<string key="ArmadilloMeatT5_DerivedFrom" rel_version="Territory_Brimstone_Sands">Tamanoirs</string>
 	<string key="ScorpionMeatT5_DerivedFrom" rel_version="Territory_Brimstone_Sands">Scorpions</string>
 	<string key="FishSauceT1_DerivedFrom" rel_version="Territory_Brimstone_Sands">Cuisine II</string>
+	<string key="CoatingAeternianT2_CraftedAt" rel_version="Season_1_Perm">Réserve dédiée aux arts obscurs II</string>
+	<string key="CoatingAeternianT3_CraftedAt" rel_version="Season_1_Perm">Réserve dédiée aux arts obscurs III</string>
+	<string key="CoatingAeternianT4_CraftedAt" rel_version="Season_1_Perm">Réserve dédiée aux arts obscurs IV</string>
+	<string key="CoatingAeternianT5_CraftedAt" rel_version="Season_1_Perm">Réserve dédiée aux arts obscurs V</string>
+	<string key="PotionFamilyWardAeternianT3_CraftedAt" rel_version="Season_1_Perm">Réserve dédiée aux arts obscurs III</string>
+	<string key="PotionFamilyWardAeternianT4_CraftedAt" rel_version="Season_1_Perm">Réserve dédiée aux arts obscurs IV</string>
+	<string key="PotionFamilyWardAeternianT5_CraftedAt" rel_version="Season_1_Perm">Réserve dédiée aux arts obscurs V</string>
 </resources>
 

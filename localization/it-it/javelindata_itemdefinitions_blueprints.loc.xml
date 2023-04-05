@@ -139,5 +139,6 @@
 	<string key="AzureWellT1_Name">Pozzo di Azoth</string>
 	<string key="Defend_Sapling_Name">Virgulto</string>
 	<string key="Defend_PowderKeg_Name">Barile di polvere da sparo</string>
+	<string key="Season_01_Spriggan_Event_Flame_Brazier_MasterName" rel_version="Season_1_Temp">Braciere fiammeggiante</string>
 </resources>
 

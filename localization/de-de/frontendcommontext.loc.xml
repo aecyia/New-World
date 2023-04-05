@@ -29,7 +29,7 @@
 	<string key="mm_waitingtotransfer" rel_version="Feature_MTX">Warte auf Transfer nach\n{worldName}</string>
 	<string key="mm_transferworldname" rel_version="Feature_MTX">Transfer nach {regionName}</string>
 	<string key="mm_transferinitiated" rel_version="Feature_MTX">Regionstransfer eingeleitet</string>
-	<string key="ui_open_governors_desk">Büro des Gouverneurs öffnen</string>
+	<string key="ui_open_governors_desk">Unterhaltskosten und Gehälter ansehen</string>
 	<string key="mm_disconnected">Verbindung zum Server wurde getrennt. Verbindung wird wiederhergestellt.</string>
 	<string key="mm_retriesfailed">Anzahl der Neuverbindungsversuche erschöpft. Bitte später erneut versuchen.</string>
 	<string key="mm_loginservices_badrequest">Ungültige Anfrage an Anmeldedienste.</string>
@@ -50,47 +50,47 @@
 	<string key="mm_loginservices_Banned_temporary">Dein Konto wurde vorübergehend für &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{duration}&lt;/font&gt; gesperrt. Deine Sperre wird am &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{dateandtime}&lt;/font&gt; aufgehoben.</string>
 	<string key="mm_loginservices_Banned_permanent">Dein Konto wurde endgültig gesperrt.</string>
 	<string key="mm_loginservices_BannedHacking">Zugriff verweigert: Du wurdest gesperrt. Grund: Hacking.</string>
-	<string key="mm_loginservices_BannedCheating">Zugriff verweigert: Du wurdest gesperrt. Grund: Betrug</string>
-	<string key="mm_loginservices_BannedExploit">Zugriff verweigert: Du wurdest gesperrt. Grund: Unerlaubtes Ausnutzen von Bugs</string>
-	<string key="mm_loginservices_BannedBotting">Zugriff verweigert: Du wurdest gesperrt. Grund: Bot-Nutzung</string>
-	<string key="mm_loginservices_BannedAbusive">Zugriff verweigert: Du wurdest gesperrt. Grund: Missbrauch</string>
-	<string key="mm_loginservices_BannedLeaking">Zugriff verweigert: Du wurdest gesperrt. Grund: Veröffentlichen/Verbreiten geschützter Inhalte</string>
-	<string key="mm_loginservices_BannedDisruptive">Zugriff verweigert: Du wurdest gesperrt. Grund: Störendes Verhalten</string>
-	<string key="mm_loginservices_BannedOffensiveName">Zugriff verweigert: Du wurdest gesperrt. Grund: Beleidigender Name</string>
-	<string key="mm_loginservices_BannedOffensiveCompanyName">Zugriff verweigert: Du wurdest gesperrt. Grund: Beleidigender Kompaniename</string>
-	<string key="mm_loginservices_BannedSuspectedFraud">Zugriff verweigert: Du wurdest gesperrt. Grund: Vermutlicher Betrug</string>
+	<string key="mm_loginservices_BannedCheating">Zugriff verweigert: Du wurdest gesperrt. Grund: Cheaten.</string>
+	<string key="mm_loginservices_BannedExploit">Zugriff verweigert: Du wurdest gesperrt. Grund: Unerlaubtes Ausnutzen von Bugs.</string>
+	<string key="mm_loginservices_BannedBotting">Zugriff verweigert: Du wurdest gesperrt. Grund: Bot-Nutzung.</string>
+	<string key="mm_loginservices_BannedAbusive">Zugriff verweigert: Du wurdest gesperrt. Grund: Anstößiges Verhalten.</string>
+	<string key="mm_loginservices_BannedLeaking">Zugriff verweigert: Du wurdest gesperrt. Grund: Veröffentlichen/Verbreiten geschützter Inhalte.</string>
+	<string key="mm_loginservices_BannedDisruptive">Zugriff verweigert: Du wurdest gesperrt. Grund: Störendes Verhalten.</string>
+	<string key="mm_loginservices_BannedOffensiveName">Zugriff verweigert: Du wurdest gesperrt. Grund: Beleidigender Name.</string>
+	<string key="mm_loginservices_BannedOffensiveCompanyName">Zugriff verweigert: Du wurdest gesperrt. Grund: Beleidigender Kompaniename.</string>
+	<string key="mm_loginservices_BannedSuspectedFraud">Zugriff verweigert: Du wurdest gesperrt. Grund: Vermuteter Betrug.</string>
 	<string key="mm_loginservices_BannedCSLockout">Dein Konto wurde gesperrt. Bitte wende dich an den Kundendienst für zusätzliche Informationen.</string>
 	<string key="mm_loginservices_BannedCommerce">Dein Konto wurde aufgrund verdächtiger Aktivitäten gesperrt. Bitte wende dich an den Kundendienst für zusätzliche Informationen.</string>
-	<string key="mm_loginservices_Cheating">Zugriff verweigert: Du wurdest gesperrt. Grund: Betrug</string>
-	<string key="mm_loginservices_Exploit">Zugriff verweigert: Du wurdest gesperrt. Grund: Unerlaubtes Ausnutzen von Bugs</string>
-	<string key="mm_loginservices_Botting">Zugriff verweigert: Du wurdest gesperrt. Grund: Bot-Nutzung</string>
+	<string key="mm_loginservices_Cheating">Zugriff verweigert: Du wurdest gesperrt. Grund: Cheaten.</string>
+	<string key="mm_loginservices_Exploit">Zugriff verweigert: Du wurdest gesperrt. Grund: Unerlaubtes Ausnutzen von Bugs.</string>
+	<string key="mm_loginservices_Botting">Zugriff verweigert: Du wurdest gesperrt. Grund: Bot-Nutzung.</string>
 	<string key="mm_loginservices_Abusive">Zugriff verweigert: Du wurdest gesperrt. Grund: Anstößiges Verhalten.</string>
-	<string key="mm_loginservices_Leaking">Zugriff verweigert: Du wurdest gesperrt. Grund: Veröffentlichen/Verbreiten geschützter Inhalte</string>
-	<string key="mm_loginservices_Disruptive">Zugriff verweigert: Du wurdest gesperrt. Grund: Störendes Verhalten</string>
-	<string key="mm_loginservices_OffensiveName">Zugriff verweigert: Du wurdest gesperrt. Grund: Beleidigender Name</string>
-	<string key="mm_loginservices_OffensiveCompanyName">Zugriff verweigert: Du wurdest gesperrt. Grund: Beleidigender Kompaniename</string>
-	<string key="mm_loginservices_SuspectedFraud">Zugriff verweigert: Du wurdest gesperrt. Grund: Vermuteter Betrug</string>
+	<string key="mm_loginservices_Leaking">Zugriff verweigert: Du wurdest gesperrt. Grund: Veröffentlichen/Verbreiten geschützter Inhalte.</string>
+	<string key="mm_loginservices_Disruptive">Zugriff verweigert: Du wurdest gesperrt. Grund: Störendes Verhalten.</string>
+	<string key="mm_loginservices_OffensiveName">Zugriff verweigert: Du wurdest gesperrt. Grund: Beleidigender Name.</string>
+	<string key="mm_loginservices_OffensiveCompanyName">Zugriff verweigert: Du wurdest gesperrt. Grund: Beleidigender Kompaniename.</string>
+	<string key="mm_loginservices_SuspectedFraud">Zugriff verweigert: Du wurdest gesperrt. Grund: Vermuteter Betrug.</string>
 	<string key="mm_loginservices_CSLockout">Dein Konto wurde gesperrt. Bitte wende dich an den Kundendienst für zusätzliche Informationen.</string>
 	<string key="mm_loginservices_Commerce">Dein Konto wurde aufgrund verdächtiger Aktivitäten gesperrt. Bitte wende dich an den Kundendienst für zusätzliche Informationen.</string>
 	<string key="mm_loginservices_warning_title">ACHTUNG</string>
 	<string key="mm_loginservices_warning_BannedOffensiveName">Dein Charaktername wurde als unangemessen gekennzeichnet. Beim nächsten Einloggen wirst du gebeten, ihn umzubenennen.</string>
-	<string key="mm_loginservices_warning_BannedOffensiveCompanyName">Dein Kompaniename wurde als unangemessen gekennzeichnet und wurde angepasst. Du kannst die Kompanie im Kompanie-UI-Fenster [F4] umbenennen.</string>
+	<string key="mm_loginservices_warning_BannedOffensiveCompanyName">Dein Kompaniename wurde als unangemessen gekennzeichnet und wurde angepasst. Du kannst sie jederzeit im Kompanie-Menü umbenennen.</string>
 	<string key="mm_loginservices_warning_BannedHacking">Du wurdest gemeldet. Grund: Hacking.</string>
 	<string key="mm_loginservices_warning_BannedCheating">Du wurdest gemeldet. Grund: Cheaten.</string>
-	<string key="mm_loginservices_warning_BannedExploit">Du wurdest gemeldet. Grund: Unerlaubtes Ausnutzen von Bugs</string>
-	<string key="mm_loginservices_warning_BannedBotting">Du wurdest gemeldet. Grund: Bot-Nutzung</string>
+	<string key="mm_loginservices_warning_BannedExploit">Du wurdest gemeldet. Grund: Unerlaubtes Ausnutzen von Bugs.</string>
+	<string key="mm_loginservices_warning_BannedBotting">Du wurdest gemeldet. Grund: Bot-Nutzung.</string>
 	<string key="mm_loginservices_warning_BannedAbusive">Du wurdest gemeldet. Grund: Anstößiges Verhalten.</string>
-	<string key="mm_loginservices_warning_BannedLeaking">Du wurdest gemeldet. Grund: Veröffentlichen/Verbreiten geschützter Inhalte</string>
-	<string key="mm_loginservices_warning_BannedDisruptive">Du wurdest gemeldet. Grund: Störendes Verhalten</string>
+	<string key="mm_loginservices_warning_BannedLeaking">Du wurdest gemeldet. Grund: Veröffentlichen/Verbreiten geschützter Inhalte.</string>
+	<string key="mm_loginservices_warning_BannedDisruptive">Du wurdest gemeldet. Grund: Störendes Verhalten.</string>
 	<string key="mm_loginservices_warning_OffensiveName">Dein Charaktername wurde als unangemessen gekennzeichnet. Beim nächsten Einloggen wirst du gebeten, ihn umzubenennen.</string>
-	<string key="mm_loginservices_warning_OffensiveCompanyName">Dein Kompaniename wurde als unangemessen gekennzeichnet und wurde angepasst. Du kannst die Kompanie im Kompanie-UI-Fenster [F4] umbenennen.</string>
+	<string key="mm_loginservices_warning_OffensiveCompanyName">Dein Kompaniename wurde als unangemessen gekennzeichnet und wurde angepasst. Du kannst sie jederzeit im Kompanie-Menü umbenennen.</string>
 	<string key="mm_loginservices_warning_Cheating">Du wurdest gemeldet. Grund: Cheaten.</string>
-	<string key="mm_loginservices_warning_Exploit">Du wurdest gemeldet. Grund: Unerlaubtes Ausnutzen von Bugs</string>
-	<string key="mm_loginservices_warning_Botting">Du wurdest gemeldet. Grund: Bot-Nutzung</string>
+	<string key="mm_loginservices_warning_Exploit">Du wurdest gemeldet. Grund: Unerlaubtes Ausnutzen von Bugs.</string>
+	<string key="mm_loginservices_warning_Botting">Du wurdest gemeldet. Grund: Bot-Nutzung.</string>
 	<string key="mm_loginservices_warning_Abusive">Du wurdest gemeldet. Grund: Anstößiges Verhalten.</string>
-	<string key="mm_loginservices_warning_Leaking">Du wurdest gemeldet. Grund: Veröffentlichen/Verbreiten geschützter Inhalte</string>
-	<string key="mm_loginservices_warning_Disruptive">Du wurdest gemeldet. Grund: Störendes Verhalten</string>
-	<string key="mm_loginservices_CreateCharacterFailed">Charaktererstellung fehlgeschlagen</string>
+	<string key="mm_loginservices_warning_Leaking">Du wurdest gemeldet. Grund: Veröffentlichen/Verbreiten geschützter Inhalte.</string>
+	<string key="mm_loginservices_warning_Disruptive">Du wurdest gemeldet. Grund: Störendes Verhalten.</string>
+	<string key="mm_loginservices_CreateCharacterFailed">Charakter konnte nicht erstellt werden.</string>
 	<string key="mm_loginservices_CreateCharacterRateLimit">Du hast in letzter Zeit zu viele Charaktere erstellt. Bitte versuche es nochmal nach &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{duration}&lt;/font&gt; (&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{dateandtime}&lt;/font&gt;).</string>
 	<string key="mm_loginservices_UnknownCharacter">Anmeldung verweigert: Der Charakter existiert nicht.</string>
 	<string key="mm_loginservices_InactiveCharacter">Anmeldung verweigert: Der Charakter wurde gelöscht.</string>
@@ -147,7 +147,7 @@
 	<string key="mm_csdkerr_transport_version_mismatch">Der Server verwendet eine inkompatible Netzwerkversion. Bitte aktualisiere das Spiel und versuche es erneut.</string>
 	<string key="mm_csdkerr_transport_security_error">Es konnte keine sichere Verbindung hergestellt werden. Bitte starte das Spiel neu oder aktualisiere es und versuche es erneut.</string>
 	<string key="mm_csdkerr_registration_failed">Keine Verbindung zum Server möglich.</string>
-	<string key="mm_csdkerr_registration_unmarshal_error">Datenfehler auf dem Server, suche bitte nach einem aktuellen Patch.</string>
+	<string key="mm_csdkerr_registration_unmarshal_error">Datenfehler auf dem Server. Suche bitte nach einem aktuellen Patch.</string>
 	<string key="mm_csdkerr_disconnect">Unerwartete Servertrennnung. Verbindungsaufbau ...</string>
 	<string key="mm_csdkerr_replicate_timeout">Zeitüberschreitung während der Statussynchronisierung.</string>
 	<string key="mm_csdkerr_registration_failed_retry">Serververbindung fehlgeschlagen</string>
@@ -166,7 +166,7 @@
 	<string key="mm_rejected_Terrain_Not_Loaded">Server nicht bereit: Das Gelände muss erst geladen werden.</string>
 	<string key="mm_rejected_Capitals_Not_Ready">Server nicht bereit: Basen werden errichtet.</string>
 	<string key="mm_rejected_Duplicate_Connection">Der Spieler ist bereits verbunden.</string>
-	<string key="mm_rejected_No_Persistence_Spawner">Serverfehler: Es ist nicht möglich, die Charakterwiederherstellung anzufordern.</string>
+	<string key="mm_rejected_No_Persistence_Spawner">Server noch nicht spielbereit. Erneuter Versuch …</string>
 	<string key="mm_rejected_Character_Restore_Failure">Serverfehler: Die Charakterwiederherstellung ist fehlgeschlagen.</string>
 	<string key="mm_rejected_Character_Persist_Failure">Serverfehler: Die Charaktererhaltung ist fehlgeschlagen.</string>
 	<string key="mm_rejected_Character_Service_Failure">Serverfehler: Die Charakterdaten konnten nicht geladen werden.</string>
@@ -239,7 +239,7 @@
 	<string key="mm_queuewithcappedestimate">Erwartete Dauer: &gt; {time}\nWarteschlangenposition: {rank}\n{status}</string>
 	<string key="mm_queueestimateunknown">Erwartete Dauer: Unbekannt\nWarteschlangenposition: Unbekannt\n{status}</string>
 	<string key="mm_queuepopuptitle">Warte auf Anmeldung …</string>
-	<string key="mm_queuejoinfailed">Beitritt zur Login-Warteschlange fehlgeschlagen. Versuche es bitte erneut.</string>
+	<string key="mm_queuejoinfailed">Anmeldung nicht möglich, da sich zu viele Spieler in der Warteschlange befinden. Versuche es später erneut.</string>
 	<string key="mm_queuerefresherror">Fehler bei der Verbindung zur Login-Warteschlange. Erneuter Versuch …</string>
 	<string key="mm_server_message_title">Servernachricht</string>
 	<string key="mm_waitingforaoi_title">Warte auf Beitritt …</string>
@@ -302,6 +302,7 @@
 	<string key="loadingScreen_ingame_ancient07">LÄDT</string>
 	<string key="loadingScreen_ingame_ancient08">LÄDT</string>
 	<string key="ui_cantDropMissionItem">Missionsgegenstände können nicht abgelegt werden.</string>
+	<string key="ui_cantDropLockedItem">Gesperrte Gegenstände können nicht abgelegt werden.</string>
 	<string key="ui_navmenu_progression">CHARAKTER</string>
 	<string key="ui_bio">Biografie</string>
 	<string key="ui_attributes">Attribute</string>
@@ -323,18 +324,18 @@
 	<string key="ui_pvp_track_nexttrack" rel_version="PvP_Rewards_Track">Serie abschließen</string>
 	<string key="ui_pvp_track_nexttrack_popup_title" rel_version="PvP_Rewards_Track">Nächste Serie starten</string>
 	<string key="azoth_salt_currency_name" rel_version="PvP_Rewards_Track">Azoth-Salz</string>
-	<string key="azoth_salt_currency_desc" rel_version="PvP_Rewards_Track">Azoth-Salz ist die Währung, mit der du aus der PvP-Serie Belohnungen erhältst. Du erhältst Azoth-Salz, indem du dich an Kriegen, am Außenpostensturm, in 3-gg-3-Arenen, an PvP-Missionen beteiligst oder in der offenen Welt Spieler im PvP besiegst und EP dazugewinnst, während du markiert bist.\n\nDu kannst höchstens 100.000 Azoth-Salz besitzen.</string>
+	<string key="azoth_salt_currency_desc" rel_version="PvP_Rewards_Track">Azoth-Salz ist die Währung, mit der du aus der PvP-Serie Belohnungen erhältst. Du erhältst Azoth-Salz, indem du dich an Kriegen, am Außenpostensturm, in 3-gegen-3-Arenen oder an PvP-Missionen beteiligst oder in der offenen Welt Spieler im PvP besiegst und EP dazugewinnst, während du markiert bist.\n\nDu kannst höchstens 100.000 Azoth-Salz besitzen.</string>
 	<string key="azoth_salt_currency_lost" rel_version="PvP_Rewards_Track">Azoth-Salz-Verlust</string>
-	<string key="azoth_salt_lost_tooltip" rel_version="PvP_Rewards_Track">Azoth-Salz ist die Währung, mit der du aus der PvP-Serie Belohnungen erhältst. Du erhältst Azoth-Salz, indem du dich an Kriegen, am Außenpostensturm, in 3-gg-3-Arenen und an PvP-Missionen beteiligst oder in der offenen Welt Spieler im PvP besiegst und EP dazugewinnst, während du markiert bist.\n\nFür die Tötung von Spielern, die über 10 Stufen unter deiner aktuellen Stufen stehen, gibt es kein Azoth-Salz und außerdem muss das Opfer mehr als 10 Minuten lang markiert gewesen sein.</string>
+	<string key="azoth_salt_lost_tooltip" rel_version="PvP_Rewards_Track">Azoth-Salz ist die Währung, mit der du aus der PvP-Serie Belohnungen erhältst. Du erhältst Azoth-Salz, indem du dich an Kriegen, am Außenpostensturm, in 3-gegen-3-Arenen oder an PvP-Missionen beteiligst oder in der offenen Welt Spieler im PvP besiegst und EP dazugewinnst, während du markiert bist.\n\nFür die Tötung von Spielern, die über 10 Stufen unter deiner aktuellen Stufen stehen, gibt es kein Azoth-Salz und außerdem muss das Opfer mehr als 10 Minuten lang markiert gewesen sein.</string>
 	<string key="ui_pvp_track_tut_title1" rel_version="PvP_Rewards_Track">PvP-Belohnungsserie</string>
 	<string key="ui_pvp_track_tut_title2" rel_version="PvP_Rewards_Track">PvP-EP</string>
 	<string key="ui_pvp_track_tut_title3" rel_version="PvP_Rewards_Track">Azoth-Salz</string>
 	<string key="ui_pvp_track_tut_title4" rel_version="PvP_Rewards_Track">Belohnungen</string>
 	<string key="ui_pvp_track_tut_desc1" rel_version="PvP_Rewards_Track">Die PvP-Belohnungsserien enthalten PvP-spezifische Belohnungen für PvP-Aktivitäten im Spiel. Du kannst die Belohnungsserien abschließen und erneut angehen, um andere Belohnungen zu erhalten. Je mehr Belohnungsserien du absolvierst, desto hochwertiger werden die Belohnungen.</string>
 	<string key="ui_pvp_track_tut_desc2" rel_version="PvP_Rewards_Track">Erziele Fortschritte in der Belohnungsserie, indem du PvP-Missionen abschließt, dich am Außenpostensturm, an Kriegen oder der Eroberung von Festungen beteiligst, andere Spieler besiegst, oder 3-gegen-3-Arenen absolvierst.</string>
-	<string key="ui_pvp_track_tut_desc3" rel_version="PvP_Rewards_Track">Azoth-Salz ist die Währung, mit der du aus der PvP-Serie Belohnungen erhältst. Du erhältst Azoth-Salz, indem du dich an Kriegen, am Außenpostensturm, in 3-gg-3-Arenen, an PvP-Missionen beteiligst oder Spieler in der offenen Welt im PvP besiegst und EP dazugewinnst, während du markiert bist.</string>
+	<string key="ui_pvp_track_tut_desc3" rel_version="PvP_Rewards_Track">Azoth-Salz ist die Währung, mit der du aus der PvP-Serie Belohnungen erhältst. Du erhältst Azoth-Salz, indem du dich an Kriegen, am Außenpostensturm, in 3-gegen-3-Arenen oder PvP-Missionen beteiligst oder Spieler in der offenen Welt im PvP besiegst und EP dazugewinnst, während du markiert bist.</string>
 	<string key="ui_pvp_track_tut_desc4" rel_version="PvP_Rewards_Track">Wähle aus einzigartigen Belohnungen aus, darunter prestigeträchtige Rüstungen und Waffen, Emotes, Währung und Verbrauchsgegenstände.</string>
-	<string key="ui_pvp_track_leveltext" rel_version="PvP_Rewards_Track">&lt;font color="#FFFFFF" &gt;{level}&lt;/font&gt; Serien abgeschlossen</string>
+	<string key="ui_pvp_track_leveltext" rel_version="PvP_Rewards_Track">Abgeschlossene Serien: &lt;font color="#FFFFFF" &gt;{level}&lt;/font&gt;</string>
 	<string key="ui_pvp_track_leveltext_header" rel_version="PvP_Rewards_Track">Abgeschlossene Serien: &lt;font face="lyshineui/fonts/CaslonAnt.font" color="#FFFFFF"&gt;{level}&lt;/font&gt;</string>
 	<string key="ui_pvp_track_current_balance" rel_version="PvP_Rewards_Track">Guthaben: &lt;font color={colorBalance} face="lyshineui/fonts/CaslonAnt.font"&gt;{balance}&lt;/font&gt;</string>
 	<string key="ui_pvp_track_addtopool" rel_version="PvP_Rewards_Track">+ Belohnungsauswahl</string>
@@ -359,9 +360,10 @@
 	<string key="ui_leaderboards_reward_category_title" rel_version="Feature_Leaderboards">{category}</string>
 	<string key="ui_leaderboards_skip_all" rel_version="Feature_Leaderboards">Alles überspringen</string>
 	<string key="ui_leaderboards_claim" rel_version="Feature_Leaderboards">Beanspruchen</string>
-	<string key="ui_leaderboards_season" rel_version="Feature_Leaderboards">Quartal</string>
+	<string key="ui_leaderboards_season" rel_version="Feature_Leaderboards">Saison</string>
 	<string key="ui_leaderboards_month" rel_version="Feature_Leaderboards">Monat</string>
 	<string key="ui_leaderboards_week" rel_version="Feature_Leaderboards">Woche</string>
+	<string key="ui_leaderboards_quarter" rel_version="Feature_Leaderboards">Quartal</string>
 	<string key="ui_leaderboard_filter_filters" rel_version="Feature_Leaderboards">Filter</string>
 	<string key="ui_leaderboard_filter_faction" rel_version="Feature_Leaderboards">Fraktion</string>
 	<string key="ui_leaderboard_filter_company" rel_version="Feature_Leaderboards">Kompanie</string>
@@ -374,9 +376,9 @@
 	<string key="ui_leaderboard_filter_duration" rel_version="Feature_Leaderboards">Zeitraum</string>
 	<string key="ui_leaderboard_filter_weekly" rel_version="Feature_Leaderboards">Wöchentlich</string>
 	<string key="ui_leaderboard_filter_monthly" rel_version="Feature_Leaderboards">Monatlich</string>
-	<string key="ui_leaderboard_filter_seasonal" rel_version="Feature_Leaderboards">Vierteljährlich</string>
+	<string key="ui_leaderboard_filter_seasonal" rel_version="Feature_Leaderboards">Saison</string>
 	<string key="ui_leaderboard_filter_thisduration" rel_version="Feature_Leaderboards">{duration} (Aktuell)</string>
-	<string key="ui_leaderboard_filter_leaderboard" rel_version="Feature_Leaderboards">Bestenlisten</string>
+	<string key="ui_leaderboard_filter_leaderboard" rel_version="Feature_Leaderboards">Bestenliste</string>
 	<string key="ui_leaderboard_filter_viewonly" rel_version="Feature_Leaderboards">Nur betrachten</string>
 	<string key="ui_leaderboard_category_expedition" rel_version="Feature_Leaderboards">Expedition</string>
 	<string key="ui_leaderboard_crafting" rel_version="Feature_Leaderboards">Herstellung</string>
@@ -389,13 +391,24 @@
 	<string key="ui_leaderboard_top_number" rel_version="Feature_Leaderboards">TOP\n{number}</string>
 	<string key="ui_leaderboard_ladder_number" rel_version="Feature_Leaderboards">{number}</string>
 	<string key="ui_leaderboard_rewards" rel_version="Feature_Leaderboards">Belohnungen</string>
-	<string key="ui_leaderboard_rewards_week_count" rel_version="Feature_Leaderboards">Woche {number}</string>
-	<string key="ui_leaderboard_rewards_month_count" rel_version="Feature_Leaderboards">Monat {number}</string>
-	<string key="ui_leaderboard_rewards_season_count" rel_version="Feature_Leaderboards">{number}. Quartal</string>
-	<string key="ui_leaderboard_rewards_this_week_count" rel_version="Feature_Leaderboards">Woche {number} (Aktuelle Woche)</string>
-	<string key="ui_leaderboard_rewards_this_month_count" rel_version="Feature_Leaderboards">Monat {number} (Aktueller Monat)</string>
-	<string key="ui_leaderboard_rewards_this_season_count" rel_version="Feature_Leaderboards">Quartal {number} (Aktuelles Quartal)</string>
-	<string key="ui_leaderboard_rewards_season" rel_version="Feature_Leaderboards">Dieses Quartal</string>
+	<string key="ui_leaderboard_rewards_week_count" rel_version="Feature_Leaderboards">Woche &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{number}&lt;/font&gt;</string>
+	<string key="ui_leaderboard_rewards_month_count" rel_version="Feature_Leaderboards">Monat &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{number}&lt;/font&gt;</string>
+	<string key="ui_leaderboard_rewards_season_count" rel_version="Feature_Leaderboards">Saison &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{number}&lt;/font&gt;</string>
+	<string key="ui_leaderboard_rewards_quarter_count" rel_version="Feature_Leaderboards">Quartal &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{number}&lt;/font&gt;</string>
+	<string key="ui_leaderboard_rewards_this_week_count" rel_version="Feature_Leaderboards">Woche &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{number}&lt;/font&gt; (Aktuell)</string>
+	<string key="ui_leaderboard_rewards_this_month_count" rel_version="Feature_Leaderboards">Monat &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{number}&lt;/font&gt; (Aktuell)</string>
+	<string key="ui_leaderboard_rewards_this_season_count" rel_version="Feature_Leaderboards">Saison &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{number}&lt;/font&gt; (Aktuell)</string>
+	<string key="ui_leaderboard_rewards_this_quarter_count" rel_version="Feature_Leaderboards">Quartal &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{number}&lt;/font&gt; (Aktuell)</string>
+	<string key="ui_leaderboard_rewards_this_week_count_plain" rel_version="Feature_Leaderboards">Woche {number} (Aktuell)</string>
+	<string key="ui_leaderboard_rewards_this_month_count_plain" rel_version="Feature_Leaderboards">Monat {number} (Aktuell)</string>
+	<string key="ui_leaderboard_rewards_this_season_count_plain" rel_version="Feature_Leaderboards">Saison {number} (Aktuell)</string>
+	<string key="ui_leaderboard_rewards_this_quarter_count_plain" rel_version="Feature_Leaderboards">Quartal {number} (Aktuell)</string>
+	<string key="ui_leaderboard_rewards_pending_rewards" rel_version="Feature_Leaderboards">{rotation} {number} ist zu Ende. Belohnungen werden verteilt in:</string>
+	<string key="ui_leaderboard_rewards_week_count_plain" rel_version="Feature_Leaderboards">Woche {number}</string>
+	<string key="ui_leaderboard_rewards_month_count_plain" rel_version="Feature_Leaderboards">Monat {number}</string>
+	<string key="ui_leaderboard_rewards_season_count_plain" rel_version="Feature_Leaderboards">Saison {number}</string>
+	<string key="ui_leaderboard_rewards_quarter_count_plain" rel_version="Feature_Leaderboards">Quartal {number}</string>
+	<string key="ui_leaderboard_rewards_season" rel_version="Feature_Leaderboards">Diese Saison</string>
 	<string key="ui_leaderboard_rewards_owned" rel_version="Feature_Leaderboards">In Besitz</string>
 	<string key="ui_leaderboard_rewards_earned" rel_version="Feature_Leaderboards">Verdient</string>
 	<string key="ui_leaderboard_rewards_personalbest" rel_version="Feature_Leaderboards">Persönlicher Bestwert</string>
@@ -436,7 +449,7 @@
 	<string key="ui_weaving">Weberei</string>
 	<string key="ui_stonecutting">Steinmetzkunst</string>
 	<string key="ui_masonry">Steinmetztisch</string>
-	<string key="ui_masonry_desc">Hier kannst du Gestein veredeln.</string>
+	<string key="ui_masonry_desc">Hier kannst du Stein und Edelsteine veredeln.</string>
 	<string key="ui_smelter">Schmelzofen</string>
 	<string key="ui_smelter_desc">Hier kannst du Metalle veredeln.</string>
 	<string key="ui_building">Demnächst verfügbar</string>
@@ -446,14 +459,14 @@
 	<string key="ui_azoth_staff_tradeskill">Azoth-Stab</string>
 	<string key="ui_skinning">Spurenlesen und Häuten</string>
 	<string key="ui_fishing">Angeln</string>
-	<string key="ui_fishing_equip_action">Angelmodus ein-/ausschalten</string>
+	<string key="ui_fishing_equip_action">Angelmodus</string>
 	<string key="ui_fishing_action">Auswerfen/Beißen lassen/Einholen</string>
-	<string key="ui_fishing_reset_action">Auswerfen zurücksetzen/Angeln beenden</string>
+	<string key="ui_fishing_reset_action">Auswerfen zurücksetzen/Verlassen</string>
 	<string key="ui_performances" rel_version="Feature_MusicalPerformances">Vorführungen</string>
-	<string key="ui_performances_toggle" rel_version="Feature_MusicalPerformances">Vorführungsmodus ein-/ausschalten</string>
+	<string key="ui_performances_toggle" rel_version="Feature_MusicalPerformances">Vorführungsmodus</string>
 	<string key="ui_performances_start" rel_version="Feature_MusicalPerformances">Vorführung starten</string>
 	<string key="ui_performances_equip" rel_version="Feature_MusicalPerformances">Notenblatt ausrüsten</string>
-	<string key="ui_performances_invite" rel_version="Feature_MusicalPerformances">Zu Vorführung einladen</string>
+	<string key="ui_performances_invite" rel_version="Feature_MusicalPerformances">Einladen</string>
 	<string key="ui_camping">Zeltlager</string>
 	<string key="ui_tracking">Demnächst verfügbar</string>
 	<string key="ui_exploring">Demnächst verfügbar</string>
@@ -469,10 +482,11 @@
 	<string key="ui_arcana">Arkana</string>
 	<string key="ui_cooking">Kochkunst</string>
 	<string key="ui_engineering">Ingenieurskunst</string>
-	<string key="ui_engineering_desc">Stelle Fernkampfwaffen und Möbel her.</string>
+	<string key="ui_engineering_desc">Hier kannst du Fernkampfwaffen, Munition, Werkzeuge, Musikinstrumente und Möbel herstellen.</string>
 	<string key="ui_kiln">Gips-Ofen</string>
 	<string key="ui_kiln_desc">Gips kann hier hergestellt und veredelt werden.</string>
 	<string key="ui_furnishing">Tischlerei</string>
+	<string key="ui_source_craftable">Herstellbar</string>
 	<string key="ui_wildernesssurvival" comment="wilderness survival is not a trainable skill and is always equal to the character's level, so just tell users it's their character level for simplicity">Charakter</string>
 	<string key="ui_weaponsmithing_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Weaponsmithing Post Cap</string>
 	<string key="ui_armoring_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Armoring Post Cap</string>
@@ -492,8 +506,9 @@
 	<string key="ui_logging_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Logging Post Cap</string>
 	<string key="ui_harvesting_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Harvesting Post Cap</string>
 	<string key="ui_musician_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Musician Post Cap</string>
+	<string key="ui_seasonpass" rel_version="Feature_Seasons_Rewards">Saisonpass</string>
 	<string key="ui_decline">Ablehnen</string>
-	<string key="ui_name_your_avatar">Gib deinem Charakter einen Namen</string>
+	<string key="ui_name_your_avatar">Charaktername</string>
 	<string key="ui_portrait_title">Mein Porträt</string>
 	<string key="mm_connection_error_title">Verbindungsfehler</string>
 	<string key="mm_retry">Erneut versuchen</string>
@@ -504,23 +519,23 @@
 	<string key="crafting_cannot_repair">Reparatur nicht möglich</string>
 	<string key="crafting_requires_station">Das geht nur an der richtigen Werkstelle.</string>
 	<string key="crafting_repair_no_requirements">Für die Reparatur dieses Gegenstands gelten keine Voraussetzungen.</string>
-	<string key="inv_salvage_tooltip_fixed" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {numItems} {itemName}. {gemMessage}</string>
-	<string key="inv_salvage_tooltip_fixed_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {numItems} {itemName} und {numRepairParts} Ersatzteile. {gemMessage}</string>
-	<string key="inv_salvage_tooltip_fixed_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {numItems}x {itemName} und {coinAmount}. {gemMessage}</string>
-	<string key="inv_salvage_tooltip_fixed_repairparts_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {numItems}x {itemName}, {numRepairParts} Ersatzteile und {coinAmount}. {gemMessage}</string>
-	<string key="inv_salvage_tooltip_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {numRepairParts} Ersatzteile. {gemMessage}</string>
-	<string key="inv_salvage_tooltip_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {coinAmount}. {gemMessage}</string>
-	<string key="inv_salvage_tooltip_repairparts_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {numRepairParts} Ersatzteile und {coinAmount}. {gemMessage}</string>
-	<string key="inv_salvage_tooltip_range" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {min}-{max} {itemName}. {gemMessage}</string>
-	<string key="inv_salvage_tooltip_range_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {min}-{max} {itemName} und {numRepairParts} Ersatzteile. {gemMessage}</string>
-	<string key="inv_salvage_tooltip_range_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {min}x-{max}x {itemName} und {coinAmount}. {gemMessage}</string>
-	<string key="inv_salvage_tooltip_range_repairparts_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {min}x-{max}x {itemName}, {numRepairParts} Ersatzteile und {coinAmount}. {gemMessage}</string>
+	<string key="inv_salvage_tooltip_fixed" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Du erhältst {numItems} {itemName}. {gemMessage}</string>
+	<string key="inv_salvage_tooltip_fixed_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Du erhältst {numItems} {itemName} und {numRepairParts} Ersatzteile. {gemMessage}</string>
+	<string key="inv_salvage_tooltip_fixed_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Du erhältst {numItems} {itemName} und {coinAmount}. {gemMessage}</string>
+	<string key="inv_salvage_tooltip_fixed_repairparts_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Du erhältst {numItems} {itemName}, {numRepairParts} Ersatzteile und {coinAmount}. {gemMessage}</string>
+	<string key="inv_salvage_tooltip_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Du erhältst {numRepairParts} Ersatzteile. {gemMessage}</string>
+	<string key="inv_salvage_tooltip_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Du erhältst {coinAmount}. {gemMessage}</string>
+	<string key="inv_salvage_tooltip_repairparts_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Du erhältst {numRepairParts} Ersatzteile und {coinAmount}. {gemMessage}</string>
+	<string key="inv_salvage_tooltip_range" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Du erhältst {min}–{max} {itemName}. {gemMessage}</string>
+	<string key="inv_salvage_tooltip_range_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Du erhältst {min}–{max} {itemName} und {numRepairParts} Ersatzteile. {gemMessage}</string>
+	<string key="inv_salvage_tooltip_range_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Du erhältst {min}–{max} {itemName} und {coinAmount}. {gemMessage}</string>
+	<string key="inv_salvage_tooltip_range_repairparts_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Du erhältst {min}–{max} {itemName}, {numRepairParts} Ersatzteile und {coinAmount}. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_gemmessage" comment="this will come after a previous sentence and should have a space in front">Es besteht die Möglichkeit, den eingesetzten Edelstein zurückzuerhalten.</string>
-	<string key="inv_salvage_tooltip_additional_item" comment="This only applies to fishing when there is a chance to receive additional items.">Zusätzliche Gegenstände wie {itemName} können ebenfalls erworben werden.</string>
+	<string key="inv_salvage_tooltip_additional_item" comment="This only applies when there is a chance to receive additional items.">\n\nAußerdem besteht eine Chance, {itemName} zu erhalten.</string>
 	<string key="inv_salvage_tooltip_recipe">Durch das Zerlegen dieses Gegenstands lernst du den Plan: {recipeName}.</string>
 	<string key="inv_salvage_tooltip_recipe_known">Du kennst die Rezeptur "{recipeName}" bereits.</string>
 	<string key="inv_salvage_tertiary_recipe">Plan: {recipeName}</string>
-	<string key="inv_salvage_tooltip_songpage" rel_version="Feature_MusicalPerformances">Durch das Zerlegen dieses Gegenstands lernst du ein Notenblatt für {songName} auf dem folgenden Instrument: {instrumentName}.</string>
+	<string key="inv_salvage_tooltip_songpage" rel_version="Feature_MusicalPerformances">Lerne ein Notenblatt für {songName} auf dem folgenden Instrument: {instrumentName}.</string>
 	<string key="inv_salvage_tooltip_songpage_known" rel_version="Feature_MusicalPerformances">Du kennst dieses Notenblatt für {songName} auf dem folgenden Instrument: {instrumentName}.</string>
 	<string key="inv_salvage_tertiary_songpage" rel_version="Feature_MusicalPerformances">Notenblatt für {songName}</string>
 	<string key="minspec_warning_requirements_title">Mindestanf.-Warnung</string>

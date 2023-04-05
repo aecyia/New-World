@@ -1,8 +1,8 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="ui_overencumbered_sprint">¡No puedes saltar/atravesar! {Reason}</string>
-	<string key="ui_overencumbered_dodge">¡No puedes esquivar! {Reason}</string>
-	<string key="ui_overencumbered_ability">¡No puedes usar habilidades! {Motivo}</string>
-	<string key="ui_overencumbered_move">¡No puedes moverte! {Motivo}</string>
+	<string key="ui_overencumbered_sprint">{Reason}: No puedes saltar ni atravesar.</string>
+	<string key="ui_overencumbered_dodge">{Reason}: No puedes esquivar.</string>
+	<string key="ui_overencumbered_ability">{Reason}: No puedes usar habilidades.</string>
+	<string key="ui_overencumbered_move">{Reason}: No puedes moverte.</string>
 	<string key="ui_all_outposts">Todos los puestos</string>
 	<string key="ui_pvp_error_no_faction">Únete a una facción para activar la marca de PvP.</string>
 	<string key="ui_pvp_error_no_sanctuary_flag_off">Ve a un santuario para activar tu marca de PvP.</string>
@@ -12,7 +12,7 @@
 	<string key="ui_perks">Beneficios</string>
 	<string key="ui_numperks">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{amount}&lt;/font&gt; Beneficios</string>
 	<string key="ui_numperk">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{amount}&lt;/font&gt; Beneficio</string>
-	<string key="ui_item_equipped">¡Objeto equipado!</string>
+	<string key="ui_item_equipped">Objeto equipado</string>
 	<string key="ui_select_ability">Seleccionar habilidad</string>
 	<string key="ui_gathering_speed_bonus">Bonificación de velocidad de recolección</string>
 	<string key="ui_casting_distance_bonus">Bonificación de distancia de lanzamiento de hechizos</string>
@@ -20,7 +20,7 @@
 	<string key="ui_harvestable_at">Se puede recolectar en</string>
 	<string key="ui_tracked_at">Rastreado en</string>
 	<string key="ui_plus_amount">+{amount}</string>
-	<string key="ui_pvp_missions_failed">¡Fallaron las misiones PvP!</string>
+	<string key="ui_pvp_missions_failed">Misiones PvP fallidas</string>
 	<string key="settlement_fast_travel_cost_detail">Costo de base: {cost}\nCosto adicional por la distancia: {distanceCost}\nCosto adicional por la carga: {encumbranceCost}\nDescuento de la facción ({factionPct} %): {factionDiscount}\nDescuento de la compañía ({companyPct} %): {companyDiscount}</string>
 	<string key="ui_discovered_and_tracked_at">Descubierto y rastreado en</string>
 	<string key="ui_discoverable_and_trackable_at">Se puede descubrir y rastrear en</string>

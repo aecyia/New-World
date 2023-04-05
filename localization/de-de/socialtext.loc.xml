@@ -27,7 +27,7 @@
 	<string key="ui_chat_name_faction_upper_3" comment="Covenant">FRAKTION (BÜNDNIS)</string>
 	<string key="ui_chat_name_whisper">Direktnachricht</string>
 	<string key="ui_chat_name_whisper_upper">DIREKT</string>
-	<string key="ui_chat_name_whisperto">Direktnachricht an</string>
+	<string key="ui_chat_name_whisperto">Direktnachricht</string>
 	<string key="ui_chat_name_officer">Konsul</string>
 	<string key="ui_chat_name_officer_upper">KONSUL</string>
 	<string key="ui_chat_name_recruitment">Rekrutierung</string>
@@ -177,7 +177,7 @@
 	<string key="ui_p2ptrading_failmessage_somethingwentwrong">Es ist etwas schiefgegangen.</string>
 	<string key="ui_p2ptrading_failmessage_atmaxcurrency">Ein oder mehr Spieler werden die Talerkapazität überschreiten.</string>
 	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_level">Du musst mindestens Stufe {level} erreicht haben, um handeln zu können.</string>
-	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_probation">Dein Konto muss mindestens {time} Tage alt sein, um handeln zu können.</string>
+	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_probation">Dein Konto muss mindestens {time} alt sein, um handeln zu können.</string>
 	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_free">Kaufe New World, um handeln zu können.</string>
 	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_generic">Du kannst nicht handeln.</string>
 	<string key="ui_p2ptrading_trade_completed">Handel abgeschlossen.</string>
@@ -212,10 +212,10 @@
 	<string key="ui_conquest_in">Eroberung beginnt in</string>
 	<string key="ui_online_num">{Num} online</string>
 	<string key="ui_noFriend_header">Deine Freundesliste ist leer.</string>
-	<string key="ui_noFriend_body">Du kannst Freunde mithilfe ihres Spielernamens hinzufügen.</string>
-	<string key="ui_noOnline_group_header">Es ist niemand online, den du einladen könntest.</string>
+	<string key="ui_noFriend_body">Du kannst Freunde mithilfe ihres Spielernamens suchen.</string>
+	<string key="ui_noOnline_group_header">Es sind keine Freunde online, die du in die Gruppe einladen könntest.</string>
 	<string key="ui_noOnline_group_body">Du kannst Spieler mithilfe ihres Spielernamens suchen.</string>
-	<string key="ui_noOnline_guild_header">Du hast keine Freunde, die du einladen könntest.</string>
+	<string key="ui_noOnline_guild_header">Du hast keine Freunde, die du in die Kompanie einladen könntest.</string>
 	<string key="ui_noOnline_guild_body">Du kannst Spieler mithilfe ihres Spielernamens suchen.</string>
 	<string key="ui_report_player">Spieler melden</string>
 	<string key="ui_report">Melden</string>
@@ -330,15 +330,15 @@
 	<string key="ui_waypoint_set_to_ping">Wegpunktping eingerichtet</string>
 	<string key="ui_chat_name_raid">Armee</string>
 	<string key="ui_chat_name_raid_upper">ARMEE</string>
-	<string key="ui_error_raidchat" comment="An error when you try to talk in raid chat">Du bist in keiner Armee</string>
+	<string key="ui_error_raidchat" comment="An error when you try to talk in raid chat">Du bist in keiner Armee.</string>
 	<string key="ui_error_guildchat" comment="An error when you try to talk in guild chat">Du bist nicht Mitglied einer Kompanie.</string>
-	<string key="ui_notification_pvp_enabled">PVP AKTIVIERT</string>
-	<string key="ui_notification_pvp_flagged">FÜR PVP MARKIERT</string>
-	<string key="ui_notification_pvp_disabled">PVP DEAKTIVIERT</string>
-	<string key="ui_notification_pvp_countdown">PVP-SCHUTZZEIT GESTARTET</string>
-	<string key="ui_notification_pvp_flagging_title">FÜR PVP MARKIEREN</string>
+	<string key="ui_notification_pvp_enabled">PvP-Markierung aktiviert.</string>
+	<string key="ui_notification_pvp_flagged">Für PvP markiert.</string>
+	<string key="ui_notification_pvp_disabled">PvP-Markierung deaktiviert.</string>
+	<string key="ui_notification_pvp_countdown">PvP-Schutzzeit gestartet.</string>
+	<string key="ui_notification_pvp_flagging_title">Für PvP markieren.</string>
 	<string key="ui_notification_pvp_flagging_message">Wenn du für PvP markiert bist, kannst du andere markierte Spieler angreifen. Aber Vorsicht, andere markierte Spieler können das auch. Du hast einen &lt;font color="#ff9900"&gt;EP-Bonus von 10 %&lt;/font&gt; erhalten, während du markiert warst. \n\nNach Verlassen der Zufluchtsstätte hast du &lt;font color="#ff9900"&gt;30 Sekunden Schutzzeit&lt;/font&gt;.</string>
-	<string key="ui_notification_pvp_track_flagging_message">Wenn du für PvP markiert bist, kannst du andere für PvP markierte Spieler angreifen sowie von diesen angegriffen werden. &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Für Tötungen kannst du Azoth-Salz und PvP-EP bekommen.&lt;/font&gt; Du hast einen &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;EP-Bonus von 10 %&lt;/font&gt; erhalten, während du markiert bist. \n\nNach Verlassen der Zufluchtsstätte hast du &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;30 Sekunden Schutzzeit&lt;/font&gt;.</string>
+	<string key="ui_notification_pvp_track_flagging_message">Wenn du für PvP markiert bist, kannst du andere für PvP markierte Spieler angreifen sowie von diesen angegriffen werden. &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Für Tötungen kannst du Azoth-Salz und PvP-EP bekommen.&lt;/font&gt; \nAußerdem erhältst du folgende Boni: &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;+10 % EP, +3 % Sammlerglück, +1 % Globales Glück&lt;/font&gt; für große und Elitetruhen. \n\nNach Verlassen der Zufluchtsstätte hast du &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;30 Sekunden Schutzzeit&lt;/font&gt;.</string>
 	<string key="ui_notification_pvp_checkpoint_unlocked">Kontrollpunkt freigeschaltet</string>
 	<string key="ui_notification_pvp_reward_options">Belohnungsoptionen ansehen</string>
 	<string key="ui_pvp_rank_name_0">Rekrut</string>
@@ -351,16 +351,23 @@
 	<string key="ui_signup_selected">Ausgewählt</string>
 	<string key="ui_signup_standby">Auf Abruf</string>
 	<string key="ui_signup_not_signed_up">Nicht angemeldet</string>
+	<string key="ui_signup_cannot_pvpinactive" rel_version="Feature_Alt_Character_Protection">Du kannst dich für diesen Krieg nicht eintragen, weil du PvP-inaktiv bist.</string>
 	<string key="ui_signup_attacker" comment="You are on the Attacking Team">Angreifer</string>
 	<string key="ui_signup_defender" comment="You are on the Defending Team">Verteidiger</string>
 	<string key="ui_signup_siege_window">Belagerungszeitfenster</string>
 	<string key="ui_signup_starts_in" comment="Time until the siege starts">Beginnt in</string>
 	<string key="ui_signup_your_status">Dein Status</string>
-	<string key="ui_signup_restriction_cooldown">Aufgrund der Kriegsabklingzeit zählst du, sofern ausgewählt, als Söldner.\nDu kannst als Nichtsöldner an Kriegen teilnehmen, nach: {cooldownTime}</string>
+	<string key="ui_signup_restriction_cooldown">Aufgrund der Kriegsabklingzeit zählst du, sofern ausgewählt, als Söldner.\nDu kannst als Nichtsöldner an Kriegen teilnehmen nach: {cooldownTime}.</string>
+	<string key="ui_signup_restriction_pvpinactive_tooltip" rel_version="Feature_Alt_Character_Protection" comment="">Du kannst dich zurzeit für keinen Krieg eintragen, weil du PvP-inaktiv bist.</string>
+	<string key="ui_signup_restriction_pvpinactive_title" rel_version="Feature_Alt_Character_Protection" comment="">Eintragen nicht möglich</string>
+	<string key="ui_signup_restriction_pvpinactive" rel_version="Feature_Alt_Character_Protection" comment="">Du kannst dich zurzeit für keinen Krieg eintragen, weil du PvP-inaktiv bist. Wechsel zu PvP-aktiv möglich in: {cooldownTime}.</string>
+	<string key="ui_signup_restriction_pvpinactive_canswitch" rel_version="Feature_Alt_Character_Protection" comment="">Du kannst dich zurzeit für keinen Krieg eintragen, weil du PvP-inaktiv bist. Wenn du dieses Konto auf PvP-aktiv umschaltest, werden alle anderen Charaktere, die du auf diesem Server hast, PvP-inaktiv. \nMöchtest du zu PvP-aktiv wechseln?</string>
+	<string key="ui_made_pvp_inactive_title" rel_version="Feature_Alt_Character_Protection">PVP inaktiv</string>
+	<string key="ui_made_pvp_inactive_body" rel_version="Feature_Alt_Character_Protection">Dieser Charakter ist jetzt PvP-inaktiv in dieser Welt. Alle Kriegsanmeldungen und PvP-Missionen wurden aufgegeben.</string>
 	<string key="ui_no_permission_alert">Dir fehlt die notwendige Berechtigung, um Benachrichtigungen zu versenden.</string>
 	<string key="ui_title_alpha">Gründer</string>
 	<string key="ui_title_preorder">Expedition eins</string>
-	<string key="ui_player_levelup_chat">{playerName} hat &lt;font color="#ff9900"&gt;Stufe {param0}&lt;/font&gt; erreicht</string>
+	<string key="ui_player_levelup_chat">{playerName} hat &lt;font color="#ff9900"&gt;Stufe {param0}&lt;/font&gt; erreicht.</string>
 	<string key="ui_transcribed_audio_message">(STT) {transcribedMessage}</string>
 	<string key="ui_company_upkeep_due">Kompanie- und Fraktionsboni sind deaktiviert, da die herrschende Kompanie von {territoryName} die Gebietsunterhaltungskosten nicht bezahlt hat.</string>
 	<string key="ui_territory_bonus_active_buffs">Aktive Boni</string>
@@ -407,8 +414,8 @@
 	<string key="ui_social">Soziales</string>
 	<string key="ui_social_friends">Freunde</string>
 	<string key="ui_social_twitch">Twitch</string>
-	<string key="ui_streamermode_enabled">Bitte-nicht-stören-Modus aktiviert</string>
-	<string key="ui_streamermode_disabled">Bitte-nicht-stören-Modus deaktiviert</string>
+	<string key="ui_streamermode_enabled">Bitte-nicht-stören-Modus aktiviert.</string>
+	<string key="ui_streamermode_disabled">Bitte-nicht-stören-Modus deaktiviert.</string>
 	<string key="ui_moderation">Moderation</string>
 	<string key="ui_group_moderation">Gruppenmoderation</string>
 	<string key="ui_subarmy_join_tooltip">Sende eine Anfrage an den Streamer, um seiner Abonnentenarmee beizutreten.</string>

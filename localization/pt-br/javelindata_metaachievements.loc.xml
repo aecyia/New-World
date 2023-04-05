@@ -311,6 +311,9 @@
 	<string key="ui_metachievement_pve_bossKill_dungeon_ennead_title" rel_version="Expedition_BrimstoneSands_00">Dois pelo Preço de Um</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_ennead_title_SHE" rel_version="Expedition_BrimstoneSands_00">Dois pelo Preço de Um</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_ennead_title_THEY" rel_version="Expedition_BrimstoneSands_00">Dois pelo Preço de Um</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_forge_title" rel_version="Expedition_GreatCleave_01">Fritou Demais</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_forge_title_SHE" rel_version="Expedition_GreatCleave_01">Fritou Demais</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_forge_title_THEY" rel_version="Expedition_GreatCleave_01">Fritou Demais</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1" rel_version="Feature_Dungeon_Mutators">Empolgação na Escavação</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1_SHE" rel_version="Feature_Dungeon_Mutators">Empolgação na Escavação</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1_THEY" rel_version="Feature_Dungeon_Mutators">Empolgação na Escavação</string>
@@ -365,6 +368,12 @@
 	<string key="ui_metachievement_pve_mutate_dungeon_ennead_title2" rel_version="Expedition_BrimstoneSands_00">Fortuna e Glória</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_ennead_title2_SHE" rel_version="Expedition_BrimstoneSands_00">Fortuna e Glória</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_ennead_title2_THEY" rel_version="Expedition_BrimstoneSands_00">Fortuna e Glória</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_forge_title1" rel_version="Expedition_GreatCleave_01">Deixe o Metal Derretido</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_forge_title1_SHE" rel_version="Expedition_GreatCleave_01">Deixe o Metal Derretido</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_forge_title1_THEY" rel_version="Expedition_GreatCleave_01">Deixe o Metal Derretido</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_forge_title2" rel_version="Expedition_GreatCleave_01">Cabeça de Ferro</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_forge_title2_SHE" rel_version="Expedition_GreatCleave_01">Cabeça de Ferro</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_forge_title2_THEY" rel_version="Expedition_GreatCleave_01">Cabeça de Ferro</string>
 	<string key="ui_metachievement_pve_arenascompleted_title">Luta de Arena</string>
 	<string key="ui_metachievement_pve_arenascompleted_title_SHE">Luta de Arena</string>
 	<string key="ui_metachievement_pve_arenascompleted_title_THEY">Luta de Arena</string>
@@ -512,7 +521,7 @@
 	<string key="ui_metachievement_pvp_pvparenawin_sixth_desc" rel_version="Feature_PVP_Arenas">Vença 500 partidas na Arena.</string>
 	<string key="ui_metachievement_pvp_pvparenawin_seventh_desc" rel_version="Feature_PVP_Arenas">Vença 1.000 partidas na Arena.</string>
 	<string key="ui_metachievement_pvp_pvparenawin_flawless_desc" rel_version="Feature_PVP_Arenas">Vença 100 partidas da Arena sem que nenhum membro da sua equipe seja abatido.</string>
-	<string key="ui_meta_achievements_pvp_rewards_track" rel_version="PvP_Rewards_Track">Trilha de Recompensas PvP</string>
+	<string key="ui_meta_achievements_pvp_rewards_track" rel_version="PvP_Rewards_Track">Ranque PvP</string>
 	<string key="ui_metachievement_PvP_rank_title1" rel_version="PvP_Rewards_Track">É Aço</string>
 	<string key="ui_metachievement_PvP_rank_title2" rel_version="PvP_Rewards_Track">Peguei um Bronze</string>
 	<string key="ui_metachievement_PvP_rank_title3" rel_version="PvP_Rewards_Track">Desempenho Prateado</string>
@@ -534,6 +543,18 @@
 	<string key="ui_metachievement_questarc_brightwood_title3">Coração das Trevas</string>
 	<string key="ui_metachievement_questarc_brightwood_title3_SHE">Coração das Trevas</string>
 	<string key="ui_metachievement_questarc_brightwood_title3_THEY">Coração das Trevas</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title1">Madeiras Brilhantes, Passado Sombrio</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title1_SHE">Madeiras Brilhantes, Passado Sombrio</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title1_THEY">Madeiras Brilhantes, Passado Sombrio</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title2">Coração das Trevas</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title2_SHE">Coração das Trevas</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title2_THEY">Coração das Trevas</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title3">Sofrimento dos Perdidos</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title3_SHE">Sofrimento dos Perdidos</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title3_THEY">Sofrimento dos Perdidos</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title4">Obra-Prima de Cores</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title4_SHE">Obra-Prima de Cores</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title4_THEY">Obra-Prima de Cores</string>
 	<string key="ui_metachievement_questarc_brimstonesands_title1" rel_version="Territory_Brimstone_Sands">A Expedição Maldita</string>
 	<string key="ui_metachievement_questarc_brimstonesands_title1_SHE" rel_version="Territory_Brimstone_Sands">A Expedição Maldita</string>
 	<string key="ui_metachievement_questarc_brimstonesands_title1_THEY" rel_version="Territory_Brimstone_Sands">A Expedição Maldita</string>
@@ -672,6 +693,18 @@
 	<string key="ui_metachievement_questarc_weaversfen_title3">Oferenda ao Pântano</string>
 	<string key="ui_metachievement_questarc_weaversfen_title3_SHE">Oferenda ao Pântano</string>
 	<string key="ui_metachievement_questarc_weaversfen_title3_THEY">Oferenda ao Pântano</string>
+	<string key="ui_metachievement_quest_weaversfen_crone">Velha Cadáver Capturada!</string>
+	<string key="ui_metachievement_quest_weaversfen_crone_SHE">Velha Cadáver Capturada!</string>
+	<string key="ui_metachievement_quest_weaversfen_crone_THEY">Velha Cadáver Capturada!</string>
+	<string key="ui_metachievement_quest_weaversfen_prison">Fuga da Prisão</string>
+	<string key="ui_metachievement_quest_weaversfen_prison_SHE">Fuga da Prisão</string>
+	<string key="ui_metachievement_quest_weaversfen_prison_THEY">Fuga da Prisão</string>
+	<string key="ui_metachievement_quest_weaversfen_color">Um Banho de Cores Locais</string>
+	<string key="ui_metachievement_quest_weaversfen_color_SHE">Um Banho de Cores Locais</string>
+	<string key="ui_metachievement_quest_weaversfen_color_THEY">Um Banho de Cores Locais</string>
+	<string key="ui_metachievement_quest_weaversfen_bear">Insuportável</string>
+	<string key="ui_metachievement_quest_weaversfen_bear_SHE">Insuportável</string>
+	<string key="ui_metachievement_quest_weaversfen_bear_THEY">Insuportável</string>
 	<string key="ui_metachievement_questarc_windsward_title1">Dissecando a Corrupção</string>
 	<string key="ui_metachievement_questarc_windsward_title1_SHE">Dissecando a Corrupção</string>
 	<string key="ui_metachievement_questarc_windsward_title1_THEY">Dissecando a Corrupção</string>
@@ -714,228 +747,232 @@
 	<string key="ui_metachievement_questtotals_title5">Eu Estava Mesmo Esperando uma Missão pelo Graal</string>
 	<string key="ui_metachievement_questtotals_title5_SHE">Eu Estava Mesmo Esperando uma Busca pelo Graal</string>
 	<string key="ui_metachievement_questtotals_title5_THEY">Eu Estava Mesmo Esperando uma Busca pelo Graal</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_title">Vitória na Dinastia</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_title_SHE">Vitória na Dinastia</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_title_THEY">Vitória na Dinastia</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_title">Medalhista da Dinastia</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_title_SHE">Medalhista da Dinastia</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_title_THEY">Medalhista da Dinastia</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_title">Vitória na Criação</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_title_SHE">Vitória na Criação</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_title_THEY">Vitória na Criação</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_title">Medalhista da Criação</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_title_SHE">Medalhista da Criação</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_title_THEY">Medalhista da Criação</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_title">Vitória em Lázaro</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_title_SHE">Vitória em Lázaro</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_title_THEY">Vitória em Lázaro</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_title">Medalhista de Lázaro</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_title_SHE">Medalhista de Lázaro</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_title_THEY">Medalhista de Lázaro</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_score_title">Vitória na Tempestade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_score_title_SHE">Vitória na Tempestade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_score_title_THEY">Vitória na Tempestade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_score_title">Medalhista da Tempestade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_score_title_SHE">Medalhista da Tempestade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_score_title_THEY">Medalhista da Tempestade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_score_title">Vitória em Cracas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_score_title_SHE">Vitória em Cracas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_score_title_THEY">Vitória em Cracas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_score_title">Medalhista de Cracas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_score_title_SHE">Medalhista de Cracas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_score_title_THEY">Medalhista de Cracas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_score_title">Vitória na Enéade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_score_title_SHE">Vitória na Enéade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_score_title_THEY">Vitória na Enéade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_score_title">Medalhista da Enéade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_score_title_SHE">Medalhista da Enéade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_score_title_THEY">Medalhista da Enéade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_score_title">Vitória nas Profundezas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_score_title_SHE">Vitória nas Profundezas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_score_title_THEY">Vitória nas Profundezas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_score_title">Medalhista das Profundezas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_score_title_SHE">Medalhista das Profundezas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_score_title_THEY">Medalhista das Profundezas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_score_title">Vitória em Túmulos de Pedra Estelar</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_score_title_SHE">Vitória em Túmulos de Pedra Estelar</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_score_title_THEY">Vitória em Túmulos de Pedra Estelar</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_score_title">Medalhista de Túmulos de Pedra Estelar</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_score_title_SHE">Medalhista de Túmulos de Pedra Estelar</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_score_title_THEY">Medalhista de Túmulos de Pedra Estelar</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_title">Velocista da Dinastia</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_title_SHE">Velocista da Dinastia</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_title_THEY">Velocista da Dinastia</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_title">Medalhista de Velocidade da Dinastia</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_title_SHE">Medalhista de Velocidade da Dinastia</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_title_THEY">Medalhista de Velocidade da Dinastia</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_title">Velocista da Criação</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_title_SHE">Velocista da Criação</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_title_THEY">Velocista da Criação</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_title">Medalhista de Velocidade da Criação</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_title_SHE">Medalhista de Velocidade da Criação</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_title_THEY">Medalhista de Velocidade da Criação</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_time_title">Velocista de Lázaro</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_time_title_SHE">Velocista de Lázaro</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1__title_THEY">Velocista de Lázaro</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_title">Medalhista de Velocidade de Lázaro</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_title_SHE">Medalhista de Velocidade de Lázaro</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_title_THEY">Medalhista de Velocidade de Lázaro</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_time_title">Velocista da Tempestade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_time_title_SHE">Velocista da Tempestade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_time_title_THEY">Velocista da Tempestade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_time_title">Medalhista de Velocidade da Tempestade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_time_title_SHE">Medalhista de Velocidade da Tempestade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_time_title_THEY">Medalhista de Velocidade da Tempestade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_time_title">Velocista de Cracas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_time_title_SHE">Velocista de Cracas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_time_title_THEY">Velocista de Cracas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_time_title">Medalhista de Velocidade de Cracas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_time_title_SHE">Medalhista de Velocidade de Cracas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_time_title_THEY">Medalhista de Velocidade de Cracas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_time_title">Velocista da Enéade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_time_title_SHE">Velocista da Enéade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_time_title_THEY">Velocista da Enéade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_time_title">Medalhista de Velocidade da Enéade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_time_title_SHE">Medalhista de Velocidade da Enéade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_time_title_THEY">Medalhista de Velocidade da Enéade</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_time_title">Velocista das Profundezas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_time_title_SHE">Velocista das Profundezas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_time_title_THEY">Velocista das Profundezas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_time_title">Medalhista de Velocidade das Profundezas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_time_title_SHE">Medalhista de Velocidade das Profundezas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_time_title_THEY">Medalhista de Velocidade das Profundezas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_time_title">Velocista da Pedra Estelar</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_time_title_SHE">Velocista da Pedra Estelar</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_time_title_THEY">Velocista da Pedra Estelar</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_time_title">Medalhista de Velocidade da Pedra Estelar</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_time_title_SHE">Medalhista de Velocidade da Pedra Estelar</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_time_title_THEY">Medalhista de Velocidade da Pedra Estelar</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top1_completion_title">Vitória na Rainha Sereia</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top1_completion_title_SHE">Vitória na Rainha Sereia</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top1_completion_title_THEY">Vitória na Rainha Sereia</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top10_completion_title">Medalhista da Rainha Sereia</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top10_completion_title_SHE">Medalhista da Rainha Sereia</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top10_completion_title_THEY">Medalhista da Rainha Sereia</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_title">Vitória em Lagoas Eternas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_title_SHE">Vitória em Lagoas Eternas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_title_THEY">Vitória em Lagoas Eternas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_title">Medalhista de Lagoas Eternas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_title_SHE">Medalhista de Lagoas Eternas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_title_THEY">Medalhista de Lagoas Eternas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_title">Vitória na Fenda Monoica</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_title_SHE">Vitória na Fenda Monoica</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_title_THEY">Vitória na Fenda Monoica</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_title">Medalhista da Fenda Monoica</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_title_SHE">Medalhista da Fenda Monoica</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_title_THEY">Medalhista da Fenda Monoica</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_title">Vitória na Influência</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_title_SHE">Vitória na Influência</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_title_THEY">Vitória na Influência</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_title">Medalhista da Influência</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_title_SHE">Medalhista da Influência</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_title_THEY">Medalhista da Influência</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top1_score_title">Vitória nas Investidas do Posto Avançado</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top1_score_title_SHE">Vitória nas Investidas do Posto Avançado</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top1_score_title_THEY">Vitória nas Investidas do Posto Avançado</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top10_score_title">Medalhista das Investidas do Posto Avançado</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top10_score_title_SHE">Medalhista das Investidas do Posto Avançado</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top10_score_title_THEY">Medalhista das Investidas do Posto Avançado</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top1_score_title">Vitória nas Incursões</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top1_score_title_SHE">Vitória nas Incursões</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top1_score_title_THEY">Vitória nas Incursões</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top10_score_title">Medalhista das Incursões</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top10_score_title_SHE">Medalhista das Incursões</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top10_score_title_THEY">Medalhista das Incursões</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top1_score_title">Vitória nas Invasões</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top1_score_title_SHE">Vitória nas Invasões</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top1_score_title_THEY">Vitória nas Invasões</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top10_score_title">Medalhista das Invasões</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top10_score_title_SHE">Medalhista das Invasões</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top10_score_title_THEY">Medalhista das Invasões</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top1_score_title">Vitória nas Guerras</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top1_score_title_SHE">Vitória nas Guerras</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top1_score_title_THEY">Vitória nas Guerras</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top10_score_title">Medalhista das Guerras</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top10_score_title_SHE">Medalhista das Guerras</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top10_score_title_THEY">Medalhista das Guerras</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_title">Vitória em Ilhéus do Sabre</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_title_SHE">Vitória em Ilhéus do Sabre</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_title_THEY">Vitória em Ilhéus do Sabre</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_title">Medalhista de Ilhéus do Sabre</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_title_SHE">Medalhista de Ilhéus do Sabre</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_title_THEY">Medalhista de Ilhéus do Sabre</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top1_company_score_title">Vitória em Primeira Luz</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top1_company_score_title_SHE">Vitória em Primeira Luz</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top1_company_score_title_THEY">Vitória em Primeira Luz</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top10_company_score_title">Medalhista de Primeira Luz</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top10_company_score_title_SHE">Medalhista de Primeira Luz</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top10_company_score_title_THEY">Medalhista de Primeira Luz</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top1_company_score_title">Vitória em Guardaventos</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top1_company_score_title_SHE">Vitória em Guardaventos</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top1_company_score_title_THEY">Vitória em Guardaventos</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top10_company_score_title">Medalhista de Guardaventos</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top10_company_score_title_SHE">Medalhista de Guardaventos</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top10_company_score_title_THEY">Medalhista de Guardaventos</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top1_company_score_title">Vitória em Águas Fétidas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top1_company_score_title_SHE">Vitória em Águas Fétidas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top1_company_score_title_THEY">Vitória em Águas Fétidas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top10_company_score_title">Medalhista de Águas Fétidas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top10_company_score_title_SHE">Medalhista de Águas Fétidas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top10_company_score_title_THEY">Medalhista de Águas Fétidas</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top1_company_score_title">Vitória em Queda Eterna</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top1_company_score_title_SHE">Vitória em Queda Eterna</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top1_company_score_title_THEY">Vitória em Queda Eterna</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top10_company_score_title">Medalhista de Queda Eterna</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top10_company_score_title_SHE">Medalhista de Queda Eterna</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top10_company_score_title_THEY">Medalhista de Queda Eterna</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_title">Vitória no Pântano do Tecelão</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_title_SHE">Vitória no Pântano do Tecelão</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_title_THEY">Vitória no Pântano do Tecelão</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_title">Medalhista de Pântano do Tecelão</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_title_SHE">Medalhista de Pântano do Tecelão</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_title_THEY">Medalhista de Pântano do Tecelão</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_title">Vitória na Costa Tempestuosa</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_title_SHE">Vitória na Costa Tempestuosa</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_title_THEY">Vitória na Costa Tempestuosa</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_title">Medalhista de Costa Tempestuosa</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_title_SHE">Medalhista de Costa Tempestuosa</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_title_THEY">Medalhista de Costa Tempestuosa</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_title">Vitória no Vale das Lamentações</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_title_SHE">Vitória no Vale das Lamentações</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_title_THEY">Vitória no Vale das Lamentações</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_title">Medalhista do Vale das Lamentações</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_title_SHE">Medalhista do Vale das Lamentações</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_title_THEY">Medalhista do Vale das Lamentações</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top1_company_score_title">Vitória no Bosque Reluzente</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top1_company_score_title_SHE">Vitória no Bosque Reluzente</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top1_company_score_title_THEY">Vitória no Bosque Reluzente</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top10_company_score_title">Medalhista do Bosque Reluzente</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top10_company_score_title_SHE">Medalhista do Bosque Reluzente</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top10_company_score_title_THEY">Medalhista do Bosque Reluzente</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_title">Vitória em Crosta de Ébano</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_title_SHE">Vitória em Crosta de Ébano</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_title_THEY">Vitória em Crosta de Ébano</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_title">Medalhista de Crosta de Ébano</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_title_SHE">Medalhista de Crosta de Ébano</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_title_THEY">Medalhista de Crosta de Ébano</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_bluffs_leaderboard_top1_company_score_title">Vitória em Falésias do Monarca</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_bluffs_leaderboard_top1_company_score_title_SHE">Vitória em Falésias do Monarca</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_bluffs_leaderboard_top1_company_score_title_THEY">Vitória em Falésias do Monarca</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_bluffs_leaderboard_top10_company_score_title">Medalhista de Falésias do Monarca</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_bluffs_leaderboard_top10_company_score_title_SHE">Medalhista de Falésias do Monarca</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_bluffs_leaderboard_top10_company_score_title_THEY">Medalhista de Falésias do Monarca</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_sands_leaderboard_top1_company_score_title">Vitória em Areias de Enxofre</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_sands_leaderboard_top1_company_score_title_SHE">Vitória em Areias de Enxofre</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_sands_leaderboard_top1_company_score_title_THEY">Vitória em Areias de Enxofre</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_sands_leaderboard_top10_company_score_title">Medalhista de Areias de Enxofre</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_sands_leaderboard_top10_company_score_title_SHE">Medalhista de Areias de Enxofre</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_sands_leaderboard_top10_company_score_title_THEY">Medalhista de Areias de Enxofre</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top1_company_score_title">Vitória no Controle de Territórios</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top1_company_score_title_SHE">Vitória no Controle de Territórios</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top1_company_score_title_THEY">Vitória no Controle de Territórios</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title">Medalhista do Controle de Territórios</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title_SHE">Medalhista do Controle de Territórios</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title_THEY">Medalhista do Controle de Territórios</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_title" rel_version="Feature_Leaderboards">Vitória na Dinastia</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_title_SHE" rel_version="Feature_Leaderboards">Vitória na Dinastia</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_title_THEY" rel_version="Feature_Leaderboards">Vitória na Dinastia</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_title" rel_version="Feature_Leaderboards">Medalhista da Dinastia</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista da Dinastia</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista da Dinastia</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_title" rel_version="Feature_Leaderboards">Vitória na Criação</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_title_SHE" rel_version="Feature_Leaderboards">Vitória na Criação</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_title_THEY" rel_version="Feature_Leaderboards">Vitória na Criação</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_title" rel_version="Feature_Leaderboards">Medalhista da Criação</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista da Criação</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista da Criação</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_title" rel_version="Feature_Leaderboards">Vitória em Lázaro</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_title_SHE" rel_version="Feature_Leaderboards">Vitória em Lázaro</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_title_THEY" rel_version="Feature_Leaderboards">Vitória em Lázaro</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_title" rel_version="Feature_Leaderboards">Medalhista de Lázaro</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista de Lázaro</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista de Lázaro</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_score_title" rel_version="Feature_Leaderboards">Vitória na Tempestade</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_score_title_SHE" rel_version="Feature_Leaderboards">Vitória na Tempestade</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_score_title_THEY" rel_version="Feature_Leaderboards">Vitória na Tempestade</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_score_title" rel_version="Feature_Leaderboards">Medalhista da Tempestade</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista da Tempestade</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista da Tempestade</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_score_title" rel_version="Feature_Leaderboards">Vitória em Cracas</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_score_title_SHE" rel_version="Feature_Leaderboards">Vitória em Cracas</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_score_title_THEY" rel_version="Feature_Leaderboards">Vitória em Cracas</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_score_title" rel_version="Feature_Leaderboards">Medalhista de Cracas</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista de Cracas</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista de Cracas</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_score_title" rel_version="Feature_Leaderboards">Vitória na Enéade</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_score_title_SHE" rel_version="Feature_Leaderboards">Vitória na Enéade</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_score_title_THEY" rel_version="Feature_Leaderboards">Vitória na Enéade</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_score_title" rel_version="Feature_Leaderboards">Medalhista da Enéade</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista da Enéade</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista da Enéade</string>
+	<string key="ui_metaachievement_leaderboard_forge_top5_score_title" rel_version="Expedition_GreatCleave_01">Vitória na Forja</string>
+	<string key="ui_metaachievement_leaderboard_forge_top25_score_title" rel_version="Expedition_GreatCleave_01">Medalhista da Forja</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_score_title" rel_version="Feature_Leaderboards">Vitória nas Profundezas</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_score_title_SHE" rel_version="Feature_Leaderboards">Vitória nas Profundezas</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_score_title_THEY" rel_version="Feature_Leaderboards">Vitória nas Profundezas</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_score_title" rel_version="Feature_Leaderboards">Medalhista das Profundezas</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista das Profundezas</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista das Profundezas</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_score_title" rel_version="Feature_Leaderboards">Vitória em Túmulos de Pedra Estelar</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_score_title_SHE" rel_version="Feature_Leaderboards">Vitória em Túmulos de Pedra Estelar</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_score_title_THEY" rel_version="Feature_Leaderboards">Vitória em Túmulos de Pedra Estelar</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_score_title" rel_version="Feature_Leaderboards">Medalhista de Túmulos de Pedra Estelar</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista de Túmulos de Pedra Estelar</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista de Túmulos de Pedra Estelar</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_title" rel_version="Feature_Leaderboards">Velocista da Dinastia</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_title_SHE" rel_version="Feature_Leaderboards">Velocista da Dinastia</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_title_THEY" rel_version="Feature_Leaderboards">Velocista da Dinastia</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_title" rel_version="Feature_Leaderboards">Medalhista de Velocidade da Dinastia</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_title_SHE" rel_version="Feature_Leaderboards">Medalhista de Velocidade da Dinastia</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_title_THEY" rel_version="Feature_Leaderboards">Medalhista de Velocidade da Dinastia</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_title" rel_version="Feature_Leaderboards">Velocista da Criação</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_title_SHE" rel_version="Feature_Leaderboards">Velocista da Criação</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_title_THEY" rel_version="Feature_Leaderboards">Velocista da Criação</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_title" rel_version="Feature_Leaderboards">Medalhista de Velocidade da Criação</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_title_SHE" rel_version="Feature_Leaderboards">Medalhista de Velocidade da Criação</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_title_THEY" rel_version="Feature_Leaderboards">Medalhista de Velocidade da Criação</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_time_title" rel_version="Feature_Leaderboards">Velocista de Lázaro</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_time_title_SHE" rel_version="Feature_Leaderboards">Velocista de Lázaro</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1__title_THEY" rel_version="Feature_Leaderboards">Velocista de Lázaro</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_title" rel_version="Feature_Leaderboards">Medalhista de Velocidade de Lázaro</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_title_SHE" rel_version="Feature_Leaderboards">Medalhista de Velocidade de Lázaro</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_title_THEY" rel_version="Feature_Leaderboards">Medalhista de Velocidade de Lázaro</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_time_title" rel_version="Feature_Leaderboards">Velocista da Tempestade</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_time_title_SHE" rel_version="Feature_Leaderboards">Velocista da Tempestade</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_time_title_THEY" rel_version="Feature_Leaderboards">Velocista da Tempestade</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_time_title" rel_version="Feature_Leaderboards">Medalhista de Velocidade da Tempestade</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_time_title_SHE" rel_version="Feature_Leaderboards">Medalhista de Velocidade da Tempestade</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_time_title_THEY" rel_version="Feature_Leaderboards">Medalhista de Velocidade da Tempestade</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_time_title" rel_version="Feature_Leaderboards">Velocista de Cracas</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_time_title_SHE" rel_version="Feature_Leaderboards">Velocista de Cracas</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_time_title_THEY" rel_version="Feature_Leaderboards">Velocista de Cracas</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_time_title" rel_version="Feature_Leaderboards">Medalhista de Velocidade de Cracas</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_time_title_SHE" rel_version="Feature_Leaderboards">Medalhista de Velocidade de Cracas</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_time_title_THEY" rel_version="Feature_Leaderboards">Medalhista de Velocidade de Cracas</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_time_title" rel_version="Feature_Leaderboards">Velocista da Enéade</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_time_title_SHE" rel_version="Feature_Leaderboards">Velocista da Enéade</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_time_title_THEY" rel_version="Feature_Leaderboards">Velocista da Enéade</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_time_title" rel_version="Feature_Leaderboards">Medalhista de Velocidade da Enéade</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_time_title_SHE" rel_version="Feature_Leaderboards">Medalhista de Velocidade da Enéade</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_time_title_THEY" rel_version="Feature_Leaderboards">Medalhista de Velocidade da Enéade</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_time_title" rel_version="Feature_Leaderboards">Velocista das Profundezas</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_time_title_SHE" rel_version="Feature_Leaderboards">Velocista das Profundezas</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_time_title_THEY" rel_version="Feature_Leaderboards">Velocista das Profundezas</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_time_title" rel_version="Feature_Leaderboards">Medalhista de Velocidade das Profundezas</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_time_title_SHE" rel_version="Feature_Leaderboards">Medalhista de Velocidade das Profundezas</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_time_title_THEY" rel_version="Feature_Leaderboards">Medalhista de Velocidade das Profundezas</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_time_title" rel_version="Feature_Leaderboards">Velocista da Pedra Estelar</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_time_title_SHE" rel_version="Feature_Leaderboards">Velocista da Pedra Estelar</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_time_title_THEY" rel_version="Feature_Leaderboards">Velocista da Pedra Estelar</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_time_title" rel_version="Feature_Leaderboards">Medalhista de Velocidade da Pedra Estelar</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_time_title_SHE" rel_version="Feature_Leaderboards">Medalhista de Velocidade da Pedra Estelar</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_time_title_THEY" rel_version="Feature_Leaderboards">Medalhista de Velocidade da Pedra Estelar</string>
+	<string key="ui_metaachievement_leaderboard_forge_top5_time_title" rel_version="Expedition_GreatCleave_01">Velocista da Forja</string>
+	<string key="ui_metaachievement_leaderboard_forge_top25_time_title" rel_version="Expedition_GreatCleave_01">Medalhista de Velocidade da Forja</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top1_completion_title" rel_version="Feature_Leaderboards">Vitória na Rainha Sereia</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top1_completion_title_SHE" rel_version="Feature_Leaderboards">Vitória na Rainha Sereia</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top1_completion_title_THEY" rel_version="Feature_Leaderboards">Vitória na Rainha Sereia</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top10_completion_title" rel_version="Feature_Leaderboards">Medalhista da Rainha Sereia</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top10_completion_title_SHE" rel_version="Feature_Leaderboards">Medalhista da Rainha Sereia</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top10_completion_title_THEY" rel_version="Feature_Leaderboards">Medalhista da Rainha Sereia</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_title" rel_version="Feature_Leaderboards">Vitória em Lagoas Eternas</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_title_SHE" rel_version="Feature_Leaderboards">Vitória em Lagoas Eternas</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_title_THEY" rel_version="Feature_Leaderboards">Vitória em Lagoas Eternas</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_title" rel_version="Feature_Leaderboards">Medalhista de Lagoas Eternas</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_title_SHE" rel_version="Feature_Leaderboards">Medalhista de Lagoas Eternas</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_title_THEY" rel_version="Feature_Leaderboards">Medalhista de Lagoas Eternas</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_title" rel_version="Feature_Leaderboards">Vitória na Fenda Monoica</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_title_SHE" rel_version="Feature_Leaderboards">Vitória na Fenda Monoica</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_title_THEY" rel_version="Feature_Leaderboards">Vitória na Fenda Monoica</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_title" rel_version="Feature_Leaderboards">Medalhista da Fenda Monoica</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_title_SHE" rel_version="Feature_Leaderboards">Medalhista da Fenda Monoica</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_title_THEY" rel_version="Feature_Leaderboards">Medalhista da Fenda Monoica</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_title" rel_version="Feature_Leaderboards">Vitória na Influência</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_title_SHE" rel_version="Feature_Leaderboards">Vitória na Influência</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_title_THEY" rel_version="Feature_Leaderboards">Vitória na Influência</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_title" rel_version="Feature_Leaderboards">Medalhista da Influência</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_title_SHE" rel_version="Feature_Leaderboards">Medalhista da Influência</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_title_THEY" rel_version="Feature_Leaderboards">Medalhista da Influência</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top1_score_title" rel_version="Feature_Leaderboards">Vitória nas Investidas do Posto Avançado</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top1_score_title_SHE" rel_version="Feature_Leaderboards">Vitória nas Investidas do Posto Avançado</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top1_score_title_THEY" rel_version="Feature_Leaderboards">Vitória nas Investidas do Posto Avançado</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top10_score_title" rel_version="Feature_Leaderboards">Medalhista das Investidas do Posto Avançado</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top10_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista das Investidas do Posto Avançado</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top10_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista das Investidas do Posto Avançado</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top1_score_title" rel_version="Feature_Leaderboards">Vitória nas Incursões</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top1_score_title_SHE" rel_version="Feature_Leaderboards">Vitória nas Incursões</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top1_score_title_THEY" rel_version="Feature_Leaderboards">Vitória nas Incursões</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top10_score_title" rel_version="Feature_Leaderboards">Medalhista das Incursões</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top10_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista das Incursões</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top10_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista das Incursões</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top1_score_title" rel_version="Feature_Leaderboards">Vitória nas Invasões</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top1_score_title_SHE" rel_version="Feature_Leaderboards">Vitória nas Invasões</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top1_score_title_THEY" rel_version="Feature_Leaderboards">Vitória nas Invasões</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top10_score_title" rel_version="Feature_Leaderboards">Medalhista das Invasões</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top10_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista das Invasões</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top10_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista das Invasões</string>
+	<string key="ui_metaachievement_leaderboard_war_top1_score_title" rel_version="Feature_Leaderboards">Vitória nas Guerras</string>
+	<string key="ui_metaachievement_leaderboard_war_top1_score_title_SHE" rel_version="Feature_Leaderboards">Vitória nas Guerras</string>
+	<string key="ui_metaachievement_leaderboard_war_top1_score_title_THEY" rel_version="Feature_Leaderboards">Vitória nas Guerras</string>
+	<string key="ui_metaachievement_leaderboard_war_top10_score_title" rel_version="Feature_Leaderboards">Medalhista das Guerras</string>
+	<string key="ui_metaachievement_leaderboard_war_top10_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista das Guerras</string>
+	<string key="ui_metaachievement_leaderboard_war_top10_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista das Guerras</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Vitória em Ilhéus do Sabre</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Vitória em Ilhéus do Sabre</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Vitória em Ilhéus do Sabre</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Medalhista de Ilhéus do Sabre</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista de Ilhéus do Sabre</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista de Ilhéus do Sabre</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Vitória em Primeira Luz</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Vitória em Primeira Luz</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Vitória em Primeira Luz</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Medalhista de Primeira Luz</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista de Primeira Luz</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista de Primeira Luz</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Vitória em Guardaventos</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Vitória em Guardaventos</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Vitória em Guardaventos</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Medalhista de Guardaventos</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista de Guardaventos</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista de Guardaventos</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Vitória em Águas Fétidas</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Vitória em Águas Fétidas</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Vitória em Águas Fétidas</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Medalhista de Águas Fétidas</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista de Águas Fétidas</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista de Águas Fétidas</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Vitória em Queda Eterna</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Vitória em Queda Eterna</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Vitória em Queda Eterna</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Medalhista de Queda Eterna</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista de Queda Eterna</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista de Queda Eterna</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Vitória no Pântano do Tecelão</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Vitória no Pântano do Tecelão</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Vitória no Pântano do Tecelão</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Medalhista de Pântano do Tecelão</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista de Pântano do Tecelão</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista de Pântano do Tecelão</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Vitória na Costa Tempestuosa</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Vitória na Costa Tempestuosa</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Vitória na Costa Tempestuosa</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Medalhista de Costa Tempestuosa</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista de Costa Tempestuosa</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista de Costa Tempestuosa</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Vitória no Vale das Lamentações</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Vitória no Vale das Lamentações</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Vitória no Vale das Lamentações</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Medalhista do Vale das Lamentações</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista do Vale das Lamentações</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista do Vale das Lamentações</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Vitória no Bosque Reluzente</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Vitória no Bosque Reluzente</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Vitória no Bosque Reluzente</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Medalhista do Bosque Reluzente</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista do Bosque Reluzente</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista do Bosque Reluzente</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Vitória em Crosta de Ébano</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Vitória em Crosta de Ébano</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Vitória em Crosta de Ébano</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Medalhista de Crosta de Ébano</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista de Crosta de Ébano</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista de Crosta de Ébano</string>
+	<string key="ui_metaachievement_monarchs_bluffs_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Vitória em Falésias do Monarca</string>
+	<string key="ui_metaachievement_monarchs_bluffs_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Vitória em Falésias do Monarca</string>
+	<string key="ui_metaachievement_monarchs_bluffs_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Vitória em Falésias do Monarca</string>
+	<string key="ui_metaachievement_monarchs_bluffs_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Medalhista de Falésias do Monarca</string>
+	<string key="ui_metaachievement_monarchs_bluffs_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista de Falésias do Monarca</string>
+	<string key="ui_metaachievement_monarchs_bluffs_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista de Falésias do Monarca</string>
+	<string key="ui_metaachievement_brimstone_sands_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Vitória em Areias de Enxofre</string>
+	<string key="ui_metaachievement_brimstone_sands_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Vitória em Areias de Enxofre</string>
+	<string key="ui_metaachievement_brimstone_sands_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Vitória em Areias de Enxofre</string>
+	<string key="ui_metaachievement_brimstone_sands_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Medalhista de Areias de Enxofre</string>
+	<string key="ui_metaachievement_brimstone_sands_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista de Areias de Enxofre</string>
+	<string key="ui_metaachievement_brimstone_sands_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista de Areias de Enxofre</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Vitória no Controle de Territórios</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Vitória no Controle de Territórios</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Vitória no Controle de Territórios</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Medalhista do Controle de Territórios</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Medalhista do Controle de Territórios</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Medalhista do Controle de Territórios</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_title1">Intendente Arcano</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_title1_SHE">Intendente Arcano</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_title1_THEY">Intendente Arcano</string>
@@ -2083,7 +2120,7 @@
 	<string key="ui_metachievement_territorystanding_brightwood_title2_THEY">Bosque Reluzente: Conquistando uma Boa Reputação</string>
 	<string key="ui_metachievement_territorystanding_brightwood_title3">Bosque Reluzente: Ajudar Por Si Só Já é uma Recompensa</string>
 	<string key="ui_metachievement_territorystanding_brightwood_title3_SHE">Bosque Reluzente: Ajudar Por Si Só Já é uma Recompensa</string>
-	<string key="ui_metachievement_territorystanding_brightwood_title3_THEY">Bosque Reluzente: Ajudar por Si Só Já é uma Recompensa</string>
+	<string key="ui_metachievement_territorystanding_brightwood_title3_THEY">Bosque Reluzente: Ajudar Por Si Só Já é uma Recompensa</string>
 	<string key="ui_metachievement_territorystanding_brightwood_title4">Bosque Reluzente: Quando Todo Mundo te Conhece pelo Nome</string>
 	<string key="ui_metachievement_territorystanding_brightwood_title4_SHE">Bosque Reluzente: Quando Todo Mundo te Conhece pelo Nome</string>
 	<string key="ui_metachievement_territorystanding_brightwood_title4_THEY">Bosque Reluzente: Quando Todo Mundo te Conhece pelo Nome</string>
@@ -2107,7 +2144,7 @@
 	<string key="ui_metachievement_territorystanding_cutlasskeys_title2_THEY">Ilhéus do Sabre: Conquistando uma Boa Reputação</string>
 	<string key="ui_metachievement_territorystanding_cutlasskeys_title3">Ilhéus do Sabre: Ajudar Por Si Só Já é uma Recompensa</string>
 	<string key="ui_metachievement_territorystanding_cutlasskeys_title3_SHE">Ilhéus do Sabre: Ajudar Por Si Só Já é uma Recompensa</string>
-	<string key="ui_metachievement_territorystanding_cutlasskeys_title3_THEY">Ilhéus do Sabre: Ajudar por Si Só Já é uma Recompensa</string>
+	<string key="ui_metachievement_territorystanding_cutlasskeys_title3_THEY">Ilhéus do Sabre: Ajudar Por Si Só Já é uma Recompensa</string>
 	<string key="ui_metachievement_territorystanding_cutlasskeys_title4">Ilhéus do Sabre: Quando Todo Mundo te Conhece pelo Nome</string>
 	<string key="ui_metachievement_territorystanding_cutlasskeys_title4_SHE">Ilhéus do Sabre: Quando Todo Mundo te Conhece pelo Nome</string>
 	<string key="ui_metachievement_territorystanding_cutlasskeys_title4_THEY">Ilhéus do Sabre: Quando Todo Mundo te Conhece pelo Nome</string>
@@ -2119,7 +2156,7 @@
 	<string key="ui_metachievement_territorystanding_ebonscale_title2_THEY">Crosta de Ébano: Conquistando uma Boa Reputação</string>
 	<string key="ui_metachievement_territorystanding_ebonscale_title3">Crosta de Ébano: Ajudar Por Si Só Já é uma Recompensa</string>
 	<string key="ui_metachievement_territorystanding_ebonscale_title3_SHE">Crosta de Ébano: Ajudar Por Si Só Já é uma Recompensa</string>
-	<string key="ui_metachievement_territorystanding_ebonscale_title3_THEY">Crosta de Ébano: Ajudar por Si Só Já é uma Recompensa</string>
+	<string key="ui_metachievement_territorystanding_ebonscale_title3_THEY">Crosta de Ébano: Ajudar Por Si Só Já é uma Recompensa</string>
 	<string key="ui_metachievement_territorystanding_ebonscale_title4">Crosta de Ébano: Quando Todo Mundo te Conhece pelo Nome</string>
 	<string key="ui_metachievement_territorystanding_ebonscale_title4_SHE">Crosta de Ébano: Quando Todo Mundo te Conhece pelo Nome</string>
 	<string key="ui_metachievement_territorystanding_ebonscale_title4_THEY">Crosta de Ébano: Quando Todo Mundo te Conhece pelo Nome</string>
@@ -2131,7 +2168,7 @@
 	<string key="ui_metachievement_territorystanding_everfall_title2_THEY">Queda Eterna: Conquistando uma Boa Reputação</string>
 	<string key="ui_metachievement_territorystanding_everfall_title3">Queda Eterna: Ajudar Por Si Só Já é uma Recompensa</string>
 	<string key="ui_metachievement_territorystanding_everfall_title3_SHE">Queda Eterna: Ajudar Por Si Só Já é uma Recompensa</string>
-	<string key="ui_metachievement_territorystanding_everfall_title3_THEY">Queda Eterna: Ajudar por Si Só Já é uma Recompensa</string>
+	<string key="ui_metachievement_territorystanding_everfall_title3_THEY">Queda Eterna: Ajudar Por Si Só Já é uma Recompensa</string>
 	<string key="ui_metachievement_territorystanding_everfall_title4">Queda Eterna: Quando Todo Mundo te Conhece pelo Nome</string>
 	<string key="ui_metachievement_territorystanding_everfall_title4_SHE">Queda Eterna: Quando Todo Mundo te Conhece pelo Nome</string>
 	<string key="ui_metachievement_territorystanding_everfall_title4_THEY">Queda Eterna: Quando Todo Mundo te Conhece pelo Nome</string>
@@ -2143,7 +2180,7 @@
 	<string key="ui_metachievement_territorystanding_firstlight_title2_THEY">Primeira Luz: Conquistando uma Boa Reputação</string>
 	<string key="ui_metachievement_territorystanding_firstlight_title3">Primeira Luz: Ajudar Por Si Só Já é uma Recompensa</string>
 	<string key="ui_metachievement_territorystanding_firstlight_title3_SHE">Primeira Luz: Ajudar Por Si Só Já é uma Recompensa</string>
-	<string key="ui_metachievement_territorystanding_firstlight_title3_THEY">Primeira Luz: Ajudar por Si Só Já é uma Recompensa</string>
+	<string key="ui_metachievement_territorystanding_firstlight_title3_THEY">Primeira Luz: Ajudar Por Si Só Já é uma Recompensa</string>
 	<string key="ui_metachievement_territorystanding_firstlight_title4">Primeira Luz: Quando Todo Mundo te Conhece pelo Nome</string>
 	<string key="ui_metachievement_territorystanding_firstlight_title4_SHE">Primeira Luz: Quando Todo Mundo te Conhece pelo Nome</string>
 	<string key="ui_metachievement_territorystanding_firstlight_title4_THEY">Primeira Luz: Quando Todo Mundo te Conhece pelo Nome</string>
@@ -2155,7 +2192,7 @@
 	<string key="ui_metachievement_territorystanding_monarch_title2_THEY">Falésias do Monarca: Conquistando uma Boa Reputação</string>
 	<string key="ui_metachievement_territorystanding_monarch_title3">Falésias do Monarca: Ajudar Por Si Só Já é uma Recompensa</string>
 	<string key="ui_metachievement_territorystanding_monarch_title3_SHE">Falésias do Monarca: Ajudar Por Si Só Já é uma Recompensa</string>
-	<string key="ui_metachievement_territorystanding_monarch_title3_THEY">Falésias do Monarca: Ajudar por Si Só Já é uma Recompensa</string>
+	<string key="ui_metachievement_territorystanding_monarch_title3_THEY">Falésias do Monarca: Ajudar Por Si Só Já é uma Recompensa</string>
 	<string key="ui_metachievement_territorystanding_monarch_title4">Falésias do Monarca: Quando Todo Mundo te Conhece pelo Nome</string>
 	<string key="ui_metachievement_territorystanding_monarch_title4_SHE">Falésias do Monarca: Quando Todo Mundo te Conhece pelo Nome</string>
 	<string key="ui_metachievement_territorystanding_monarch_title4_THEY">Falésias do Monarca: Quando Todo Mundo te Conhece pelo Nome</string>
@@ -2167,7 +2204,7 @@
 	<string key="ui_metachievement_territorystanding_mourningdale_title2_THEY">Vale das Lamentações: Conquistando uma Boa Reputação</string>
 	<string key="ui_metachievement_territorystanding_mourningdale_title3">Vale das Lamentações: Ajudar Por Si Só Já é uma Recompensa</string>
 	<string key="ui_metachievement_territorystanding_mourningdale_title3_SHE">Vale das Lamentações: Ajudar Por Si Só Já é uma Recompensa</string>
-	<string key="ui_metachievement_territorystanding_mourningdale_title3_THEY">Vale das Lamentações: Ajudar por Si Só Já é uma Recompensa</string>
+	<string key="ui_metachievement_territorystanding_mourningdale_title3_THEY">Vale das Lamentações: Ajudar Por Si Só Já é uma Recompensa</string>
 	<string key="ui_metachievement_territorystanding_mourningdale_title4">Vale das Lamentações: Quando Todo Mundo te Conhece pelo Nome</string>
 	<string key="ui_metachievement_territorystanding_mourningdale_title4_SHE">Vale das Lamentações: Quando Todo Mundo te Conhece pelo Nome</string>
 	<string key="ui_metachievement_territorystanding_mourningdale_title4_THEY">Vale das Lamentações: Quando Todo Mundo te Conhece pelo Nome</string>
@@ -2179,7 +2216,7 @@
 	<string key="ui_metachievement_territorystanding_reekwater_title2_THEY">Águas Fétidas: Conquistando uma Boa Reputação</string>
 	<string key="ui_metachievement_territorystanding_reekwater_title3">Águas Fétidas: Ajudar Por Si Só Já é uma Recompensa</string>
 	<string key="ui_metachievement_territorystanding_reekwater_title3_SHE">Águas Fétidas: Ajudar Por Si Só Já é uma Recompensa</string>
-	<string key="ui_metachievement_territorystanding_reekwater_title3_THEY">Águas Fétidas: Ajudar por Si Só Já é uma Recompensa</string>
+	<string key="ui_metachievement_territorystanding_reekwater_title3_THEY">Águas Fétidas: Ajudar Por Si Só Já é uma Recompensa</string>
 	<string key="ui_metachievement_territorystanding_reekwater_title4">Águas Fétidas: Quando Todo Mundo te Conhece pelo Nome</string>
 	<string key="ui_metachievement_territorystanding_reekwater_title4_SHE">Águas Fétidas: Quando Todo Mundo te Conhece pelo Nome</string>
 	<string key="ui_metachievement_territorystanding_reekwater_title4_THEY">Águas Fétidas: Quando Todo Mundo te Conhece pelo Nome</string>
@@ -2191,7 +2228,7 @@
 	<string key="ui_metachievement_territorystanding_restless_title2_THEY">Costas Tempestuosas: Conquistando uma Boa Reputação</string>
 	<string key="ui_metachievement_territorystanding_restless_title3">Costas Tempestuosas: Ajudar Por Si Só Já é uma Recompensa</string>
 	<string key="ui_metachievement_territorystanding_restless_title3_SHE">Costas Tempestuosas: Ajudar Por Si Só Já é uma Recompensa</string>
-	<string key="ui_metachievement_territorystanding_restless_title3_THEY">Costas Tempestuosas: Ajudar por Si Só Já é uma Recompensa</string>
+	<string key="ui_metachievement_territorystanding_restless_title3_THEY">Costas Tempestuosas: Ajudar Por Si Só Já é uma Recompensa</string>
 	<string key="ui_metachievement_territorystanding_restless_title4">Costas Tempestuosas: Quando Todo Mundo te Conhece pelo Nome</string>
 	<string key="ui_metachievement_territorystanding_restless_title4_SHE">Costas Tempestuosas: Quando Todo Mundo te Conhece pelo Nome</string>
 	<string key="ui_metachievement_territorystanding_restless_title4_THEY">Costas Tempestuosas: Quando Todo Mundo te Conhece pelo Nome</string>
@@ -2203,7 +2240,7 @@
 	<string key="ui_metachievement_territorystanding_weavers_title2_THEY">Pântano do Tecelão: Conquistando uma Boa Reputação</string>
 	<string key="ui_metachievement_territorystanding_weavers_title3">Pântano do Tecelão: Ajudar Por Si Só Já é uma Recompensa</string>
 	<string key="ui_metachievement_territorystanding_weavers_title3_SHE">Pântano do Tecelão: Ajudar Por Si Só Já é uma Recompensa</string>
-	<string key="ui_metachievement_territorystanding_weavers_title3_THEY">Pântano do Tecelão: Ajudar por Si Só Já é uma Recompensa</string>
+	<string key="ui_metachievement_territorystanding_weavers_title3_THEY">Pântano do Tecelão: Ajudar Por Si Só Já é uma Recompensa</string>
 	<string key="ui_metachievement_territorystanding_weavers_title4">Pântano do Tecelão: Quando Todo Mundo te Conhece pelo Nome</string>
 	<string key="ui_metachievement_territorystanding_weavers_title4_SHE">Pântano do Tecelão: Quando Todo Mundo te Conhece pelo Nome</string>
 	<string key="ui_metachievement_territorystanding_weavers_title4_THEY">Pântano do Tecelão: Quando Todo Mundo te Conhece pelo Nome</string>
@@ -2215,7 +2252,7 @@
 	<string key="ui_metachievement_territorystanding_windsward_title2_THEY">Guardaventos: Conquistando uma Boa Reputação</string>
 	<string key="ui_metachievement_territorystanding_windsward_title3">Guardaventos: Ajudar Por Si Só Já é uma Recompensa</string>
 	<string key="ui_metachievement_territorystanding_windsward_title3_SHE">Guardaventos: Ajudar Por Si Só Já é uma Recompensa</string>
-	<string key="ui_metachievement_territorystanding_windsward_title3_THEY">Guardaventos: Ajudar por Si Só Já é uma Recompensa</string>
+	<string key="ui_metachievement_territorystanding_windsward_title3_THEY">Guardaventos: Ajudar Por Si Só Já é uma Recompensa</string>
 	<string key="ui_metachievement_territorystanding_windsward_title4">Guardaventos: Quando Todo Mundo te Conhece pelo Nome</string>
 	<string key="ui_metachievement_territorystanding_windsward_title4_SHE">Guardaventos: Quando Todo Mundo te Conhece pelo Nome</string>
 	<string key="ui_metachievement_territorystanding_windsward_title4_THEY">Guardaventos: Quando Todo Mundo te Conhece pelo Nome</string>
@@ -2382,11 +2419,11 @@
 	<string key="ui_metachievement_weaponmastery_blunderbuss_title3_SHE">Isso É o Meu Pau de Fogo!</string>
 	<string key="ui_metachievement_weaponmastery_blunderbuss_title3_THEY">Isso É o Meu Pau de Fogo!</string>
 	<string key="ui_metachievement_weaponmastery_greatsword_title1">Lâmina de Confiança</string>
-	<string key="ui_metachievement_weaponmastery_greatsword_title1_SHE">Pode Confiar Nesta Lâmina</string>
-	<string key="ui_metachievement_weaponmastery_greatsword_title1_THEY">Pode Confiar Nesta Lâmina</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_title1_SHE">Lâmina de Confiança</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_title1_THEY">Lâmina de Confiança</string>
 	<string key="ui_metachievement_weaponmastery_greatsword_title2">O Poder Está na Mão que Empunha</string>
-	<string key="ui_metachievement_weaponmastery_greatsword_title2_SHE">O Poder Está Na Mão Que Empunha</string>
-	<string key="ui_metachievement_weaponmastery_greatsword_title2_THEY">O Poder Está Na Mão Que Empunha</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_title2_SHE">O Poder Está na Mão que Empunha</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_title2_THEY">O Poder Está na Mão que Empunha</string>
 	<string key="ui_metachievement_weaponmastery_greatsword_title3">Tudo Está Partido em Pedaços</string>
 	<string key="ui_metachievement_weaponmastery_greatsword_title3_SHE">Tudo Está Partido em Pedaços</string>
 	<string key="ui_metachievement_weaponmastery_greatsword_title3_THEY">Tudo Está Partido em Pedaços</string>
@@ -2814,8 +2851,8 @@
 	<string key="ui_metachievement_firstnamedcraft_blunderbuss_title_SHE">Confeccione um Bacamarte Nomeado</string>
 	<string key="ui_metachievement_firstnamedcraft_blunderbuss_title_THEY">Confeccione um Bacamarte Nomeado</string>
 	<string key="ui_metachievement_firstnamedcraft_greatsword_title">Confeccione uma Espada Grande Nomeada</string>
-	<string key="ui_metachievement_firstnamedcraft_greatsword_title_SHE">Confeccione Uma Espada Grande Nomeada</string>
-	<string key="ui_metachievement_firstnamedcraft_greatsword_title_THEY">Confeccione Uma Espada Grande Nomeada</string>
+	<string key="ui_metachievement_firstnamedcraft_greatsword_title_SHE">Confeccione uma Espada Grande Nomeada</string>
+	<string key="ui_metachievement_firstnamedcraft_greatsword_title_THEY">Confeccione uma Espada Grande Nomeada</string>
 	<string key="ui_metachievement_craft_namedweaponcount_title1">É Mais Sorte do que Habilidade</string>
 	<string key="ui_metachievement_craft_namedweaponcount_title1_SHE">É Mais Sorte do que Habilidade</string>
 	<string key="ui_metachievement_craft_namedweaponcount_title1_THEY">É Mais Sorte do que Habilidade</string>
@@ -3069,7 +3106,7 @@
 	<string key="ui_metachievement_pve_killswhilegrouped_generic_desc">Derrote {number} inimigos de Aeternum enquanto estiver em um grupo.</string>
 	<string key="ui_metachievement_pve_corruptedbreachwins_first_desc">Dissipe {number} Incursão de Corrupção.</string>
 	<string key="ui_metachievement_pve_corruptedbreachwins_generic_desc">Dissipe {number} Incursões de Corrupção.</string>
-	<string key="ui_metachievement_pve_gatherskinning_generic_desc">Obtenha {number} itens ao usar uma faca de esfolar.</string>
+	<string key="ui_metachievement_pve_gatherskinning_generic_desc">Colete {number} itens ao usar uma faca de esfolar.</string>
 	<string key="ui_metachievement_pve_gatherlogging_generic_desc">Colete {number} itens de madeira ao usar um machado lenhador.</string>
 	<string key="ui_metachievement_pve_gathermining_generic_desc">Minere {number} itens ao usar uma picareta de mineração.</string>
 	<string key="ui_metachievement_pve_gatherharvest_generic_desc">Colha {number} itens ao usar uma foice de colheita.</string>
@@ -3080,8 +3117,9 @@
 	<string key="ui_metachievement_pve_bossKill_dungeon_genesis_desc">Derrote a Guardiã do Bosque Maculada no Jardim da Criação.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_lazarus_desc">Derrote Chardis na Instrumentalidade de Lázaro.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_shipyard_desc">Derrote a Imperatriz Zhou no Estaleiro da Dinastia.</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_forge_desc">Derrote Sir Marius na Forja Empírea.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_isabellalair_desc" rel_version="Expedition_ShatterMtn_00">Derrote Isabella no Coração da Tempestade.</string>
-	<string key="ui_metachievement_pve_bossKill_dungeon_barnacles_desc" rel_version="Expedition_CutlassKeys_00">Derrote a Rainha Sereia em Cracas e Pólvora Preta.</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_barnacles_desc" rel_version="Expedition_CutlassKeys_00">Derrote a Nereida em Cracas e Pólvora Preta.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_ennead_desc" rel_version="Expedition_BrimstoneSands_00">Derrote os Golias da Enéade.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_generic_desc" rel_version="Feature_Dungeon_Mutators">Conclua a Escavação de Amrine na dificuldade {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_obelisk_generic_desc" rel_version="Feature_Dungeon_Mutators">Conclua os Túmulos de Pedra Estelar na dificuldade {number}.</string>
@@ -3092,6 +3130,7 @@
 	<string key="ui_metachievement_pve_mutate_dungeon_isabellalair_generic_desc" rel_version="Expedition_ShatterMtn_00">Conclua !undefined dungeon! na dificuldade {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_barnacle_generic_desc" rel_version="Expedition_CutlassKeys_00">Conclua Cracas e Pólvora Preta na dificuldade {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_ennead_generic_desc" rel_version="Expedition_BrimstoneSands_00">Conclua a Enéade na dificuldade {number}.</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_forge_generic_desc" rel_version="Expedition_GreatCleave_01">Conclua a Forja Empírea na dificuldade {number}.</string>
 	<string key="ui_metachievement_pve_arenascompleted_desc">Complete {number} batalhas de arena.</string>
 	<string key="ui_metachievement_pvp_killbyfaction_covenant_desc">Derrote pessoalmente {number} jogadores da Aliança.</string>
 	<string key="ui_metachievement_pvp_killbyfaction_marauder_desc">Derrote pessoalmente {number} jogadores dos Saqueadores.</string>
@@ -3108,6 +3147,10 @@
 	<string key="ui_metachievement_questarc_brightwood_desc1">Conclua o arco do Bosque Reluzente, começando com &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Legado do Inquisidor&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_brightwood_desc2">Conclua o arco do Bosque Reluzente, começando com &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Segredos da Terra&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_brightwood_desc3">Conclua o arco do Bosque Reluzente, começando com &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Legado Sombrio&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_desc1">Conclua o arco do Bosque Reluzente, começando com &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Escuridão em Bosque Reluzente&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_desc2">Conclua o arco do Bosque Reluzente, começando com &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Os Portões de Grande Fenda&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_desc3">Conclua o arco do Bosque Reluzente, começando com &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Tesouros da Terra&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_desc4">Conclua o arco do Bosque Reluzente, começando com &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;À Procura de Paisagens&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_brimstonesands_desc1" rel_version="Territory_Brimstone_Sands">Conclua o arco de Areias de Enxofre, começando com &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Segredos nas Areias&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_brimstonesands_desc2" rel_version="Territory_Brimstone_Sands">Conclua o arco de Areias de Enxofre, começando com &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Não Mais Herói&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_brimstonesands_desc3" rel_version="Territory_Brimstone_Sands">Conclua o arco de Areias de Enxofre, começando com &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Os Pretores Desaparecidos&lt;/font&gt;.</string>
@@ -3154,6 +3197,10 @@
 	<string key="ui_metachievement_questarc_weaversfen_desc1">Conclua o arco do Pântano do Tecelão, começando com &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Doença de Peixe&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_weaversfen_desc2">Conclua o arco do Pântano do Tecelão, começando com &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Espectro Traiçoeiro&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_weaversfen_desc3">Conclua o arco do Pântano do Tecelão, começando com &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Feiticeira do Pântano&lt;/font&gt;.</string>
+	<string key="ui_metachievement_quest_weaversfen_crone_desc">Descobriu a identidade da Velha Cadáver.</string>
+	<string key="ui_metachievement_quest_weaversfen_prison_desc">Acidentalmente libertou Fulgoris em Andrometus.</string>
+	<string key="ui_metachievement_quest_weaversfen_color_desc">Ajudou muitos dos locais coloridos encontrados em Pântano do Tecelão.</string>
+	<string key="ui_metachievement_quest_weaversfen_bear_desc">Trouxe Urina de Urso para todos os pesquisadores.</string>
 	<string key="ui_metachievement_questarc_windsward_desc1">Conclua o arco de Guardaventos, começando com &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Grandes Expectativas&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_windsward_desc2">Conclua o arco de Guardaventos, começando com &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Guisado sem Confiança&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_windsward_desc3">Conclua o arco de Guardaventos, começando com &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Dia da Caça, Dia do Caçador&lt;/font&gt;.</string>
@@ -3164,132 +3211,135 @@
 	<string key="ui_metachievement_quest_windsward_mercy_desc">Convenceu Medea a dar uma segunda chance a Guardaventos.</string>
 	<string key="ui_metachievement_questarc_fishingtraining_desc">Conclua o arco da missão de pesca que começa com &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Pescando com o Shields&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questtotals_generic_desc">Conclua {number} jornadas.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_desc">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 do Estaleiro da Dinastia.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_desc">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 do Estaleiro da Dinastia.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_desc">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 do Jardim da Criação.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_desc">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 do Jardim da Criação.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_desc">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 da Importância de Lázaro.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_desc">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 da Importância de Lázaro.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_score_desc">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 do Coração da Tempestade.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_score_desc">Título obtido ao ficar entre os 25 melhores na Classificação Semanal de Pontuação de Dificuldade 10 do Coração da Tempestade.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_score_desc">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 de Cracas e Pólvora Preta.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_score_desc">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 de Cracas e Pólvora Preta.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_score_desc">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 da Enéade.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_score_desc">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 da Enéade.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_score_desc">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 das Profundezas.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_score_desc">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 das Profundezas.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_score_desc">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 de Túmulos de Pedra Estelar.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_score_desc">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 de Túmulos de Pedra Estelar.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_desc">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 do Estaleiro da Dinastia.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_desc">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 do Estaleiro da Dinastia.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_desc">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 do Jardim da Criação.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_desc">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 do Jardim da Criação.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_time_desc">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 da Importância de Lázaro.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_desc">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 da Importância de Lázaro.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_time_desc">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 do Coração da Tempestade.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_time_desc">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 do Coração da Tempestade.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_time_desc">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 de Cracas e Pólvora Preta.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_time_desc">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 de Cracas e Pólvora Preta.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_time_desc">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 da Enéade.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_time_desc">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 da Enéade.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_time_desc">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 das Profundezas.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_time_desc">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 das Profundezas.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_time_desc">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 de Túmulos de Pedra Estelar.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_time_desc">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 de Túmulos de Pedra Estelar.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top1_completion_desc">Título obtido ao ficar entre os 10 primeiros lugares na Classificação Trimestral da Rainha Sereia.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top10_completion_desc">Título obtido ao ficar entre os 50 primeiros lugares na Classificação Trimestral da Rainha Sereia.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_desc">Título obtido ao ficar entre os 10 primeiros lugares na Classificação Trimestral de Lagoas Eternas.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_desc">Título obtido ao ficar entre os 50 primeiros lugares na Classificação Trimestral de Lagoas Eternas.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_desc">Título obtido ao ficar entre os 10 primeiros lugares na Classificação Trimestral da Fenda Monoica.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_desc">Título obtido ao ficar entre os 50 primeiros lugares na Classificação Trimestral da Fenda Monoica.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_desc">Título obtido ao ficar entre os 10 primeiros lugares na Classificação Trimestral de Influência Obtida.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_desc">Título obtido ao ficar entre os 50 primeiros lugares na Classificação Trimestral de Influência Obtida.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top1_score_desc">Título obtido ao ficar entre os 10 primeiros lugares na Classificação Trimestral de Pontuação das Investidas do Posto Avançado.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top10_score_desc">Título obtido ao ficar entre os 50 primeiros lugares na Classificação Trimestral de Pontuação das Investidas do Posto Avançado.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top1_score_desc">Título obtido ao ficar entre os 10 primeiros lugares na Classificação Trimestral de Pontuação da Incursão de Corrupção.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top10_score_desc">Título obtido ao ficar entre os 50 primeiros lugares na Classificação Trimestral de Pontuação da Incursão de Corrupção.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top1_score_desc">Título obtido ao ficar entre os 10 primeiros lugares na Classificação Trimestral de Pontuação da Invasão.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top10_score_desc">Título obtido ao ficar entre os 50 primeiros lugares na Classificação Trimestral de Pontuação da Invasão.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top1_score_desc">Título obtido ao ficar entre os 10 primeiros lugares na Classificação Trimestral de Pontuação das Guerras.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top10_score_desc">Título obtido ao ficar entre os 50 primeiros lugares na Classificação Trimestral de Pontuação das Guerras.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_desc">Título obtido ao ficar entre os 3 primeiros lugares na Classificação Trimestral de Dias Governados de Ilhéus do Sabre. </string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_desc">Título obtido ao ficar entre os 6 primeiros lugares na Classificação Trimestral de Dias Governados de Ilhéus do Sabre.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top1_company_score_desc">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados de Primeira Luz.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top10_company_score_desc">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Companhia de Primeira Luz.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top1_company_score_desc">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados de Primeira Luz. </string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top1_company_score_desc">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados de Guardaventos.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top10_company_score_desc">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados de Guardaventos.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top1_company_score_desc">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados de Águas Fétidas. </string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top10_company_score_desc">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados de Águas Fétidas.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top1_company_score_desc">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados de Queda Eterna.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top10_company_score_desc">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados de Queda Eterna. </string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_desc">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados de Pântano do Tecelão.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_desc">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados de Pântano do Tecelão.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_desc">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados de Costa Tempestuosa.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_desc">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados de Costa Tempestuosa.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_desc">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados do Vale das Lamentações.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_desc">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados do Vale das Lamentações.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top1_company_score_desc">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados do Bosque Reluzente.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top10_company_score_desc">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados do Bosque Reluzente.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_desc">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados de Crosta de Ébano.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_desc">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados de Crosta de Ébano.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_leaderboard_top1_company_score_desc">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados de Falésias do Monarca.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_leaderboard_top10_company_score_desc">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados de Falésias do Monarca.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_leaderboard_top1_company_score_desc">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados de Areias de Enxofre.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_leaderboard_top10_company_score_desc">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados de Areias de Enxofre.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top1_company_score_desc">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados de Todos os Territórios.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top10_company_score_desc">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados de Todos os Territórios.</string>
-	<string key="ui_metachievement_pvefactionmissions_arcana_generic_desc">Faça {number} missões PvE de facção de Arcana.</string>
-	<string key="ui_metachievement_pvefactionmissions_armory_generic_desc">Faça {number} missões PvE de facção de Forjamento de Armaduras.</string>
-	<string key="ui_metachievement_pvefactionmissions_cook_generic_desc">Faça {number} missões PvE de facção de Culinária.</string>
-	<string key="ui_metachievement_pvefactionmissions_darknessbreach_generic_desc">Faça {number} missões PvE de facção de Incursão de Corrupção.</string>
-	<string key="ui_metachievement_pvefactionmissions_expeditions_generic_desc">Faça {number} missões PvE de facção de Expedição.</string>
-	<string key="ui_metachievement_pvefactionmissions_engineer_generic_desc">Faça {number} missões PvE de facção de Engenharia.</string>
-	<string key="ui_metachievement_pvefactionmissions_fishing_generic_desc">Faça {number} missões PvE de facção de Pesca.</string>
-	<string key="ui_metachievement_pvefactionmissions_furnish_generic_desc">Faça {number} missões PvE de facção de Mobília.</string>
-	<string key="ui_metachievement_pvefactionmissions_gather_generic_desc">Faça {number} missões PvE de facção de Colheita.</string>
-	<string key="ui_metachievement_pvefactionmissions_hunt_generic_desc">Faça {number} missões PvE de facção de Caça.</string>
-	<string key="ui_metachievement_pvefactionmissions_jewelcraft_generic_desc">Faça {number} missões PvE de facção de Joalheria.</string>
-	<string key="ui_metachievement_pvefactionmissions_outfit_generic_desc">Faça {number} missões PvE de facção de Vestimenta.</string>
-	<string key="ui_metachievement_pvefactionmissions_weaponsmith_generic_desc">Faça {number} missões PvE de facção de Ferreiro.</string>
-	<string key="ui_metachievement_pvefactionmissions_scout_generic_desc">Faça {number} missões de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Distinção&lt;/font&gt; da Aliança, de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Exploração&lt;/font&gt; dos Saqueadores ou de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Vistoria&lt;/font&gt; do Sindicato.</string>
-	<string key="ui_metachievement_pvefactionmissions_loot_generic_desc">Faça {number} missões de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Reivindicação&lt;/font&gt; da Aliança, de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Espólio&lt;/font&gt; dos Saqueadores ou de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Coleta&lt;/font&gt; do Sindicato.</string>
-	<string key="ui_metachievement_pvefactionmissions_raid_generic_desc">Faça {number} missões de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Cruzada&lt;/font&gt; da Aliança, de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Assalto&lt;/font&gt; dos Saqueadores ou de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Purgação&lt;/font&gt; do Sindicato.</string>
-	<string key="ui_metachievement_pvefactionmissions_brightwood_generic_desc">Cumpra {number} missões PvE de facção no Bosque Reluzente.</string>
-	<string key="ui_metachievement_pvefactionmissions_brimstone_generic_desc" rel_version="Territory_Brimstone_Sands">Cumpra {number} missões PvE de facção em Areias de Enxofre.</string>
-	<string key="ui_metachievement_pvefactionmissions_cutlasskey_generic_desc">Cumpra {number} missões PvE de facção em Ilhéus do Sabre.</string>
-	<string key="ui_metachievement_pvefactionmissions_edengrove_generic_desc">Cumpra {number} missões PvE de facção no Bosque do Éden.</string>
-	<string key="ui_metachievement_pvefactionmissions_everfall_generic_desc">Cumpra {number} missões PvE de facção em Queda Eterna.</string>
-	<string key="ui_metachievement_pvefactionmissions_firstlight_generic_desc">Cumpra {number} missões PvE de facção em Primeira Luz.</string>
-	<string key="ui_metachievement_pvefactionmissions_greatcleave_generic_desc">Cumpra {number} missões PvE de facção na Grande Fenda.</string>
-	<string key="ui_metachievement_pvefactionmissions_monarchbluff_generic_desc">Cumpra {number} missões PvE de facção em Falésias do Monarca.</string>
-	<string key="ui_metachievement_pvefactionmissions_mourningdale_generic_desc">Cumpra {number} missões PvE de facção no Vale das Lamentações.</string>
-	<string key="ui_metachievement_pvefactionmissions_ebonscale_generic_desc">Cumpra {number} missões PvE de facção na Crosta de Ébano.</string>
-	<string key="ui_metachievement_pvefactionmissions_reekwater_generic_desc">Cumpra {number} missões PvE de facção em Águas Fétidas.</string>
-	<string key="ui_metachievement_pvefactionmissions_restlessshore_generic_desc">Cumpra {number} missões PvE de facção em Costas Tempestuosas.</string>
-	<string key="ui_metachievement_pvefactionmissions_shatteredmtn_generic_desc">Cumpra {number} missões PvE de facção na Montanha Arruinada.</string>
-	<string key="ui_metachievement_pvefactionmissions_weaversfen_generic_desc">Cumpra {number} missões PvE de facção no Pântano do Tecelão.</string>
-	<string key="ui_metachievement_pvefactionmissions_windsward_generic_desc">Cumpra {number} missões PvE de facção em Guardaventos.</string>
-	<string key="ui_metachievement_pvpfactionmissions_espionage_generic_desc">Faça {number} missões de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Preservação&lt;/font&gt; da Aliança, de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Infiltração&lt;/font&gt; dos Saqueadores ou de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Coleta de Informações&lt;/font&gt; do Sindicato.</string>
-	<string key="ui_metachievement_pvpfactionmissions_Control_generic_desc">Faça {number} missões de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Santificação&lt;/font&gt; da Aliança, de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Demonstração de Força&lt;/font&gt; dos Saqueadores ou de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Estabilização&lt;/font&gt; do Sindicato.</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 do Estaleiro da Dinastia.</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 do Estaleiro da Dinastia.</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 do Jardim da Criação.</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 do Jardim da Criação.</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 da Importância de Lázaro.</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 25 melhores na Classificação Semanal de Pontuação de Dificuldade 10 da Importância de Lázaro.</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 do Coração da Tempestade.</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 25 melhores na Classificação Semanal de Pontuação de Dificuldade 10 do Coração da Tempestade.</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 de Cracas e Pólvora Preta.</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 de Cracas e Pólvora Preta.</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 da Enéade.</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 da Enéade.</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 das Profundezas.</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 das Profundezas.</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 de Túmulos de Pedra Estelar.</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 de Túmulos de Pedra Estelar.</string>
+	<string key="ui_metaachievement_leaderboard_forge_top5_score_desc" rel_version="Expedition_GreatCleave_01">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 da Forja Empírea.</string>
+	<string key="ui_metaachievement_leaderboard_forge_top25_score_desc" rel_version="Expedition_GreatCleave_01">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Pontuação de Dificuldade 10 da Forja Empírea.</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 do Estaleiro da Dinastia.</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 do Estaleiro da Dinastia.</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 do Jardim da Criação.</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 do Jardim da Criação.</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_time_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 da Importância de Lázaro.</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 da Importância de Lázaro.</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_time_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 do Coração da Tempestade.</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_time_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 do Coração da Tempestade.</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_time_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 de Cracas e Pólvora Preta.</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_time_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 de Cracas e Pólvora Preta.</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_time_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 da Enéade.</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_time_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 da Enéade.</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_time_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 das Profundezas.</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_time_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 das Profundezas.</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_time_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 de Túmulos de Pedra Estelar.</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_time_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 de Túmulos de Pedra Estelar.</string>
+	<string key="ui_metaachievement_leaderboard_forge_top5_time_desc" rel_version="Expedition_GreatCleave_01">Título obtido ao ficar entre os 5 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 da Forja Empírea.</string>
+	<string key="ui_metaachievement_leaderboard_forge_top25_time_desc" rel_version="Expedition_GreatCleave_01">Título obtido ao ficar entre os 25 primeiros lugares na Classificação Semanal de Tempo de Conclusão de Dificuldade 10 da Forja Empírea.</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top1_completion_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 10 primeiros lugares na Classificação Sazonal da Rainha Sereia.</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top10_completion_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 50 primeiros lugares na Classificação Sazonal da Rainha Sereia.</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 10 primeiros lugares na Classificação Sazonal de Lagoas Eternas.</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 50 primeiros lugares na Classificação Sazonal de Lagoas Eternas.</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 10 primeiros lugares na Classificação Sazonal da Fenda Monoica.</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 50 primeiros lugares na Classificação Sazonal da Fenda Monoica.</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 10 primeiros lugares na Classificação Sazonal de Influência Obtida.</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 50 primeiros lugares na Classificação Sazonal de Influência Obtida.</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top1_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 10 primeiros lugares na Classificação Sazonal de Vitórias na Investida do Posto Avançado.</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top10_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 50 primeiros lugares na Classificação Sazonal de Vitórias na Investida do Posto Avançado.</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top1_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 10 primeiros lugares na Classificação Sazonal de Pontuação das Incursões de Corrupção.</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top10_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 50 primeiros lugares na Classificação Sazonal de Pontuação das Incursões de Corrupção.</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top1_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 10 primeiros lugares na Classificação Sazonal de Pontuação das Invasões.</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top10_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 50 primeiros lugares na Classificação Sazonal de Pontuação das Invasões.</string>
+	<string key="ui_metaachievement_leaderboard_war_top1_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 10 primeiros lugares na Classificação Sazonal de Pontuação das Guerras.</string>
+	<string key="ui_metaachievement_leaderboard_war_top10_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 50 primeiros lugares na Classificação Sazonal de Pontuação das Guerras.</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 3 primeiros lugares na Classificação Sazonal de Dias de Governo em Ilhéus do Sabre.</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 6 primeiros lugares na Classificação Sazonal de Dias de Governo em Ilhéus do Sabre.</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados de Primeira Luz.</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 6 melhores na Classificação de Dias Governados de Primeira Luz.</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados de Guardaventos.</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados de Guardaventos.</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados de Águas Fétidas.</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados de Águas Fétidas.</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados de Queda Eterna.</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados de Queda Eterna.</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados de Pântano do Tecelão.</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados de Pântano do Tecelão.</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados de Costa Tempestuosa.</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados de Costa Tempestuosa.</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados do Vale das Lamentações.</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados do Vale das Lamentações.</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados do Bosque Reluzente.</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados do Bosque Reluzente.</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados de Crosta de Ébano.</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados de Crosta de Ébano.</string>
+	<string key="ui_metaachievement_monarchs_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados de Falésias do Monarca.</string>
+	<string key="ui_metaachievement_monarchs_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados de Falésias do Monarca.</string>
+	<string key="ui_metaachievement_brimstone_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados de Areias de Enxofre.</string>
+	<string key="ui_metaachievement_brimstone_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados de Areias de Enxofre.</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 3 primeiros lugares na Classificação de Dias Governados de Todos os Territórios.</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Título obtido ao ficar entre os 6 primeiros lugares na Classificação de Dias Governados de Todos os Territórios.</string>
+	<string key="ui_metachievement_pvefactionmissions_arcana_generic_desc">Conclua {number} missões PvE de facção de Arcana.</string>
+	<string key="ui_metachievement_pvefactionmissions_armory_generic_desc">Conclua {number} missões PvE de facção de Forjamento de Armaduras.</string>
+	<string key="ui_metachievement_pvefactionmissions_cook_generic_desc">Conclua {number} missões PvE de facção de Culinária.</string>
+	<string key="ui_metachievement_pvefactionmissions_darknessbreach_generic_desc">Conclua {number} missões PvE de facção de Incursão de Corrupção.</string>
+	<string key="ui_metachievement_pvefactionmissions_expeditions_generic_desc">Conclua {number} missões PvE de facção de Expedição.</string>
+	<string key="ui_metachievement_pvefactionmissions_engineer_generic_desc">Conclua {number} missões PvE de facção de Engenharia.</string>
+	<string key="ui_metachievement_pvefactionmissions_fishing_generic_desc">Conclua {number} missões PvE de facção de Pesca.</string>
+	<string key="ui_metachievement_pvefactionmissions_furnish_generic_desc">Conclua {number} missões PvE de facção de Mobília.</string>
+	<string key="ui_metachievement_pvefactionmissions_gather_generic_desc">Conclua {number} missões PvE de facção de Coleta.</string>
+	<string key="ui_metachievement_pvefactionmissions_hunt_generic_desc">Conclua {number} missões PvE de facção de Caça.</string>
+	<string key="ui_metachievement_pvefactionmissions_jewelcraft_generic_desc">Conclua {number} missões PvE de facção de Joalheria.</string>
+	<string key="ui_metachievement_pvefactionmissions_outfit_generic_desc">Conclua {number} missões PvE de facção de Vestimenta.</string>
+	<string key="ui_metachievement_pvefactionmissions_weaponsmith_generic_desc">Conclua {number} missões PvE de facção de Ferreiro.</string>
+	<string key="ui_metachievement_pvefactionmissions_scout_generic_desc">Conclua {number} missões de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Distinção&lt;/font&gt; da Aliança, de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Exploração&lt;/font&gt; dos Saqueadores ou de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Vistoria&lt;/font&gt; do Sindicato.</string>
+	<string key="ui_metachievement_pvefactionmissions_loot_generic_desc">Conclua {number} missões de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Reivindicação&lt;/font&gt; da Aliança, de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Espólio&lt;/font&gt; dos Saqueadores ou de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Coleta&lt;/font&gt; do Sindicato.</string>
+	<string key="ui_metachievement_pvefactionmissions_raid_generic_desc">Conclua {number} missões de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Cruzada&lt;/font&gt; da Aliança, de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Assalto&lt;/font&gt; dos Saqueadores ou de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Purgação&lt;/font&gt; do Sindicato.</string>
+	<string key="ui_metachievement_pvefactionmissions_brightwood_generic_desc">Conclua {number} missões PvE de facção no Bosque Reluzente.</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_generic_desc" rel_version="Territory_Brimstone_Sands">Conclua {number} missões PvE de facção em Areias de Enxofre.</string>
+	<string key="ui_metachievement_pvefactionmissions_cutlasskey_generic_desc">Conclua {number} missões PvE de facção em Ilhéus do Sabre.</string>
+	<string key="ui_metachievement_pvefactionmissions_edengrove_generic_desc">Conclua {number} missões PvE de facção no Bosque do Éden.</string>
+	<string key="ui_metachievement_pvefactionmissions_everfall_generic_desc">Conclua {number} missões PvE de facção em Queda Eterna.</string>
+	<string key="ui_metachievement_pvefactionmissions_firstlight_generic_desc">Conclua {number} missões PvE de facção em Primeira Luz.</string>
+	<string key="ui_metachievement_pvefactionmissions_greatcleave_generic_desc">Conclua {number} missões PvE de facção na Grande Fenda.</string>
+	<string key="ui_metachievement_pvefactionmissions_monarchbluff_generic_desc">Conclua {number} missões PvE de facção em Falésias do Monarca.</string>
+	<string key="ui_metachievement_pvefactionmissions_mourningdale_generic_desc">Conclua {number} missões PvE de facção no Vale das Lamentações.</string>
+	<string key="ui_metachievement_pvefactionmissions_ebonscale_generic_desc">Conclua {number} missões PvE de facção em Crosta de Ébano.</string>
+	<string key="ui_metachievement_pvefactionmissions_reekwater_generic_desc">Conclua {number} missões PvE de facção em Águas Fétidas.</string>
+	<string key="ui_metachievement_pvefactionmissions_restlessshore_generic_desc">Conclua {number} missões PvE de facção em Costa Tempestuosa.</string>
+	<string key="ui_metachievement_pvefactionmissions_shatteredmtn_generic_desc">Conclua {number} missões PvE de facção na Montanha Arruinada.</string>
+	<string key="ui_metachievement_pvefactionmissions_weaversfen_generic_desc">Conclua {number} missões PvE de facção no Pântano do Tecelão.</string>
+	<string key="ui_metachievement_pvefactionmissions_windsward_generic_desc">Conclua {number} missões PvE de facção em Guardaventos.</string>
+	<string key="ui_metachievement_pvpfactionmissions_espionage_generic_desc">Conclua {number} missões de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Preservação&lt;/font&gt; da Aliança, de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Infiltração&lt;/font&gt; dos Saqueadores ou de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Coleta de Informações&lt;/font&gt; do Sindicato.</string>
+	<string key="ui_metachievement_pvpfactionmissions_Control_generic_desc">Conclua {number} missões de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Santificação&lt;/font&gt; da Aliança, de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Demonstração de Força&lt;/font&gt; dos Saqueadores ou de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Estabilização&lt;/font&gt; do Sindicato.</string>
 	<string key="ui_metachievement_pvpfactionmissions_Intercept_generic_desc">Conclua {number} missões PvP de facção de Intercepção.</string>
-	<string key="ui_metachievement_pvpfactionmissions_Poach_generic_desc">Faça {number} missões de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Dízimo&lt;/font&gt; da Aliança, de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Saque&lt;/font&gt; dos Saqueadores ou de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Rompimento&lt;/font&gt; do Sindicato.</string>
-	<string key="ui_metachievement_pvpfactionmissions_brightwood_generic_desc">Cumpra {number} missões PvP de facção no Bosque Reluzente.</string>
-	<string key="ui_metachievement_pvpfactionmissions_brimstone_generic_desc" rel_version="Territory_Brimstone_Sands">Cumpra {number} missões PvP de facção em Areias de Enxofre.</string>
-	<string key="ui_metachievement_pvpfactionmissions_cutlasskey_generic_desc">Cumpra {number} missões PvP de facção em Ilhéus do Sabre.</string>
-	<string key="ui_metachievement_pvpfactionmissions_edengrove_generic_desc">Cumpra {number} missões PvP de facção no Bosque do Éden.</string>
-	<string key="ui_metachievement_pvpfactionmissions_everfall_generic_desc">Cumpra {number} missões PvP de facção em Queda Eterna.</string>
-	<string key="ui_metachievement_pvpfactionmissions_firstlight_generic_desc">Cumpra {number} missões PvP de facção em Primeira Luz.</string>
-	<string key="ui_metachievement_pvpfactionmissions_greatcleave_generic_desc">Cumpra {number} missões PvP de facção na Grande Fenda.</string>
-	<string key="ui_metachievement_pvpfactionmissions_monarchbluff_generic_desc">Cumpra {number} missões PvP de facção em Falésias do Monarca.</string>
-	<string key="ui_metachievement_pvpfactionmissions_mourningdale_generic_desc">Cumpra {number} missões PvP de facção no Vale das Lamentações.</string>
-	<string key="ui_metachievement_pvpfactionmissions_ebonscale_generic_desc">Cumpra {number} missões PvP de facção em Crosta de Ébano.</string>
-	<string key="ui_metachievement_pvpfactionmissions_reekwater_generic_desc">Cumpra {number} missões PvP de facção em Águas Fétidas.</string>
-	<string key="ui_metachievement_pvpfactionmissions_restlessshore_generic_desc">Cumpra {number} missões PvP de facção em Costas Tempestuosas.</string>
-	<string key="ui_metachievement_pvpfactionmissions_shatteredmtn_generic_desc">Cumpra {number} missões PvP de facção na Montanha Arruinada.</string>
-	<string key="ui_metachievement_pvpfactionmissions_weaversfen_generic_desc">Cumpra {number} missões PvP de facção no Pântano do Tecelão.</string>
-	<string key="ui_metachievement_pvpfactionmissions_windsward_generic_desc">Cumpra {number} missões PvP de facção em Guardaventos.</string>
-	<string key="ui_metachievement_factionmissionscompleted_generic_desc">Cumpra {number} missões de facção de qualquer tipo, em qualquer lugar.</string>
+	<string key="ui_metachievement_pvpfactionmissions_Poach_generic_desc">Conclua {number} missões de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Dízimo&lt;/font&gt; da Aliança, de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Saque&lt;/font&gt; dos Saqueadores ou de &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Rompimento&lt;/font&gt; do Sindicato.</string>
+	<string key="ui_metachievement_pvpfactionmissions_brightwood_generic_desc">Conclua {number} missões PvP de facção no Bosque Reluzente.</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_generic_desc" rel_version="Territory_Brimstone_Sands">Conclua {number} missões PvP de facção em Areias de Enxofre.</string>
+	<string key="ui_metachievement_pvpfactionmissions_cutlasskey_generic_desc">Conclua {number} missões PvP de facção em Ilhéus do Sabre.</string>
+	<string key="ui_metachievement_pvpfactionmissions_edengrove_generic_desc">Conclua {number} missões PvP de facção no Bosque do Éden.</string>
+	<string key="ui_metachievement_pvpfactionmissions_everfall_generic_desc">Conclua {number} missões PvP de facção em Queda Eterna.</string>
+	<string key="ui_metachievement_pvpfactionmissions_firstlight_generic_desc">Conclua {number} missões PvP de facção em Primeira Luz.</string>
+	<string key="ui_metachievement_pvpfactionmissions_greatcleave_generic_desc">Conclua {number} missões PvP de facção na Grande Fenda.</string>
+	<string key="ui_metachievement_pvpfactionmissions_monarchbluff_generic_desc">Conclua {number} missões PvP de facção em Falésias do Monarca.</string>
+	<string key="ui_metachievement_pvpfactionmissions_mourningdale_generic_desc">Conclua {number} missões PvP de facção no Vale das Lamentações.</string>
+	<string key="ui_metachievement_pvpfactionmissions_ebonscale_generic_desc">Conclua {number} missões PvP de facção em Crosta de Ébano.</string>
+	<string key="ui_metachievement_pvpfactionmissions_reekwater_generic_desc">Conclua {number} missões PvP de facção em Águas Fétidas.</string>
+	<string key="ui_metachievement_pvpfactionmissions_restlessshore_generic_desc">Conclua {number} missões PvP de facção em Costa Tempestuosa.</string>
+	<string key="ui_metachievement_pvpfactionmissions_shatteredmtn_generic_desc">Conclua {number} missões PvP de facção na Montanha Arruinada.</string>
+	<string key="ui_metachievement_pvpfactionmissions_weaversfen_generic_desc">Conclua {number} missões PvP de facção no Pântano do Tecelão.</string>
+	<string key="ui_metachievement_pvpfactionmissions_windsward_generic_desc">Conclua {number} missões PvP de facção em Guardaventos.</string>
+	<string key="ui_metachievement_factionmissionscompleted_generic_desc">Conclua {number} Missões de Facção.</string>
 	<string key="ui_metachievement_progression_characterlevel_generic_desc">Alcance o nível {number} do personagem.</string>
 	<string key="ui_metachievement_totaltimeplayed_generic_desc">Jogue por {number} horas.</string>
 	<string key="ui_metachievement_skilllevelarcana_generic_desc">Alcance o nível {number} da habilidade Arcana.</string>
@@ -3320,7 +3370,7 @@
 	<string key="ui_metachievement_housecount_desc1">Compre sua primeira casa.</string>
 	<string key="ui_metachievement_housecount_desc2">Possua 2 casas ao mesmo tempo.</string>
 	<string key="ui_metachievement_housecount_desc3">Possua 3 casas entre as quais pode viajar.</string>
-	<string key="ui_metachievement_territorystanding_generic_desc">Alcance uma Posição do Território de {number}.</string>
+	<string key="ui_metachievement_territorystanding_generic_desc">Alcance o Nível {number} de Posição do Território.</string>
 	<string key="ui_metachievement_factionrank_joined_generic_desc">Junte-se à facção.</string>
 	<string key="ui_metachievement_factionrank_advance_generic_desc">Avance para o próximo ranque da facção.</string>
 	<string key="ui_metachievement_weaponmastery_hammer_generic_desc">Alcance o nível {number} de Maestria de Martelo de Guerra.</string>
@@ -3346,7 +3396,7 @@
 	<string key="ui_metachievement_craftcount_jewelcrafting_generic_desc">Confeccione {number} itens de Joalheria.</string>
 	<string key="ui_metachievement_craftcount_weaponsmith_generic_desc">Confeccione {number} itens de Forjamento de Armas.</string>
 	<string key="ui_metachievement_gatheringstotal_generic_desc">Colete {number} itens do tipo Coleta.</string>
-	<string key="ui_metachievement_player_totalkills_generic_desc">Derrote um total de {number} inimigos PvP e PvE.</string>
+	<string key="ui_metachievement_player_totalkills_generic_desc">Derrote {number} inimigos PvP e PvE.</string>
 	<string key="ui_metachievement_emotes_waves_generic_desc">Acene para outros jogadores {number} vezes.</string>
 	<string key="ui_metachievement_emotes_wavereturns_generic_desc">Acene de volta para {number} jogadores que acenarem para você.</string>
 	<string key="ui_metachievement_emotes_usedalot_generic_desc">Use {number} gestos.</string>
@@ -3366,8 +3416,8 @@
 	<string key="ui_metachievement_refining_stonecut_generic_desc">Refine {number} itens em Mesas de Cortador de Pedra.</string>
 	<string key="ui_metachievement_refining_weaving_generic_desc">Refine {number} itens com Máquinas de Tear.</string>
 	<string key="ui_metachievement_refining_wood_generic_desc">Refine {number} itens em Lojas de Madeira.</string>
-	<string key="ui_metachievement_lore_pagescount_single_desc">Recupere {number} página de mitologia para restaurar este tomo.</string>
-	<string key="ui_metachievement_lore_pagescount_generic_desc">Recupere {number} páginas de mitologia para restaurar este tomo.</string>
+	<string key="ui_metachievement_lore_pagescount_single_desc">Recupere {number} página de mitologia.</string>
+	<string key="ui_metachievement_lore_pagescount_generic_desc">Recupere {number} páginas de mitologia.</string>
 	<string key="ui_metachievement_firstnamedcraft_generic_desc">Confeccione uma arma nomeada deste tipo.</string>
 	<string key="ui_metachievement_craft_namedweaponcount_generic_desc">Confeccione {number} armas nomeadas.</string>
 	<string key="ui_metachievement_craft_foundpermanentrecipe_desc">Descubra sua primeira receita permanente.</string>
@@ -3388,7 +3438,7 @@
 	<string key="ui_metachievement_poivisitedcount_generic_desc">Encontre {number} locais de interesse nomeados.</string>
 	<string key="ui_metachievement_elitepoivisited_generic_desc">Visite {number} redutos de elite.</string>
 	<string key="ui_metachievement_territorypoicount_generic_desc">Descubra {number} locais de interesse nomeados neste território.</string>
-	<string key="ui_metachievement_reached_generic_hamlet_desc">Encontre este lindo e badalado local de férias.</string>
+	<string key="ui_metachievement_reached_generic_hamlet_desc">Encontre este local.</string>
 	<string key="ui_metachievement_hidden_generic">Continue jogando para concluir esta conquista escondida.</string>
 	<string key="ui_metachievement_hidden_generic_SHE">Continue jogando para concluir esta conquista escondida.</string>
 	<string key="ui_metachievement_hidden_generic_THEY">Continue jogando para concluir esta conquista escondida.</string>
@@ -3443,51 +3493,51 @@
 	<string key="ui_metachievement_questarc_generic_desc">Conclua as jornadas do arco.</string>
 	<string key="ui_meta_achievements">Conquistas</string>
 	<string key="ui_meta_achievements_summary">Resumo</string>
-	<string key="ui_meta_achievements_completed_achievements">Conquistas Concluídas</string>
-	<string key="ui_meta_achievements_pve">Jogador vs. Ambiente</string>
+	<string key="ui_meta_achievements_completed_achievements">Concluídas</string>
+	<string key="ui_meta_achievements_pve">PvE</string>
 	<string key="ui_meta_achievements_enemies_by_type">Inimigos por Tipo</string>
 	<string key="ui_meta_achievements_enemies_by_name">Inimigos por Nome</string>
 	<string key="ui_meta_achievements_invasions_and_breaches">Invasões e Incursões</string>
-	<string key="ui_meta_achievements_kill_counts">Contagens de Abates</string>
+	<string key="ui_meta_achievements_kill_counts">Abates</string>
 	<string key="ui_meta_achievements_gathering">Coleta</string>
 	<string key="ui_meta_achievements_dungeon_bosses">Chefes de Expedição</string>
 	<string key="ui_meta_achievements_dungeon_runs">Jornadas de Expedição</string>
 	<string key="ui_meta_achievements_arenas">Arenas</string>
-	<string key="ui_meta_achievements_pvp">Jogador vs. Jogador</string>
+	<string key="ui_meta_achievements_pvp">PvP</string>
 	<string key="ui_meta_achievements_factions">Facções</string>
 	<string key="ui_meta_achievements_duels">Duelos</string>
 	<string key="ui_meta_achievements_wars">Guerras</string>
 	<string key="ui_meta_achievements_outpost_rush">Investida do Posto Avançado</string>
 	<string key="ui_meta_achievements_control_points">Pontos de Controle</string>
 	<string key="ui_meta_achievements_pvp_arenas">Arenas 3v3</string>
-	<string key="ui_meta_achievements_kill_counts_cristina">Contagens de Abates</string>
+	<string key="ui_meta_achievements_kill_counts_cristina">Abates</string>
 	<string key="ui_meta_achievements_quests">Jornadas</string>
 	<string key="ui_meta_achievements_territory_stories">Histórias de Território</string>
-	<string key="ui_meta_achievements_total_completed">Total de Concluídas</string>
-	<string key="ui_meta_achievements_missions">Missões</string>
-	<string key="ui_meta_achievements_pve_skill_based">PvE Baseado em Habilidade</string>
+	<string key="ui_meta_achievements_total_completed">Concluídas</string>
+	<string key="ui_meta_achievements_missions">Missões de Facção</string>
+	<string key="ui_meta_achievements_pve_skill_based">Caçada PvE</string>
 	<string key="ui_meta_achievements_pve_support">Apoio de PvE</string>
 	<string key="ui_meta_achievements_pve_by_territory">PvE por Território</string>
-	<string key="ui_meta_achievements_pvp_stir_the_pot">PvP Mexa no Vespeiro</string>
+	<string key="ui_meta_achievements_pvp_stir_the_pot">Missões PvP</string>
 	<string key="ui_meta_achievements_pvp_by_territory">PvP por Território</string>
-	<string key="ui_meta_achievements_mission_total_count">Total de Concluídas</string>
+	<string key="ui_meta_achievements_mission_total_count">Concluídas</string>
 	<string key="ui_meta_achievements_progression">Progressão</string>
-	<string key="ui_meta_achievements_overall">Geral</string>
-	<string key="ui_meta_achievements_skill_levels">Níveis de Habilidade</string>
-	<string key="ui_meta_achievements_gear_bonuses">Bônus de Equipamento</string>
+	<string key="ui_meta_achievements_overall">Personagem</string>
+	<string key="ui_meta_achievements_skill_levels">Habilidades Mercantes</string>
+	<string key="ui_meta_achievements_gear_bonuses">Equipamento</string>
 	<string key="ui_meta_achievements_housing">Alojamento</string>
-	<string key="ui_meta_achievements_territory_standing">Posição do Território</string>
-	<string key="ui_meta_achievements_faction_ranking">Ranque da Facção</string>
+	<string key="ui_meta_achievements_territory_standing">Territórios</string>
+	<string key="ui_meta_achievements_faction_ranking">Facções</string>
 	<string key="ui_meta_achievements_weapon_mastery">Maestria em Armas</string>
 	<string key="ui_meta_achievements_general">Geral</string>
-	<string key="ui_meta_achievements_crafting_count">Contagem de Confecção</string>
-	<string key="ui_meta_achievements_refining_count">Contagem de Refinamento</string>
-	<string key="ui_meta_achievements_gather_count">Contagem de Coleta</string>
-	<string key="ui_meta_achievements_named_item_crafting">Confecção de Itens Nomeados</string>
+	<string key="ui_meta_achievements_crafting_count">Confecção</string>
+	<string key="ui_meta_achievements_refining_count">Refinamento</string>
+	<string key="ui_meta_achievements_gather_count">Coleta</string>
+	<string key="ui_meta_achievements_named_item_crafting">Itens Nomeados</string>
 	<string key="ui_meta_achievements_repairs">Reparos</string>
-	<string key="ui_meta_achievements_instanced_teamplay">Jogo em Equipe por Instância</string>
-	<string key="ui_meta_achievements_lore_pages">Páginas de Mitologia</string>
-	<string key="ui_meta_achievements_player_actions">Ações de Jogador</string>
+	<string key="ui_meta_achievements_instanced_teamplay">Modos</string>
+	<string key="ui_meta_achievements_lore_pages">Documentos</string>
+	<string key="ui_meta_achievements_player_actions">Jogabilidade</string>
 	<string key="ui_meta_achievements_camping">Acampamento</string>
 	<string key="ui_meta_achievements_fishing">Pesca</string>
 	<string key="ui_meta_achievements_looting">Pilhagem</string>
@@ -3502,28 +3552,28 @@
 	<string key="ui_meta_achievements_versus_player" rel_version="Feature_Leaderboards">vs. Jogador</string>
 	<string key="ui_meta_achievements_trade_skills" rel_version="Feature_Leaderboards">Habilidades Mercantes</string>
 	<string key="ui_meta_achievements_territory_control" rel_version="Feature_Leaderboards">Controle de Território</string>
-	<string key="ui_meta_achievements_destinations">Destinos</string>
-	<string key="ui_meta_achievements_places_discovered">Locais Descobertos</string>
+	<string key="ui_meta_achievements_destinations">Descoberta</string>
+	<string key="ui_meta_achievements_places_discovered">Locais de Interesse</string>
 	<string key="ui_meta_achievements_specific_named_places">Locais Nomeados Específicos</string>
-	<string key="ui_meta_achievements_per_territory">Por Território</string>
+	<string key="ui_meta_achievements_per_territory">Território</string>
 	<string key="ui_meta_achievements_hamlets">Vilarejos e Postos Avançados</string>
-	<string key="ui_meta_achievements_summary_total_completion">Conclusão Total</string>
-	<string key="ui_meta_achievements_summary_recently_completed">Concluídas Recentemente</string>
+	<string key="ui_meta_achievements_summary_total_completion">Resumo</string>
+	<string key="ui_meta_achievements_summary_recently_completed">Conquistas Recentes</string>
 	<string key="ui_meta_achievements_summary_nearly_completed">Quase Concluídas</string>
-	<string key="ui_meta_achievements_summary_progress_overview">Visão Geral do Progresso</string>
+	<string key="ui_meta_achievements_summary_progress_overview">Por Categoria</string>
 	<string key="ui_meta_achievements_summary_fraction">&lt;font color={numeratorColor}&gt;{numerator}&lt;/font&gt; &lt;font color={denominatorColor}&gt; / {denominator}&lt;/font&gt;</string>
 	<string key="ui_meta_achievements_completed">Concluída</string>
-	<string key="ui_meta_achievements_reward">Recompensa: {type} {title}</string>
-	<string key="ui_meta_achievements_reward_mult">Recompensa: {num} {type}</string>
-	<string key="ui_meta_achievements_reward_list">Recompensas: {list}</string>
-	<string key="ui_meta_achievements_unlocked">Conquista Desbloqueada!</string>
-	<string key="ui_meta_achievements_view_detail">Ver Detalhes</string>
+	<string key="ui_meta_achievements_reward">{type} {title}</string>
+	<string key="ui_meta_achievements_reward_mult">{num} {type}</string>
+	<string key="ui_meta_achievements_reward_list">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Recompensas&lt;/font&gt;{list}</string>
+	<string key="ui_meta_achievements_unlocked">Conquista Desbloqueada</string>
+	<string key="ui_meta_achievements_view_detail">Visualizar</string>
 	<string key="ui_meta_achievements_threshold_reached_text">Conquista {percentage}% Concluída! {description}</string>
-	<string key="ui_meta_achievements_claim_reward">Receber</string>
-	<string key="ui_meta_achievements_claim_rewards">Receber</string>
+	<string key="ui_meta_achievements_claim_reward">Visualizar</string>
+	<string key="ui_meta_achievements_claim_rewards">Visualizar</string>
 	<string key="ui_meta_achievements_claim_reward_desc_one">Abra o menu de Conquista para receber &lt;font color={color}&gt;1 Recompensa!&lt;/font&gt;</string>
 	<string key="ui_meta_achievements_claim_reward_desc_mult">Abra o menu de Conquista para receber &lt;font color={color}&gt;{number} Recompensas!&lt;/font&gt;</string>
-	<string key="ui_meta_achievements_rewards_available">Recompensas de Conquista Disponíveis!</string>
+	<string key="ui_meta_achievements_rewards_available">Recompensas Disponíveis</string>
 	<string key="ui_meta_achievements_rewards_available_desc_mult">Você tem &lt;font color={color}&gt;{number} Recompensas de Conquista&lt;/font&gt; para receber!</string>
 	<string key="ui_meta_achievements_rewards_available_desc_one">Você tem &lt;font color={color}&gt;1 Recompensa de Conquista&lt;/font&gt; para receber!</string>
 	<string key="ui_meta_achievements_claim_all">Receber Tudo</string>
@@ -3542,7 +3592,7 @@
 	<string key="ui_meta_achievements_roman_numeral_vii">VII</string>
 	<string key="ui_meta_achievements_no_completed">Nenhuma conquista foi concluída ainda</string>
 	<string key="ui_meta_achievements_no_nearly_completed">Nenhuma conquista ficou próxima de ser concluída ainda</string>
-	<string key="ui_meta_achievements_Musical_Instruments">Instrumentos Musicais</string>
+	<string key="ui_meta_achievements_Musical_Instruments">Música</string>
 	<string key="ui_metaachievement_Music_Easy1_title">Ajudante de Palco</string>
 	<string key="ui_metaachievement_Music_Easy1_title_SHE">Ajudante de Palco</string>
 	<string key="ui_metaachievement_Music_Easy1_title_THEY">Ajudante de Palco</string>
@@ -3598,7 +3648,7 @@
 	<string key="ui_metachievement_quest_brimstonesands_unlock_desc" rel_version="Territory_Brimstone_Sands">Você desvendou o segredo para suportar o calor escaldante de Areias de Enxofre abrindo o caminho para esta terra de mistério.</string>
 	<string key="ui_metachievement_quest_brimstonesands_activateennead_desc" rel_version="Territory_Brimstone_Sands">Como os antigos Anciões, você ativou o Portão da Noite e enviou um sinal para a escuridão impenetrável.</string>
 	<string key="ui_metachievement_quest_brimstonesands_thothshrine_desc" rel_version="Territory_Brimstone_Sands">Você reativou os portais milagrosos do Ancião, permitindo uma viagem rápida pela vasta terra de Areias de Enxofre.</string>
-	<string key="ui_metachievement_quest_brimstonesands_heartgem_desc" rel_version="Territory_Brimstone_Sands">Os segredos para melhorar sua Gema de Coração foram revelados a você, lhe transformando em um campeão ainda mais formidável de Aeternum.</string>
+	<string key="ui_metachievement_quest_brimstonesands_heartgem_desc" rel_version="Territory_Brimstone_Sands">Os segredos para melhorar sua Runa de Coração foram revelados a você, lhe transformando em um campeão ainda mais formidável de Aeternum.</string>
 	<string key="ui_metachievement_lore_brimstone_ancientglyphs_title" rel_version="Territory_Brimstone_Sands">Quem Escreve para os Anciões</string>
 	<string key="ui_metachievement_lore_brimstone_ancientglyphs_desc" rel_version="Territory_Brimstone_Sands">Tendo encontrado todos os glifos Anciões, sua jornada em direção à iluminação está apenas começando…</string>
 	<string key="ui_metachievement_hidden_brimstone">Continue jogando em Areias de Enxofre para concluir esta conquista escondida.</string>
@@ -3606,5 +3656,6 @@
 	<string key="ui_metachievement_hidden_monarchs">Continue jogando em Falésias do Monarca para concluir esta conquista escondida.</string>
 	<string key="ui_metachievement_hidden_windsward">Continue jogando em Guardaventos para concluir esta conquista escondida.</string>
 	<string key="ui_metachievement_hidden_everfall">Continue jogando em Queda Eterna para concluir esta conquista escondida.</string>
+	<string key="ui_metachievement_hidden_weaversfen">Continue jogando em Pântano do Tecelão para concluir esta conquista escondida.</string>
 </resources>
 

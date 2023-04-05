@@ -559,7 +559,7 @@
 	<string key="0623_0102_d_03_TaskFishingHook" speaker="UI">Engancha un pescado</string>
 	<string key="0623_0102_d_04_TaskFishingReel" speaker="UI">Recoge el pescado</string>
 	<string key="0423_0101_FQ03_objective_title" speaker="UI _ Quest Title">Señuelo</string>
-	<string key="0423_0101_FQ03_objective_desc" speaker="UI - Quest Description">Por órdenes de Ruby, la pescadora experta, atrapa un caracol en agua dulce y una almeja en agua salada para usarlos como señuelos y entrégaselos a Clemenson, la pescadora experta, en Primera luz.</string>
+	<string key="0423_0101_FQ03_objective_desc" speaker="UI - Quest Description">Por órdenes de Ruby, la pescadora experta, atrapa un caracol en agua dulce y una almeja en agua salada para usarlos como señuelos y entrégaselos a Clemenson, la pescadora experta, en Monarch's Bluffs.</string>
 	<string key="0423_0101_FQ03_prompt" speaker="UI - Player Prompt">"Sí. Me envía Shields, el pescador experto".</string>
 	<string key="0423_0101_FQ03_proposal" speaker="Master Fisher Ruby - Everfall" name="MasterFisherRuby" VO="Fisher_0423_0101_FQ03_ProposalResponse" VO_Status="Recorded" dialogue-next="@0423_0101_FQ03_proposal_next">En el agua dulce, los señuelos más comunes que puedes conseguir son los caracoles. En el agua salada, encontrarás almejas. \n\nClemenson, la pescadora experta, agradecería que le entregasen este cebo de agua salada. </string>
 	<string key="0423_0101_FQ03_proposal_prompt" speaker="UI - Player Prompt">"¿Por qué estoy pescando para una pescadora experta?"</string>
@@ -645,11 +645,11 @@
 	<string key="1424_0101_FQ11_complete_available_response" speaker="Master Fisher Davies - Edengrove" name="MasterFisherDavies" VO="Fisher_1424_0101_FQ11_AvailResponse" VO_Status="Recorded">Sí, eso es... Vengan con papá, pececitos... ¡Oh! No te había visto. Cantar mientras pesco me resulta muy relajante.\n\nVeo que trajiste un botín de lujo para los guardianes de almas aquí.</string>
 	<string key="1424_0101_d_01_TaskFishingCatchFish" speaker="UI">Atrapa un {itemName}</string>
 	<string key="0324_0101_FQ12_objective_title" speaker="UI">Pez teñido con azoth</string>
-	<string key="0324_0101_FQ12_objective_desc" speaker="UI">Por órdenes de Davies, el pescador experto, atrapa un pez teñido con azoth en Edengrove y llévaselo a Bernard, el pescador experto, en Montaña destruida.</string>
+	<string key="0324_0101_FQ12_objective_desc" speaker="UI">Pesca un pez teñido con azoth en la Montaña destruida y llévaselo a Bernard, el pescador experto.</string>
 	<string key="0324_0101_FQ12_prompt" speaker="UI - Player Prompt">"¿Qué otra cosa hay aquí además de peces?"</string>
 	<string key="0324_0101_FQ12_proposal" speaker="Master Fisher Davies - Edengrove" name="MasterFisherDavies" VO="Fisher_0324_0101_FQ12_ProposalResponse" VO_Status="Recorded" dialogue-next="@0324_0101_FQ12_proposal_next">Hay criaturas míticas, como el pez teñido con azoth.</string>
 	<string key="0324_0101_FQ12_proposal_prompt" speaker="UI - Player Prompt">"¿Qué es un pez teñido con azoth?"</string>
-	<string key="0324_0101_FQ12_proposal_next" speaker="Master Fisher Davies - Edengrove" name="MasterFisherDavies" VO="Fisher_0324_0101_FQ12_CompleteNext" VO_Status="Recorded" dialogue-prompt="@0324_0101_FQ12_proposal_prompt">Un pez cuya esencia ha sido poseída e imbuida por completo con los poderes mágicos del azoth, ¡obviamente! Pesca uno en las aguas que brillan con azoth aquí, en Edengrove, y llévaselo a Bernard en Montaña destruida.</string>
+	<string key="0324_0101_FQ12_proposal_next" speaker="Master Fisher Davies - Edengrove" name="MasterFisherDavies" VO="Fisher_0324_0101_FQ12_CompleteNext" VO_Status="Recorded" dialogue-prompt="@0324_0101_FQ12_proposal_prompt">Un pez cuya esencia ha sido poseída e imbuida por completo con los poderes mágicos del azoth, ¡obviamente! Pesca uno para Bernard en la Montaña destruida.</string>
 	<string key="0324_0101_FQ12_incomplete" speaker="Master Fisher Davies - Edengrove">No te desanimes si aún no has atrapado un pez teñido con azoth, esas cosas son resbaladizas y fugaces, en el mejor de los casos.</string>
 	<string key="0324_0101_FQ12_complete_available_response" speaker="Master Fisher Bernard - Shattered Mtn" name="MasterFisherBernard" VO="Fisher_0324_0101_FQ12_AvailResponse" VO_Status="Recorded">Ah, calculo que eres el nuevo pescador que envió Davies, el pescador experto. Qué pez más extraño que llevas ahí.</string>
 	<string key="0324_0101_d_01_TaskFishingCatchWeight" speaker="UI">Atrapa un pescado con más de 30 libras de peso</string>
@@ -708,7 +708,7 @@
 	<string key="0699_0102_Barkimedes2_desc" speaker="UI">Barkimedes, el perro de Simon Grey, quiere huesos encantados de la expedición de Obelisco destruido para mejorar su experiencia masticatoria.</string>
 	<string key="0699_0102_Barkimedes2_start_prompt" speaker="UI - Player Prompt">"Oye, chico, ¿quieres unos huesos especiales?"</string>
 	<string key="0699_0102_Barkimedes2_proposal" speaker="Barkimedes - Windsward" name="Barkimedes" VO="0699_0102_Barkimedes2_proposal" VO_Status="Needs Recording" dialogue-next="@0699_0102_Barkimedes2_proposal_next">¡Guau, guau! (Barkimedes abre los ojos de par en par con anticipación y menea la cola).</string>
-	<string key="0699_0102_Barkimedes2_proposal_prompt" speaker="UI - Player Prompt">"Los huesos de Carretillas de piedra deberían servir".</string>
+	<string key="0699_0102_Barkimedes2_proposal_prompt" speaker="UI - Player Prompt">"Los huesos de Carretillas de piedra\ndeberían servir".</string>
 	<string key="0699_0102_Barkimedes2_proposal_next" speaker="Barkimedes - Windsward" name="Barkimedes" VO="0699_0102_Barkimedes2_proposal_next" VO_Status="Needs Recording" dialogue-prompt="@0699_0102_Barkimedes2_proposal_prompt">(Barkimedes deja escapar un aullido de alegría).</string>
 	<string key="0699_0102_Barkimedes2_incomplete" speaker="Barkimedes - Windsward" name="Barkimedes" VO="0699_0102_Barkimedes2_incomplete" VO_Status="Needs Recording">(Barkimedes jadea con impaciencia, a la espera de los huesos especiales).</string>
 	<string key="0699_0102_Barkimedes2_complete" speaker="Barkimedes - Windsward" name="Barkimedes" VO="0699_0102_Barkimedes2_complete" VO_Status="Needs Recording">¡Guau, guau! (Barkimedes mastica los huesos con voracidad).</string>

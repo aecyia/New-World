@@ -12,6 +12,7 @@
 	<string key="LeatherT2_Down_Name">Zdegraduj twardą skórę na surową skórę</string>
 	<string key="LeatherT3_Down_Name">Zdegraduj zbitą skórę na twardą skórę</string>
 	<string key="LeatherT4_Down_Name">Zdegraduj nasyconą skórę na zbitą skórę</string>
+	<string key="LeatherT4_Down_Name">Zdegraduj nasyconą skórę na zbitą skórę</string>
 	<string key="ClothT2_Down_Name">Zdegraduj satynę na płótno</string>
 	<string key="ClothT3_Down_Name">Zdegraduj jedwab na satynę</string>
 	<string key="ClothT4_Down_Name">Zdegraduj nasycony jedwab na jedwab</string>
@@ -1973,5 +1974,12 @@
 	<string key="LightHands_ChitinT5">Płócienne chitynowe rękawiczki</string>
 	<string key="LightLegs_ChitinT5">Płócienne chitynowe spodnie</string>
 	<string key="LightFeet_ChitinT5">Płócienne chitynowe buty</string>
+	<string key="PotionFamilyWardAeternianT3" rel_version="Season_1_Perm">Silny eliksir ochrony przed ludźmi</string>
+	<string key="PotionFamilyWardAeternianT4" rel_version="Season_1_Perm">Potężny eliksir ochrony przed ludźmi</string>
+	<string key="PotionFamilyWardAeternianT5" rel_version="Season_1_Perm">Nasycony eliksir ochrony przed ludźmi</string>
+	<string key="Procedural_CoatingAeternianT2" rel_version="Season_1_Perm">Pospolita antyludzka powłoka</string>
+	<string key="Procedural_CoatingAeternianT3" rel_version="Season_1_Perm">Silna antyludzka powłoka</string>
+	<string key="Procedural_CoatingAeternianT4" rel_version="Season_1_Perm">Potężna antyludzka powłoka</string>
+	<string key="Procedural_CoatingAeternianT5" rel_version="Season_1_Perm">Nasycona antyludzka powłoka</string>
 </resources>
 

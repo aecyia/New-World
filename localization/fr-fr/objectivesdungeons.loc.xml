@@ -187,6 +187,30 @@
 	<string key="dungeon_ebonscale00_task_find_empress">Trouver l'impératrice Zhou au palais</string>
 	<string key="dungeon_ebonscale00_task_defeat_empress">Vaincre l'impératrice Zhou !</string>
 	<string key="dungeon_ebonscale00_task_leave_dungeon">Quitter le chantier naval</string>
+	<string key="dungeon_greatcleave01_title" rel_version="Expedition_GreatCleave_01">Forge empyréenne</string>
+	<string key="dungeon_greatcleave01_required_equipment" rel_version="Expedition_GreatCleave_01">1 bâton d'Azoth</string>
+	<string key="dungeon_greatcleave01_description" rel_version="Expedition_GreatCleave_01">Poursuivre sire Loth et débarrasser la forge de la présence varègue</string>
+	<string key="dungeon_greatcleave01_task_explore" rel_version="Expedition_GreatCleave_01">Pénétrer dans la forge empyréenne</string>
+	<string key="dungeon_greatcleave01_task_solveforgeentry" rel_version="Expedition_GreatCleave_01">Trouver un moyen de franchir la porte principale</string>
+	<string key="dungeon_greatcleave01_task_gain_access_forge" rel_version="Expedition_GreatCleave_01">Utiliser le sceau d'Azoth ancien</string>
+	<string key="dungeon_greatcleave01_task_unlock_dial" rel_version="Expedition_GreatCleave_01">Trouver un moyen de déverrouiller le mécanisme ancien</string>
+	<string key="dungeon_greatcleave01_task_talk_to_nora" rel_version="Expedition_GreatCleave_01">Parler à Nora Roggeveen</string>
+	<string key="dungeon_greatcleave01_task_power_the_forge" rel_version="Expedition_GreatCleave_01">Activer le mécanisme ancien</string>
+	<string key="dungeon_greatcleave01_task_primordial" rel_version="Expedition_GreatCleave_01">Explorer l'intérieur de la forge</string>
+	<string key="dungeon_greatcleave01_task_solve_the_mechanism" rel_version="Expedition_GreatCleave_01">Résoudre le mécanisme ancien</string>
+	<string key="dungeon_greatcleave01_task_pursue_corrupted" rel_version="Expedition_GreatCleave_01">Dissiper la présence primordiale</string>
+	<string key="dungeon_greatcleave01_task_theheel" rel_version="Expedition_GreatCleave_01">Éliminer le Talon pour dégager le chemin</string>
+	<string key="dungeon_greatcleave01_task_forge" rel_version="Expedition_GreatCleave_01">S'aventurer plus profondément dans la forge</string>
+	<string key="dungeon_greatcleave01_task_ifrit" rel_version="Expedition_GreatCleave_01">Détruire Éfrit</string>
+	<string key="dungeon_greatcleave01_task_wayforward" rel_version="Expedition_GreatCleave_01">Utiliser le sceau de feu</string>
+	<string key="dungeon_greatcleave01_task_investigate" rel_version="Expedition_GreatCleave_01">Poursuivre sire Loth et ses commandants</string>
+	<string key="dungeon_greatcleave01_task_findawayup" rel_version="Expedition_GreatCleave_01">Trouver un moyen de franchir le barrage</string>
+	<string key="dungeon_greatcleave01_task_defeat" rel_version="Expedition_GreatCleave_01">Éliminer le dernier garde varègue</string>
+	<string key="dungeon_greatcleave01_task_varangians" rel_version="Expedition_GreatCleave_01">Résoudre le mécanisme ancien</string>
+	<string key="dungeon_greatcleave01_task_commanders" rel_version="Expedition_GreatCleave_01">Poursuivre Loth et ses commandants</string>
+	<string key="dungeon_greatcleave01_task_defeattheknight" rel_version="Expedition_GreatCleave_01">Éliminer le commandant Marius</string>
+	<string key="dungeon_greatcleave01_victory_cutscene" rel_version="Expedition_GreatCleave_01">Annoncer la nouvelle de la défaite du commandant Marius</string>
+	<string key="dungeon_greatcleave01_task_exit_dungeon" rel_version="Expedition_GreatCleave_01">Annoncer la nouvelle de la défaite du commandant Marius</string>
 	<string key="dungeon_brimstone_title" rel_version="Expedition_BrimstoneSands_00">L'Ennéade</string>
 	<string key="dungeon_brimstonesands00_title" rel_version="Expedition_BrimstoneSands_00">L'Ennéade</string>
 	<string key="dungeon_brimstone_description" rel_version="Expedition_BrimstoneSands_00">Explorez l'Ennéade et découvrez quels secrets les Anciens ont cachés dans ce lieu intemporel.</string>
@@ -254,5 +278,14 @@
 	<string key="ui_solo_arena_leave_desc_time" rel_version="Territory_Brimstone_Sands">Voulez-vous vraiment quitter l'Épreuve de l'âme ?\nVous ne pourrez pas rejoindre la file d'attente pour l'Épreuve de l'âme avant &lt;font color="#ffdb7a"&gt;[{time}]&lt;/font&gt;.</string>
 	<string key="ui_solo_arena_leave_title" rel_version="Territory_Brimstone_Sands">Quitter l'Épreuve de l'âme ?</string>
 	<string key="ui_cannot_travel_solo_arena" rel_version="Territory_Brimstone_Sands">Transfert rapide impossible lorsque vous êtes dans l'Épreuve de l'âme.</string>
+	<string key="Quest_CaerDun_title" rel_version="Quest_MSQ2_Brightwood">La malédiction de Caer Dun</string>
+	<string key="Quest_CaerDun_description" rel_version="Quest_MSQ2_Brightwood">Descendez dans la crypte où se mêlent acier mystique et agissements profanes. Détruisez le joyau de cœur impur et brisez la malédiction de Caer Dun.</string>
+	<string key="quest_CaerDun_task_approach" rel_version="Quest_MSQ2_Brightwood">Atteindre l'autel maudit au cœur de Caer Dun</string>
+	<string key="quest_CaerDun_task_place" rel_version="Quest_MSQ2_Brightwood">Placer le joyau de cœur impur sur l'autel maudit</string>
+	<string key="quest_CaerDun_task_smash" rel_version="Quest_MSQ2_Brightwood">Détruire le joyau de cœur impur et lever la malédiction de Caer Dun !</string>
+	<string key="quest_CaerDun_task_destroy_boss" rel_version="Quest_MSQ2_Brightwood">Vaincre l'esprit maudit d'Umberto</string>
+	<string key="quest_CaerDun_task_purify" rel_version="Quest_MSQ2_Brightwood">Utiliser votre bâton d'Azoth pour dissiper la malédiction de Caer Dun</string>
+	<string key="quest_CaerDun_task_leave" rel_version="Quest_MSQ2_Brightwood">Explorer la crypte et quitter l'Épreuve de l'âme</string>
+	<string key="Quest_CaerDun_required_equipment" rel_version="Quest_MSQ2_Brightwood">1 bâton d'Azoth, 1 pioche de mineur</string>
 </resources>
 

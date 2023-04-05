@@ -52,14 +52,14 @@
 	<string key="ui_leaderboard_display_war_wins" rel_version="Feature_Leaderboards">Vittorie</string>
 	<string key="ui_leaderboard_display_war_attacker_wins" rel_version="Feature_Leaderboards">Vittorie da attaccante</string>
 	<string key="ui_leaderboard_display_war_defender_wins" rel_version="Feature_Leaderboards">Vittorie da difensore</string>
-	<string key="ui_leaderboard_display_war_kill_death" rel_version="Feature_Leaderboards">Percentuale morti/uccisioni</string>
+	<string key="ui_leaderboard_display_war_kill_death" rel_version="Feature_Leaderboards">Rapporto uccisioni/morti</string>
 	<string key="ui_leaderboard_display_outpostrush_heals" rel_version="Feature_Leaderboards">Cure</string>
 	<string key="ui_leaderboard_display_outpostrush_kills" rel_version="Feature_Leaderboards">Uccisioni giocatori</string>
 	<string key="ui_leaderboard_display_outpostrush_resources" rel_version="Feature_Leaderboards">Contributo risorse</string>
 	<string key="ui_leaderboard_display_outpostrush_score" rel_version="Feature_Leaderboards">Punteggio</string>
 	<string key="ui_leaderboard_display_outpostrush_npc_kills" rel_version="Feature_Leaderboards">Uccisioni PNG</string>
 	<string key="ui_leaderboard_display_outpostrush_wins" rel_version="Feature_Leaderboards">Vittorie</string>
-	<string key="ui_leaderboard_display_outpostrush_kill_death" rel_version="Feature_Leaderboards">Percentuale morti/uccisioni</string>
+	<string key="ui_leaderboard_display_outpostrush_kill_death" rel_version="Feature_Leaderboards">Rapporto uccisioni/morti</string>
 	<string key="ui_leaderboard_display_outpostrush_damage_dealt" rel_version="Feature_Leaderboards">Danni inflitti</string>
 	<string key="ui_leaderboard_display_darkness_score" rel_version="Feature_Leaderboards">Punteggio</string>
 	<string key="ui_leaderboard_display_openworldpvp_influence" rel_version="Feature_Leaderboards">Influenza ottenuta</string>
@@ -71,9 +71,9 @@
 	<string key="ui_leaderboard_display_territory_control_streak" rel_version="Feature_Leaderboards">Serie al governo</string>
 	<string key="ui_leaderboard_display_territory_control_score" rel_version="Feature_Leaderboards">Giorni al governo</string>
 	<string key="ui_leaderboard_display_pvparena_wins" rel_version="Feature_Leaderboards">Vittorie</string>
-	<string key="ui_leaderboard_display_pvparena_winlossratio" rel_version="Feature_Leaderboards">Percentuale vittore/sconfitte</string>
+	<string key="ui_leaderboard_display_pvparena_winlossratio" rel_version="Feature_Leaderboards">Rapporto vittorie/sconfitte</string>
 	<string key="ui_leaderboard_display_pvparena_kills" rel_version="Feature_Leaderboards">Uccisioni</string>
-	<string key="ui_leaderboard_display_pvparena_killdeathratio" rel_version="Feature_Leaderboards">Percentuale morti/uccisioni</string>
+	<string key="ui_leaderboard_display_pvparena_killdeathratio" rel_version="Feature_Leaderboards">Rapporto uccisioni/morti</string>
 	<string key="ui_leaderboard_display_pvparena_score" rel_version="Feature_Leaderboards">Punteggio</string>
 	<string key="ui_leaderboard_display_pvparena_heals" rel_version="Feature_Leaderboards">Cure</string>
 	<string key="ui_leaderboard_display_pvparena_damagedealt" rel_version="Feature_Leaderboards">Danni inflitti</string>
@@ -90,12 +90,12 @@
 	<string key="ui_leaderboard_display_invasion_heals" rel_version="Feature_Leaderboards">Cure</string>
 	<string key="ui_leaderboard_display_invasion_wins" rel_version="Feature_Leaderboards">Vittorie</string>
 	<string key="ui_leaderboard_display_invasion_kills" rel_version="Feature_Leaderboards">Uccisioni</string>
-	<string key="ui_leaderboard_display_invasion_kill_death" rel_version="Feature_Leaderboards">Percentuale morti/uccisioni</string>
+	<string key="ui_leaderboard_display_invasion_kill_death" rel_version="Feature_Leaderboards">Rapporto uccisioni/morti</string>
 	<string key="ui_leaderboard_display_invasion_damage_dealt" rel_version="Feature_Leaderboards">Danni inflitti</string>
-	<string key="ui_leaderboard_character_empty_leaderboard" rel_version="Feature_Leaderboards">Al momento non hai una posizione in questa classifica</string>
+	<string key="ui_leaderboard_character_empty_leaderboard" rel_version="Feature_Leaderboards">Non hai una posizione in questa classifica</string>
 	<string key="ui_leaderboard_faction_no_faction" rel_version="Feature_Leaderboards">Unisciti a una fazione per partecipare</string>
 	<string key="ui_leaderboard_faction_no_company" rel_version="Feature_Leaderboards">Unisciti a una compagnia per partecipare</string>
-	<string key="ui_leaderboard_error_nodata" rel_version="Feature_Leaderboards">Non sono stati rilevati dati</string>
+	<string key="ui_leaderboard_error_nodata" rel_version="Feature_Leaderboards">Nessun dato rilevato</string>
 	<string key="ui_leaderboard_error_nodata_filter" rel_version="Feature_Leaderboards">Questi dati non vengono rilevati da {filter}</string>
 	<string key="ui_leaderboard_error_norewards" rel_version="Feature_Leaderboards">{type} non offre ricompense</string>
 	<string key="ui_leaderboard_error_norewards_this" rel_version="Feature_Leaderboards">{type} non offre ricompense</string>
@@ -107,10 +107,10 @@
 	<string key="ui_leaderboard_not_tracked_character" rel_version="Feature_Leaderboards">Questa categoria non è rilevata in base al personaggio</string>
 	<string key="ui_leaderboard_not_tracked_company" rel_version="Feature_Leaderboards">Questa categoria non è rilevata in base alla compagnia</string>
 	<string key="ui_leaderboard_not_tracked_faction" rel_version="Feature_Leaderboards">Questa categoria non è rilevata in base alla fazione</string>
-	<string key="ui_leaderboard_not_tracked_category_season" rel_version="Feature_Leaderboards">Questa categoria non è rilevata trimestralmente</string>
+	<string key="ui_leaderboard_not_tracked_category_season" rel_version="Feature_Leaderboards">Questa categoria non viene rilevata stagionalmente</string>
 	<string key="ui_leaderboard_not_tracked_category_week" rel_version="Feature_Leaderboards">Questa categoria non è rilevata settimanalmente</string>
 	<string key="ui_leaderboard_not_tracked_category_month" rel_version="Feature_Leaderboards">Questa categoria non è rilevata mensilmente</string>
-	<string key="ui_leaderboard_not_tracked_season" rel_version="Feature_Leaderboards">Questa statistica non viene rilevata trimestralmente</string>
+	<string key="ui_leaderboard_not_tracked_season" rel_version="Feature_Leaderboards">Questa statistica non viene rilevata stagionalmente</string>
 	<string key="ui_leaderboard_not_tracked_week" rel_version="Feature_Leaderboards">Questa statistica non viene rilevata settimanalmente</string>
 	<string key="ui_leaderboard_not_tracked_month" rel_version="Feature_Leaderboards">Questa statistica non viene rilevata mensilmente</string>
 	<string key="ui_leaderboard_tip_war_score" rel_version="Feature_Leaderboards">Il punteggio Guerra corrisponde al punteggio massimo ottenuto in una guerra.</string>
@@ -146,9 +146,10 @@
 	<string key="ui_leaderboard_display_legendaries" rel_version="Feature_Leaderboards">Leggendari</string>
 	<string key="ui_leaderboard_territory_all" rel_version="Feature_Leaderboards">Tutti i territori</string>
 	<string key="ui_leaderboard_row_rank_morethan" rel_version="Feature_Leaderboards">&gt;{number}</string>
-	<string key="ui_leaderboard_with_gold" rel_version="Feature_Leaderboards">Con &lt;font color={color}&gt;grado Oro&lt;/font&gt; &lt;img src="lyshineui/images/dungeons/mutator_rank_gold_sm" scale="2.0" xPadding="0" yOffset="5"&gt;&lt;/img&gt;</string>
+	<string key="ui_leaderboard_with_gold" rel_version="Feature_Leaderboards">con &lt;font color={color}&gt;grado Oro&lt;/font&gt; &lt;img src="lyshineui/images/dungeons/mutator_rank_gold_sm" scale="2.0" xPadding="0" yOffset="5"&gt;&lt;/img&gt;</string>
 	<string key="ui_leaderboard_company_deleted" rel_version="Feature_Leaderboards">(Compagnia eliminata)</string>
 	<string key="ui_leaderboard_player_deleted" rel_version="Feature_Leaderboards">(Giocatore eliminato)</string>
 	<string key="ui_leaderboard_rewards_top" rel_version="Feature_Leaderboards">Migliori {number}</string>
+	<string key="ui_leaderboard_category_expedition_empyrean" rel_version="Expedition_GreatCleave_01">Fucina empirea</string>
 </resources>
 

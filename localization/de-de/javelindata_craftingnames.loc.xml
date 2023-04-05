@@ -12,6 +12,7 @@
 	<string key="LeatherT2_Down_Name">Grobes Leder zu Rauem Leder abwerten</string>
 	<string key="LeatherT3_Down_Name">Schichtleder zu Grobem Leder abwerten</string>
 	<string key="LeatherT4_Down_Name">Behandeltes Leder zu Schichtleder abwerten</string>
+	<string key="LeatherT4_Down_Name">Behandeltes Leder zu Schichtleder abwerten</string>
 	<string key="ClothT2_Down_Name">Satin zu Leinen abwerten</string>
 	<string key="ClothT3_Down_Name">Seide zu Satin abwerten</string>
 	<string key="ClothT4_Down_Name">Behandelte Seide zu Seide abwerten</string>
@@ -518,7 +519,7 @@
 	<string key="Procedural_ManaRecoveryT2">Energiespendender Reiseproviant</string>
 	<string key="Procedural_ManaRecoveryT3">Energiespendende kleine Mahlzeit</string>
 	<string key="Procedural_ManaRecoveryT4">Energiespendende magenfüllende Mahlzeit</string>
-	<string key="Procedural_ManaRecoveryT5">Energiespendende herzhafte Mahlzeit</string>
+	<string key="Procedural_ManaRecoveryT5">Energiespendendes herzhaftes Mahl</string>
 	<string key="LeatherT2_CraftName">Raues \nLeder</string>
 	<string key="LeatherT3_CraftName">Grobes \nLeder</string>
 	<string key="LeatherT4_CraftName">Schicht- \nleder</string>
@@ -1952,10 +1953,10 @@
 	<string key="GypsumOrbOrange">Gipskugel - Zitrin</string>
 	<string key="GypsumOrbPurple">Gipskugel - Amethyst</string>
 	<string key="GypsumOrbWhite">Gipskugel - Diamant</string>
-	<string key="Procedural_2hGreatSwordT2">Großschwert (Eisen)</string>
-	<string key="Procedural_2hGreatSwordT3">Großschwert (Stahl)</string>
-	<string key="Procedural_2hGreatSwordT4">Großschwert (Sternenmetall)</string>
-	<string key="Procedural_2hGreatSwordT5">Großschwert (Orichalcum)</string>
+	<string key="Procedural_2hGreatSwordT2">Eisernes Großschwert</string>
+	<string key="Procedural_2hGreatSwordT3">Stählernes Großschwert</string>
+	<string key="Procedural_2hGreatSwordT4">Sternenmetall-Großschwert</string>
+	<string key="Procedural_2hGreatSwordT5">Orichalcum-Großschwert</string>
 	<string key="TinctureAcidT5">Säuretinktur</string>
 	<string key="ChitinPadding">Chitinpolster</string>
 	<string key="HeavyHead_ChitinT5">Schwerer Chitin-Plattenhelm</string>
@@ -1973,5 +1974,12 @@
 	<string key="LightHands_ChitinT5">Chitin-Stoffhandschuhe</string>
 	<string key="LightLegs_ChitinT5">Chitin-Stoffhose</string>
 	<string key="LightFeet_ChitinT5">Chitin-Stoffstiefel</string>
+	<string key="PotionFamilyWardAeternianT3" rel_version="Season_1_Perm">Starker Menschen-Schutztrank</string>
+	<string key="PotionFamilyWardAeternianT4" rel_version="Season_1_Perm">Mächtiger Menschen-Schutztrank</string>
+	<string key="PotionFamilyWardAeternianT5" rel_version="Season_1_Perm">Behandelter Menschen-Schutztrank</string>
+	<string key="Procedural_CoatingAeternianT2" rel_version="Season_1_Perm">Gewöhnliche Menschenbeschichtung</string>
+	<string key="Procedural_CoatingAeternianT3" rel_version="Season_1_Perm">Starke Menschenbeschichtung</string>
+	<string key="Procedural_CoatingAeternianT4" rel_version="Season_1_Perm">Mächtige Menschenbeschichtung</string>
+	<string key="Procedural_CoatingAeternianT5" rel_version="Season_1_Perm">Behandelte Menschenbeschichtung</string>
 </resources>
 

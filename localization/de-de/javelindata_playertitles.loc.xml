@@ -651,7 +651,7 @@
 	<string key="ui_playertitle_pve_totalkills5_THEY" rel_version="Feature_MetaAchievements">Legende Aeternums</string>
 	<string key="ui_playertitle_dungeonboss_amrine" rel_version="Feature_MetaAchievements">Archäologe</string>
 	<string key="ui_playertitle_dungeonboss_amrine_SHE" rel_version="Feature_MetaAchievements">Archäologin</string>
-	<string key="ui_playertitle_dungeonboss_amrine_THEY" rel_version="Feature_MetaAchievements">Archäologe*in</string>
+	<string key="ui_playertitle_dungeonboss_amrine_THEY" rel_version="Feature_MetaAchievements">Archäolog*in</string>
 	<string key="ui_playertitle_dungeonboss_shatteredobelisk" rel_version="Expedition_Everfall_00">Fluch der Ahnen</string>
 	<string key="ui_playertitle_dungeonboss_shatteredobelisk_SHE" rel_version="Expedition_Everfall_00">Fluch der Ahnen</string>
 	<string key="ui_playertitle_dungeonboss_shatteredobelisk_THEY" rel_version="Expedition_Everfall_00">Fluch der Ahnen</string>
@@ -745,14 +745,14 @@
 	<string key="ui_player_titles_section_label_totalkills">Tötungen insgesamt</string>
 	<string key="ui_player_titles_section_label_test_only">Nur zu Testzwecken (NICHT FÜR DIE VERÖFFENTLICHUNG BESTIMMT)</string>
 	<string key="ui_title_section_title">Titel</string>
-	<string key="ui_title_section_pick_title">Anzuzeigenden Titel auswählen</string>
+	<string key="ui_title_section_pick_title">Titel ändern</string>
 	<string key="ui_title_section_no_title">Kein Titel</string>
-	<string key="ui_title_section_current_title">Derzeit ausgewählt:</string>
+	<string key="ui_title_section_current_title">Derzeit angezeigt:</string>
 	<string key="ui_title_section_new">NEU</string>
-	<string key="ui_title_section_current_title_tag">Aktueller Titel</string>
-	<string key="ui_title_section_apply">Anwenden</string>
-	<string key="ui_playertitle_notification_title">Titel freigeschaltet!</string>
-	<string key="ui_playertitle_notification_desc">Du hast den Titel&lt;font color={color}&gt; {title} &lt;/font&gt;freigeschaltet.</string>
+	<string key="ui_title_section_current_title_tag">Angezeigt</string>
+	<string key="ui_title_section_apply">Bestätigen</string>
+	<string key="ui_playertitle_notification_title">Titel freigeschaltet</string>
+	<string key="ui_playertitle_notification_desc">Du hast &lt;font color={color}&gt;{title} &lt;/font&gt; freigeschaltet.</string>
 	<string key="ui_playertitle_notification_expired_title">Dein Titel ist verfallen!</string>
 	<string key="ui_playertitle_notification_expired_desc">Dein Titel &lt;font color={color}&gt;{title}&lt;/font&gt; ist verfallen! Klicke auf "Details ansehen", um einen neuen Titel auszuwählen.</string>
 	<string key="ui_playertitle_meta_achievement_description">Du hast den Erfolg {title} ({description}) erlangt.</string>
@@ -762,7 +762,7 @@
 	<string key="ui_playertitle_meta_preorder_description" rel_version="Feature_Titles">Erhalten für die Vorbestellung von &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;New World&lt;/font&gt;.</string>
 	<string key="ui_playertitle_skills_description">Erhalten für das Steigern von Fähigkeiten.</string>
 	<string key="ui_playertitle_generic_description">Erhalten fürs Spielen.</string>
-	<string key="ui_playertitle_no_title_description">Anwenden, um keine Titel anzuzeigen.</string>
+	<string key="ui_playertitle_no_title_description">Wähle diese Option aus, um keine Titel anzuzeigen.</string>
 	<string key="ui_playertitle_addendum_accounttype">\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular.font" color = "#ffffff"&gt;Dieser Titel kann von allen Charakteren auf deinem Konto verwendet werden.&lt;/font&gt;</string>
 	<string key="ui_playertitle_addendum_charactertype">\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular.font" color = "#ffffff"&gt;Dieser Titel kann nicht von anderen Charakteren auf deinem Konto verwendet werden.&lt;/font&gt;</string>
 	<string key="ui_playertitle_special_stoic" rel_version="Feature_Titles">Stoiker</string>
@@ -879,6 +879,14 @@
 	<string key="ui_playertitle_depths_score_top10_SHE" rel_version="Feature_Leaderboards">Untiefen-Medaillengewinnerin</string>
 	<string key="ui_playertitle_depths_score_top10_THEY" rel_version="Feature_Leaderboards">Untiefen-Medaillengewinner*in</string>
 	<string key="ui_playertitle_depths_score_top10_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Punkte) der Untiefen auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_playertitle_forge_score_top5" rel_version="Expedition_GreatCleave_01">Schmiede-Sieger</string>
+	<string key="ui_playertitle_forge_score_top5_SHE" rel_version="Expedition_GreatCleave_01">Schmiede-Siegerin</string>
+	<string key="ui_playertitle_forge_score_top5_THEY" rel_version="Expedition_GreatCleave_01">Schmiede-Sieger*in</string>
+	<string key="ui_playertitle_forge_score_top5_description" rel_version="Expedition_GreatCleave_01">Erhältst du, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Punkte) der Empyreum-Schmiede auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_playertitle_forge_score_top25" rel_version="Expedition_GreatCleave_01">Schmiede-Medaillengewinner</string>
+	<string key="ui_playertitle_forge_score_top25_SHE" rel_version="Expedition_GreatCleave_01">Schmiede-Medaillengewinnerin</string>
+	<string key="ui_playertitle_forge_score_top25_THEY" rel_version="Expedition_GreatCleave_01">Schmiede-Medaillengewinner*in</string>
+	<string key="ui_playertitle_forge_score_top25_description" rel_version="Expedition_GreatCleave_01">Erhältst du, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Punkte) der Empyreum-Schmiede auf Schwierigkeitsgrad 10 belegst.</string>
 	<string key="ui_playertitle_starstone_score_top1" rel_version="Feature_Leaderboards">Sternenstein-Sieger</string>
 	<string key="ui_playertitle_starstone_score_top1_SHE" rel_version="Feature_Leaderboards">Sternenstein-Siegerin</string>
 	<string key="ui_playertitle_starstone_score_top1_THEY" rel_version="Feature_Leaderboards">Sternenstein-Sieger*in</string>
@@ -951,78 +959,86 @@
 	<string key="ui_playertitle_starstone_time_top10_SHE" rel_version="Feature_Leaderboards">Schnellste Sternenstein-Medaillengewinnerin</string>
 	<string key="ui_playertitle_starstone_time_top10_THEY" rel_version="Feature_Leaderboards">Schnellste*r Sternenstein-Medaillengewinner*in</string>
 	<string key="ui_playertitle_starstone_time_top10_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Abschlusszeit) der Sternensteingrabhügel auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_playertitle_forge_time_top5" rel_version="Expedition_GreatCleave_01">Schnellster Schmiede-Sieger</string>
+	<string key="ui_playertitle_forge_time_top5_SHE" rel_version="Expedition_GreatCleave_01">Schnellste Schmiede-Sieger*in</string>
+	<string key="ui_playertitle_forge_time_top5_THEY" rel_version="Expedition_GreatCleave_01">Schnellste*r Schmiede-Sieger*in</string>
+	<string key="ui_playertitle_forge_time_top5_description" rel_version="Expedition_GreatCleave_01">Erhältst du, indem du einen Platz in den Top 5 der wöchentlichen Bestenliste (Abschlusszeit) der Empyreum-Schmiede auf Schwierigkeitsgrad 10 belegst.</string>
+	<string key="ui_playertitle_forge_time_top25" rel_version="Expedition_GreatCleave_01">Schnellster Schmiede-Medaillengewinner</string>
+	<string key="ui_playertitle_forge_time_top25_SHE" rel_version="Expedition_GreatCleave_01">Schnellste Schmiede-Medaillengewinnerin</string>
+	<string key="ui_playertitle_forge_time_top25_THEY" rel_version="Expedition_GreatCleave_01">Schnellste*r Schmiede-Medaillengewinner*in</string>
+	<string key="ui_playertitle_forge_time_top25_description" rel_version="Expedition_GreatCleave_01">Erhältst du, indem du einen Platz in den Top 25 der wöchentlichen Bestenliste (Abschlusszeit) der Empyreum-Schmiede auf Schwierigkeitsgrad 10 belegst.</string>
 	<string key="ui_playertitle_sirenqueen_completion_top1" rel_version="Feature_Leaderboards">Sirenenkönigin-Sieger</string>
 	<string key="ui_playertitle_sirenqueen_completion_top1_SHE" rel_version="Feature_Leaderboards">Sirenenkönigin-Siegerin</string>
 	<string key="ui_playertitle_sirenqueen_completion_top1_THEY" rel_version="Feature_Leaderboards">Sirenenkönigin-Sieger*in</string>
-	<string key="ui_playertitle_sirenqueen_completion_top1_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 10 der Quartalsbestenliste der Sirenenkönigin belegst.</string>
+	<string key="ui_playertitle_sirenqueen_completion_top1_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 10 der Saisonbestenliste der Sirenenkönigin belegst.</string>
 	<string key="ui_playertitle_sirenqueen_completion_top10" rel_version="Feature_Leaderboards">Sirenenkönigin-Medaillengewinner</string>
 	<string key="ui_playertitle_sirenqueen_completion_top10_SHE" rel_version="Feature_Leaderboards">Sirenenkönigin-Medaillengewinnerin</string>
 	<string key="ui_playertitle_sirenqueen_completion_top10_THEY" rel_version="Feature_Leaderboards">Sirenenkönigin-Medaillengewinner*in</string>
-	<string key="ui_playertitle_sirenqueen_completion_top10_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 50 der Quartalsbestenliste der Sirenenkönigin belegst.</string>
+	<string key="ui_playertitle_sirenqueen_completion_top10_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 50 der Saisonbestenliste der Sirenenkönigin belegst.</string>
 	<string key="ui_playertitle_eternalpools_completion_top1" rel_version="Feature_Leaderboards">Ewige-Weiher-Sieger</string>
 	<string key="ui_playertitle_eternalpools_completion_top1_SHE" rel_version="Feature_Leaderboards">Ewige-Weiher-Siegerin</string>
 	<string key="ui_playertitle_eternalpools_completion_top1_THEY" rel_version="Feature_Leaderboards">Ewige-Weiher-Sieger*in</string>
-	<string key="ui_playertitle_eternalpools_completion_top1_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 10 der Quartalsbestenliste der Ewigen Weiher belegst.</string>
+	<string key="ui_playertitle_eternalpools_completion_top1_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 10 der Saisonbestenliste der Ewigen Weiher belegst.</string>
 	<string key="ui_playertitle_eternalpools_completion_top10" rel_version="Feature_Leaderboards">Ewige-Weiher-Medaillengewinner</string>
 	<string key="ui_playertitle_eternalpools_completion_top10_SHE" rel_version="Feature_Leaderboards">Ewige-Weiher-Medaillengewinnerin</string>
 	<string key="ui_playertitle_eternalpools_completion_top10_THEY" rel_version="Feature_Leaderboards">Ewige-Weiher-Medaillengewinner*in</string>
-	<string key="ui_playertitle_eternalpools_completion_top10_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 50 der Quartalsbestenliste der Ewigen Weiher belegst.</string>
+	<string key="ui_playertitle_eternalpools_completion_top10_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 50 der Saisonbestenliste der Ewigen Weiher belegst.</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top1" rel_version="Feature_Leaderboards">Einhauskluft-Sieger</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top1_SHE" rel_version="Feature_Leaderboards">Einhauskluft-Siegerin</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top1_THEY" rel_version="Feature_Leaderboards">Einhauskluft-Sieger*in</string>
-	<string key="ui_playertitle_monoeciouscleft_completion_top1_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 10 der Quartalsbestenliste von Einhauskluft belegst.</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top1_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 10 der Saisonbestenliste von Einhauskluft belegst.</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top10" rel_version="Feature_Leaderboards">Einhauskluft-Medaillengewinner</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top10_SHE" rel_version="Feature_Leaderboards">Einhauskluft-Medaillengewinnerin</string>
 	<string key="ui_playertitle_monoeciouscleft_completion_top10_THEY" rel_version="Feature_Leaderboards">Einhauskluft-Medaillengewinner*in</string>
-	<string key="ui_playertitle_monoeciouscleft_completion_top10_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 50 der Quartalsbestenliste von Einhauskluft belegst.</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top10_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 50 der Saisonbestenliste von Einhauskluft belegst.</string>
 	<string key="ui_playertitle_openworldpvp_influence_top1" rel_version="Feature_Leaderboards">Einfluss-Sieger</string>
 	<string key="ui_playertitle_openworldpvp_influence_top1_SHE" rel_version="Feature_Leaderboards">Einfluss-Siegerin</string>
 	<string key="ui_playertitle_openworldpvp_influence_top1_THEY" rel_version="Feature_Leaderboards">Einfluss-Sieger*in</string>
-	<string key="ui_playertitle_openworldpvp_influence_top1_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 10 der Quartalsbestenliste des verdienten Einflusses belegst.</string>
+	<string key="ui_playertitle_openworldpvp_influence_top1_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 10 der Saisonbestenliste des verdienten Einflusses belegst.</string>
 	<string key="ui_playertitle_openworldpvp_influence_top10" rel_version="Feature_Leaderboards">Einfluss-Medaillengewinner</string>
 	<string key="ui_playertitle_openworldpvp_influence_top10_SHE" rel_version="Feature_Leaderboards">Einfluss-Medaillengewinnerin</string>
 	<string key="ui_playertitle_openworldpvp_influence_top10_THEY" rel_version="Feature_Leaderboards">Einfluss-Medaillengewinner*in</string>
-	<string key="ui_playertitle_openworldpvp_influence_top10_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 50 der Quartalsbestenliste des verdienten Einflusses belegst.</string>
+	<string key="ui_playertitle_openworldpvp_influence_top10_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 50 der Saisonbestenliste des verdienten Einflusses belegst.</string>
 	<string key="ui_playertitle_outpostrush_score_top1" rel_version="Feature_Leaderboards">Außenpostensturm-Sieger</string>
 	<string key="ui_playertitle_outpostrush_score_top1_SHE" rel_version="Feature_Leaderboards">Außenpostensturm-Siegerin</string>
 	<string key="ui_playertitle_outpostrush_score_top1_THEY" rel_version="Feature_Leaderboards">Außenpostensturm-Sieger*in</string>
-	<string key="ui_playertitle_outpostrush_score_top1_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 10 der Quartalsbestenliste (Punkte) für Außenpostenstürme belegst.</string>
+	<string key="ui_playertitle_outpostrush_score_top1_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 10 der Saisonbestenliste (Siege) für Außenpostenstürme belegst.</string>
 	<string key="ui_playertitle_outpostrush_score_top10" rel_version="Feature_Leaderboards">Außenpostensturm-Medaillengewinner</string>
 	<string key="ui_playertitle_outpostrush_score_top10_SHE" rel_version="Feature_Leaderboards">Außenpostensturm-Medaillengewinnerin</string>
 	<string key="ui_playertitle_outpostrush_score_top10_THEY" rel_version="Feature_Leaderboards">Außenpostensturm-Medaillengewinner*in</string>
-	<string key="ui_playertitle_outpostrush_score_top10_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 50 der Quartalsbestenliste (Punkte) für Außenpostenstürme belegst.</string>
+	<string key="ui_playertitle_outpostrush_score_top10_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 50 der Saisonbestenliste (Siege) für Außenpostenstürme belegst.</string>
 	<string key="ui_playertitle_darknessbreaches_score_top1" rel_version="Feature_Leaderboards">Ausbruch-Sieger</string>
 	<string key="ui_playertitle_darknessbreaches_score_top1_SHE" rel_version="Feature_Leaderboards">Ausbruch-Siegerin</string>
 	<string key="ui_playertitle_darknessbreaches_score_top1_THEY" rel_version="Feature_Leaderboards">Ausbruch-Sieger*in</string>
-	<string key="ui_playertitle_darknessbreaches_score_top1_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 10 der Quartalsbestenliste (Punkte) für Verderbnisausbrüche belegst.</string>
+	<string key="ui_playertitle_darknessbreaches_score_top1_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 10 der Saisonbestenliste (Punkte) für Verderbnisausbrüche belegst.</string>
 	<string key="ui_playertitle_darknessbreaches_score_top10" rel_version="Feature_Leaderboards">Ausbruch-Medaillengewinner</string>
 	<string key="ui_playertitle_darknessbreaches_score_top10_SHE" rel_version="Feature_Leaderboards">Ausbruch-Medaillengewinnerin</string>
 	<string key="ui_playertitle_darknessbreaches_score_top10_THEY" rel_version="Feature_Leaderboards">Ausbruch-Medaillengewinner*in</string>
-	<string key="ui_playertitle_darknessbreaches_score_top10_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 50 der Quartalsbestenliste (Punkte) für Verderbnisausbrüche belegst.</string>
+	<string key="ui_playertitle_darknessbreaches_score_top10_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 50 der Saisonbestenliste (Punkte) für Verderbnisausbrüche belegst.</string>
 	<string key="ui_playertitle_war_score_top1" rel_version="Feature_Leaderboards">Kriegs-Sieger</string>
 	<string key="ui_playertitle_war_score_top1_SHE" rel_version="Feature_Leaderboards">Kriegs-Siegerin</string>
 	<string key="ui_playertitle_war_score_top1_THEY" rel_version="Feature_Leaderboards">Kriegs-Sieger*in</string>
-	<string key="ui_playertitle_war_score_top1_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 10 der Quartalsbestenliste (Punkte) für Kriege belegst.</string>
+	<string key="ui_playertitle_war_score_top1_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 10 der Saisonbestenliste (Punkte) für Kriege belegst.</string>
 	<string key="ui_playertitle_war_score_top10" rel_version="Feature_Leaderboards">Kriegs-Medaillengewinner</string>
 	<string key="ui_playertitle_war_score_top10_SHE" rel_version="Feature_Leaderboards">Kriegs-Medaillengewinnerin</string>
 	<string key="ui_playertitle_war_score_top10_THEY" rel_version="Feature_Leaderboards">Kriegs-Medaillengewinner*in</string>
-	<string key="ui_playertitle_war_score_top10_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 50 der Quartalsbestenliste (Punkte) für Kriege belegst.</string>
+	<string key="ui_playertitle_war_score_top10_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 50 der Saisonbestenliste (Punkte) für Kriege belegst.</string>
 	<string key="ui_playertitle_invasion_score_top1" rel_version="Feature_Leaderboards">Invasions-Sieger</string>
 	<string key="ui_playertitle_invasion_score_top1_SHE" rel_version="Feature_Leaderboards">Invasions-Siegerin</string>
 	<string key="ui_playertitle_invasion_score_top1_THEY" rel_version="Feature_Leaderboards">Invasions-Sieger*in</string>
-	<string key="ui_playertitle_invasion_score_top1_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 10 der Quartalsbestenliste (Punkte) für Invasionen belegst.</string>
+	<string key="ui_playertitle_invasion_score_top1_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 10 der Saisonbestenliste (Punkte) für Invasionen belegst.</string>
 	<string key="ui_playertitle_invasion_score_top10" rel_version="Feature_Leaderboards">Invasions-Medaillengewinner</string>
 	<string key="ui_playertitle_invasion_score_top10_SHE" rel_version="Feature_Leaderboards">Invasions-Medaillengewinnerin</string>
 	<string key="ui_playertitle_invasion_score_top10_THEY" rel_version="Feature_Leaderboards">Invasions-Medaillengewinner*in</string>
-	<string key="ui_playertitle_invasion_score_top10_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 50 der Quartalsbestenliste (Punkte) für Invasionen belegst.</string>
+	<string key="ui_playertitle_invasion_score_top10_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 50 der Saisonbestenliste (Punkte) für Invasionen belegst.</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top1" rel_version="Feature_Leaderboards">Entermesserriff-Sieger</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top1_SHE" rel_version="Feature_Leaderboards">Entermesserriff-Siegerin</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top1_THEY" rel_version="Feature_Leaderboards">Entermesserriff-Sieger*in</string>
-	<string key="ui_playertitle_cutlasskeys_company_score_top1_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 3 der Quartalsbestenliste (Herrschaftszeit in Tagen) von Entermesserriff belegst.</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top1_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 3 der Saisonbestenliste (Herrschaftszeit in Tagen) von Entermesserriff belegst.</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top10" rel_version="Feature_Leaderboards">Entermesserriff-Medaillengewinner</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top10_SHE" rel_version="Feature_Leaderboards">Entermesserriff-Medaillengewinnerin</string>
 	<string key="ui_playertitle_cutlasskeys_company_score_top10_THEY" rel_version="Feature_Leaderboards">Entermesserriff-Medaillengewinner*in</string>
-	<string key="ui_playertitle_cutlasskeys_company_score_top10_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 6 der Quartalsbestenliste (Herrschaftszeit in Tagen) von Entermesserriff belegst.</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top10_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 6 der Saisonbestenliste (Herrschaftszeit in Tagen) von Entermesserriff belegst.</string>
 	<string key="ui_playertitle_firstlight_company_score_top1" rel_version="Feature_Leaderboards">Erstes-Licht-Sieger</string>
 	<string key="ui_playertitle_firstlight_company_score_top1_SHE" rel_version="Feature_Leaderboards">Erstes-Licht-Siegerin</string>
 	<string key="ui_playertitle_firstlight_company_score_top1_THEY" rel_version="Feature_Leaderboards">Erstes-Licht-Sieger*in</string>
@@ -1074,7 +1090,7 @@
 	<string key="ui_playertitle_mourningdale_company_score_top1" rel_version="Feature_Leaderboards">Klagental-Sieger</string>
 	<string key="ui_playertitle_mourningdale_company_score_top1_SHE" rel_version="Feature_Leaderboards">Klagental-Siegerin</string>
 	<string key="ui_playertitle_mourningdale_company_score_top1_THEY" rel_version="Feature_Leaderboards">Klagental-Sieger*in</string>
-	<string key="ui_playertitle_mourningdale_company_score_top1_description" rel_version="Feature_Leaderboards">Erhältst du, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) von Klagental belegst.</string>
+	<string key="ui_playertitle_mourningdale_company_score_top1_description" rel_version="Feature_Leaderboards">Titel, den du erhältst, indem du einen Platz in den Top 3 der Bestenliste (Herrschaftszeit in Tagen) von Klagental belegst.</string>
 	<string key="ui_playertitle_mourningdale_company_score_top10" rel_version="Feature_Leaderboards">Klagental-Medaillengewinner</string>
 	<string key="ui_playertitle_mourningdale_company_score_top10_SHE" rel_version="Feature_Leaderboards">Klagental-Medaillengewinnerin</string>
 	<string key="ui_playertitle_mourningdale_company_score_top10_THEY" rel_version="Feature_Leaderboards">Klagental-Medaillengewinner*in</string>
@@ -1123,5 +1139,66 @@
 	<string key="ui_playertitle_special_thereturned_SHE">Rückkehrerin</string>
 	<string key="ui_playertitle_special_thereturned_THEY">Rückkehrer*in</string>
 	<string key="ui_playertitle_thereturned_description">Für Teilnehmer an „Zurück nach Aeternum“.</string>
+	<string key="ui_player_titles_section_label_seasons" rel_version="Season_1_Perm">Saisons</string>
+	<string key="ui_playertitle_season1_journeychapter5" rel_version="Season_1_Perm">Der Geschmückte</string>
+	<string key="ui_playertitle_season1_journeychapter5_SHE" rel_version="Season_1_Perm">Die Geschmückte</string>
+	<string key="ui_playertitle_season1_journeychapter5_THEY" rel_version="Season_1_Perm">Der/Die Geschmückte</string>
+	<string key="ui_playertitle_season1_journeychapter5_description" rel_version="Season_1_Perm">Gibt es für den Abschluss der Saisonreise von Saison 1.</string>
+	<string key="ui_playertitle_season1_journeychallenge1" rel_version="Season_1_Perm">Schmiedemeister</string>
+	<string key="ui_playertitle_season1_journeychallenge1_SHE" rel_version="Season_1_Perm">Schmiedemeisterin</string>
+	<string key="ui_playertitle_season1_journeychallenge1_THEY" rel_version="Season_1_Perm">Schmiedemeister*in</string>
+	<string key="ui_playertitle_season1_journeychallenge1_description" rel_version="Season_1_Perm">Gibt es für den Abschluss folgender Saison-1-Herausforderung: Schließe M-10-Empyreum-Schmiede mit mindestens 75.000 Punkten ab.</string>
+	<string key="ui_playertitle_season1_journeychallenge2" rel_version="Season_1_Perm">Außenposten-Flammenstürmer</string>
+	<string key="ui_playertitle_season1_journeychallenge2_SHE" rel_version="Season_1_Perm">Außenposten-Flammenstürmerin</string>
+	<string key="ui_playertitle_season1_journeychallenge2_THEY" rel_version="Season_1_Perm">Außenposten-Flammenstürmer*in</string>
+	<string key="ui_playertitle_season1_journeychallenge2_description" rel_version="Season_1_Perm">Gibt es für den Abschluss folgender Saison-1-Herausforderung: Gewinne einen Außenpostensturm mit mehr als 750 Punkten.</string>
+	<string key="ui_playertitle_season1_journeychallenge3" rel_version="Season_1_Perm">Serienmörder</string>
+	<string key="ui_playertitle_season1_journeychallenge3_SHE" rel_version="Season_1_Perm">Serienmörderin</string>
+	<string key="ui_playertitle_season1_journeychallenge3_THEY" rel_version="Season_1_Perm">Serienmörder*in</string>
+	<string key="ui_playertitle_season1_journeychallenge3_description" rel_version="Season_1_Perm">Gibt es für den Abschluss folgender Saison-1-Herausforderung: Töte 500 Spieler in der offenen Welt.</string>
+	<string key="ui_playertitle_season1_journeychallenge4" rel_version="Season_1_Perm">Feuerbrand</string>
+	<string key="ui_playertitle_season1_journeychallenge4_SHE" rel_version="Season_1_Perm">Feuerbrand</string>
+	<string key="ui_playertitle_season1_journeychallenge4_THEY" rel_version="Season_1_Perm">Feuerbrand</string>
+	<string key="ui_playertitle_season1_journeychallenge4_description" rel_version="Season_1_Perm">Gibt es für den Abschluss folgender Saison-1-Herausforderung: Erobere 50 Fraktionskontrollpunkte.</string>
+	<string key="ui_playertitle_season1_journeychallenge5" rel_version="Season_1_Perm">Teufelshandwerker</string>
+	<string key="ui_playertitle_season1_journeychallenge5_SHE" rel_version="Season_1_Perm">Teufelshandwerkerin</string>
+	<string key="ui_playertitle_season1_journeychallenge5_THEY" rel_version="Season_1_Perm">Teufelshandwerker*in</string>
+	<string key="ui_playertitle_season1_journeychallenge5_description" rel_version="Season_1_Perm">Gibt es für den Abschluss folgender Saison-1-Herausforderung: Stelle 250 legendäre R5-Gegenstände her.</string>
+	<string key="ui_playertitle_season1_journeychallenge6" rel_version="Season_1_Perm">Freund des Feuers</string>
+	<string key="ui_playertitle_season1_journeychallenge6_SHE" rel_version="Season_1_Perm">Freundin des Feuers</string>
+	<string key="ui_playertitle_season1_journeychallenge6_THEY" rel_version="Season_1_Perm">Freund*in des Feuers</string>
+	<string key="ui_playertitle_season1_journeychallenge6_description" rel_version="Season_1_Perm">Gibt es für den Abschluss folgender Saison-1-Herausforderung: Schließe die Saisonhandlung "Kameradschaft und Feuer" ab.</string>
+	<string key="ui_playertitle_season1_journeychallenge7" rel_version="Season_1_Perm">Gipshüter</string>
+	<string key="ui_playertitle_season1_journeychallenge7_SHE" rel_version="Season_1_Perm">Gipshüterin</string>
+	<string key="ui_playertitle_season1_journeychallenge7_THEY" rel_version="Season_1_Perm">Gipshüter*in</string>
+	<string key="ui_playertitle_season1_journeychallenge7_description" rel_version="Season_1_Perm">Gibt es für den Abschluss folgender Saison-1-Herausforderung: Stelle 100 Gipskugeln her.</string>
+	<string key="ui_playertitle_season1_journeychallenge8" rel_version="Season_1_Perm">Wächter der Flammen</string>
+	<string key="ui_playertitle_season1_journeychallenge8_SHE" rel_version="Season_1_Perm">Wächterin der Flammen</string>
+	<string key="ui_playertitle_season1_journeychallenge8_THEY" rel_version="Season_1_Perm">Wächter*in der Flammen</string>
+	<string key="ui_playertitle_season1_journeychallenge8_description" rel_version="Season_1_Perm">Gibt es für den Abschluss folgender Saison-1-Herausforderung: Stelle 25 GS600-Gegenstände mithilfe von Flammenkernen her.</string>
+	<string key="ui_playertitle_season1_journeychallenge9" rel_version="Season_1_Perm">Olympionike der Flamme</string>
+	<string key="ui_playertitle_season1_journeychallenge9_SHE" rel_version="Season_1_Perm">Olympionikin der Flamme</string>
+	<string key="ui_playertitle_season1_journeychallenge9_THEY" rel_version="Season_1_Perm">Olympionik*in der Flamme</string>
+	<string key="ui_playertitle_season1_journeychallenge9_description" rel_version="Season_1_Perm">Gibt es für den Abschluss folgender Saison-1-Herausforderung: Schließe alle M10-Expeditionen mit mindestens einer Goldbewertung ab.</string>
+	<string key="ui_playertitle_season1_journeychallenge10" rel_version="Season_1_Perm">Phönix</string>
+	<string key="ui_playertitle_season1_journeychallenge10_SHE" rel_version="Season_1_Perm">Phönix</string>
+	<string key="ui_playertitle_season1_journeychallenge10_THEY" rel_version="Season_1_Perm">Phönix</string>
+	<string key="ui_playertitle_season1_journeychallenge10_description" rel_version="Season_1_Perm">Gibt es für den Abschluss folgender Saison-1-Herausforderung: Schließe alle Expeditionen mit einem makellosen Lauf ab (ohne dabei zu sterben).</string>
+	<string key="ui_playertitle_season1_battlepass" rel_version="Season_1_Perm">Flammender Befehlsgeber</string>
+	<string key="ui_playertitle_season1_battlepass_SHE" rel_version="Season_1_Perm">Flammende Befehlsgeberin</string>
+	<string key="ui_playertitle_season1_battlepass_THEY" rel_version="Season_1_Perm">Flammende*r Befehlsgeber*in</string>
+	<string key="ui_playertitle_season1_battlepass_description" rel_version="Season_1_Perm">Gibt es für den Abschluss des Gratisstranges des Saison-1-Saisonpasses.</string>
+	<string key="ui_playertitle_season1_deluxebattlepass" rel_version="Season_1_Perm">Teuflischer Befehlsgeber</string>
+	<string key="ui_playertitle_season1_deluxebattlepass_SHE" rel_version="Season_1_Perm">Teuflische Befehlsgeberin</string>
+	<string key="ui_playertitle_season1_deluxebattlepass_THEY" rel_version="Season_1_Perm">Teuflische*r Befehlsgeber*in</string>
+	<string key="ui_playertitle_season1_deluxebattlepass_description" rel_version="Season_1_Perm">Gibt es für den Abschluss des bezahlten Stranges des Saison-1-Saisonpasses.</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Victorious" rel_version="Feature_Leaderboards">Erfolgreicher Experimentator</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Victorious_SHE" rel_version="Feature_Leaderboards">Erfolgreiche Experimentatorin</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Victorious_THEY" rel_version="Feature_Leaderboards">Erfolgreiche*r Experimentator*in</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Victorious_description" rel_version="Feature_Leaderboards">Für die ruhmreiche Platzierung in den Bestenlisten, selbst in unsicheren Zeiten.</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Welp" rel_version="Feature_Leaderboards">Knapp daneben</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Welp_SHE" rel_version="Feature_Leaderboards">Knapp daneben</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Welp_THEY" rel_version="Feature_Leaderboards">Knapp daneben</string>
+	<string key="ui_playerTitle_LeaderboardPTR_Welp_description" rel_version="Feature_Leaderboards">Für den ehrenhaften Versuch, sich auf der Bestenliste zu platzieren.</string>
 </resources>
 

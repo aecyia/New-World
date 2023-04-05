@@ -92,7 +92,7 @@
 	<string key="ui_leaderboard_display_invasion_kills" rel_version="Feature_Leaderboards">Asesinatos</string>
 	<string key="ui_leaderboard_display_invasion_kill_death" rel_version="Feature_Leaderboards">Índice de muertes y asesinatos</string>
 	<string key="ui_leaderboard_display_invasion_damage_dealt" rel_version="Feature_Leaderboards">Daño infligido</string>
-	<string key="ui_leaderboard_character_empty_leaderboard" rel_version="Feature_Leaderboards">En este momento no formas parte de esta clasificación.</string>
+	<string key="ui_leaderboard_character_empty_leaderboard" rel_version="Feature_Leaderboards">No formas parte de esta clasificación</string>
 	<string key="ui_leaderboard_faction_no_faction" rel_version="Feature_Leaderboards">Únete a una facción para participar</string>
 	<string key="ui_leaderboard_faction_no_company" rel_version="Feature_Leaderboards">Únete a una compañía para participar</string>
 	<string key="ui_leaderboard_error_nodata" rel_version="Feature_Leaderboards">No hay datos registrados</string>
@@ -107,10 +107,10 @@
 	<string key="ui_leaderboard_not_tracked_character" rel_version="Feature_Leaderboards">Esta categoría no se registra por personaje</string>
 	<string key="ui_leaderboard_not_tracked_company" rel_version="Feature_Leaderboards">Esta categoría no se registra por compañía</string>
 	<string key="ui_leaderboard_not_tracked_faction" rel_version="Feature_Leaderboards">Esta categoría no se registra por facción</string>
-	<string key="ui_leaderboard_not_tracked_category_season" rel_version="Feature_Leaderboards">Esta categoría no se registra trimestralmente.</string>
+	<string key="ui_leaderboard_not_tracked_category_season" rel_version="Feature_Leaderboards">Esta categoría no se registra durante la temporada.</string>
 	<string key="ui_leaderboard_not_tracked_category_week" rel_version="Feature_Leaderboards">Esta categoría no se registra semanalmente.</string>
 	<string key="ui_leaderboard_not_tracked_category_month" rel_version="Feature_Leaderboards">Esta categoría no se registra mensualmente.</string>
-	<string key="ui_leaderboard_not_tracked_season" rel_version="Feature_Leaderboards">Esta estadística no se registra trimestralmente.</string>
+	<string key="ui_leaderboard_not_tracked_season" rel_version="Feature_Leaderboards">Esta estadística no se registra durante la temporada.</string>
 	<string key="ui_leaderboard_not_tracked_week" rel_version="Feature_Leaderboards">Esta estadística no se registra semanalmente.</string>
 	<string key="ui_leaderboard_not_tracked_month" rel_version="Feature_Leaderboards">Esta estadística no se registra mensualmente.</string>
 	<string key="ui_leaderboard_tip_war_score" rel_version="Feature_Leaderboards">Tu puntuación de guerra es la puntuación máxima que hayas obtenido en una guerra.</string>
@@ -146,9 +146,10 @@
 	<string key="ui_leaderboard_display_legendaries" rel_version="Feature_Leaderboards">Legendarios</string>
 	<string key="ui_leaderboard_territory_all" rel_version="Feature_Leaderboards">Todos los territorios</string>
 	<string key="ui_leaderboard_row_rank_morethan" rel_version="Feature_Leaderboards">&gt;{number}</string>
-	<string key="ui_leaderboard_with_gold" rel_version="Feature_Leaderboards">Con &lt;img src="lyshineui/images/dungeons/mutator_rank_gold_sm" scale="2.0" xPadding="0" yOffset="5"&gt;&lt;/img&gt; &lt;font color={color}&gt; rango oro&lt;/font&gt;</string>
+	<string key="ui_leaderboard_with_gold" rel_version="Feature_Leaderboards">con &lt;img src="lyshineui/images/dungeons/mutator_rank_gold_sm" scale="2.0" xPadding="0" yOffset="5"&gt;&lt;/img&gt; &lt;font color={color}&gt; rango oro&lt;/font&gt;.</string>
 	<string key="ui_leaderboard_company_deleted" rel_version="Feature_Leaderboards">(Compañía eliminada)</string>
 	<string key="ui_leaderboard_player_deleted" rel_version="Feature_Leaderboards">(Jugador eliminado)</string>
 	<string key="ui_leaderboard_rewards_top" rel_version="Feature_Leaderboards">Top {number}</string>
+	<string key="ui_leaderboard_category_expedition_empyrean" rel_version="Expedition_GreatCleave_01">Fragua empírea</string>
 </resources>
 

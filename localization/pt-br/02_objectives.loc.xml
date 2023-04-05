@@ -333,10 +333,10 @@
 	<string key="0222_0001_goto" speaker="UI - Tracker Text">Procure por Despachos de Posto Avançado interceptados em Malícia da Fenda</string>
 	<string key="0222_0001_loot_mementos" speaker="UI - Tracker Text">Colete {itemName} e retorne ao Posto Avançado de Eastburn</string>
 	<string key="98_M_0001_RankUp_title" speaker="UI - Quest Title">Progresso com os Saqueadores: Gladiador</string>
-	<string key="98_M_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Gladiador, depois conclua a jornada Prova do Gladiador com o Representante de Facção em Ilhéus do Sabre.</string>
+	<string key="98_M_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Gladiador, depois conclua a jornada Prova do Gladiador do Enclave.</string>
 	<string key="98_M_0001_RankUp_factionhandoff" speaker="UI - Tracker Text">Conclua missões do Quadro da Facção e fale com o Magistrado local</string>
 	<string key="98_M_Reach_NextMarauderRank" speaker="UI - Tracker Text">Conquiste Reputação de Facção para enfrentar a Prova para o próximo Ranque</string>
-	<string key="98_M_0001_CompleteTrial_Gladiator" speaker="UI - Tracker Text">Viaje até Ilhéus do Sabre e conclua a Prova do Gladiador\n(Nível recomendado: 25)</string>
+	<string key="98_M_0001_CompleteTrial_Gladiator" speaker="UI - Tracker Text">Viaje até o Enclave e conclua a Prova do Gladiador\n(Nível recomendado: 25)</string>
 	<string key="98_M_0102_RankUp_title" speaker="UI - Quest Title">Progresso com os Saqueadores: Devastador</string>
 	<string key="98_M_0102_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Devastador, depois conclua a jornada Prova do Devastador com o Representante de Facção em Pântano do Tecelão.</string>
 	<string key="98_M_0102_CompleteTrial_Ravager" speaker="UI - Tracker Text">Viaje até Pântano do Tecelão e conclua a Prova do Devastador\n(Nível Recomendado: 35)</string>
@@ -347,14 +347,14 @@
 	<string key="98_M_0304_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Comandante, depois conclua a jornada Prova do Comandante com o Representante de Facção em Crosta de Ébano.</string>
 	<string key="98_M_0304_CompleteTrial_Commander" speaker="UI - Tracker Text">Viaje até Crosta de Ébano e conclua a Prova do Comandante\n(Nível Recomendado: 60)</string>
 	<string key="98_M_01_combatprowess_title" speaker="UI - Quest Title">Saqueadores: Prova do Gladiador</string>
-	<string key="98_M_01_combatprowess_description" speaker="UI - Quest Description">Derrote o Pirata Perdido Hamidou para provar que você merece o ranque de Gladiador. Fale com a Devastadora Silas em Ilhéus do Sabre quando a tarefa for concluída.</string>
+	<string key="98_M_01_combatprowess_description" speaker="UI - Quest Description">Derrote o pirata perdido Lawrence da Longa Sombra para provar que você merece o ranque de Gladiador. Fale com o Devastador Silas no Enclave quando a tarefa for concluída.</string>
 	<string key="98_M_01_combatprowess_start_prompt" speaker="UI - Player Prompt">“Não deve ser muito difícil. Você conseguiu.”</string>
 	<string key="98_M_01_combatprowess_proposal" speaker="Ravager Silas - Cutlass Keys" name="CommanderSilas" gender="F" VO="Commander_98_M_01_combatprowess_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_M_01_combatprowess_proposal_next">Oh, que linguinha afiada você tem. Pena que não tenho tempo para isso.\n\nDe qualquer modo, esse desafio será demais para você, aposto minha carreira que falhará.</string>
 	<string key="98_M_01_combatprowess_proposal_prompt" speaker="UI - Player Prompt">“Só me diga o que devo fazer.”</string>
-	<string key="98_M_01_combatprowess_proposal_next" speaker="Ravager Silas - Cutlass Keys" name="CommanderSilas" gender="F" VO="Commander_98_M_01_combatprowess_CompleteNext" VO_Status="Recorded" dialogue-prompt="@98_M_01_combatprowess_proposal_prompt">Parece que alguém está com pressa para ter uma morte dolorosa. Certo.\n\nO guerreiro lendário Hamidou, agora um Pirata Perdido, precisa ser derrotado em combate... e você não tem chance alguma.</string>
-	<string key="98_M_01_combatprowess_incomplete" speaker="Ravager Silas - Cutlass Keys" gender="F">Inteligente. Faz bem em adiar essa luta com o Hamidou o quanto pode.\n\nMelhor, adie para sempre.</string>
-	<string key="98_M_01_combatprowess_complete" speaker="Ravager Silas - Cutlass Keys" name="CommanderSilas" gender="F" VO="Commander_98_M_01_combatprowess_AvailResponse" VO_Status="Recorded">Você derrotou Hamidou? Você? Que... droga. Acabou de me custar um monte de Azoth por causa da aposta.\n\nMuito bem, já pode se considerar Gladiador. Agora, suma da minha frente antes que eu quebre sua cara.</string>
-	<string key="98_M_01_combatprowess_goto_POI" speaker="UI">Derrote o Pirata Perdido Hamidou em {POITags} para conquistar o ranque de Gladiador.</string>
+	<string key="98_M_01_combatprowess_proposal_next" speaker="Ravager Silas - Cutlass Keys" name="CommanderSilas" gender="F" VO="Commander_98_M_01_combatprowess_CompleteNext" VO_Status="Recorded" dialogue-prompt="@98_M_01_combatprowess_proposal_prompt">Parece que alguém está com pressa para ter uma morte dolorosa. Certo.\n\nO guerreiro lendário Lawrence da Longa Sombra, agora um Pirata Perdido, precisa ser derrotado em combate... e você não tem chance alguma.</string>
+	<string key="98_M_01_combatprowess_incomplete" speaker="Ravager Silas - Cutlass Keys" gender="F">Inteligente. Faz bem em adiar essa luta com o Lawrence o quanto pode.\n\nMelhor, adie para sempre.</string>
+	<string key="98_M_01_combatprowess_complete" speaker="Ravager Silas - Cutlass Keys" name="CommanderSilas" gender="F" VO_Status="Needs Recording">Você derrotou Lawrence? Você? Que... droga. Acabou de me custar um monte de Azoth por causa da aposta.\n\nMuito bem, já pode se considerar Gladiador. Agora, suma da minha frente antes que eu quebre sua cara.</string>
+	<string key="98_M_01_combatprowess_goto_POI" speaker="UI">Derrote Lawrence da Longa Sombra em {POITags} para conquistar o ranque de Gladiador.</string>
 	<string key="98_M_01_combatprowess_defeat_named_target" speaker="UI">Derrote {targetName}</string>
 	<string key="98_M_01b_fenravager_title" speaker="UI - Quest Title">Saqueadores: Prova do Devastador</string>
 	<string key="98_M_01b_fenravager_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;JORNADA DE PROVA DA FACÇÃO&lt;/font&gt;\nDerrote inimigos no Pântano do Tecelão para avançar ao ranque de Devastador. Fale com a Comandante Bergeron em Pântano do Tecelão quando a tarefa for concluída.</string>
@@ -365,7 +365,7 @@
 	<string key="98_M_01b_fenravager_complete_prompt" speaker="UI - Player Prompt">“Por que Silas não ficará contente?”</string>
 	<string key="98_M_01b_fenravager_complete_next" speaker="Commander Bergeron - Weaver's Fen" name="CommanderBergeron" gender="F" VO="98_M_01b_fenravager_complete_next" VO_Status="Recorded" dialogue-prompt="@98_M_01b_fenravager_complete_prompt">Ela deixou bem claro para todos os Saqueadores que você não merecia progredir mais.\n\nOrgulhe-se, já que você provou que ela estava enganada.</string>
 	<string key="98_MSC_01b_POI_FentonHamlet" speaker="UI">Em Aldeia de Fenton:</string>
-	<string key="98_MSC_01b_POI_Swampwater" speaker="UI">Em Pesqueiro de Águas Pantanais:</string>
+	<string key="98_MSC_01b_POI_Swampwater" speaker="UI">Em Vila Vel:</string>
 	<string key="98_MSC_01b_POI_AnglersDoom" speaker="UI">Em Condenação do Pescador:</string>
 	<string key="98_M_01b_fenravager_killtarget_cut_down_AI" speaker="UI">Abata Perdidos {targetName}</string>
 	<string key="98_M_01b_fenravager_killtarget_defeat_AI" speaker="UI">Derrote Perdidos {targetName}</string>
@@ -397,10 +397,10 @@
 	<string key="98_M_03_darkvengeance_goto_POI" speaker="UI">Elimine a Devastadora Silas Corrompida em {POITags} para obter o ranque de Comandante</string>
 	<string key="98_M_03_darkvengeance_killtarget_defeat_AI" speaker="UI">Derrote {targetName}</string>
 	<string key="98_S_0001_RankUp_title" speaker="UI - Quest Title">Progresso com o Sindicato: Escrivão</string>
-	<string key="98_S_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Escrivão, depois conclua a jornada Prova do Escrivão com o Representante de Facção em Bosque Reluzente.</string>
+	<string key="98_S_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Escrivão, depois conclua a jornada Prova do Escrivão do Enclave.</string>
 	<string key="98_S_0001_RankUp_factionhandoff" speaker="UI - Tracker Text">Conclua missões do Quadro da Facção e fale com o Magistrado local</string>
 	<string key="98_S_Reach_NextSyndicateRank" speaker="UI - Tracker Text">Conquiste Reputação de Facção para enfrentar a Prova para o próximo Ranque</string>
-	<string key="98_S_0001_CompleteTrial_Scrivener" speaker="UI - Tracker Text">Viaje até Bosque Reluzente e conclua a Prova do Escrivão\n(Nível recomendado: 25)</string>
+	<string key="98_S_0001_CompleteTrial_Scrivener" speaker="UI - Tracker Text">Viaje até o Enclave e conclua a Prova do Escrivão\n(Nível recomendado: 25)</string>
 	<string key="98_S_0102_RankUp_title" speaker="UI - Quest Title">Progresso com o Sindicato: Cronista</string>
 	<string key="98_S_0102_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Cronista, depois conclua a jornada Prova do Cronista com o Representante de Facção em Pântano do Tecelão.</string>
 	<string key="98_S_0102_CompleteTrial_Chronicler" speaker="UI - Tracker Text">Viaje até Pântano do Tecelão e conclua a Prova do Cronista\n(Nível Recomendado: 35)</string>
@@ -432,7 +432,7 @@
 	<string key="98_S_01b_fenscholar_complete_next" speaker="Alchemist Rubis -Weaver's Fen" name="AlchemistRubis" gender="F" VO="98_S_01b_fenscholar_complete_next" VO_Status="Recorded" dialogue-prompt="@98_S_01b_fenscholar_complete_prompt">Provavelmente é loucura da minha parte querer seguir os passos de Krockes, mas veremos.\n\nDe qualquer forma, você conquistou seu novo ranque. Parabéns, Cronista {playerName}.</string>
 	<string key="98_S_01b_fenscholar_harvest_item_from_target" speaker="UI">Colete {itemName} de Perdidos {targetName}</string>
 	<string key="98_S_02_necromanticchemistry_title" speaker="UI - Quest Title">Sindicato: Prova do Cabalista</string>
-	<string key="98_S_02_necromanticchemistry_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;JORNADA DE PROVA DA FACÇÃO&lt;/font&gt;\nPosicione Absorvedores Psicocinéticos em pontos estratégicos do Vale das Lamentações para obter o ranque de Cabalista. Fale com a Cabalista Crawford no Vale das Lamentações quando a tarefa for concluída.</string>
+	<string key="98_S_02_necromanticchemistry_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;JORNADA DE PROVA DA FACÇÃO&lt;/font&gt;\nPosicione Absorvedores Psicocinéticos em pontos estratégicos do Vale das Lamentações para obter o ranque de Cabalista. Fale com a Alquimista Crawford no Vale das Lamentações quando a tarefa for concluída.</string>
 	<string key="98_S_02_necromanticchemistry_start_prompt" speaker="UI - Player Prompt">“Sim, qual é a prova?”</string>
 	<string key="98_S_02_necromanticchemistry_proposal" speaker="Cabalist Crawford - Mourningdale" name="CabalistCrawford" gender="F" VO="Alchemist_98_S_02_necromanticchemistry_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_S_02_necromanticchemistry_proposal_next">Para você, preparamos uma extensão de seu trabalho anterior com traços de almas.\n\nVocê usou um Absorvedor Psicocinético antes, foi você quem praticamente o tornou famoso!</string>
 	<string key="98_S_02_necromanticchemistry_proposal_prompt" speaker="UI - Player Prompt">“E o Krockes?”</string>
@@ -460,10 +460,10 @@
 	<string key="98_S_03_lostnotlost_collect_IO" speaker="UI">Colete o Absorvedor Psicocinético</string>
 	<string key="98_S_03_lostnotlost_destroy_item" speaker="UI">Destrua o Absorvedor Psicocinético com a ajuda dos Dríades</string>
 	<string key="98_C_0001_RankUp_title" speaker="UI - Quest Title">Progresso com a Aliança: Cavaleiro Templário</string>
-	<string key="98_C_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Cavaleiro Templário, depois conclua a jornada Prova do Cavaleiro Templário com o Representante de Facção em Bosque Reluzente.</string>
+	<string key="98_C_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Cavaleiro Templário, depois conclua a jornada Prova do Cavaleiro Templário de Beatris Roose no Enclave da Aliança.</string>
 	<string key="98_C_0001_RankUp_factionhandoff" speaker="UI - Tracker Text">Conclua missões do Quadro da Facção e fale com o Magistrado local</string>
 	<string key="98_C_Reach_NextCovenantRank" speaker="UI - Tracker Text">Conquiste Reputação de Facção para enfrentar a Prova para o próximo Ranque</string>
-	<string key="98_C_0001_CompleteTrial_Templar" speaker="UI - Tracker Text">Viaje até Bosque Reluzente e conclua a Prova do Cavaleiro Templário\n(Nível recomendado: 25)</string>
+	<string key="98_C_0001_CompleteTrial_Templar" speaker="UI - Tracker Text">Viaje até o Enclave e conclua a Prova do Cavaleiro Templário\n(Nível recomendado: 25)</string>
 	<string key="98_C_0102_RankUp_title" speaker="UI - Quest Title">Progresso com a Aliança: Excubitor</string>
 	<string key="98_C_0102_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Excubitor, depois conclua a jornada Prova do Excubitor com o Representante de Facção em Pântano do Tecelão.</string>
 	<string key="98_C_0102_CompleteTrial_Excubitor" speaker="UI - Tracker Text">Viaje até Pântano do Tecelão e conclua a Prova do Excubitor\n(Nível Recomendado: 35)</string>
@@ -474,15 +474,15 @@
 	<string key="98_C_0304_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Árbitro, depois conclua a jornada Prova do Árbitro com o Representante de Facção em Montanha Arruinada.</string>
 	<string key="98_C_0304_CompleteTrial_Adjudicator" speaker="UI - Tracker Text">Viaje até a Montanha Arruinada e conclua a Prova do Árbitro\n(Nível Recomendado: 60)</string>
 	<string key="98_C_01_theapostate_title" speaker="UI - Quest Title">Aliança: Prova do Cavaleiro Templário</string>
-	<string key="98_C_01_theapostate_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;JORNADA DE PROVA DA FACÇÃO&lt;/font&gt;\nEncontre o Principiante da Aliança Bremen Luca e tente descobrir o que aconteceu com ele para avançar ao ranque de Cavaleiro Templário. Fale com a Cavaleira Templária Roose em Bosque Reluzente quando a tarefa for concluída.</string>
+	<string key="98_C_01_theapostate_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;JORNADA DE PROVA DA FACÇÃO&lt;/font&gt;\nEncontre o Principiante da Aliança Bremen Luca e tente descobrir o que aconteceu com ele para avançar ao ranque de Cavaleiro Templário. Fale com a Cavaleira Templária Roose no Enclave quando a tarefa for concluída.</string>
 	<string key="98_C_01_theapostate_start_prompt" speaker="UI - Player Prompt">“Certo, vamos lá. O que devo fazer?”</string>
-	<string key="98_C_01_theapostate_proposal" speaker="Templar Roose - Brightwood" gender="F" VO="Adjudicator_98_C_01_theapostate_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_C_01_theapostate_proposal_next">Um de nós, um Principiante como você, criou uma certa feição por ideias um tanto... não convencionais.\n\nEle conquistou seguidores, e todos devem ser trazidos de volta à Aliança.</string>
+	<string key="98_C_01_theapostate_proposal" speaker="Templar Roose - Everfall" gender="F" VO="Adjudicator_98_C_01_theapostate_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_C_01_theapostate_proposal_next">Um de nós, um Principiante como você, criou uma certa feição por ideias um tanto... não convencionais.\n\nEle conquistou seguidores, e todos devem ser trazidos de volta à Aliança.</string>
 	<string key="98_C_01_theapostate_proposal_prompt" speaker="UI - Player Prompt">“Que tipo de ideias?”</string>
-	<string key="98_C_01_theapostate_proposal_next" speaker="Templar Roose - Brightwood" gender="F" VO="Adjudicator_98_C_01_theapostate_CompleteNext" VO_Status="Recorded" dialogue-prompt="@98_C_01_theapostate_proposal_prompt">O tipo que é indigno de ser compartilhado. O Principiante é um apóstata agora, Bremen Luca, e está aqui no Bosque Reluzente.\n\nSeu teste exige que o traga de volta, custe o que custar.</string>
-	<string key="98_C_01_theapostate_incomplete" speaker="Templar Roose - Brightwood" gender="F">Ache o Apóstata e traga-o aqui.\n\nVamos expurgar essas ideias da mente dele, de um jeito ou de outro.</string>
-	<string key="98_C_01_theapostate_complete" speaker="Templar Roose - Brightwood" gender="F" VO="Adjudicator_98_C_01_theapostate_AvailResponse" VO_Status="Recorded" dialogue-next="@98_C_01_theapostate_complete_next">Ah, você tem más notícias... Infelizmente, esse é o destino reservado para quem se desvia do caminho.\n\nAcabar com ele foi um ato de compaixão. Encontrou mais alguma coisa?</string>
+	<string key="98_C_01_theapostate_proposal_next" speaker="Templar Roose - Everfall" gender="F" VO="Adjudicator_98_C_01_theapostate_CompleteNext" VO_Status="Recorded" dialogue-prompt="@98_C_01_theapostate_proposal_prompt">O tipo que é indigno de ser compartilhado. O Principiante é um apóstata agora, Bremen Luca, e está aqui no Bosque Reluzente.\n\nSeu teste exige que o traga de volta, custe o que custar.</string>
+	<string key="98_C_01_theapostate_incomplete" speaker="Templar Roose - Everfall" gender="F">Ache o Apóstata e traga-o aqui.\n\nVamos expurgar essas ideias da mente dele, de um jeito ou de outro.</string>
+	<string key="98_C_01_theapostate_complete" speaker="Templar Roose - Everfall" gender="F" VO="Adjudicator_98_C_01_theapostate_AvailResponse" VO_Status="Recorded" dialogue-next="@98_C_01_theapostate_complete_next">Ah, você tem más notícias... Infelizmente, esse é o destino reservado para quem se desvia do caminho.\n\nAcabar com ele foi um ato de compaixão. Encontrou mais alguma coisa?</string>
 	<string key="98_C_01_theapostate_complete_prompt" speaker="UI - Player Prompt">“Estas páginas de diário.”</string>
-	<string key="98_C_01_theapostate_complete_next" speaker="Templar Roose - Brightwood" gender="F" VO="Adjudicator_98_C_01_theapostate_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@98_C_01_theapostate_complete_prompt">Excelente. Vou enviá-las à Árbitra Maras.\n\nÓtimo trabalho, você fez por merecer sua promoção, Cavaleiro Templário. Que a Centelha ilumine seu caminho!</string>
+	<string key="98_C_01_theapostate_complete_next" speaker="Templar Roose - Everfall" gender="F" VO="Adjudicator_98_C_01_theapostate_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@98_C_01_theapostate_complete_prompt">Excelente. Vou enviá-las à Árbitra Maras.\n\nÓtimo trabalho, você fez por merecer sua promoção, Cavaleiro Templário. Que a Centelha ilumine seu caminho!</string>
 	<string key="98_C_01_theapostate_goto_POI" speaker="UI">Localize o Principiante da Aliança Luca in {POITags} para obter o ranque de Cavaleiro Templário</string>
 	<string key="98_C_01_theapostate_purge_AI" speaker="UI">Elimine {targetName}</string>
 	<string key="98_C_01_theapostate_get_lore_page" speaker="UI">Recupere o diário do Apóstata Luca</string>
@@ -500,11 +500,11 @@
 	<string key="98_C_02_soulsalvation_title" speaker="UI - Quest Title">Aliança: Prova do Lúmen</string>
 	<string key="98_C_02_soulsalvation_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;JORNADA DE PROVA DA FACÇÃO&lt;/font&gt;\nRecupere as Contas de Oração dos Cavaleiros Templários Corrompidos para conquistar o ranque de Lúmen. Fale com a Excubitora Luca na Grande Fenda quando a tarefa for concluída.</string>
 	<string key="98_C_02_soulsalvation_start_prompt" speaker="UI - Player Prompt">“Sim, tudo pronto.”</string>
-	<string key="98_C_02_soulsalvation_proposal" speaker="Excubitor Luca - Great Cleave" gender="F" VO="Adjudicator_98_C_02_soulsalvation_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_C_02_soulsalvation_proposal_next">Parece que você não reconhece meu nome, mas sou Livia Luca.\n\nO suposto apóstata que você caçou no Bosque Reluzente era meu único filho.</string>
+	<string key="98_C_02_soulsalvation_proposal" speaker="Excubitor Luca - Great Cleave" gender="F" VO="Adjudicator_98_C_02_soulsalvation_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_C_02_soulsalvation_proposal_next">Parece que você não reconhece meu nome, mas eu sou Livia Luca.\n\nO suposto apóstata que você caçou no Bosque Reluzente era meu único filho.</string>
 	<string key="98_C_02_soulsalvation_proposal_prompt" speaker="UI - Player Prompt">“Lamento sua perda.”</string>
 	<string key="98_C_02_soulsalvation_proposal_next" speaker="Excubitor Luca - Great Cleave" gender="F" VO="Adjudicator_98_C_02_soulsalvation_CompleteNext" VO_Status="Recorded" dialogue-prompt="@98_C_02_soulsalvation_proposal_prompt">Ah, você vai compensar isso para mim. Sabe, foi a Árbitra Maras que falhou com ele, facilitou sua ruína e a de outros também.\n\nVários Cavaleiros Templários sucumbiram para a Corrupção aqui. Sua prova será coletar as Contas de Oração deles como evidência.</string>
 	<string key="98_C_02_soulsalvation_incomplete" speaker="Excubitor Luca - Great Cleave" gender="F">Sou eu quem determina sua prova.\n\nTraga-me as contas de oração se quiser avançar de ranque.</string>
-	<string key="98_C_02_soulsalvation_complete" speaker="Excubitor Luca - Great Cleave" gender="F" VO="Adjudicator_98_C_02_soulsalvation_AvailResponse" VO_Status="Recorded" dialogue-next="@98_C_02_soulsalvation_complete_next">Vejamos o que você achou. É, viu só? Contas de Oração da Aliança em Corrompidos.\n\nQuantos mais terão que sucumbir até que a Árbitra Maras seja desmascarada? Que a Centelha esteja conosco, isso termina agora!</string>
+	<string key="98_C_02_soulsalvation_complete" speaker="Excubitor Luca - Great Cleave" gender="F" VO="Adjudicator_98_C_02_soulsalvation_AvailResponse" VO_Status="Recorded" dialogue-next="@98_C_02_soulsalvation_complete_next">Vejamos o que descobriu. É, viu só? Contas de Oração da Aliança em Corrompidos.\n\nQuantos mais terão que sucumbir até que a Árbitra Maras seja desmascarada? Que a Centelha esteja conosco, isso termina agora!</string>
 	<string key="98_C_02_soulsalvation_complete_prompt" speaker="UI - Player Prompt">“E a minha prova?”</string>
 	<string key="98_C_02_soulsalvation_complete_next" speaker="Excubitor Luca - Great Cleave" gender="F" VO="Adjudicator_98_C_02_soulsalvation_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@98_C_02_soulsalvation_complete_prompt">Ah, sim, isso. Meu filho estaria passando pela mesma prova agora, sabia?\n\nMas você honrou a memória dele e fez por merecer esse ranque. Parabéns, Lúmen!</string>
 	<string key="98_C_02_soulsalvation_recover_item" speaker="UI">Recupere Contas de Oração de:</string>
@@ -519,137 +519,6 @@
 	<string key="98_C_03_thepathtodarkness_complete" speaker="Adjudicator Maras - Shattered Mtn" gender="F" VO="Adjudicator_98_C_03_thepathtodarkness_AvailResponse" VO_Status="Recorded">Então acabou? Que a Centelha a guie para um lugar mais tranquilo.\n\nConseguimos expurgar a Corrupção de nossa gente. Parabéns, é com grande orgulho que lhe declaro Árbitro. Agora você é um de nós.</string>
 	<string key="98_C_03_thepathtodarkness_goto_POI" speaker="UI">Desça até {POITags} e confronte a Excubitora Luca para obter o ranque de Árbitro.</string>
 	<string key="98_C_03_thepathtodarkness_killtarget_eliminate_AI" speaker="UI">Elimine {targetName}</string>
-	<string key="0205_0102_Battles_Embrace_Gear_title" speaker="UI - Quest Title">Abraço da Batalha</string>
-	<string key="0205_0102_Battles_Embrace_Gear_description" speaker="UI - Quest Description" gender="F">Recupere os esquemas e componentes necessários para confeccionar a Armadura do Abraço da Batalha. Fale com a Juíza Sobol em Bosque Reluzente quando a tarefa for concluída.</string>
-	<string key="0205_0102_Battles_Embrace_Gear_start_prompt" speaker="UI - Player Prompt">“Nada que valha a pena fazer é fácil.”</string>
-	<string key="0205_0102_Battles_Embrace_Gear_proposal" speaker="Justiciar Sobol - Brightwood" name="JusticiarSobol" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_ProposalResponse" VO_Status="Recorded" dialogue-next="@0205_0102_Battles_Embrace_Gear_proposal_next">Verdade. Mas fiquei sabendo de algo que pode ser de grande ajuda.\n\nA armadura lendária que transforma seu dono em uma verdadeira fortaleza!</string>
-	<string key="0205_0102_Battles_Embrace_Gear_proposal_prompt" speaker="UI - Player Prompt">“O que é isso?”</string>
-	<string key="0205_0102_Battles_Embrace_Gear_proposal_next" speaker="Justiciar Sobol - Brightwood" name="JusticiarSobol" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_CompleteNext" VO_Status="Recorded" dialogue-next="@0205_0102_Battles_Embrace_Gear_proposal_next2" dialogue-prompt="@0205_0102_Battles_Embrace_Gear_proposal_prompt">O Abraço da Batalha. Ela foi usada por um poderoso comandante, que marchou contra os Corrompidos e os rechaçou da Montanha Arruinada.\n\nMas depois disso, o comandante e a armadura sumiram da história.</string>
-	<string key="0205_0102_Battles_Embrace_Gear_proposal_prompt2" speaker="UI - Player Prompt">“Ninguém sabe onde está?”</string>
-	<string key="0205_0102_Battles_Embrace_Gear_proposal_next2" speaker="Justiciar Sobol - Brightwood" name="JusticiarSobol" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@0205_0102_Battles_Embrace_Gear_proposal_prompt2">Não, as lendas sobre o que aconteceu são vagas... após a chegada do comandante à Montanha Arruinada.\n\nTudo que restou são os esquemas usados para confeccioná-la. Com eles e alguns materiais, a armadura pode ser reforjada.</string>
-	<string key="0205_0102_Battles_Embrace_Gear_incomplete" speaker="Justiciar Sobol - Brightwood" gender="F">Fique de olho em qualquer material necessário para confeccionar o Abraço da Batalha.\n\nUsar essa armadura certamente vai inspirar uma geração inteira de novos guerreiros contra os Corrompidos.</string>
-	<string key="0205_0102_Battles_Embrace_Gear_complete" speaker="Justiciar Sobol - Brightwood" name="JusticiarSobol" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_AvailResponse" VO_Status="Recorded" dialogue-next="@0205_0102_Battles_Embrace_Gear_complete_next">Meus olhos me enganam? Você achou todos os materiais para confeccionar o Abraço da Batalha?\n\nIsso, isso! E pensar que terei a chance de ver essa armadura lendária em ação!</string>
-	<string key="0205_0102_Battles_Embrace_Gear_complete_prompt" speaker="UI - Player Prompt">“Parece com o que as lendas dizem?”</string>
-	<string key="0205_0102_Battles_Embrace_Gear_complete_next" speaker="Justiciar Sobol - Brightwood" name="JusticiarSobol" gender="F" VO="Artificer_0205_0102_Battles_Embrace_Gear_CompleteNext3" VO_Status="Recorded" dialogue-prompt="@0205_0102_Battles_Embrace_Gear_complete_prompt">Sim! É tudo que eu esperava! Que ela te guarde com seu abraço, protegendo você em todas as batalhas que lhe aguardam.\n\nTerei uma baita história para contar essa noite, o Abraço da Batalha retornou!</string>
-	<string key="0205_0102_01_container_Battles_Embrace_questComplete_1" speaker="UI - Tracker Text">Conclua a Missão: Com o Pé Direito</string>
-	<string key="0205_0102_02_container_Battles_Embrace_questComplete_2" speaker="UI - Tracker Text">Conclua a Missão: Corpo-fechado</string>
-	<string key="0205_0102_03_container_Battles_Embrace_questComplete_3" speaker="UI - Tracker Text">Conclua a Missão: Batendo Perna</string>
-	<string key="0205_0102_04_container_Battles_Embrace_questComplete_4" speaker="UI - Tracker Text">Conclua a Missão: A Mão que Acolhe</string>
-	<string key="0205_0102_05_container_Battles_Embrace_questComplete_5" speaker="UI - Tracker Text">Conclua a Missão: Cabeça Erguida</string>
-	<string key="0205_0102_01_Boots_title" speaker="UI - Quest Title">Com o Pé Direito</string>
-	<string key="0205_0102_01_Boots_description">Colete Peles Volumosas de Fenton na Aldeia de Fenton, Tachões Tratados no Cayo da Morte e Faixas de Metal Incansáveis nos Destroços Apodrecidos. Depois, visite uma Forja Escala 3 para confeccionar as Botas do Abraço da Batalha.</string>
-	<string key="0205_0102_01_Boots_task_01" speaker="UI - Tracker Text">Receita entregue.</string>
-	<string key="0205_0102_01_Boots_task_02" comment="Fenton Hamlet" speaker="UI - Tracker Text">Viaje até {POITags} no Pântano do Tecelão para coletar Peles Volumosas de Fenton</string>
-	<string key="0205_0102_01_Boots_task_03" comment="Stout Fenton Hides" speaker="UI - Tracker Text">Colete {itemName} de inimigos {targetName}</string>
-	<string key="0205_0102_01_Boots_task_04" comment="Cayo de la Muerte" speaker="UI - Tracker Text">Viaje até {POITags} em Ilhéus do Sabre para coletar Tachões Tratados</string>
-	<string key="0205_0102_01_Boots_task_05" comment="Treated Hobnails" speaker="UI - Tracker Text">Colete {itemName} de inimigos {targetName}</string>
-	<string key="0205_0102_01_Boots_task_06" comment="Festering Flotsam" speaker="UI - Tracker Text">Viaje até {POITags} na Costa Tempestuosa para coletar Faixas de Metal Incansáveis</string>
-	<string key="0205_0102_01_Boots_task_07" comment="Restless Metal Bands" speaker="UI - Tracker Text">Colete {itemName} de inimigos {targetName}</string>
-	<string key="0205_0102_01_Boots_task_08" speaker="UI - Tracker Text">Visite uma Forja</string>
-	<string key="0205_0102_01_Boots_task_09" speaker="UI - Tracker Text">Confeccione {itemName}</string>
-	<string key="0205_0102_02_Breastplate_title" speaker="UI - Quest Title">Corpo-fechado</string>
-	<string key="0205_0102_02_Breastplate_description" speaker="UI - Tracker Text">Colete Rebites Firmes na Princesa de Ouro, Polimento Brilheterno nos Pilares de Gelida e Metal Martelado no Bastião de Acedia. Depois, visite uma Forja Escala 3 para confeccionar o Peitoral do Abraço da Batalha.</string>
-	<string key="0205_0102_02_Breastplate_task_01" speaker="UI - Tracker Text">Receita entregue.</string>
-	<string key="0205_0102_02_Breastplate_task_02" comment="The Golden Princess" speaker="UI - Tracker Text">Viaje até {POITags} na Costa Tempestuosa para coletar Rebites Firmes</string>
-	<string key="0205_0102_02_Breastplate_task_03" comment="Stalwart Rivets" speaker="UI - Tracker Text">Colete {itemName} de inimigos {targetName}</string>
-	<string key="0205_0102_02_Breastplate_task_04" comment="Gelida Pillars" speaker="UI - Tracker Text">Viaje até {POITags} na Grande Fenda para coletar Polimento Brilheterno</string>
-	<string key="0205_0102_02_Breastplate_task_05" comment="Evershine Polish" speaker="UI - Tracker Text">Colete {itemName} de inimigos {targetName}</string>
-	<string key="0205_0102_02_Breastplate_task_06" comment="Acedia Bastion" speaker="UI - Tracker Text">Viaje até {POITags} na Grande Fenda para coletar Metal Martelado</string>
-	<string key="0205_0102_02_Breastplate_task_07" comment="Hammered Metal" speaker="UI - Tracker Text">Colete {itemName} de inimigos {targetName}</string>
-	<string key="0205_0102_02_Breastplate_task_08" speaker="UI - Tracker Text">Visite uma Forja</string>
-	<string key="0205_0102_02_Breastplate_task_09" speaker="UI - Tracker Text">Confeccione {itemName}</string>
-	<string key="0205_0102_03_Greaves_title" speaker="UI - Quest Title">Batendo Perna</string>
-	<string key="0205_0102_03_Greaves_description">Colete Óleo de Semente de Ruína do Forte Maldição, Estelaço Sintonizado de Propus e Revestimento Reforjado de Olympus. Depois, visite uma Forja Escala 3 para confeccionar as Grevas do Abraço da Batalha.</string>
-	<string key="0205_0102_03_Greaves_task_01" speaker="UI - Tracker Text">Receita entregue.</string>
-	<string key="0205_0102_03_Greaves_task_02" comment="Fort Damnation" speaker="UI - Tracker Text">Viaje até o {POITags} na Costa Tempestuosa para coletar Óleo de Semente de Ruína</string>
-	<string key="0205_0102_03_Greaves_task_03" comment="Baneseed Oil" speaker="UI - Tracker Text">Colete {itemName} de inimigos {targetName}</string>
-	<string key="0205_0102_03_Greaves_task_04" comment="Propus" speaker="UI - Tracker Text">Viaje até {POITags} no Vale das Lamentações para coletar Estelaço Sintonizado</string>
-	<string key="0205_0102_03_Greaves_task_05" comment="Attuned Starmetal" speaker="UI - Tracker Text">Colete {itemName} de inimigos {targetName}</string>
-	<string key="0205_0102_03_Greaves_task_06" comment="Olympus" speaker="UI - Tracker Text">Viaje até {POITags} no Vale das Lamentações para coletar Revestimento Reforjado</string>
-	<string key="0205_0102_03_Greaves_task_07" comment="Reforged Plating" speaker="UI - Tracker Text">Colete {itemName} de inimigos {targetName}</string>
-	<string key="0205_0102_03_Greaves_task_08" speaker="UI - Tracker Text">Visite uma Forja</string>
-	<string key="0205_0102_03_Greaves_task_09" speaker="UI - Tracker Text">Confeccione {itemName}</string>
-	<string key="0205_0102_04_Gauntlets_title" speaker="UI - Quest Title">A Mão que Acolhe</string>
-	<string key="0205_0102_04_Gauntlets_description" speaker="UI - Quest Description">Colete Pira Fúnebre Refinada no Confronto de Svikin, Malha Flexível em Vela e Essência do Poder em Litheltop. Depois, visite uma Forja Escala 3 para confeccionar as Manoplas do Abraço da Batalha.</string>
-	<string key="0205_0102_04_Gauntlets_task_01" speaker="UI - Tracker Text">Receita entregue.</string>
-	<string key="0205_0102_04_Gauntlets_task_02" comment="Svikin's Stand" speaker="UI - Tracker Text">Viaje até {POITags} na Grande Fenda para coletar Pira Fúnebre Refinada</string>
-	<string key="0205_0102_04_Gauntlets_task_03" comment="Refined Balefire" speaker="UI - Tracker Text">Colete {itemName} de inimigos {targetName}</string>
-	<string key="0205_0102_04_Gauntlets_task_04" comment="Vela" speaker="UI - Tracker Text">Viaje até {POITags} no Bosque do Éden para coletar Malha Flexível</string>
-	<string key="0205_0102_04_Gauntlets_task_05" comment="Flexible Mesh" speaker="UI - Tracker Text">Colete {itemName} de inimigos {targetName}</string>
-	<string key="0205_0102_04_Gauntlets_task_06" comment="Litheltop" speaker="UI - Tracker Text">Viaje até {POITags} no Vale das Lamentações para coletar Essência do Poder</string>
-	<string key="0205_0102_04_Gauntlets_task_07" comment="Essence of Power" speaker="UI - Tracker Text">Colete {itemName} de inimigos {targetName}</string>
-	<string key="0205_0102_04_Gauntlets_task_08" speaker="UI - Tracker Text">Visite uma Forja</string>
-	<string key="0205_0102_04_Gauntlets_task_09" speaker="UI - Tracker Text">Confeccione {itemName}</string>
-	<string key="0205_0102_05_Helm_title" speaker="UI - Quest Title">Cabeça Erguida</string>
-	<string key="0205_0102_05_Helm_description" speaker="UI - Quest Description">Colete Verniz Rústico no Tormento da Urtiga, Lascas de Batalha na Mina da Escória Inferior e Estofo Pesado na Mina da Escória Superior. Depois, visite uma Forja Escala 3 para confeccionar o Elmo do Abraço da Batalha.</string>
-	<string key="0205_0102_05_Helm_task_01" speaker="UI - Tracker Text">Receita entregue.</string>
-	<string key="0205_0102_05_Helm_task_02" comment="Nettlevex" speaker="UI - Tracker Text">Viaje até {POITags} no Bosque do Éden para coletar Verniz Rústico</string>
-	<string key="0205_0102_05_Helm_task_03" comment="Rugged Varnish" speaker="UI - Tracker Text">Colete {itemName} de inimigos {targetName}</string>
-	<string key="0205_0102_05_Helm_task_04" comment="Lower Slag Mine" speaker="UI - Tracker Text">Viaje até {POITags} no Bosque do Éden para coletar Lascas de Batalha</string>
-	<string key="0205_0102_05_Helm_task_05" comment="Shards of Battle" speaker="UI - Tracker Text">Colete {itemName} de inimigos {targetName}</string>
-	<string key="0205_0102_05_Helm_task_06" comment="Upper Slag Mine" speaker="UI - Tracker Text">Viaje até {POITags} no Bosque do Éden para coletar Estofo Pesado</string>
-	<string key="0205_0102_05_Helm_task_07" comment="Heavy Padding" speaker="UI - Tracker Text">Colete {itemName} de inimigos {targetName}</string>
-	<string key="0205_0102_05_Helm_task_08" speaker="UI - Tracker Text">Visite uma Forja</string>
-	<string key="0205_0102_05_Helm_task_09" speaker="UI - Tracker Text">Confeccione {itemName}</string>
-	<string key="0204_0104_Executioner_title" speaker="UI - Quest Title">Executor</string>
-	<string key="0204_0104_Executioner_description" speaker="UI - Quest Description">Adquira Prancha de Bucaneiro no Forte da Caveira de Pedra, Amarra do Carrasco nas Colinas Insurgentes, Lâmina dos Brutos no Tubarão Saqueador e o Coagulante Infernal em Grus para confeccionar o famoso Machado, “Executor”. Fale com o Clérigo-mor Pennyfather no assentamento Bosque Reluzente quando a tarefa for concluída.</string>
-	<string key="0204_0104_Executioner_start_prompt" speaker="UI - Player Prompt">“Tenho interesse em um machado lendário.”</string>
-	<string key="0204_0104_Executioner_proposal" speaker="Head Cleric Pennyfather" gender="M" VO="Overseer_0204_0104_Executioner_Proposal" VO_Status="Recorded">Ah, sim. Estou interessado também... espere, do que estávamos falando? Ah, sim, o Executor.\n\nVou lhe passar uma lista dos componentes necessários para reforjá-lo. Podem ser um desafio, mas acho que valem a pena.</string>
-	<string key="0204_0104_Executioner_incomplete" speaker="Head Cleric Pennyfather" gender="M">Ah! É você...! Seu nome ainda foge da minha mente, mas me lembro de algo sobre... Ah, sim, o machado Executor.\n\nDesejo boa sorte na busca pelos materiais.</string>
-	<string key="0204_0104_Executioner_complete" speaker="Head Cleric Pennyfather" gender="M" VO="Overseer_0204_0104_Executioner_Complete" VO_Status="Recorded">Espere um minuto... Isso é... Você achou tudo que é preciso para reforjar o Executor?\n\nImpressionante, muito impressionante. É uma arma bem eficaz se usada... da forma certa. Empunhe-a bem.</string>
-	<string key="0203_0103_Hope_Manifest_title" speaker="UI - Quest Title">Manifesto da Esperança</string>
-	<string key="0203_0103_Hope_Manifest_description" speaker="UI - Quest Description">Adquira Tecido de Cerzidor na Estaca de Seele, Pomada de Adivinho nas Quedas de Catara, Sopro de Misericórdia em Eridanus e o Catalisador de Esperança em Vela para confeccionar o lendário Bastão Vital, “Manifesto da Esperança”. Fale com o Embalsamador Bankole no Bosque Reluzente quando a tarefa for concluída.</string>
-	<string key="0203_0103_Hope_Manifest_start_prompt" speaker="UI - Player Prompt">“Onde posso encontrar esse bastão?”</string>
-	<string key="0203_0103_Hope_Manifest_proposal" speaker="Embalmer Bankole - Brightwood" gender="M" VO="Survivalist_0203_0103_Hope_Manifest_Proposal" VO_Status="Recorded">Ah, você não encontraria, não se acha um há muitos séculos. Mas posso lhe mostrar como refazê-lo.\n\nPegue essa lista dos componentes necessários, com ela poderá criar o bastão “Manifesto da Esperança”.</string>
-	<string key="0203_0103_Hope_Manifest_incomplete" speaker="Embalmer Bankole - Brightwood" gender="M">Ainda procura os componentes do bastão?\n\nVocê os encontrará, se continuar tentando.</string>
-	<string key="0203_0103_Hope_Manifest_complete" speaker="Embalmer Bankole - Brightwood" gender="M" VO="Survivalist_0203_0103_Hope_Manifest_Complete" VO_Status="Recorded">Aí está a nova luz do Bosque Reluzente, e você achou todos os materiais, certo?\n\nCom esse bastão em mãos, você é o próprio “Manifesto da Esperança”. A luz vai lhe seguir para onde quer que vá.</string>
-	<string key="0204_0104_BucaneersPlank_Quest_objective_title" speaker="UI - Tracker Text">Colete itens usados para confeccionar o Executor</string>
-	<string key="0204_0104_HangmansBinding_Quest_objective_title" speaker="UI - Tracker Text">Colete itens usados para confeccionar o Executor</string>
-	<string key="0204_0104_BladeBrute_Quest_objective_title" speaker="UI - Tracker Text">Colete itens usados para confeccionar o Executor</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_objective_title" speaker="UI - Tracker Text">Colete itens e confeccione o Executor</string>
-	<string key="0204_0104_BucaneersPlank_Quest_description" speaker="UI - Quest Description">O mais traiçoeiro dos piratas só conhece um amor: o abraço do mar.</string>
-	<string key="0204_0104_HangmansBinding_Quest_description" speaker="UI - Quest Description">Aqueles que têm como destino a forca já estão condenados. E cabe a você executá-los.</string>
-	<string key="0204_0104_BladeBrute_Quest_description" speaker="UI - Quest Description">O mais brutal de nós deve abrir mão de sua misericórdia, pois ela jamais será demonstrada a seus inimigos.</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_description" speaker="UI - Quest Description">Até o sangue mais quente que corre nas veias muitas vezes se paralisa numa escuridão fétida.</string>
-	<string key="0203_0103_MendersCloth_Quest_objective_title" speaker="UI - Tracker Text">Colete itens usados para confeccionar o Manifesto da Esperança</string>
-	<string key="0203_0103_SoothsayerSalve_Quest_objective_title" speaker="UI - Tracker Text">Colete itens usados para confeccionar o Manifesto da Esperança</string>
-	<string key="0203_0103_MercysBreath_Quest_objective_title" speaker="UI - Tracker Text">Colete itens usados para confeccionar o Manifesto da Esperança</string>
-	<string key="0203_0103_HopeCatalyst_Quest_objective_title" speaker="UI - Tracker Text">Colete itens e confeccione o Manifesto da Esperança</string>
-	<string key="0203_0103_MendersCloth_Quest_description" speaker="UI - Quest Description">A cura reside no tecido do curandeiro, que trata as feridas com cuidado, como uma égide.</string>
-	<string key="0203_0103_SoothsayerSalve_Quest_description" speaker="UI - Quest Description">A cura reside na pomada do adivinho, um toque que acalma para aliviar a dor.</string>
-	<string key="0203_0103_MercysBreath_Quest_description" speaker="UI - Quest Description">A cura reside no Sopro da Misericórdia, uma dádiva do destino que não para de tecer.</string>
-	<string key="0203_0103_HopeCatalyst_Quest_description" speaker="UI - Quest Description">A cura reside na esperança, na esperança de viver e naqueles que catalisam essa esperança.</string>
-	<string key="0204_0104_BucaneersPlank_Quest_task_01" comment="Stone Skull Fort" speaker="UI - Tracker Text">Viaje até {POITags} em Ilhéus do Sabre para coletar Prancha de Bucaneiro</string>
-	<string key="0204_0104_BucaneersPlank_Quest_task_02" comment="Bucaneer's Plank" speaker="UI - Tracker Text">Colete {itemName} de inimigos {targetName}</string>
-	<string key="0204_0104_HangmansBinding_Quest_task_01" comment="Wayward Mounds" speaker="UI - Tracker Text">Viaje até {POITags} na Grande Fenda para coletar Amarra do Carrasco</string>
-	<string key="0204_0104_HangmansBinding_Quest_task_02" comment="Hangman's Binding" speaker="UI - Tracker Text">Colete {itemName} de inimigos Malignos, Ressurgidos e Espíritos</string>
-	<string key="0204_0104_HangmansBinding_Quest_task_03" comment="Hangman's Binding" speaker="UI - Tracker Text">Colete {itemName} de inimigos {targetName}</string>
-	<string key="0204_0104_BladeBrute_Quest_task_01" comment="Plundering Shark" speaker="UI - Tracker Text">Viaje até {POITags} na Costa Tempestuosa para coletar Lâmina dos Brutos</string>
-	<string key="0204_0104_BladeBrute_Quest_task_02" comment="Blade of the Brutes" speaker="UI - Tracker Text">Colete {itemName} de inimigos {targetName}</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_task_01" comment="Grus" speaker="UI - Tracker Text">Viaje até {POITags} no Vale das Lamentações para coletar o Coagulante Infernal</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_task_02" comment="Infernal Coagulant" speaker="UI - Tracker Text">Colete {itemName} de {targetName}</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_task_03" speaker="UI - Tracker Text">Receita entregue.</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_task_04" speaker="UI - Tracker Text">Visite uma Forja</string>
-	<string key="0204_0104_InfernalCoagulant_Quest_task_05" speaker="UI - Tracker Text">Crie o {itemName}</string>
-	<string key="0203_0103_MendersCloth_Quest_task_01" comment="Seele's Stake" speaker="UI - Tracker Text">Viaje até {POITags} na Costa Tempestuosa para coletar Tecido de Cerzidor</string>
-	<string key="0203_0103_MendersCloth_Quest_task_02" comment="Mender's Cloth" speaker="UI - Tracker Text">Colete {itemName} de inimigos {targetName}</string>
-	<string key="0203_0103_SoothsayerSalve_Quest_task_01" comment="Catara Falls" speaker="UI - Tracker Text">Viaje até {POITags} na Grande Fenda para coletar Pomada de Adivinho</string>
-	<string key="0203_0103_SoothsayerSalve_Quest_task_02" comment="Soothsayer's Salve" speaker="UI - Tracker Text">Colete {itemName} de inimigos {targetName}</string>
-	<string key="0203_0103_MercysBreath_Quest_task_01" comment="Eridanus" speaker="UI - Tracker Text">Viaje até {POITags} na Costa Tempestuosa para coletar Sopro de Misericórdia</string>
-	<string key="0203_0103_MercysBreath_Quest_task_02" comment="Mercy's Breath" speaker="UI - Tracker Text">Colete {itemName} de inimigos {targetName}</string>
-	<string key="0203_0103_HopeCatalyst_Quest_task_01" comment="Vela" speaker="UI - Tracker Text">Viaje até {POITags} no Vale das Lamentações para coletar o Catalisador de Esperança</string>
-	<string key="0203_0103_HopeCatalyst_Quest_task_02" comment="Hope Catalyst" speaker="UI - Tracker Text">Colete {itemName} de {targetName}</string>
-	<string key="0203_0103_HopeCatalyst_Quest_task_03" speaker="UI - Tracker Text">Receita entregue.</string>
-	<string key="0203_0103_HopeCatalyst_Quest_task_04" speaker="UI - Tracker Text">Visite uma Estação Arcana</string>
-	<string key="0203_0103_HopeCatalyst_Quest_task_05" speaker="UI - Tracker Text">Crie o {itemName}</string>
-	<string key="0203_0103_01_container_Weapon_Hope_Manifest_questComplete_1" speaker="UI - Tracker Text">Conclua a Missão: Fio do Mesmo Tecido</string>
-	<string key="0203_0103_02_container_Weapon_Hope_Manifest_questComplete_2" speaker="UI - Tracker Text">Conclua a Missão: O Toque que Acalma</string>
-	<string key="0203_0103_03_container_Weapon_Hope_Manifest_questComplete_3" speaker="UI - Tracker Text">Conclua a Missão: Destino Misericordioso</string>
-	<string key="0203_0103_04_container_Weapon_Hope_Manifest_questComplete_4" speaker="UI - Tracker Text">Conclua a Missão: Fonte de Esperança</string>
-	<string key="0204_0104_01_container_Weapon_Executioner_questComplete_1" speaker="UI - Tracker Text">Conclua a Missão: Andando na Prancha</string>
-	<string key="0204_0104_02_container_Weapon_Executioner_questComplete_2" speaker="UI - Tracker Text">Conclua a Missão: Os Laços que nos Prendem</string>
-	<string key="0204_0104_03_container_Weapon_Executioner_questComplete_3" speaker="UI - Tracker Text">Conclua a Missão: Brutalidade Shakespeariana</string>
-	<string key="0204_0104_04_container_Weapon_Executioner_questComplete_4" speaker="UI - Tracker Text">Conclua a Missão: Mais Espesso que a Água</string>
 	<string key="0240_0101_Curiosity_title" speaker="UI - Quest Title" quest_id="0240_0101_Curiosity">Curiosidade Corrompida</string>
 	<string key="0240_0101_Curiosity_description" speaker="UI - Quest Description" quest_id="0240_0101_Curiosity">Use uma Manopla de Gelo para derrotar os Corrompidos em Herdade de Ancolírica e investigue por que a vila foi incendiada para Khione Kaszynski.</string>
 	<string key="0240_0101_Curiosity_start_prompt" speaker="UI - Player Prompt" quest_id="0240_0101_Curiosity">“Gosto de mistérios. Posso ajudar?”</string>

@@ -112,10 +112,10 @@
 	<string key="ftue_archetypes_skill_sharpshooter">n/a</string>
 	<string key="ftue_archetypes_skill_crafter">n/a</string>
 	<string key="FTUE_DEBRISPILE_DISPLAYNAME">Escombros</string>
-	<string key="ftue_createcharacter_title">Confirmar criação</string>
-	<string key="ftue_createcharacter_message">Você não poderá alterar seu nome ou aparência depois daqui.\n\nTem certeza?</string>
-	<string key="ftue_quitcreation_title">SAIR</string>
-	<string key="ftue_quitcreation_message">Tem certeza de que deseja sair da criação de personagem e ir para o Menu Principal?</string>
+	<string key="ftue_createcharacter_title">Criar Personagem</string>
+	<string key="ftue_createcharacter_message">Você não poderá alterar sua aparência ou identidade depois daqui.\n\nTem certeza?</string>
+	<string key="ftue_quitcreation_title">Sair do Personagem</string>
+	<string key="ftue_quitcreation_message">Tem certeza de que deseja abandonar este personagem e ir para o Menu Principal?</string>
 	<string key="ftue_returntomainmenu_message">Deseja ir para o Menu Principal?</string>
 	<string key="ftue_loading1">CARREGANDO</string>
 	<string key="ftue_loading2">CARREGANDO</string>

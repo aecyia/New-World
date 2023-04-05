@@ -241,7 +241,7 @@
 	<string key="FishRoeT1_DerivedFrom">Jesiotry, wiosłonosy, rzadkie</string>
 	<string key="MeatSquidT1_DerivedFrom">Kałamarnice</string>
 	<string key="FishOilT1_DerivedFrom">Pospolite ryby, jesiotry, mieczniki, niepospolite</string>
-	<string key="SquidInkT1_DerivedFrom">Kałamarnica</string>
+	<string key="SquidInkT1_DerivedFrom">Kałamarnice</string>
 	<string key="WaterT1_DerivedFrom">Źródła słodkowodne, studnie</string>
 	<string key="RedMeatT1_DerivedFrom">Wilki, niedźwiedzie, krowy, owce, kozy, koty, aligatory, bizony</string>
 	<string key="FishT1_DerivedFrom">Pospolite ryby</string>
@@ -3316,5 +3316,12 @@
 	<string key="ArmadilloMeatT5_DerivedFrom" rel_version="Territory_Brimstone_Sands">Pancerniki</string>
 	<string key="ScorpionMeatT5_DerivedFrom" rel_version="Territory_Brimstone_Sands">Skorpiony</string>
 	<string key="FishSauceT1_DerivedFrom" rel_version="Territory_Brimstone_Sands">Kuchnia klasy 2</string>
+	<string key="CoatingAeternianT2_CraftedAt" rel_version="Season_1_Perm">Repozytorium arkanistyczne klasy 2</string>
+	<string key="CoatingAeternianT3_CraftedAt" rel_version="Season_1_Perm">Repozytorium arkanistyczne klasy 3</string>
+	<string key="CoatingAeternianT4_CraftedAt" rel_version="Season_1_Perm">Repozytorium arkanistyczne klasy 4</string>
+	<string key="CoatingAeternianT5_CraftedAt" rel_version="Season_1_Perm">Repozytorium arkanistyczne klasy 5</string>
+	<string key="PotionFamilyWardAeternianT3_CraftedAt" rel_version="Season_1_Perm">Repozytorium arkanistyczne klasy 3</string>
+	<string key="PotionFamilyWardAeternianT4_CraftedAt" rel_version="Season_1_Perm">Repozytorium arkanistyczne klasy 4</string>
+	<string key="PotionFamilyWardAeternianT5_CraftedAt" rel_version="Season_1_Perm">Repozytorium arkanistyczne klasy 5</string>
 </resources>
 

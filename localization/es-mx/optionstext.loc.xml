@@ -123,8 +123,8 @@
 	<string key="ui_voicechatinputmode">Entrada de chat de voz</string>
 	<string key="ui_voicechatinputmode_desc">Tu dispositivo de entrada de chat de voz</string>
 	<string key="ui_voicechatinputmode_alwayson">Siempre activado</string>
-	<string key="ui_voicechatinputmode_pushtotalk">Presionar para hablar (mantener)</string>
-	<string key="ui_voicechatinputmode_pushtotalk_toggle">Presionar para hablar (activar)</string>
+	<string key="ui_voicechatinputmode_pushtotalk">Pulsar para hablar (mantener)</string>
+	<string key="ui_voicechatinputmode_pushtotalk_toggle">Pulsar para hablar (activar)</string>
 	<string key="ui_options_settings">Ajustes</string>
 	<string key="ui_graphics_settings" comment="Graphics quality settings">Calidad de video</string>
 	<string key="ui_graphics_settings_desc">Preestablece la calidad visual del juego. Más baja para óptimo rendimiento o más alta para mejor resolución</string>
@@ -175,9 +175,9 @@
 	<string key="ui_profanity_filter">Filtro de idioma</string>
 	<string key="ui_profanity_filter_desc">Filtra las malas palabras en el chat</string>
 	<string key="ui_subtitles">Subtítulos</string>
-	<string key="ui_subtitles_desc">Habilita la visualización de subtítulos en los diálogos</string>
-	<string key="ui_metaachievementpopups">Activar notificación de logros</string>
-	<string key="ui_metaachievementpopups_desc">Activa una notificación en el HUD cuando se completa o casi se completa un logro</string>
+	<string key="ui_subtitles_desc">Muestra los subtítulos en los diálogos</string>
+	<string key="ui_metaachievementpopups">Notificaciones de logros</string>
+	<string key="ui_metaachievementpopups_desc">Muestra una notificación en el HUD cuando se completa o casi se completa un logro</string>
 	<string key="ui_colorBlindness">Daltonismo</string>
 	<string key="ui_colorBlindness_desc">Aplicar filtro para daltonismo</string>
 	<string key="ui_options_ColorBlindness_NoFilter">Sin filtro</string>
@@ -193,16 +193,23 @@
 	<string key="ui_options_TwitchLogin">Conectar con Twitch</string>
 	<string key="ui_options_TwitchLogin_desc">Inicia sesión en Twitch para habilitar sus funciones</string>
 	<string key="ui_options_TwitchStreamerSpotlight">Streamer Spotlight de Twitch</string>
-	<string key="ui_options_TwitchStreamerSpotlight_desc">Habilitar Streamer Spotlight de Twitch. Permite que otros jugadores vean lo que estás transmitiendo en Twitch (solo funciona durante la transmisión)</string>
+	<string key="ui_options_TwitchStreamerSpotlight_desc">Permite que otros jugadores vean lo que estás transmitiendo en Twitch (solo funciona durante la transmisión)</string>
 	<string key="ui_options_TwitchHideOtherStreamers">Ocultar otras transmisiones</string>
-	<string key="ui_options_TwitchHideOtherStreamers_desc">Habilitar la opción para ocultar el estado de Streamer Spotlight de otros jugadores mientras estás transmitiendo y tienes Streamer Spotlight habilitado</string>
+	<string key="ui_options_TwitchHideOtherStreamers_desc">Oculta el estado de Streamer Spotlight de otros jugadores mientras estás transmitiendo y tienes Streamer Spotlight habilitado</string>
 	<string key="ui_options_TwitchSubArmy">Ejército de suscriptores de Twitch</string>
 	<string key="ui_options_TwitchSubArmy_desc">Te permite unirte a los streamers o reclutar suscriptores y seguidores en Twitch a tu grupo o compañía</string>
 	<string key="ui_textSize">Tamaño del texto</string>
 	<string key="ui_textSize_desc">Agranda el tamaño de las placas de identificación y las pistas para interactuar</string>
+	<string key="ui_diegeticPinSize">Tamaño de marcador de ayuda de misión</string>
+	<string key="ui_diegeticPinSize_desc">Ajusta el tamaño del marcador de ayuda de misión en el juego</string>
+	<string key="ui_diegeticPinOpacity">Transparencia de marcador de ayuda de misión</string>
+	<string key="ui_diegeticPinOpacity_desc">Ajusta la transparencia del marcador de ayuda de misión en el juego</string>
+	<string key="ui_section_map">Mapa</string>
+	<string key="ui_options_map">Acercamiento automático</string>
+	<string key="ui_options_map_desc">Se hace un acercamiento automático al abrir el mapa en un asentamiento o puesto de avanzada</string>
 	<string key="ui_options_textSize_regular">Regular</string>
 	<string key="ui_options_textSize_bigger">Más grande</string>
-	<string key="ui_cameraShake">Permitir la sacudida de la cámara</string>
+	<string key="ui_cameraShake">Sacudida de la cámara</string>
 	<string key="ui_cameraShake_desc">La sacudida de la cámara podría desorientar a ciertos jugadores.</string>
 	<string key="ui_strafeCamera">Desplazamiento lateral</string>
 	<string key="ui_strafeCamera_desc">El personaje siempre mira en dirección a la cámara.</string>
@@ -217,7 +224,7 @@
 	<string key="ui_restore_defaults_prompt">¿Confirmas que quieres restaurar la configuración predeterminada de estas opciones?</string>
 	<string key="ui_audiooutput_headphones">Auriculares</string>
 	<string key="ui_audiooutput_speakers">Parlantes</string>
-	<string key="ui_mute_performance" rel_version="Feature_MusicalPerformances">Silenciar instrumento musical de otros jugadores</string>
+	<string key="ui_mute_performance" rel_version="Feature_MusicalPerformances">Silenciar instrumentos musicales de otros jugadores</string>
 	<string key="ui_mute_performance_desc" rel_version="Feature_MusicalPerformances">Silencia la música que tocan otros jugadores.</string>
 	<string key="ui_mute_combat_music" rel_version="Feature_MusicalPerformances">Silenciar música de combate</string>
 	<string key="ui_mute_combat_music_desc" rel_version="Feature_MusicalPerformances">Silenciar música de combate</string>
@@ -226,13 +233,15 @@
 	<string key="ui_outputconfiguration">Configuración de salida</string>
 	<string key="ui_outputconfiguration_desc">Alterna la distribución de la señal de sonido entre 360º para parlantes y 180º para auriculares</string>
 	<string key="ui_texttospeech">Texto a voz</string>
-	<string key="ui_texttospeech_desc">Habilita la función de texto a voz para los mensajes de chat entrantes</string>
+	<string key="ui_texttospeech_desc">Función de texto a voz para los mensajes de chat entrantes</string>
 	<string key="ui_tts_rate">Velocidad de texto a voz</string>
 	<string key="ui_tts_rate_desc">Velocidad de reproducción de los mensajes de texto a voz</string>
 	<string key="ui_tts_volume">Volumen de texto a voz</string>
 	<string key="ui_tts_volume_desc">Volumen de reproducción de los mensajes de texto a voz</string>
 	<string key="ui_speechtotext">Voz a texto</string>
-	<string key="ui_speechtotext_desc">Habilita la función Voz a texto en el chat de voz.</string>
+	<string key="ui_speechtotext_desc">Función Voz a texto en el chat de voz</string>
+	<string key="ui_spell_alignment_vfx">Indicadores de hechizos enemigos</string>
+	<string key="ui_spell_alignment_vfx_desc">Agrega indicadores a las áreas de efecto persistentes del jugador enemigo</string>
 	<string key="ui_enable_hudShowVitalsValues">Mostrar valores de signos vitales</string>
 	<string key="ui_enable_hudShowVitalsValues_decstription">Muestra los valores para la salud y demás signos vitales en sus respectivas barras</string>
 	<string key="ui_enable_hudAlwaysFade">Atenuación contextual</string>
@@ -262,7 +271,7 @@
 	<string key="ui_gena_escape" rel_version="Feature_GameEntryNarrationAssistance">Escape</string>
 	<string key="ui_gena" rel_version="Feature_GameEntryNarrationAssistance">Asistencia narrativa al ingresar al juego</string>
 	<string key="ui_gena_title" rel_version="Feature_GameEntryNarrationAssistance">Asistencia narrativa al ingresar al juego</string>
-	<string key="ui_gena_desc" rel_version="Feature_GameEntryNarrationAssistance">Habilitar la asistencia narrativa para ingresar al juego</string>
+	<string key="ui_gena_desc" rel_version="Feature_GameEntryNarrationAssistance">Brinda asistencia narrativa para ingresar al juego</string>
 	<string key="ui_gena_restricted" rel_version="Feature_GameEntryNarrationAssistance">Chat de voz por proximidad deshabilitado. Tu cuenta demasiado nueva o está bloqueada.</string>
 	<string key="ui_gena_instruction" rel_version="Feature_GameEntryNarrationAssistance">New World admite la asistencia narrativa al ingresar al juego (solo en inglés) para personas con ceguera o problemas de visión. Puedes activar o desactivar esta función en cualquier momento desde la configuración.</string>
 	<string key="ui_genaprompt_genaison" rel_version="Feature_GameEntryNarrationAssistance">La asistencia narrativa al ingresar al juego está activada. Presiona {toggleGENA} para apagar. Presiona {frontEndContinue} para continuar.</string>
@@ -292,5 +301,19 @@
 	<string key="ui_genaprompt_popupyesno" rel_version="Feature_GameEntryNarrationAssistance">{title}. {message} Presiona {toggleMenuComponent} para No. Presiona {frontEndContinue} para Sí.</string>
 	<string key="ui_genaprompt_popupok" rel_version="Feature_GameEntryNarrationAssistance">{title}. {message} Presiona {frontEndContinue} para cerrar.</string>
 	<string key="ui_genaprompt_popupokcancel" rel_version="Feature_GameEntryNarrationAssistance">{title}. {message} Presiona {frontEndContinue} para confirmar. Presiona {toggleMenuComponent} para cancelar.</string>
+	<string key="ui_loadouts" rel_version="Feature_Gear_Set_Storage">Conjunto de equipo</string>
+	<string key="ui_showloadouts" rel_version="Feature_Gear_Set_Storage">Mostrar conjuntos de equipo</string>
+	<string key="ui_hideloadouts" rel_version="Feature_Gear_Set_Storage">Ocultar conjuntos de equipo</string>
+	<string key="ui_toggle_selectloadout" rel_version="Feature_Gear_Set_Storage">Alternar selección de conjunto de equipo</string>
+	<string key="ui_equip_loadout1" rel_version="Feature_Gear_Set_Storage">Equipar conjunto de equipo 1</string>
+	<string key="ui_equip_loadout2" rel_version="Feature_Gear_Set_Storage">Equipar conjunto de equipo 2</string>
+	<string key="ui_equip_loadout3" rel_version="Feature_Gear_Set_Storage">Equipar conjunto de equipo 3</string>
+	<string key="ui_equip_loadout4" rel_version="Feature_Gear_Set_Storage">Equipar conjunto de equipo 4</string>
+	<string key="ui_equip_loadout5" rel_version="Feature_Gear_Set_Storage">Equipar conjunto de equipo 5</string>
+	<string key="ui_equip_loadout6" rel_version="Feature_Gear_Set_Storage">Equipar conjunto de equipo 6</string>
+	<string key="ui_equip_loadout7" rel_version="Feature_Gear_Set_Storage">Equipar conjunto de equipo 7</string>
+	<string key="ui_equip_loadout8" rel_version="Feature_Gear_Set_Storage">Equipar conjunto de equipo 8</string>
+	<string key="ui_equip_loadout9" rel_version="Feature_Gear_Set_Storage">Equipar conjunto de equipo 9</string>
+	<string key="ui_equip_loadout10" rel_version="Feature_Gear_Set_Storage">Equipar conjunto de equipo 10</string>
 </resources>
 

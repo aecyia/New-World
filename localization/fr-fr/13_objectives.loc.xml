@@ -25,7 +25,7 @@
 	<string key="1305_1309_b_Prompt" speaker="UI - Player Prompt">« Qu'est-ce qui a été volé ? »</string>
 	<string key="1305_1309_c_Proposal" speaker="Artificer Erasmus - Weaver's Fen" name="ArtificerErasmus" VO="Artificer_1305_1309_Possible_ProposalResponse" VO_Status="Recorded" dialogue-next="@1305_1309_c_Proposal_Next">Tout ce qui n'était pas cloué. Nourriture, matériel, outils... Les gens sont prêts à tout pour prendre ce qu'ils peuvent et s'enfuir. \n\nCe qui est étrange, cependant, c'est que certains d'entre eux sont devenus dévoyés, mais ils continuent malgré tout à nous voler.</string>
 	<string key="1305_1309_c_Proposal_Prompt" speaker="UI - Player Prompt">« Les dévoyés viennent voler dans le village ? »</string>
-	<string key="1305_1309_c_Proposal_Next" speaker="Artificer Erasmus - Weaver's Fen" name="ArtificerErasmus" VO="Artificer_1305_1309_Possible_CompleteNext" VO_Status="Recorded" dialogue-prompt="@1305_1309_c_Proposal_Prompt">Oui. L'un d'eux en particulier, un certain Mattheson. Il était négociant ici, autrefois... c'était un homme cupide, certes, mais honorable !\n\nDepuis qu'il est dévoyé, il revient régulièrement nous voler. Si vous pouviez le localiser et le neutraliser, ce serait une bénédiction pour la colonie.</string>
+	<string key="1305_1309_c_Proposal_Next" speaker="Artificer Erasmus - Weaver's Fen" name="ArtificerErasmus" VO="Artificer_1305_1309_Possible_CompleteNext" VO_Status="Recorded" dialogue-prompt="@1305_1309_c_Proposal_Prompt">En effet. L'un d'eux en particulier, un certain Mattheson. Il était négociant ici, autrefois... c'était un homme cupide, certes, mais honorable !\n\nDepuis qu'il est dévoyé, il revient régulièrement nous voler. Si vous pouviez le localiser et le neutraliser, ce serait une bénédiction pour la colonie.</string>
 	<string key="1305_1309_d_01_Task_GoTo" speaker="UI">Retrouver Mattheson le Marchand dans les environs de : {POITags}</string>
 	<string key="1305_1309_d_02_Task_Kill" speaker="UI">Vaincre Mattheson le Marchand</string>
 	<string key="1305_1309_d_03_Task_Track_First">Trouver la piste de Mattheson le traître</string>
@@ -251,7 +251,7 @@
 	<string key="1333_0203_timelesstower_start_prompt" speaker="UI - Player Prompt">« Cela ne signifierait-il pas que les Anciens sont aussi vieux que ça ? »</string>
 	<string key="1333_0203_timelesstower_proposal" speaker="Architect Na Li" name="ArchitectNaLi" VO="1333_0203_timelesstower_proposal" VO_Status="Recorded" dialogue-next="@1333_0203_timelesstower_proposal_next">Pas vrai ? Ah, j'ai tant de questions, mais nous devons résister à la tentation de tirer des conclusions hâtives. La datation des pierres est un champ d'études encore récent, après tout.\n\nCela étant dit, je me demande maintenant ce que nous réserve le futur.</string>
 	<string key="1333_0203_timelesstower_proposal_prompt" speaker="UI - Player Prompt">« Vous voulez bâtir quelque chose qui résistera aux épreuves du temps. »</string>
-	<string key="1333_0203_timelesstower_proposal_next" speaker="Architect Na Li" name="ArchitectNaLi" VO="1333_0203_timelesstower_proposal_next" VO_Status="Recorded" dialogue-prompt="@1333_0203_timelesstower_proposal_prompt">Oui. Oui. Bien que je respecte le travail de maître Ting Long, je pense pouvoir aller encore au-delà.\n\nSelon les études de mon mentor, il y a ici une structure qui est antérieure à toutes les autres. Pourriez-vous aller à Andrométus et y récolter quelques échantillons ?</string>
+	<string key="1333_0203_timelesstower_proposal_next" speaker="Architect Na Li" name="ArchitectNaLi" VO="1333_0203_timelesstower_proposal_next" VO_Status="Recorded" dialogue-prompt="@1333_0203_timelesstower_proposal_prompt">Tout à fait, oui. Bien que je respecte le travail de maître Ting Long, je pense pouvoir aller encore au-delà.\n\nSelon les études de mon mentor, il y a ici une structure qui est antérieure à toutes les autres. Pourriez-vous aller à Andrométus et y récolter quelques échantillons ?</string>
 	<string key="1333_0203_timelesstower_incomplete" speaker="Architect Na Li" name="ArchitectNaLi" VO="1333_0203_timelesstower_incomplete" VO_Status="Recorded">Faites-moi savoir quand vous aurez les échantillons d'Andrométus. J'ai quelques théories pouvant expliquer leur longévité, mais je ne tire jamais de conclusion sans preuves.</string>
 	<string key="1333_0203_timelesstower_complete" speaker="Architect Na Li" name="ArchitectNaLi" VO="1333_0203_timelesstower_complete" VO_Status="Recorded" dialogue-next="@1333_0203_timelesstower_complete_next">Cela scellerait notre amitié. Peut-être graverai-je votre nom sur les futurs aqueducs. Ou préféreriez-vous sur un temple ? Peut-être un jardin de pierre ?\n\nGrâce à vous, je pense maintenant pouvoir découvrir leurs secrets.</string>
 	<string key="1333_0203_timelesstower_complete_prompt" speaker="UI - Player Prompt">« Quel âge avait le dernier échantillon ? »</string>
@@ -265,7 +265,7 @@
 	<string key="1334_0201_olfactoryoptimization_proposal_prompt" speaker="UI - Player Prompt">« C'est difficile de ne pas s'en rendre compte. »</string>
 	<string key="1334_0201_olfactoryoptimization_proposal_next" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_proposal_next" VO_Status="Recorded" dialogue-prompt="@1334_0201_olfactoryoptimization_proposal_prompt">Et alors ? On passe à côté de la vie quand on ne cherche que des choses inoffensives.\n\nIl faut absolument que je capture cette fragrance. Rapportez-moi les arômes du marais que vous aurez brassés et mis en bouteille, et je vous récompenserai... hum... généreusement !</string>
 	<string key="1334_0201_olfactoryoptimization_incomplete" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_incomplete" VO_Status="Recorded">Le parfum unique du marais des Trames peut-il être reproduit par les hommes ? J'attends votre retour avec impatience.</string>
-	<string key="1334_0201_olfactoryoptimization_complete" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_complete" VO_Status="Recorded" dialogue-next="@1334_0201_olfactoryoptimization_complete_next" comment="coughing">Hmm, oui... Décadent, musqué, avec un accord sulfureux qui résonne jusqu'aux notes de tête... Vous avez parfaitement capturé l'essence du marais des Trames. \n\nIl y a du génie en vous ! Ah, mes yeux baignent dans l'émotion !</string>
+	<string key="1334_0201_olfactoryoptimization_complete" comment="coughing" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_complete" VO_Status="Recorded" dialogue-next="@1334_0201_olfactoryoptimization_complete_next">Hmm, oui... Décadent, musqué, avec un accord sulfureux qui résonne jusqu'aux notes de tête... Vous avez parfaitement capturé l'essence du marais des Trames. \n\nIl y a du génie en vous ! Ah, mes yeux baignent dans l'émotion !</string>
 	<string key="1334_0201_olfactoryoptimization_complete_prompt" speaker="UI - Player Prompt">« L'odeur est... surprenante ! »</string>
 	<string key="1334_0201_olfactoryoptimization_complete_next" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_complete_next" VO_Status="Recorded" dialogue-prompt="@1334_0201_olfactoryoptimization_complete_prompt">Vous choque-t-elle ? Ha ! Si seulement les dames de Nouvelle-Corse savaient de quoi elles badigeonnaient leurs poignets.\n\nL'art du parfum est comme la vie : l'ensemble est plus grand que la somme de ses parties. Merci pour vos contributions.</string>
 	<string key="1334_0201_d_00_01a_GiveRecipe" speaker="UI">Prendre : {itemName}</string>
@@ -314,79 +314,6 @@
 	<string key="1335_0204_reunion_proposal_next" speaker="Nora Roggeveen" name="NoraRoggeveen" VO="1335_0204_reunion_proposal_next" VO_Status="Recorded" dialogue-prompt="@1335_0204_reunion_proposal_prompt">Oh, oh, oh, oui. J'étais heureusement bien cachée lorsque les gardiens ont commencé à envahir le lieu. Et grâce à Dieu, vous voilà ! Je commençais à avoir faim.\n\nAllez, rentrons. Je suis impatiente de retrouver Léonie après tout ça.</string>
 	<string key="1335_0204_reunion_incomplete" speaker="Nora Roggeveen" name="NoraRoggeveen" VO="1335_0204_reunion_incomplete" VO_Status="Recorded">Je vous retrouve avec Léonie sur la route. Je m'éclipserai pendant que vous détournerez leur attention.</string>
 	<string key="1335_0204_reunion_complete" speaker="Dr. Leonie Roggeveen" name="LeonieRoggeveen" VO="1335_0204_reunion_complete" VO_Status="Recorded">Vous revoilà ! Nora m'a tout expliqué. Je suis TELLEMENT soulagée.\n\nJe vais avoir une petite conversation avec elle et définir quelques règles pour la prochaine fois. Cela dit, c'était une belle partie et vous nous avez été d'une grande aide. Merci beaucoup !</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Title" speaker="UI - Quest Title">Le Destin protecteur</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Description" speaker="UI – Quest Description">Récupérez les composants et les recettes nécessaires à la fabrication de l'armure du Destin protecteur. Retournez ensuite voir l'argonaute Severino à la colonie du marais des Trames.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Prompt" speaker="UI - Player Prompt">« Vous lui faites honneur. »</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_ProposalResponse" VO_Status="Recorded" dialogue-next="@1303_1311_Protective_Wyrd_Gear_Proposal_Next">L'on peut toujours faire davantage, c'est pourquoi j'ai un présent à vous donner...\n\nHazel a parlé un jour d'une armure dont on disait qu'elle protégeait son porteur contre les pires destins.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Prompt" speaker="UI - Player Prompt">« Une protection contre le destin ? »</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Next" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_CompleteNext" VO_Status="Recorded" dialogue-next="@1303_1311_Protective_Wyrd_Gear_Proposal_Next2" dialogue-prompt="@1303_1311_Protective_Wyrd_Gear_Proposal_Prompt">Apparemment. Hazel prétendait qu'elle était jadis portée par une grande guérisseuse, une ensorceleuse comme elle.\n\nMalgré sa légèreté, l'armure n'a jamais failli, et l'ensorceleuse a voyagé aux quatre coins d'Aeternum sans jamais subir la moindre égratignure.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Prompt2" speaker="UI - Player Prompt">« Ça m'a l'air trop beau pour être vrai. »</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Next2" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@1303_1311_Protective_Wyrd_Gear_Proposal_Prompt2">Nous avons besoin d'histoires de ce genre pour traverser les moments difficiles. Hazel m'a néanmoins assuré que toute cette histoire était vraie, et elle m'a donné ceci.\n\nIl s'agit du plan pour fabriquer l'armure du Destin protecteur. Rassemblez ces matériaux, et vous pourrez vous-même porter cet équipement.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Incomplete" speaker="Survivalist Severino – Weaver's Fen">Rien n'est jamais vraiment perdu en Aeternum, du moins c'est ce que je me dis.\n\nLe moment venu, vous trouverez ce dont vous avez besoin pour fabriquer le Destin protecteur, je le sais.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Complete" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_AvailResponse" VO_Status="Recorded" dialogue-next="@1303_1311_Protective_Wyrd_Gear_Complete_Next">Vous avez quelque chose de spécial... Oh ! Vous avez trouvé tout ce dont vous aviez besoin !\n\nC'est la tenue la plus impressionnante que j'aie jamais vue. Je peux sentir le pouvoir du Destin protecteur d'ici.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Complete_Prompt" speaker="UI - Player Prompt">« Vraiment ? »</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Complete_Next" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_CompleteNext3" VO_Status="Recorded" dialogue-prompt="@1303_1311_Protective_Wyrd_Gear_Complete_Prompt">Cela me met du baume au cœur de voir que les histoires que me racontait Hazel sont non seulement vraies, mais aussi utiles.\n\nSi ses autres affirmations sont exactes, elles aussi, il y a peut-être encore un espoir pour nous tous.</string>
-	<string key="1303_1311_01_container_Protective_Wyrd_questComplete_1">Terminer la quête : Un pas dans la bonne direction</string>
-	<string key="1303_1311_02_container_Protective_Wyrd_questComplete_2">Terminer la quête : Enveloppe de sortilèges</string>
-	<string key="1303_1311_03_container_Protective_Wyrd_questComplete_3">Terminer la quête : Périls prédestinés</string>
-	<string key="1303_1311_04_container_Protective_Wyrd_questComplete_4">Terminer la quête : Dans les griffes du destin</string>
-	<string key="1303_1311_05_container_Protective_Wyrd_questComplete_5">Terminer la quête : Face au destin</string>
-	<string key="1303_1311_01_Shoes_Title">Un pas dans la bonne direction</string>
-	<string key="1303_1311_01_Shoes_Description">Récupérez du tissu sanctifié du hameau de Fenton, de l'essence de non-mort de la caverne Coupegorge et de la poix purifiée de l'Île de l'épave. Visitez ensuite un poste d'équipement de palier III pour fabriquer les chaussures du Destin protecteur.</string>
-	<string key="1303_1311_01_Shoes_task_01">Mettre la main sur la recette</string>
-	<string key="1303_1311_01_Shoes_task_02">Aller à : {POITags}, dans le marais des Trames, pour récupérer du tissu sanctifié</string>
-	<string key="1303_1311_01_Shoes_task_03">Récupérer : {itemName} sur des morts-vivants, des goules et des empaleurs</string>
-	<string key="1303_1311_01_Shoes_task_04">Aller à : {POITags}, à la Rive tourmentée, pour récupérer de l'essence de non-mort</string>
-	<string key="1303_1311_01_Shoes_task_05">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
-	<string key="1303_1311_01_Shoes_task_06">Aller à : {POITags}, à la Rive tourmentée, pour récupérer de la poix purifiée</string>
-	<string key="1303_1311_01_Shoes_task_07">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
-	<string key="1303_1311_01_Shoes_task_08">Se rendre à un poste d'équipement</string>
-	<string key="1303_1311_01_Shoes_task_09">Fabriquer : {itemName}</string>
-	<string key="1303_1311_02_Shirt_Title">Enveloppe de sortilèges</string>
-	<string key="1303_1311_02_Shirt_Description">Récupérez des sangles neptuniennes dans la Furie de Neptune, du fil consacré dans le Cimetière de Solitude et des restes d'armure ancienne aux piliers de Gelida. Visitez ensuite un poste d'équipement de palier III pour fabriquer la chemise du Destin protecteur.</string>
-	<string key="1303_1311_02_Shirt_task_01">Mettre la main sur la recette</string>
-	<string key="1303_1311_02_Shirt_task_02">Aller à : {POITags}, à la Rive tourmentée, pour récupérer des sangles neptuniennes</string>
-	<string key="1303_1311_02_Shirt_task_03">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
-	<string key="1303_1311_02_Shirt_task_04">Aller à : {POITags}, à la Rive tourmentée, pour récupérer du fil consacré</string>
-	<string key="1303_1311_02_Shirt_task_05">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
-	<string key="1303_1311_02_Shirt_task_06">Aller à : {POITags}, à la grande Faille, pour récupérer des restes d'armure</string>
-	<string key="1303_1311_02_Shirt_task_07">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
-	<string key="1303_1311_02_Shirt_task_08">Se rendre à un poste d'équipement</string>
-	<string key="1303_1311_02_Shirt_task_09">Fabriquer : {itemName}</string>
-	<string key="1303_1311_03_Pants_Title">Périls prédestinés</string>
-	<string key="1303_1311_03_Pants_Description">Récupérez des sortilèges cousus dans le cimetière de Malepeur, de la laine ouvragée de cérémonie d'Éridan et de la doublure imprégnée de Lunaryth. Visitez ensuite un poste d'équipement de palier III pour fabriquer le pantalon du Destin protecteur.</string>
-	<string key="1303_1311_03_Pants_task_01">Mettre la main sur la recette</string>
-	<string key="1303_1311_03_Pants_task_02">Aller à : {POITags}, à la grande Faille, pour récupérer des sortilèges cousus</string>
-	<string key="1303_1311_03_Pants_task_03">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
-	<string key="1303_1311_03_Pants_task_04">Aller à : {POITags}, à la Rive tourmentée, pour récupérer de la laine ouvragée de cérémonie</string>
-	<string key="1303_1311_03_Pants_task_05">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
-	<string key="1303_1311_03_Pants_task_06">Aller à : {POITags}, au Val des Larmes, pour récupérer de la doublure imprégnée</string>
-	<string key="1303_1311_03_Pants_task_07">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
-	<string key="1303_1311_03_Pants_task_08">Se rendre à un poste d'équipement</string>
-	<string key="1303_1311_03_Pants_task_09">Fabriquer : {itemName}</string>
-	<string key="1303_1311_04_Gloves_Title">Dans les griffes du destin</string>
-	<string key="1303_1311_04_Gloves_Description">Récupérez de la trame renforcée de Rochevue, des charmes en bois d'aléa de Cloqueracine et des fibres purifiées de Shambhala. Visitez ensuite un poste d'équipement de palier III pour fabriquer les gants du Destin protecteur.</string>
-	<string key="1303_1311_04_Gloves_task_01">Mettre la main sur la recette</string>
-	<string key="1303_1311_04_Gloves_task_02">Aller à : {POITags}, au Val des Larmes, pour récupérer de la trame renforcée de Rochevue</string>
-	<string key="1303_1311_04_Gloves_task_03">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
-	<string key="1303_1311_04_Gloves_task_04">Aller à : {POITags}, au Val des Larmes, pour récupérer des charmes en bois d'aléa</string>
-	<string key="1303_1311_04_Gloves_task_05">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
-	<string key="1303_1311_04_Gloves_task_06">Aller à : {POITags}, à Bois-Éden, pour récupérer des fibres purifiées de Shambhala</string>
-	<string key="1303_1311_04_Gloves_task_07">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
-	<string key="1303_1311_04_Gloves_task_08">Se rendre à un poste d'équipement</string>
-	<string key="1303_1311_04_Gloves_task_09">Fabriquer : {itemName}</string>
-	<string key="1303_1311_05_Hat_Title">Face au destin</string>
-	<string key="1303_1311_05_Hat_Description">Récupérez des présages de lueur de l'aube de Pavo, de la résine viride de la falaise des Ronces et du tissu spectral de la mine de scories supérieure. Visitez ensuite un poste d'équipement de palier III pour fabriquer le chapeau du Destin protecteur.</string>
-	<string key="1303_1311_05_Hat_task_01">Mettre la main sur la recette</string>
-	<string key="1303_1311_05_Hat_task_02">Aller à : {POITags}, à Bois-Éden, pour récupérer des présages de lueur de l'aube</string>
-	<string key="1303_1311_05_Hat_task_03">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
-	<string key="1303_1311_05_Hat_task_04">Aller à : {POITags}, à Bois-Éden pour récupérer de la résine viride</string>
-	<string key="1303_1311_05_Hat_task_05">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
-	<string key="1303_1311_05_Hat_task_06">Aller à : {POITags}, à Bois-Éden, pour récupérer du tissu spectral</string>
-	<string key="1303_1311_05_Hat_task_07">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
-	<string key="1303_1311_05_Hat_task_08">Se rendre à un poste d'équipement</string>
-	<string key="1303_1311_05_Hat_task_09">Fabriquer : {itemName}</string>
-	<string key="1302_1312_d_01_Task_Goto" speaker="UI">Aller à : {POITags}</string>
 	<string key="1302_1312_d_02_Task_KillSpriggan" speaker="UI">Vaincre : {targetName}</string>
 	<string key="1302_1312_d_03_Task_GetSpores" speaker="UI">Récupérer : {itemName}</string>
 	<string key="1302_1312_a_Title" speaker="UI">Des spores pour un remède</string>
@@ -397,64 +324,5 @@
 	<string key="1302_1312_c_Proposal_next" speaker="Magistrate Allen - Weaver's Fen" name="MagistrateAllen" VO="Magistrate_1302_1312_Spores_CompleteNext" VO_Status="Recorded" dialogue-prompt="@1302_1312_c_Proposal_prompt">Seulement parce que vous avez fait vos preuves. À Éridan se trouve Teceros, un puissant colosse de terre spriggan qui a pris vie. \n\nSi elles sont mélangées correctement avec nos herbes anciennes, les spores de Teceros guériront les gens du marais des Trames pour de bon.</string>
 	<string key="1302_1312_e_Incomplete" speaker="Magistrate Allen - Weaver's Fen">L'alchimiste Rubis me garantit que les spores de Teceros sont l'ultime remède que nous cherchions. \n\nVous nous avez déjà beaucoup aidés, mais ceci va vraiment sauver notre village.</string>
 	<string key="1302_1312_f_Complete" speaker="Magistrate Allen - Weaver's Fen" name="MagistrateAllen" VO="Magistrate_1302_1312_Spores_AvailResponse" VO_Status="Recorded">Les spores du colosse ? C'est très... inquiétant, mais je vais les confier à l'alchimiste Rubis.\n\nMerci, {playerName}. Nous avons enfin notre remède, et vous pouvez recevoir ceci en guise de récompense.</string>
-	<string key="1310_1314_L40Bow_Huntress_Title" speaker="UI - Quest Title">La chasseresse chassée</string>
-	<string key="1310_1314_L40Bow_Huntress_Description" speaker="UI – Quest Description">Obtenez du bois ancien de Rafflésia, de la résine d'aléa de la Montée verdoyante, une plume de faucon de Propus et une patte de lapin porte-bonheur de la vallée de l'Écho gémissant pour fabriquer l'arc connu sous le nom de « la Chasseresse ». Retournez ensuite voir Flores le tavernier à la colonie du marais des Trames.</string>
-	<string key="1310_1314_L40Bow_Huntress_Prompt" speaker="UI - Player Prompt">« Voilà qui m'intéresse. »</string>
-	<string key="1310_1314_L40Bow_Huntress_Proposal" speaker="Barkeep Flores - Weaver's Fen" name="BarkeepFlores" VO="Barkeep_1310_1314_L40Bow_Huntress_ProposalResponse" VO_Status="Recorded">Ah, vraiment ? Il vous reviendra de faire tout le travail de terrain.\n\nSi vous parvenez à rassembler tous les matériaux de la liste, je pense que cet arc, « La Chasseresse », suscitera l'envie de tous. Bonne chance !</string>
-	<string key="1310_1314_L40Bow_Huntress_Incomplete" speaker="Barkeep Flores - Weaver's Fen">Ah, toujours sur les traces de la Chasseresse, n'est-ce pas ?\n\nÇa va prendre du temps, je pense.</string>
-	<string key="1310_1314_L40Bow_Huntress_Complete" speaker="Barkeep Flores - Weaver's Fen" name="BarkeepFlores" VO="Barkeep_1310_1314_L40Bow_Huntress_AvailResponse" VO_Status="Recorded">Regardez-moi ça ! La légende de la traque qui arrive tout droit de la nature ! Trouver tous ces matériaux n'a pas dû être facile. \n\nMais la Chasseresse prendra bien soin de vous. Gardez votre carquois bien rempli.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Title" speaker="UI - Quest Title">Colère de Falmea</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Description" speaker="UI – Quest Description">Obtenez des branches roussies d'Amphus, des cendres de bois d'aléa de Fornax, de l'eau maudite de la Furie de Neptune et le Cœur de toute flamme du Nouveau Feu-d'Enfer pour fabriquer le bâton de feu la « Colère de Falmea ». Retournez ensuite voir l'artisan Erasmus à la colonie du marais des Trames.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Prompt" speaker="UI - Player Prompt">« Et comment. »</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Proposal" speaker="Artificer Erasmus - Weaver's Fen" name="ArtificerErasmus" VO="Artificer_1305_1315_L40FStaff_FalmeasWrath_ProposalResponse" VO_Status="Recorded">Parfait. Je travaille sur un plan depuis un certain temps... je l'ai baptisé la « Colère de Falmea ».\n\nSi vous parvenez à acquérir tous les éléments nécessaires, ce bâton fera de vous un véritable maître du feu. Bonne chance.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Incomplete" speaker="Artificer Erasmus - Weaver's Fen">Toujours à la recherche des éléments nécessaires à la fabrication de la « Colère de Falmea » ?\n\nPersévérez, je pense que vous ne le regretterez pas.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Complete" speaker="Artificer Erasmus - Weaver's Fen" name="ArtificerErasmus" VO="Artificer_1305_1315_L40FStaff_FalmeasWrath_AvailResponse" VO_Status="Recorded">Ah, regardez ! Votre persévérance a porté ses fruits... Vous avez dû parcourir tout Aeternum !\n\nMais maintenant, vous en profitez ! La Colère de Falmea ! Il n'a jamais existé de plus beau bâton ! Maniez-le avec fierté, {playerName}.</string>
-	<string key="1310_1314_AncientWood_Quest_objective_title" speaker="UI">Récupérer les objets à utiliser pour fabriquer la Chasseresse</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_objective_title" speaker="UI">Récupérer les objets à utiliser pour fabriquer la Chasseresse</string>
-	<string key="1310_1314_HawkFeathers_Quest_objective_title" speaker="UI">Récupérer les objets à utiliser pour fabriquer la Chasseresse</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_objective_title" speaker="UI">Récupérer les objets nécessaires et fabriquer la Chasseresse</string>
-	<string key="1310_1314_AncientWood_Quest_description" speaker="UI">Elle se cache parmi les arbres. Parmi les séquoias, elle est vraiment chez elle.</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_description" speaker="UI">La résine de l'arbre parfume les airs. Si vous remarquez cette odeur alors que vous vous promenez en solitaire, méfiez-vous !</string>
-	<string key="1310_1314_HawkFeathers_Quest_description" speaker="UI">Avec des yeux comme ceux du faucon, elle voit à des kilomètres. Sa vision est limpide.</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_description" speaker="UI">Elle fond sur sa proie, et se replie lentement. La liberté qu'elle ressent alors est comparable à celle d'une flèche.</string>
-	<string key="1305_1315_SingedBranches_Quest_objective_title" speaker="UI">Récupérer les objets à utiliser pour fabriquer la Colère de Falmea</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_objective_title" speaker="UI">Récupérer les objets à utiliser pour fabriquer la Colère de Falmea</string>
-	<string key="1305_1315_UnhallowedWater_Quest_objective_title" speaker="UI">Récupérer les objets à utiliser pour fabriquer la Colère de Falmea</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_objective_title" speaker="UI">Récupérer les objets nécessaires et fabriquer la Colère de Falmea.</string>
-	<string key="1305_1315_SingedBranches_Quest_description" speaker="UI">Falmea a réduit en cendres le bois d'aléa, et n'a laissé qu'un grand chagrin dans son sillage.</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_description" speaker="UI">Falmea laissa tomber les cendres du bois d'aléa. Un blanc pur, abattu, sur le sol.</string>
-	<string key="1305_1315_UnhallowedWater_Quest_description" speaker="UI">Falmea a révélé son eau impie et l'a répandue dans la cendre.</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_description" speaker="UI">Falmea a prononcé l'indicible et, dans une tornade de flammes, a récupéré un bâton.</string>
-	<string key="1310_1314_Combine_Quest_task_03">Mettre la main sur la recette</string>
-	<string key="1310_1314_Combine_Quest_task_04">Se rendre à un poste d'ingénierie</string>
-	<string key="1310_1314_Combine_Quest_task_05">Créer : {itemName}</string>
-	<string key="1305_1315_Combine_Quest_task_03">Mettre la main sur la recette</string>
-	<string key="1305_1315_Combine_Quest_task_04">Se rendre dans une réserve dédiée aux arts obscurs</string>
-	<string key="1305_1315_Combine_Quest_task_05">Créer : {itemName}</string>
-	<string key="1310_1314_AncientWood_Quest_task_01">Aller à : {POITags}, à Bois-Éden, pour récupérer du bois ancien</string>
-	<string key="1310_1314_AncientWood_Quest_task_02">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_task_01">Aller à : {POITags}, à la Rive tourmentée, pour récupérer de la résine d'aléa</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_task_02">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
-	<string key="1310_1314_HawkFeathers_Quest_task_01">Aller à : {POITags}, au Val des Larmes, pour récupérer une plume de faucon</string>
-	<string key="1310_1314_HawkFeathers_Quest_task_02">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_task_01">Aller à : {POITags}, au Val des Larmes, pour récupérer une patte de lapin porte-bonheur</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_task_02">Récupérer : {itemName} sur : {targetName}</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_task_04">Créer : {itemName}</string>
-	<string key="1305_1315_SingedBranches_Quest_task_01">Aller à : {POITags}, à Bois-Éden, pour récupérer des branches roussies</string>
-	<string key="1305_1315_SingedBranches_Quest_task_02">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_task_01">Aller à : {POITags}, à la Rive tourmentée, pour récupérer des cendres de bois d'aléa</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_task_02">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
-	<string key="1305_1315_UnhallowedWater_Quest_task_01">Aller à : {POITags}, à la Rive tourmentée, pour récupérer de l'eau maudite</string>
-	<string key="1305_1315_UnhallowedWater_Quest_task_02">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_task_01">Aller à : {POITags}, au Val des Larmes, pour récupérer le Cœur de toute flamme</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_task_02">Récupérer : {itemName} sur : {targetName}</string>
-	<string key="1310_1314_01_container_Weapon_Huntress_questComplete_1">Terminer la quête : L'arbre dans la forêt</string>
-	<string key="1310_1314_02_container_Weapon_Huntress_questComplete_2">Terminer la quête : Divine résine</string>
-	<string key="1310_1314_03_container_Weapon_Huntress_questComplete_3">Terminer la quête : Plumes de faucon</string>
-	<string key="1310_1314_04_container_Weapon_Huntress_questComplete_4">Terminer la quête : Poursuite d'un lapin retardataire</string>
-	<string key="1305_1315_01_container_Weapon_Hope_FalmeasWrath_questComplete_1">Terminer la quête : Conséquences incendiaires</string>
-	<string key="1305_1315_02_container_Weapon_Hope_FalmeasWrath_questComplete_2">Terminer la quête : Rien que des cendres</string>
-	<string key="1305_1315_03_container_Weapon_Hope_FalmeasWrath_questComplete_3">Terminer la quête : Des eaux souillées</string>
-	<string key="1305_1315_04_container_Weapon_Hope_FalmeasWrath_questComplete_4">Terminer la quête : Le calice du sacrifice</string>
 </resources>
 

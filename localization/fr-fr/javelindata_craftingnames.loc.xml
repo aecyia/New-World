@@ -12,6 +12,7 @@
 	<string key="LeatherT2_Down_Name">Transformer du cuir corroyé en cuir brut</string>
 	<string key="LeatherT3_Down_Name">Transformer du cuir épais en cuir corroyé</string>
 	<string key="LeatherT4_Down_Name">Transformer du cuir imprégné en cuir épais</string>
+	<string key="LeatherT4_Down_Name">Transformer du cuir imprégné en cuir épais</string>
 	<string key="ClothT2_Down_Name">Transformer du satin en lin</string>
 	<string key="ClothT3_Down_Name">Transformer de la soie en satin</string>
 	<string key="ClothT4_Down_Name">Transformer de la soie imprégnée en soie</string>
@@ -1973,5 +1974,12 @@
 	<string key="LightHands_ChitinT5">Gants en tissu de chitine</string>
 	<string key="LightLegs_ChitinT5">Pantalon en tissu de chitine</string>
 	<string key="LightFeet_ChitinT5">Bottes en tissu de chitine</string>
+	<string key="PotionFamilyWardAeternianT3" rel_version="Season_1_Perm">Potion anti-humains puissante</string>
+	<string key="PotionFamilyWardAeternianT4" rel_version="Season_1_Perm">Potion anti-humains ultra puissante</string>
+	<string key="PotionFamilyWardAeternianT5" rel_version="Season_1_Perm">Potion anti-humains imprégnée</string>
+	<string key="Procedural_CoatingAeternianT2" rel_version="Season_1_Perm">Enduit anti-humains ordinaire</string>
+	<string key="Procedural_CoatingAeternianT3" rel_version="Season_1_Perm">Enduit anti-humains puissant</string>
+	<string key="Procedural_CoatingAeternianT4" rel_version="Season_1_Perm">Enduit anti-humains ultra puissant</string>
+	<string key="Procedural_CoatingAeternianT5" rel_version="Season_1_Perm">Enduit anti-humains imprégné</string>
 </resources>
 

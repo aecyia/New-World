@@ -22,7 +22,7 @@
 	<string key="ui_territory_claimed_title">Territorio rivendicato</string>
 	<string key="ui_territory_current">Territorio attuale:</string>
 	<string key="ui_territory_controlling_faction">Fazione al comando:</string>
-	<string key="ui_territory_not_claimed_desc">Quando questo territorio verrà rivendicato, potrai completare missioni PvP con cui ottenere l'influenza necessaria alla tua fazione per dichiarare guerra. Ma per ora, aiuta la tua fazione a conquistare questo territorio!</string>
+	<string key="ui_territory_not_claimed_desc">Rivendica questo territorio per completare missioni PvP e ottenere influenza in modo che la tua fazione possa dichiarare guerra.</string>
 	<string key="ui_territory_upgrade_cancelled">È stato annullato un miglioramento nel territorio {territoryName}</string>
 	<string key="ui_territory_upgraded">Territorio migliorato</string>
 	<string key="ui_territory_standinglabel">Reputazione {territoryName}</string>
@@ -103,9 +103,9 @@
 	<string key="ui_mastery_points_available">Hai {masteryPoints} punti Maestria inutilizzati</string>
 	<string key="ui_standing_tokens_available">Hai {standingTokens} punti Reputazione territorio inutilizzati</string>
 	<string key="ui_points_available">MIGLIORAMENTO DISPONIBILE</string>
-	<string key="ui_mastery_point">Punto Maestria</string>
-	<string key="ui_attribute_point">Punto Attributo</string>
-	<string key="ui_standing_point">Punto Reputazione territorio</string>
+	<string key="ui_mastery_point">Punti Maestria</string>
+	<string key="ui_attribute_point">Punti Attributo</string>
+	<string key="ui_standing_point">Punti Reputazione territorio</string>
 	<string key="ui_cinematics_banner_msq_actone_title_label">ATTO I</string>
 	<string key="ui_cinematics_banner_msq_actone_chapterone_title_text">Capitolo uno</string>
 	<string key="ui_cinematics_banner_msq_actone_chapterone_title_description">Tempesta di demoni</string>

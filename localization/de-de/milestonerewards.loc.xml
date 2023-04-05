@@ -1,7 +1,7 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="ui_milestone_rewards">Stufenbelohnung</string>
-	<string key="ui_milestone_currently">Derzeit</string>
-	<string key="ui_milestone_current_level">Stufe &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{level}&lt;/font&gt;</string>
+	<string key="ui_milestone_currently">Aktuelle Stufe</string>
+	<string key="ui_milestone_current_level">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{level}&lt;/font&gt;</string>
 	<string key="WeaponSlot2_Name">Zweitwaffen-Slot</string>
 	<string key="WeaponSlot2_Tooltip">Schaltet den Zweitwaffen-Slot frei.</string>
 	<string key="QuickSlot3_Name">Dritter Verbrauchsgegenstands-Slot</string>
@@ -44,7 +44,7 @@
 	<string key="AzothStaffT4_Name">Azoth-Stab Rang 4 (Haupthandlungsaufgabe)</string>
 	<string key="AzothStaffT4_Tooltip">Schaltet die Aufgabe "Jagd auf die Kiste" frei, die einen Azoth-Stab Rang 4 gewährt (bei Abschluss). Mit einem Azoth-Stab kann man Verderbnisausbrüche der Stufe 55 schließen.\n\nHinweis: Du musst die vorherige Haupthandlungsaufgabe abschließen, bevor du diese Aufgabe angehen kannst.</string>
 	<string key="AzothStaffT5_Name">Azoth-Stab Rang 5 (Haupthandlungsaufgabe)</string>
-	<string key="AzothStaffT5_Tooltip">Schaltet die Aufgabe "Sturmwind‘s Herz" frei, die einen Azoth-Stab Rang 5 gewährt (bei Abschluss). Mit einem Azoth-Stab kann man Verderbnisausbrüche der Stufe 60 und 65+ schließen.\n\nHinweis: Du musst die vorherige Haupthandlungsaufgabe abschließen, bevor du diese Aufgabe angehen kannst.</string>
+	<string key="AzothStaffT5_Tooltip">Schaltet die Aufgabe "Herz des Sturmwinds" frei, die einen Azoth-Stab Rang 5 gewährt (bei Abschluss). Mit einem Azoth-Stab kann man Verderbnisausbrüche der Stufe 60 und 65+ schließen.\n\nHinweis: Du musst die vorherige Haupthandlungsaufgabe abschließen, bevor du diese Aufgabe angehen kannst.</string>
 	<string key="CampingT1_Name">Zeltlager Rang 1 (Haupthandlungsaufgabe)</string>
 	<string key="CampingT1_Tooltip">Schließe die Aufgabe "Freund oder Feind" in Königsfels oder "Suche nach dem Tribut" in Windkreis ab, um die Fertigkeit freizuschalten, ein Zeltlager für Respawns und Herstellung zu errichten.\n\nHinweis: Du musst die vorherige Haupthandlungsaufgabe abschließen, bevor du diese Aufgabe angehen kannst.</string>
 	<string key="CampingT2_Name">Zeltlager Rang 2 (Haupthandlungsaufgabe)</string>
@@ -64,5 +64,11 @@
 	<string key="TerritoryRecommendation_6">Edenhain, Ebenmaß</string>
 	<string key="TerritoryRecommendation_7">Brackwasser, Bruchberg, Schwefelsandwüste</string>
 	<string key="ui_new_recommended_territory">Neues empfohlenes Gebiet</string>
+	<string key="LoadoutSlots_Name" rel_version="Feature_Gear_Set_Storage">Zwei Ausrüstungs-Slots</string>
+	<string key="LoadoutSlots_Tooltip" rel_version="Feature_Gear_Set_Storage">Schaltet zwei Ausrüstungs-Slots frei.</string>
+	<string key="SeasonsRewards_Name" rel_version="Feature_Seasons_Rewards">Saison-Belohnungsserie</string>
+	<string key="SeasonsRewards_Tooltip" rel_version="Feature_Seasons_Rewards">Schaltet die Saison-Belohnungsserie frei.</string>
+	<string key="SeasonsJourney_Name" rel_version="Feature_Seasons_Rewards">Saisonreise</string>
+	<string key="SeasonsJourney_Tooltip" rel_version="Feature_Seasons_Rewards">Schaltet die Saisonreise frei.</string>
 </resources>
 

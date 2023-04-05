@@ -34,7 +34,7 @@
 	<string key="ui_or_infused_hide_deposited" comment="Total infused wood deposited by player">Peles Infusas Depositadas</string>
 	<string key="ui_or_azoth_essence_deposited" comment="Total azoth essence deposited by player">Essência de Azoth Depositada</string>
 	<string key="ui_or_ai_assists" comment="Total azoth essence deposited by player">Assistências de Abate de NPCs</string>
-	<string key="ui_or_player_assists" comment="Total azoth essence deposited by player">Assistências de Abate de Jogador</string>
+	<string key="ui_or_player_assists" comment="Total azoth essence deposited by player">Assist. de Abate de Jogador</string>
 	<string key="ui_or_ai_takedowns" comment="Total azoth essence deposited by player">Eliminações de NPCs</string>
 	<string key="ui_or_player_takedowns" comment="Total azoth essence deposited by player">Eliminações de Jogador</string>
 	<string key="ui_or_capture_point_contests" comment="Total amount of time spent contesting a capture point by player">Pontos de Objetivo</string>

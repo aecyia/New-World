@@ -1,7 +1,7 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="ui_milestone_rewards">Récompenses de niveau</string>
-	<string key="ui_milestone_currently">Actuellement</string>
-	<string key="ui_milestone_current_level">Niveau &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{level}&lt;/font&gt;</string>
+	<string key="ui_milestone_currently">Niveau actuel</string>
+	<string key="ui_milestone_current_level">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{level}&lt;/font&gt;</string>
 	<string key="WeaponSlot2_Name">Emplacement d'arme 2</string>
 	<string key="WeaponSlot2_Tooltip">Déverrouille l'emplacement d'arme secondaire.</string>
 	<string key="QuickSlot3_Name">Emplacement de consommable 3</string>
@@ -36,25 +36,25 @@
 	<string key="Expertise_Tooltip">Déverrouille l'expertise. L'expertise mesure la puissance potentielle des objets lâchés. Les objets lâchés des créatures et dans les zones dont le niveau est supérieur à 60 ont une chance d'augmenter cette valeur. Plus la créature ou la zone est puissante, plus il y a de chance que cette valeur augmente.</string>
 	<string key="Expertise_Upgrade_Unlock">Améliorer {category} objets à l'aide d'éclats sombres</string>
 	<string key="AzothStaffT1_Name">Bâton d'Azoth palier 1 (quête de l'histoire principale)</string>
-	<string key="AzothStaffT1_Tooltip">Déverrouille la quête « Forger le bâton » octroyant le bâton d'Azoth palier 1 (une fois la quête terminée). Le bâton d'Azoth permet de fermer les foyers d'altération de niveau 25.\n\nRemarque : vous devez d'abord terminer les quêtes de l'histoire principale antérieures avant de vous lancer dans cette quête.</string>
+	<string key="AzothStaffT1_Tooltip">Déverrouille la quête « Forger le bâton », octroyant le bâton d'Azoth palier 1 (une fois la quête terminée). Le bâton d'Azoth permet de fermer les foyers d'altération de niveau 25.\n\nRemarque : vous devez d'abord terminer les quêtes de l'histoire principale antérieures avant de vous lancer dans cette quête.</string>
 	<string key="AzothStaffT2_Name">Bâton d'Azoth palier 2 (quête de l'histoire principale)</string>
-	<string key="AzothStaffT2_Tooltip">Déverrouille la quête « Le cœur et l'âme » octroyant le bâton d'Azoth palier 2 (une fois la quête terminée). Le bâton d'Azoth permet de fermer les foyers d'altération de niveau 35.\n\nRemarque : vous devez d'abord terminer les quêtes de l'histoire principale antérieures avant de vous lancer dans cette quête.</string>
+	<string key="AzothStaffT2_Tooltip">Déverrouille la quête « Le cœur et l'âme », octroyant le bâton d'Azoth palier 2 (une fois la quête terminée). Le bâton d'Azoth permet de fermer les foyers d'altération de niveau 35.\n\nRemarque : vous devez d'abord terminer les quêtes de l'histoire principale antérieures avant de vous lancer dans cette quête.</string>
 	<string key="AzothStaffT3_Name">Bâton d'Azoth palier 3 (quête de l'histoire principale)</string>
-	<string key="AzothStaffT3_Tooltip">Déverrouille la quête « L'alliance » octroyant le bâton d'Azoth palier 3 (une fois la quête terminée). Le bâton d'Azoth permet de fermer les foyers d'altération de niveau 45.\n\nRemarque : vous devez d'abord terminer les quêtes de l'histoire principale antérieures avant de vous lancer dans cette quête.</string>
+	<string key="AzothStaffT3_Tooltip">Déverrouille la quête « L'alliance », octroyant le bâton d'Azoth palier 3 (une fois la quête terminée). Le bâton d'Azoth permet de fermer les foyers d'altération de niveau 45.\n\nRemarque : vous devez d'abord terminer les quêtes de l'histoire principale antérieures avant de vous lancer dans cette quête.</string>
 	<string key="AzothStaffT4_Name">Bâton d'Azoth palier 4 (quête de l'histoire principale)</string>
-	<string key="AzothStaffT4_Tooltip">Déverrouille la quête « Course pour la boîte » octroyant le bâton d'Azoth palier 4 (une fois la quête terminée). Le bâton d'Azoth permet de fermer les foyers d'altération de niveau 55.\n\nRemarque : vous devez d'abord terminer les quêtes de l'histoire principale antérieures avant de vous lancer dans cette quête.</string>
+	<string key="AzothStaffT4_Tooltip">Déverrouille la quête « Course pour la boîte », octroyant le bâton d'Azoth palier 4 (une fois la quête terminée). Le bâton d'Azoth permet de fermer les foyers d'altération de niveau 55.\n\nRemarque : vous devez d'abord terminer les quêtes de l'histoire principale antérieures avant de vous lancer dans cette quête.</string>
 	<string key="AzothStaffT5_Name">Bâton d'Azoth palier 5 (quête de l'histoire principale)</string>
-	<string key="AzothStaffT5_Tooltip">Déverrouille la quête « Le Cœur de la Tempête » octroyant le bâton d'Azoth palier 5 (une fois la quête terminée). Le bâton d'Azoth permet de fermer les foyers d'altération de niveau 60 et plus de 65.\n\nRemarque : vous devez d'abord terminer les quêtes de l'histoire principale antérieures avant de vous lancer dans cette quête.</string>
+	<string key="AzothStaffT5_Tooltip">Déverrouille la quête « Le Cœur de la Tempête », octroyant le bâton d'Azoth palier 5 (une fois la quête terminée). Le bâton d'Azoth permet de fermer les foyers d'altération de niveau 60 et plus de 65.\n\nRemarque : vous devez d'abord terminer les quêtes de l'histoire principale antérieures avant de vous lancer dans cette quête.</string>
 	<string key="CampingT1_Name">Bivouac palier 1 (quête de l'histoire principale)</string>
 	<string key="CampingT1_Tooltip">Accomplissez la quête « Ami ou ennemi » aux Falaises du Roy ou « À la poursuite du tribut » à Gré-du-Vent pour déverrouiller la capacité de créer un bivouac permettant de réapparaître ou d'effectuer une fabrication.\n\nRemarque : vous devez d'abord terminer les quêtes de l'histoire principale antérieures avant de vous lancer dans cette quête.</string>
 	<string key="CampingT2_Name">Bivouac palier 2 (quête de l'histoire principale)</string>
 	<string key="CampingT2_Tooltip">Accomplissez la quête de l'histoire principale « Le sage des contrées sauvages » ou « Une lueur d'espoir » à Gré-du-Vent pour améliorer les atouts de votre bivouac.\n\nRemarque : vous devez d'abord terminer les quêtes de l'histoire principale antérieures avant de vous lancer dans cette quête.</string>
 	<string key="CampingT3_Name">Amélioration de palier de bivouac (quête d'argonaute)</string>
-	<string key="CampingT3_Tooltip">Déverrouille la quête « L'instinct animal » qui améliore d'un palier les camps que vous pouvez construire (une fois la quête terminée).</string>
+	<string key="CampingT3_Tooltip">Déverrouille la quête « L'instinct animal », qui améliore d'un palier les bivouacs que vous pouvez construire (une fois la quête terminée).</string>
 	<string key="CampingT4_Name">Amélioration de palier de bivouac (quête d'argonaute)</string>
-	<string key="CampingT4_Tooltip">Déverrouille la quête « Argonaute : Loup y es-tu ? » qui améliore d'un palier les camps que vous pouvez construire (une fois la quête terminée).</string>
+	<string key="CampingT4_Tooltip">Déverrouille la quête « Argonaute : Loup y es-tu ? », qui améliore d'un palier les bivouacs que vous pouvez construire (une fois la quête terminée).</string>
 	<string key="CampingT5_Name">Amélioration de palier de bivouac (quête d'argonaute)</string>
-	<string key="CampingT5_Tooltip">Déverrouille la quête « Argonaute : Lumières vacillantes » qui améliore d'un palier les camps que vous pouvez construire (une fois la quête terminée).</string>
+	<string key="CampingT5_Tooltip">Déverrouille la quête « Argonaute : Lumières vacillantes », qui améliore d'un palier les bivouacs que vous pouvez construire (une fois la quête terminée).</string>
 	<string key="TerritoryRecommendation_1">Falaises du Roy, Gré-du-Vent</string>
 	<string key="TerritoryRecommendation_1a">Haute-Chute</string>
 	<string key="TerritoryRecommendation_2">Boisclair, Îles des Lames</string>
@@ -64,5 +64,11 @@
 	<string key="TerritoryRecommendation_6">Bois-Éden, Nerécaille</string>
 	<string key="TerritoryRecommendation_7">Eaux-Fétides, Montagne du Haut-Chaos, Sulfure</string>
 	<string key="ui_new_recommended_territory">Nouveau territoire recommandé</string>
+	<string key="LoadoutSlots_Name" rel_version="Feature_Gear_Set_Storage">Deux emplacements d'arsenal</string>
+	<string key="LoadoutSlots_Tooltip" rel_version="Feature_Gear_Set_Storage">Déverrouille deux emplacements d'arsenal.</string>
+	<string key="SeasonsRewards_Name" rel_version="Feature_Seasons_Rewards">Chaîne de récompenses de saison</string>
+	<string key="SeasonsRewards_Tooltip" rel_version="Feature_Seasons_Rewards">Confère la chaîne de récompenses de saison.</string>
+	<string key="SeasonsJourney_Name" rel_version="Feature_Seasons_Rewards">Périple de saison</string>
+	<string key="SeasonsJourney_Tooltip" rel_version="Feature_Seasons_Rewards">Confère le périple de saison.</string>
 </resources>
 

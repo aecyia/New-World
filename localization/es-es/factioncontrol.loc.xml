@@ -1,5 +1,5 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="ui_factioncontrol_bonus_title">Bonificaciones de puntos de control</string>
+	<string key="ui_factioncontrol_bonus_title">Bonif. de puntos de control</string>
 	<string key="ui_factioncontrol_claimed">Conquistado</string>
 	<string key="ui_factioncontrol_contested">En disputa</string>
 	<string key="ui_factioncontrol_unclaimed">No conquistado</string>

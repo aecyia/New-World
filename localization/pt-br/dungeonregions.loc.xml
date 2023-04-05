@@ -176,5 +176,26 @@
 	<string key="ui_icon_brimstone_description_crassus" rel_version="Expedition_BrimstoneSands_00">Líder da 19ª Legião</string>
 	<string key="ui_icon_brimstone_title_goliaths" rel_version="Expedition_BrimstoneSands_00">Anpu e Heru</string>
 	<string key="ui_icon_brimstone_description_goliaths" rel_version="Expedition_BrimstoneSands_00">Ídolos Anciões</string>
+	<string key="ui_area_greatcleave01_LostEntrance" rel_version="Expedition_GreatCleave_01">Entrada Perdida</string>
+	<string key="ui_area_greatcleave01_Vestibule" rel_version="Expedition_GreatCleave_01">Vestíbulo</string>
+	<string key="ui_area_greatcleave01_ForgeGate" rel_version="Expedition_GreatCleave_01">Portão da Forja</string>
+	<string key="ui_area_greatcleave01_Shrine" rel_version="Expedition_GreatCleave_01">Santuário</string>
+	<string key="ui_area_greatcleave01_HiddenChamber" rel_version="Expedition_GreatCleave_01">Câmara Oculta</string>
+	<string key="ui_area_greatcleave01_Reliquary" rel_version="Expedition_GreatCleave_01">Relicário</string>
+	<string key="ui_area_greatcleave01_Foundry" rel_version="Expedition_GreatCleave_01">Fundição</string>
+	<string key="ui_area_greatcleave01_ForgeWest" rel_version="Expedition_GreatCleave_01">Oeste da Forja</string>
+	<string key="ui_area_greatcleave01_Bellows" rel_version="Expedition_GreatCleave_01">Fole</string>
+	<string key="ui_area_greatcleave01_Ascent" rel_version="Expedition_GreatCleave_01">Rampa</string>
+	<string key="ui_area_greatcleave01_ControlRoom" rel_version="Expedition_GreatCleave_01">Área de Controle</string>
+	<string key="ui_area_greatcleave01_ForgeSouth" rel_version="Expedition_GreatCleave_01">Sul da Forja</string>
+	<string key="ui_area_greatcleave01_Berths" rel_version="Expedition_GreatCleave_01">Cabines</string>
+	<string key="ui_area_greatcleave01_Ifrit" rel_version="Expedition_GreatCleave_01">Presença Primordial Esquecida</string>
+	<string key="ui_area_greatcleave01_Commander" rel_version="Expedition_GreatCleave_01">Comandante Energizado de Ser Loth</string>
+	<string key="ui_area_greatcleave01_Mechanism" rel_version="Expedition_GreatCleave_01">Mecanismo Ancião</string>
+	<string key="ui_area_greatcleave01_Nora" rel_version="Expedition_GreatCleave_01">Nora</string>
+	<string key="ui_area_greatcleave01_AncientSeal" rel_version="Expedition_GreatCleave_01">Selo de Azoth</string>
+	<string key="ui_area_greatcleave01_FireSeal" rel_version="Expedition_GreatCleave_01">Selo Flamejante</string>
+	<string key="ui_area_greatcleave01_Desecrated" rel_version="Expedition_GreatCleave_01">Mecanismo Ancião Profanado</string>
+	<string key="ui_area_greatcleave01_Heel" rel_version="Expedition_GreatCleave_01">O Salto</string>
 </resources>
 

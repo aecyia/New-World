@@ -25,7 +25,7 @@
 	<string key="1305_1309_b_Prompt" speaker="UI - Player Prompt">"Was wurde gestohlen?"</string>
 	<string key="1305_1309_c_Proposal" speaker="Artificer Erasmus - Weaver's Fen" name="ArtificerErasmus" VO="Artificer_1305_1309_Possible_ProposalResponse" VO_Status="Recorded" dialogue-next="@1305_1309_c_Proposal_Next">Alles, was nicht niet- und nagelfest war. Essen, Vorräte, Werkzeuge. Die Leute sind verzweifelt und nehmen, was sie tragen können und machen sich dann aus dem Staub. \n\nDas Seltsame daran ist, dass einige zu Verlorenen wurden, aber sie stehlen nach wie vor Sachen von uns.</string>
 	<string key="1305_1309_c_Proposal_Prompt" speaker="UI - Player Prompt">"Die Verlorenen beklauen das Dorf?"</string>
-	<string key="1305_1309_c_Proposal_Next" speaker="Artificer Erasmus - Weaver's Fen" name="ArtificerErasmus" VO="Artificer_1305_1309_Possible_CompleteNext" VO_Status="Recorded" dialogue-prompt="@1305_1309_c_Proposal_Prompt">Ja. Einer ist besonders aktiv. Mattheson. Er handelte hier. Ein recht gieriger Mann, aber keineswegs unmoralisch.\n\nAls Verlorener kommt er regelmäßig zurück und klaut Dinge im Dorf. Wenn du ihn finden und erledigen könntest, würde uns das sehr helfen.</string>
+	<string key="1305_1309_c_Proposal_Next" speaker="Artificer Erasmus - Weaver's Fen" name="ArtificerErasmus" VO="Artificer_1305_1309_Possible_CompleteNext" VO_Status="Recorded" dialogue-prompt="@1305_1309_c_Proposal_Prompt">Ja. Vor allem einer. Mattheson. Er handelte hier. Ein recht gieriger Mann, aber keineswegs unmoralisch.\n\nAls Verlorener kommt er regelmäßig zurück und klaut Dinge im Dorf. Wenn du ihn finden und erledigen könntest, würde uns das sehr helfen.</string>
 	<string key="1305_1309_d_01_Task_GoTo" speaker="UI">Spüre Mattheson den Händler im Gebiet {POITags} auf.</string>
 	<string key="1305_1309_d_02_Task_Kill" speaker="UI">Töte Mattheson den Händler.</string>
 	<string key="1305_1309_d_03_Task_Track_First">Finde die Fährte des Verräters Mattheson.</string>
@@ -265,7 +265,7 @@
 	<string key="1334_0201_olfactoryoptimization_proposal_prompt" speaker="UI - Player Prompt">"Das ist wirklich schwer zu ignorieren."</string>
 	<string key="1334_0201_olfactoryoptimization_proposal_next" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_proposal_next" VO_Status="Recorded" dialogue-prompt="@1334_0201_olfactoryoptimization_proposal_prompt">Na und? Man verpasst zu viel vom Leben, wenn man nur nach den schönen Dingen strebt.\n\nIch bitte dich, ich muss diesen Duft einfangen. Bringe mir die Düfte des Moors. Braue sie zusammen und fülle sie ab, dann sollst du von mir eine große Belohnung erhalten.</string>
 	<string key="1334_0201_olfactoryoptimization_incomplete" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_incomplete" VO_Status="Recorded">Kann der einmalige Duft des Webermoors wirklich von Menschenhand nachgeahmt werden? Ich warte mit angehaltenem Atem auf deine Rückkehr.</string>
-	<string key="1334_0201_olfactoryoptimization_complete" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_complete" VO_Status="Recorded" dialogue-next="@1334_0201_olfactoryoptimization_complete_next" comment="coughing">Mhhh, ja. Dekadent, muffig mit einer Schwefelnote, die die vorherrschenden Aromen akzentuiert. Du hast den Duft des Webermoors perfekt eingefangen. \n\nDu bist ein wahres Genie! Ich bin ganz überwältigt!</string>
+	<string key="1334_0201_olfactoryoptimization_complete" comment="coughing" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_complete" VO_Status="Recorded" dialogue-next="@1334_0201_olfactoryoptimization_complete_next">Mhhh, ja. Dekadent, muffig mit einer Schwefelnote, die die vorherrschenden Aromen akzentuiert. Du hast den Duft des Webermoors perfekt eingefangen. \n\nDu bist ein wahres Genie! Ich bin ganz überwältigt!</string>
 	<string key="1334_0201_olfactoryoptimization_complete_prompt" speaker="UI - Player Prompt">"Das Aroma ist … erstaunlich!"</string>
 	<string key="1334_0201_olfactoryoptimization_complete_next" speaker="Tullius Volusus" name="TulliusVolusus" VO="1334_0201_olfactoryoptimization_complete_next" VO_Status="Recorded" dialogue-prompt="@1334_0201_olfactoryoptimization_complete_prompt">Ist das so schockierend? Hah! Wenn die Damen von Neukorsika doch nur wüssten, was sie sich auf die Handgelenke geschmiert haben.\n\nDie Kunst der Parfümherstellung ist wie das Leben: Das Ganze ist mehr als die Summe seiner Teile. Danke für deinen Beitrag.</string>
 	<string key="1334_0201_d_00_01a_GiveRecipe" speaker="UI">Nehmen: {itemName}</string>
@@ -314,79 +314,6 @@
 	<string key="1335_0204_reunion_proposal_next" speaker="Nora Roggeveen" name="NoraRoggeveen" VO="1335_0204_reunion_proposal_next" VO_Status="Recorded" dialogue-prompt="@1335_0204_reunion_proposal_prompt">Zum Glück hatte ich bereits ein gutes Versteck gefunden, als die Wächter ausschwärmten. Gott sei Dank, dass du dann gekommen bist! Langsam hatte ich richtig Hunger.\n\nAber gehen wir zurück. Ich freue mich wahnsinnig darauf, Leonie endlich wiederzusehen.</string>
 	<string key="1335_0204_reunion_incomplete" speaker="Nora Roggeveen" name="NoraRoggeveen" VO="1335_0204_reunion_incomplete" VO_Status="Recorded">Ich stoße dann auf der Straße zu dir und Leonie. Ich schleiche mich heraus, wenn du sie ablenkst.</string>
 	<string key="1335_0204_reunion_complete" speaker="Dr. Leonie Roggeveen" name="LeonieRoggeveen" VO="1335_0204_reunion_complete" VO_Status="Recorded">Da bist du ja! Nora hat mir alles erzählt. Ich bin SCHRECKLICH erleichtert.\n\nIch werde mit ihr besprechen, welche Vorkehrungen wir nächstes Mal treffen können. Aber das war ein feines Spiel und du warst eine große Hilfe. Danke!</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Title" speaker="UI - Quest Title">Wehrhaftes Wyrd</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Description" speaker="UI – Quest Description">Hole die Komponenten und Pläne für den Bau der Rüstung "Wehrhaftes Wyrd" zurück. Dann erstatte Überlebenskünstlerin Severino in der Siedlung in Webermoor Bericht.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Prompt" speaker="UI - Player Prompt">"Du hast ihr Ehre erwiesen."</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_ProposalResponse" VO_Status="Recorded" dialogue-next="@1303_1311_Protective_Wyrd_Gear_Proposal_Next">Aber es geht immer noch etwas mehr, und deshalb habe ich ein Geschenk für dich.\n\nHazel erwähnte einmal ein Rüstungsset, das seinen Träger gegen alle Arten von Schicksalsschlägen beschützen sollte.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Prompt" speaker="UI - Player Prompt">"Vor dem Schicksal geschützt?"</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Next" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_CompleteNext" VO_Status="Recorded" dialogue-next="@1303_1311_Protective_Wyrd_Gear_Proposal_Next2" dialogue-prompt="@1303_1311_Protective_Wyrd_Gear_Proposal_Prompt">So sagt man. Hazel behauptete, dass sie von einer großen Heilerin, einer Hexe wie sie selbst, getragen wurde.\n\nTrotz des leichten Materials ließ die Rüstung die Hexe nie im Stich und sie bereiste ganz Aeternum, ohne einen Kratzer davonzutragen.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Prompt2" speaker="UI - Player Prompt">"Klingt zu gut, um wahr zu sein."</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Proposal_Next2" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@1303_1311_Protective_Wyrd_Gear_Proposal_Prompt2">Solche Geschichten helfen uns durch die finsteren Zeiten. Hazel versicherte mir, dass die Geschichte wahr ist und übergab mir das Stück.\n\nDie Rüstung heißt "Wehrhaftes Wyrd". Sammle die Materialien und du kannst auch so eine Rüstung tragen.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Incomplete" speaker="Survivalist Severino – Weaver's Fen">Auf Aeternum geht nichts wirklich verloren. Das sage ich mir immer wieder.\n\nWenn die Zeit reif ist, dann wirst du schon finden, was du für den Bau der Rüstung "Wehrhaftes Wyrd" brauchst.</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Complete" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_AvailResponse" VO_Status="Recorded" dialogue-next="@1303_1311_Protective_Wyrd_Gear_Complete_Next">Du hast etwas an dir ... Oh! Du hast alles gefunden, was du brauchst.\n\nDas ist die eindrucksvollste Kleidung, die ich je gesehen habe. Ich spüre förmlich die schützende Macht des "Wehrhaften Wyrds".</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Complete_Prompt" speaker="UI - Player Prompt">"Das kannst du?"</string>
-	<string key="1303_1311_Protective_Wyrd_Gear_Complete_Next" speaker="Survivalist Severino – Weaver's Fen" name="SurvivalistSeverino" VO="Survivalist_1303_1311_Protective_Wyrd_Gear_CompleteNext3" VO_Status="Recorded" dialogue-prompt="@1303_1311_Protective_Wyrd_Gear_Complete_Prompt">Mir wird ganz warm ums Herz, zu erfahren, dass Hazels Geschichten nicht nur wahr, sondern auch nützlich sind.\n\nWenn ihre anderen Geschichten auch eine wahren Kern habe, dann besteht noch Hoffnung für uns.</string>
-	<string key="1303_1311_01_container_Protective_Wyrd_questComplete_1">Aufgabe abschließen: Ein Schritt in die richtige Richtung</string>
-	<string key="1303_1311_02_container_Protective_Wyrd_questComplete_2">Aufgabe abschließen: In Zauber gehüllt</string>
-	<string key="1303_1311_03_container_Protective_Wyrd_questComplete_3">Aufgabe abschließen: Vorhergesagte Gefahren</string>
-	<string key="1303_1311_04_container_Protective_Wyrd_questComplete_4">Aufgabe abschließen: Im Griff des Schicksals</string>
-	<string key="1303_1311_05_container_Protective_Wyrd_questComplete_5">Aufgabe abschließen: Dem Schicksal die Stirn bieten</string>
-	<string key="1303_1311_01_Shoes_Title">Ein Schritt in die richtige Richtung</string>
-	<string key="1303_1311_01_Shoes_Description">Sammle Geweihten Stoff im Dörfchen Fenton, Essenz des Untots aus der Mörderhöhle und Gereinigtes Pech auf der Seewurf-Insel. Besuche dann eine Rang-3-Kleidermacherei, um die Schuhe von "Wehrhaftes Wyrd" herzustellen.</string>
-	<string key="1303_1311_01_Shoes_task_01">Plan übergeben</string>
-	<string key="1303_1311_01_Shoes_task_02">Reise nach {POITags} in Webermoor, um Geweihten Stoff zu sammeln.</string>
-	<string key="1303_1311_01_Shoes_task_03">Sammle {itemName} von Wiedergängern, Ghulen und Pfählern.</string>
-	<string key="1303_1311_01_Shoes_task_04">Reise nach {POITags} an der Unsteten Küste, um Essenz des Untots zu sammeln.</string>
-	<string key="1303_1311_01_Shoes_task_05">Sammle Folgendes: {itemName} (Beute von folgenden Gegnern: {targetName})</string>
-	<string key="1303_1311_01_Shoes_task_06">Reise nach {POITags} an der Unsteten Küste, um Gereinigtes Pech zu sammeln.</string>
-	<string key="1303_1311_01_Shoes_task_07">Sammle Folgendes: {itemName} (Beute von folgenden Gegnern: {targetName})</string>
-	<string key="1303_1311_01_Shoes_task_08">Besuche eine Kleidermacherei</string>
-	<string key="1303_1311_01_Shoes_task_09">Stelle her: {itemName}</string>
-	<string key="1303_1311_02_Shirt_Title">In Zauber gehüllt</string>
-	<string key="1303_1311_02_Shirt_Description">Sammle Neptunit-Schnallen auf Neptuns Zorn, Geweihten Faden auf dem Einsamen Friedhof und Rüstungsfetzen der Ahnen bei den Gelida-Säulen. Besuche dann eine Rang-3-Kleidermacherei, um das Hemd von "Wehrhaftes Wyrd" herzustellen.</string>
-	<string key="1303_1311_02_Shirt_task_01">Plan übergeben</string>
-	<string key="1303_1311_02_Shirt_task_02">Reise nach {POITags} an der Unsteten Küste, um Neptunit-Schnallen zu sammeln.</string>
-	<string key="1303_1311_02_Shirt_task_03">Sammle Folgendes: {itemName} (Beute von folgenden Gegnern: {targetName})</string>
-	<string key="1303_1311_02_Shirt_task_04">Reise nach {POITags} an der Unsteten Küste, um Geweihten Faden zu sammeln</string>
-	<string key="1303_1311_02_Shirt_task_05">Sammle Folgendes: {itemName} (Beute von folgenden Gegnern: {targetName})</string>
-	<string key="1303_1311_02_Shirt_task_06">Reise nach {POITags} in der Tiefen Schlucht, um Rüstungsfetzen der Ahnen zu sammeln.</string>
-	<string key="1303_1311_02_Shirt_task_07">Sammle Folgendes: {itemName} (Beute von folgenden Gegnern: {targetName})</string>
-	<string key="1303_1311_02_Shirt_task_08">Besuche eine Kleidermacherei</string>
-	<string key="1303_1311_02_Shirt_task_09">Stelle her: {itemName}</string>
-	<string key="1303_1311_03_Pants_Title">Vorhergesagte Gefahren</string>
-	<string key="1303_1311_03_Pants_Description">Sammle Geflickten Schutz auf dem Friedhof Unheimliche Düne, Zeremonielle verarbeitete Wolle in Eridanus und Behandeltes Futter in Lunaryth. Besuche dann eine Rang-3-Kleidermacherei, um die Hose des "Wehrhaften Wyrds" herzustellen.</string>
-	<string key="1303_1311_03_Pants_task_01">Plan übergeben</string>
-	<string key="1303_1311_03_Pants_task_02">Reise nach {POITags} in der Tiefen Schlucht, um Geflickten Schutz zu sammeln.</string>
-	<string key="1303_1311_03_Pants_task_03">Sammle Folgendes: {itemName} (Beute von folgenden Gegnern: {targetName})</string>
-	<string key="1303_1311_03_Pants_task_04">Reise nach {POITags} an der Unsteten Küste, um Zeremonielle verarbeitete Wolle zu sammeln.</string>
-	<string key="1303_1311_03_Pants_task_05">Sammle Folgendes: {itemName} (Beute von folgenden Gegnern: {targetName})</string>
-	<string key="1303_1311_03_Pants_task_06">Reise nach {POITags} in Klagental, um Behandeltes Futter zu sammeln.</string>
-	<string key="1303_1311_03_Pants_task_07">Sammle Folgendes: {itemName} (Beute von folgenden Gegnern: {targetName})</string>
-	<string key="1303_1311_03_Pants_task_08">Besuche eine Kleidermacherei</string>
-	<string key="1303_1311_03_Pants_task_09">Stelle her: {itemName}</string>
-	<string key="1303_1311_04_Gloves_Title">Im Griff des Schicksals</string>
-	<string key="1303_1311_04_Gloves_Description">Sammle Verstärktes Klippenausblickgewebe in Klippenausblick, Wyrdholz-Anhänger in Blasenwurz und Gesäuberte Shambhala-Fasern in Shambhala. Besuche dann eine Rang-3-Kleidermacherei, um die Handschuhe des "Wehrhaften Wyrds" herzustellen.</string>
-	<string key="1303_1311_04_Gloves_task_01">Plan übergeben</string>
-	<string key="1303_1311_04_Gloves_task_02">Reise nach {POITags} in Klagental, um Verstärktes Klippenausblickgewebe zu sammeln.</string>
-	<string key="1303_1311_04_Gloves_task_03">Sammle Folgendes: {itemName} (Beute von folgenden Gegnern: {targetName})</string>
-	<string key="1303_1311_04_Gloves_task_04">Reise nach {POITags} in Klagental, um Wyrdholz-Anhänger zu sammeln.</string>
-	<string key="1303_1311_04_Gloves_task_05">Sammle Folgendes: {itemName} (Beute von folgenden Gegnern: {targetName})</string>
-	<string key="1303_1311_04_Gloves_task_06">Reise nach {POITags} in Edenhain, um Gesäuberte Shambhala-Fasern zu sammeln.</string>
-	<string key="1303_1311_04_Gloves_task_07">Sammle Folgendes: {itemName} (Beute von folgenden Gegnern: {targetName})</string>
-	<string key="1303_1311_04_Gloves_task_08">Besuche eine Kleidermacherei</string>
-	<string key="1303_1311_04_Gloves_task_09">Stelle her: {itemName}</string>
-	<string key="1303_1311_05_Hat_Title">Dem Schicksal die Stirn bieten</string>
-	<string key="1303_1311_05_Hat_Description">Sammle Omen des Morgenlichts in Pfau, Grünes Harz auf der Dornenbuschklippe und Geistertuch im Oberabraumlager. Besuche dann eine Rang-3-Kleidermacherei, um den Hut des "Wehrhaften Wyrds" herzustellen.</string>
-	<string key="1303_1311_05_Hat_task_01">Plan übergeben</string>
-	<string key="1303_1311_05_Hat_task_02">Reise nach {POITags} in Edenhain, um Omen des Morgenlichts zu sammeln.</string>
-	<string key="1303_1311_05_Hat_task_03">Sammle Folgendes: {itemName} (Beute von folgenden Gegnern: {targetName})</string>
-	<string key="1303_1311_05_Hat_task_04">Reise nach {POITags} in Edenhain, um Grünes Harz zu sammeln.</string>
-	<string key="1303_1311_05_Hat_task_05">Sammle Folgendes: {itemName} (Beute von folgenden Gegnern: {targetName})</string>
-	<string key="1303_1311_05_Hat_task_06">Reise nach {POITags} in Edenhain, um Geistertuch zu sammeln.</string>
-	<string key="1303_1311_05_Hat_task_07">Sammle Folgendes: {itemName} (Beute von folgenden Gegnern: {targetName})</string>
-	<string key="1303_1311_05_Hat_task_08">Besuche eine Kleidermacherei</string>
-	<string key="1303_1311_05_Hat_task_09">Stelle her: {itemName}</string>
-	<string key="1302_1312_d_01_Task_Goto" speaker="UI">Reise nach: {POITags}</string>
 	<string key="1302_1312_d_02_Task_KillSpriggan" speaker="UI">Besiege: {targetName}</string>
 	<string key="1302_1312_d_03_Task_GetSpores" speaker="UI">Sammle: {itemName}</string>
 	<string key="1302_1312_a_Title" speaker="UI">Sporen für die Heilung</string>
@@ -397,64 +324,5 @@
 	<string key="1302_1312_c_Proposal_next" speaker="Magistrate Allen - Weaver's Fen" name="MagistrateAllen" VO="Magistrate_1302_1312_Spores_CompleteNext" VO_Status="Recorded" dialogue-prompt="@1302_1312_c_Proposal_prompt">Nur, weil du dich als so fähig erwiesen hast. In Eridanus lebt Teceros, ein sehr mächtiger Spriggan, ein lebendig gewordenes Ungetüm der Erde. \n\nRichtig mit den Kräutern der Ahnen vermischt, könnten die Sporen von Teceros die Kranken aus dem Webermoor endgültig heilen.</string>
 	<string key="1302_1312_e_Incomplete" speaker="Magistrate Allen - Weaver's Fen">Alchemistin Rubis versicherte mir, dass die Teceros-Sporen das endgültige Heilmittel sind. \n\nDu hast uns schon enorm geholfen und damit würdest du unser Dorf endgültig retten.</string>
 	<string key="1302_1312_f_Complete" speaker="Magistrate Allen - Weaver's Fen" name="MagistrateAllen" VO="Magistrate_1302_1312_Spores_AvailResponse" VO_Status="Recorded">Die Sporen des Behemoths? Äußerst ... beunruhigend, aber ich gebe sie Alchemistin Rubis.\n\nVielen Dank, {playerName}. Endlich haben wir ein Heilmittel und du bekommst deine Belohnung.</string>
-	<string key="1310_1314_L40Bow_Huntress_Title" speaker="UI - Quest Title">Suche nach der Jägerin</string>
-	<string key="1310_1314_L40Bow_Huntress_Description" speaker="UI – Quest Description">Beschaffe Holz der Ahnen in Rafflesia, Wyrdholz-Harz vom Laubaufstieg, Falkenfedern in Propus und eine Glückshasenpfote aus der Heulechohöhle, um den Bogen "Die Jägerin" anzufertigen. Dann erstatte Tavernenbetreiber Flores in der Siedlung in Webermoor Bericht.</string>
-	<string key="1310_1314_L40Bow_Huntress_Prompt" speaker="UI - Player Prompt">"Daran bin ich interessiert."</string>
-	<string key="1310_1314_L40Bow_Huntress_Proposal" speaker="Barkeep Flores - Weaver's Fen" name="BarkeepFlores" VO="Barkeep_1310_1314_L40Bow_Huntress_ProposalResponse" VO_Status="Recorded">Nicht wahr? Du wirst die ganze Sucherei allein durchführen müssen.\n\nSolltest du alle Materialien auf der Liste finden, dann wird dein neuer Bogen, die Jägerin, jeden in der Stadt neidisch machen. Viel Glück!</string>
-	<string key="1310_1314_L40Bow_Huntress_Incomplete" speaker="Barkeep Flores - Weaver's Fen">Suchst du noch immer nach der Jägerin?\n\nIch schätze, dass wird noch etwas dauern.</string>
-	<string key="1310_1314_L40Bow_Huntress_Complete" speaker="Barkeep Flores - Weaver's Fen" name="BarkeepFlores" VO="Barkeep_1310_1314_L40Bow_Huntress_AvailResponse" VO_Status="Recorded">Schau dich an: Frisch aus der Wildnis zurück und schon gehörst du zu den legendären Fährtenlesern. Jedenfalls für mich. Alle Materialien zu finden, war sicher keine leichte Aufgabe. \n\nAber die Jägerin. Mann, sie wird gut auf dich aufpassen. Darauf, dass dir da draußen nie die Pfeile ausgehen.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Title" speaker="UI - Quest Title">Falmeas Zorn</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Description" speaker="UI – Quest Description">Beschaffe Versengte Zweige aus Amphus, Wyrdholz-Asche aus Fornax, Entweihtes Wasser von der Neptuns Zorn und das Flammenherz aus Neufreudenfeuer, um den Feuerstab "Falmeas Zorn" anzufertigen. Dann erstatte Werkmeister Erasmus in der Siedlung in Webermoor Bericht.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Prompt" speaker="UI - Player Prompt">"Das würde ich bestimmt."</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Proposal" speaker="Artificer Erasmus - Weaver's Fen" name="ArtificerErasmus" VO="Artificer_1305_1315_L40FStaff_FalmeasWrath_ProposalResponse" VO_Status="Recorded">Ausgezeichnet! Ich tüftle schon länger an einem Bauplan. Ich nenne mein Werk "Falmeas Zorn".\n\nWenn du alle nötigen Bestandteile dafür beschaffst, dann macht dich der Stab zu einer Koryphäe der Feuermagie. Viel Glück.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Incomplete" speaker="Artificer Erasmus - Weaver's Fen">Suchst du noch immer nach den Bestandteilen für "Falmeas Zorn"?\n\nMach weiter. Es ist eine lohnenswerte Investition.</string>
-	<string key="1305_1315_L40FStaff_FalmeasWrath_Complete" speaker="Artificer Erasmus - Weaver's Fen" name="ArtificerErasmus" VO="Artificer_1305_1315_L40FStaff_FalmeasWrath_AvailResponse" VO_Status="Recorded">Ah, sieh an! Dein Fleiß hat sich ausgezahlt. Für die Teile musstest du sicher ganz Aeternum durchforsten.\n\nAber jetzt kannst du die Früchte deiner Arbeit genießen. Falmeas Zorn! Es wurde noch nie ein besserer Stab gefertigt! Führe ihn mit Stolz, {playerName}.</string>
-	<string key="1310_1314_AncientWood_Quest_objective_title" speaker="UI">Sammle Gegenstände zur Herstellung der Jägerin.</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_objective_title" speaker="UI">Sammle Gegenstände zur Herstellung der Jägerin.</string>
-	<string key="1310_1314_HawkFeathers_Quest_objective_title" speaker="UI">Sammle Gegenstände zur Herstellung der Jägerin.</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_objective_title" speaker="UI">Sammle Gegenstände und stelle dann die Jägerin her.</string>
-	<string key="1310_1314_AncientWood_Quest_description" speaker="UI">Sie versteckt sich zwischen den Bäumen. Unter den Redwoods ist sie zu Hause.</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_description" speaker="UI">Der Duft des Baumharzes erfüllt die Luft. Wenn du ganz allein bist und dir der Duft in die Nase steigt, solltest du aufpassen.</string>
-	<string key="1310_1314_HawkFeathers_Quest_description" speaker="UI">Mit ihren Adleraugen sieht sie kilometerweit. Ihr Blick ist glasklar.</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_description" speaker="UI">Sie nähert sich ihrer Beute und zieht sich langsam wieder zurück. Ihre Freiheit ist wie die eines Pfeils.</string>
-	<string key="1305_1315_SingedBranches_Quest_objective_title" speaker="UI">Sammle Gegenstände zur Herstellung von Falmeas Zorn.</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_objective_title" speaker="UI">Sammle Gegenstände zur Herstellung von Falmeas Zorn.</string>
-	<string key="1305_1315_UnhallowedWater_Quest_objective_title" speaker="UI">Sammle Gegenstände zur Herstellung von Falmeas Zorn.</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_objective_title" speaker="UI">Sammle Gegenstände und stelle dann Falmeas Zorn her.</string>
-	<string key="1305_1315_SingedBranches_Quest_description" speaker="UI">Falmeas Feuer schleuderte das Wyrdholz in die Luft und schwängerte den Himmel mit großer Trauer.</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_description" speaker="UI">Falmea ließ die Asche des Wyrdholzes herabregnen. Reines, unverfälschtes Weiß auf dem Boden.</string>
-	<string key="1305_1315_UnhallowedWater_Quest_description" speaker="UI">Falmea offenbarte ihr unheiliges Wasser und träufelte es auf die Asche.</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_description" speaker="UI">Falmea sprach das Unaussprechliche aus und entriss dem Feuerwirbelsturm einen Stab.</string>
-	<string key="1310_1314_Combine_Quest_task_03">Plan übergeben</string>
-	<string key="1310_1314_Combine_Quest_task_04">Besuche eine Ingenieurswerkbank</string>
-	<string key="1310_1314_Combine_Quest_task_05">Stelle her: {itemName}</string>
-	<string key="1305_1315_Combine_Quest_task_03">Plan übergeben</string>
-	<string key="1305_1315_Combine_Quest_task_04">Besuche ein Arkanumarchiv</string>
-	<string key="1305_1315_Combine_Quest_task_05">Stelle her: {itemName}</string>
-	<string key="1310_1314_AncientWood_Quest_task_01">Reise nach {POITags} in Edenhain, um Holz der Ahnen zu sammeln.</string>
-	<string key="1310_1314_AncientWood_Quest_task_02">Sammle: {itemName} (Beute von folgenden Feinden: {targetName})</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_task_01">Reise nach {POITags} an der Unsteten Küste, um Wyrdholz-Harz zu sammeln.</string>
-	<string key="1310_1314_WyrdwoodResin_Quest_task_02">Sammle: {itemName} (Beute von folgenden Feinden: {targetName})</string>
-	<string key="1310_1314_HawkFeathers_Quest_task_01">Reise nach {POITags} in Klagental, um Falkenfedern zu sammeln.</string>
-	<string key="1310_1314_HawkFeathers_Quest_task_02">Sammle: {itemName} (Beute von folgenden Feinden: {targetName})</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_task_01">Reise nach {POITags} in Klagental, um eine Glückshasenpfote zu sammeln.</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_task_02">Sammle: {itemName} (Beute von: {targetName})</string>
-	<string key="1310_1314_LuckyRabbitsFoot_Quest_task_04">Stelle her: {itemName}</string>
-	<string key="1305_1315_SingedBranches_Quest_task_01">Reise nach {POITags} in Edenhain, um Versengte Zweige zu sammeln.</string>
-	<string key="1305_1315_SingedBranches_Quest_task_02">Sammle: {itemName} (Beute von folgenden Feinden: {targetName})</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_task_01">Reise nach {POITags} an der Unsteten Küste, um Wyrdholz-Asche zu sammeln.</string>
-	<string key="1305_1315_WyrdwoodAshes_Quest_task_02">Sammle: {itemName} (Beute von folgenden Feinden: {targetName})</string>
-	<string key="1305_1315_UnhallowedWater_Quest_task_01">Reise nach {POITags} an der Unsteten Küste, um Entweihtes Wasser zu sammeln.</string>
-	<string key="1305_1315_UnhallowedWater_Quest_task_02">Sammle: {itemName} (Beute von folgenden Feinden: {targetName})</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_task_01">Reise nach {POITags} in Klagental, um das Flammenherz einzusammeln.</string>
-	<string key="1305_1315_HeartofAllFlame_Quest_task_02">Sammle: {itemName} (Beute von: {targetName})</string>
-	<string key="1310_1314_01_container_Weapon_Huntress_questComplete_1">Aufgabe abschließen: Wie Holz im Wald</string>
-	<string key="1310_1314_02_container_Weapon_Huntress_questComplete_2">Aufgabe abschließen: Gutes Harz, sichere Haltung</string>
-	<string key="1310_1314_03_container_Weapon_Huntress_questComplete_3">Aufgabe abschließen: Falkenfedern</string>
-	<string key="1310_1314_04_container_Weapon_Huntress_questComplete_4">Aufgabe abschließen: Die Jagd nach einem faulen Hasen</string>
-	<string key="1305_1315_01_container_Weapon_Hope_FalmeasWrath_questComplete_1">Aufgabe abschließen: Brennende Folgen</string>
-	<string key="1305_1315_02_container_Weapon_Hope_FalmeasWrath_questComplete_2">Aufgabe abschließen: Böse glimmende Asche</string>
-	<string key="1305_1315_03_container_Weapon_Hope_FalmeasWrath_questComplete_3">Aufgabe abschließen: Verunreinigung des Wassers</string>
-	<string key="1305_1315_04_container_Weapon_Hope_FalmeasWrath_questComplete_4">Aufgabe abschließen: Opferkelch</string>
 </resources>
 
